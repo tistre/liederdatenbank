@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11740">
+  <title>Die beste Zeit im Jahr ist mein</title>
+  <subtitle/>
+  <text>(Frau Musika spricht:)
+
+# Die beste Zeit im Jahr ist mein,
+da singen alle Vögelein,
+Himmel und Erden ist der voll,
+viel gut Gesang, der lautet wohl.
+
+# Voran die liebe Nachtigall
+macht alles fröhlich überall
+mit ihrem lieblichen Gesang,
+des muss sie haben immer Dank.
+
+# Vielmehr der liebe Herre Gott,
+der sie also geschaffen hat,
+zu sein die rechte Sängerin,
+der Musika ein Meisterin.
+
+# Dem singt und springt sie Tag und Nacht,
+seins Lobes sie nichts müde macht:
+Den ehrt und lobt auch mein Gesang
+und sagt ihm einen ewgen Dank.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1538</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1544</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>319</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

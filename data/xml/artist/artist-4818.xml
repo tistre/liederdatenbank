@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4818">
+  <firstname>Hans Leo</firstname>
+  <lastname>Hassler</lastname>
+  <name/>
+  <born>1564</born>
+  <died>1612</died>
+  <comment>Geboren in Nürnberg, Studium in Venedig, Organist in Augsburg, Prag, Nürnberg, Ulm und Dresden, gestorben in Frankfurt/Main.</comment>
+</artist>

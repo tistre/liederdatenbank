@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2929">
+  <title>Schönheit statt Traurigkeit</title>
+  <subtitle>Barmherziger Gott</subtitle>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-28" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+  </songbookref>
+</song>

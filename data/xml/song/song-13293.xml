@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13293">
+  <title>Guter Hirte! welch Erbarmen</title>
+  <subtitle/>
+  <text># Guter Hirte! welch Erbarmen,
+Welche Liebe wohnt in Dir!
+Gabst Dein Leben für die armen
+Schäflein, die verirret hier.
+Aus der Wüste Nacht und Grauen,
+Von des Elends breiter Bahn,
+Trägst Du uns zu sel'gem Schauen
+Auf den Achseln himmelan.
+
+# Daß uns Heil und Rettung werde,
+Wurdest Du die Gnadentür.
+Rufst mit Namen Deine Herde,
+Gehst voran, sie folget Dir.
+Nie, weil Du Dich hingegeben,
+Werden sie verloren gehn,
+Weil Du selbst bist unser Leben,
+Werden ewig wir bestehn.
+
+# Keine Macht auf dieser Erde
+Raubt uns Deine Liebe jetzt.
+Sichtet Satan auch die Herde,
+Nichts ist da, was uns verletzt.
+Keine Macht kann Deinen Händen,
+Keine Macht des Vaters Hand
+Uns entreißen, uns entwenden,
+Ew'ge Gnade knüpft das Band.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1611". - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/13270" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#114" xlink:type="simple"/>
+</song>

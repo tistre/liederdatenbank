@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24171">
+  <title>Marmor, Stein und Eisen bricht</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Nero Musikverlag G. Hämmerling OHG, Berlin;</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-24169" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24170" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24172" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>175</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

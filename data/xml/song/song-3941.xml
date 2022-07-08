@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3941">
+  <title>Näher, tiefer</title>
+  <author xlink:href="#artist-3952" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3960" xlink:type="simple">
+    <part>Music</part>
+    <year>1999</year>
+  </author>
+  <author xlink:href="#artist-3961" xlink:type="simple">
+    <part>Music</part>
+    <year>1999</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+  </songbookref>
+</song>

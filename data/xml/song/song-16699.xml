@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-16699">
+  <title>Herr, ich singe dir ein Lied mit vielen falschen Tönen (La la la...)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Rechte bei den Verfasserinnen</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-16697" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-16698" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>165</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9422">
+  <title>Ich höre viele Menschenstimmen</title>
+  <subtitle>die lauter als ein Donner klingen</subtitle>
+  <right>Bibbitsong Music/Up In The Mix Music</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-9424" xlink:type="simple"/>
+  <author xlink:href="#artist-9423" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11858" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9425" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

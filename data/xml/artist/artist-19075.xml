@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-19075">
+  <lastname>Rink</lastname>
+  <firstname>Carola</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.rink-music.de/" xlink:type="simple">
+    <title>rink-music.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/r/cerink.htm" xlink:type="simple">
+    <title>Carola &amp; Eberhard Rink @ ccmrezis.de</title>
+  </url>
+</artist>

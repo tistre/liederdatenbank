@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9769">
+  <title>Komm zum Kreuz</title>
+  <subtitle>Jesus, Gott kommt als Mensch</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear>2005</copyrightyear>
+  <ccli_number/>
+  <publisher xlink:href="#publisher-12211" xlink:type="simple"/>
+  <author xlink:href="#artist-3951" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>126</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9046" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-15667" xlink:type="simple">
+    <cdnum/>
+    <numoncd>12</numoncd>
+  </cdref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=269216730&amp;id=269213880&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

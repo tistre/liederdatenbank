@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-435">
+  <firstname>Auguste-Maurice Jean</firstname>
+  <lastname>Cocagnac</lastname>
+  <name/>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Maurice_Cocagnac" xlink:type="simple">
+    <title>Maurice Cocagnac - Wikipedia</title>
+  </url>
+</artist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12371">
+  <title>Den Herren will ich loben</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/2259" (EG 523).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-9031" xlink:type="simple">
+    <part>Text</part>
+    <year>1954 / 1971</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>604</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-luk-1" xlink:type="simple">
+    <verse>46-55</verse>
+  </bibleref>
+</song>

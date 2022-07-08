@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24561">
+  <title>Higher</title>
+  <subtitle>Who gives orders to the morning, tells the sun where to rise</subtitle>
+  <copyrightyear>2015</copyrightyear>
+  <right>ICF Music / Integrity's Praise! Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24517" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-gen-1" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-34" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>1-11</verse>
+  </bibleref>
+</song>

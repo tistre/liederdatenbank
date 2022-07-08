@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4594">
+  <title>Heut wurde Tag wie am ersten Morgen</title>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Melodie: Gälisches Volkslied. Andere Textfassung: "http://www.liederdatenbank.de/song/11812", http://www.liederdatenbank.de/song/24062.</comment>
+  <copyrightyear>1986</copyrightyear>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11051" xlink:type="simple"/>
+  <originalsong xlink:href="#song-14247" xlink:type="simple"/>
+  <author xlink:href="#artist-4718" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1933</year>
+  </author>
+  <author xlink:href="#artist-685" xlink:type="simple">
+    <part>Text</part>
+    <year>1986</year>
+  </author>
+  <author xlink:href="#artist-24939" xlink:type="simple">
+    <part>Music</part>
+    <year>vor 1900</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>464</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>148</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

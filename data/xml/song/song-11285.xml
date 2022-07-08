@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11285">
+  <title>Die ganze Welt, Herr Jesu Christ</title>
+  <subtitle/>
+  <text># Die ganze Welt, Herr Jesu Christ,
+Halleluja, Halleluja,
+in deiner Urständ fröhlich ist.
+Halleluja, Halleluja.
+
+# Das himmlisch Heer im Himmel singt,
+Halleluja, Halleluja,
+die Christenheit auf Erden klingt.
+Halleluja, Halleluja.
+
+# Jetzt grünet, was nur grünen kann,
+Halleluja, Halleluja,
+die Bäum zu blühen fangen an.
+Halleluja, Halleluja.
+
+# Es singen jetzt die Vögel all,
+Halleluja, Halleluja,
+jetzt singt und klingt die Nachtigall.
+Halleluja, Halleluja.
+
+# Der Sonnenschein jetzt kommt herein,
+Halleluja, Halleluja,
+und gibt der Welt ein’ neuen Schein.
+Halleluja, Halleluja.
+
+# Die ganze Welt, Herr Jesu Christ,
+Halleluja, Halleluja,
+in deiner Urständ fröhlich ist.
+Halleluja, Halleluja.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>andere Melodie: http://www.liederdatenbank.de/song/11276 (EG 105).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4813" xlink:type="simple">
+    <part>Text</part>
+    <year>1623</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1623</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

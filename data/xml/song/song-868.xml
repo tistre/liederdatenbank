@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-868">
+  <title>Gott zeigt mir den Weg</title>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5286302</ccli_number>
+  <comment/>
+  <copyrightyear/>
+  <right>1990, 2006 Integrity's Hosanna! Music </right>
+  <ccli_features>LANH</ccli_features>
+  <originalsong xlink:href="#song-215" xlink:type="simple"/>
+  <author xlink:href="#artist-81" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+    <year>1995/2002</year>
+  </author>
+  <author xlink:href="#artist-9885" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>414</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14340" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17413" xlink:type="simple">
+    <cdnum/>
+    <numoncd>14</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>10</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-20999" xlink:type="simple">
+    <cdnum/>
+    <numoncd>10</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965504&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

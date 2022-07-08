@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-21557">
+  <name>Dacapo</name>
+  <comment>DACAPO. Liederbuch der Katholischen studierenden Jugend (KSJ) Amberg. ISBN 3-00-000944-2.
+326 Lieder mit Akkordbezeichnungen zur Gitarrenbegleitung.</comment>
+  <state>0</state>
+  <icon xlink:href="#file-21556" xlink:type="simple"/>
+  <url xlink:href="http://www.dacapo-liederbuch.de/" xlink:type="simple">
+    <title>Dacapo Homepage</title>
+  </url>
+</songbook>

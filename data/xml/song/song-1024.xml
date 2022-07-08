@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1024">
+  <title>Segne uns, o Herr! Lass leuchten dein Angesicht</title>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Satz: Klaus Schweitzer.</comment>
+  <ccli_number/>
+  <copyrightyear>1978</copyrightyear>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-27615" xlink:type="simple"/>
+  <author xlink:href="#artist-452" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1978</year>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>190</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>214</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>573</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>736</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>317</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9476" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>205</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>379</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>229</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>564</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-num-6" xlink:type="simple">
+    <verse>24-26</verse>
+  </bibleref>
+</song>

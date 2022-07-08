@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27425">
+  <title>Wir singen froh, weil Jesus lebt</title>
+  <subtitle/>
+  <copyrightyear>1977</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Herren lever".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-18600" xlink:type="simple"/>
+  <author xlink:href="#artist-27414" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-3619" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1485</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

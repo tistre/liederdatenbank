@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-19708">
+  <name>Neue Gemeindelieder</name>
+  <comment>Liedauswahl und Bearbeitung: Günter Balders, Wolfgang Bauer und Hartmut Stiegler
+Oncken Verlag, Wuppertal und Kassel 1993, ISBN 3-7893-7843-7
+161 Lieder mit Noten u. Akkordbezeichnungen, teils mehrstimmig gesetzt.</comment>
+  <state>1</state>
+  <icon xlink:href="#file-19707" xlink:type="simple"/>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=neue+gemeindelieder" xlink:type="simple">
+    <title>Neue Gemeindelieder @ booklooker.de</title>
+  </url>
+</songbook>

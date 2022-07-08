@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4874">
+  <title>Aus der Wüste</title>
+  <subtitle>Wenn Du rufst</subtitle>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+  </songbookref>
+</song>

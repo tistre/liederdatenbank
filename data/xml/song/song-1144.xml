@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1144">
+  <title>Seligstes Wissen: Jesus ist mein</title>
+  <subtitle>Lasst mich's erzählen, Jesus zur Ehr</subtitle>
+  <text># Seligstes Wissen: Jesus ist mein! 
+Köstlichen Frieden bringt es mir ein. 
+Leben von oben, ewiges Heil, 
+völlige Sühnung ward mir zuteil.
+
+* 1.-3. Lasst mich's erzählen, Jesus zur Ehr; 
+wo ist ein Heiland, größer als er? 
+Wer kann so segnen, wer so erfreun? 
+Keiner als Jesus! Preis ihm allein!
+
+# Ihm will ich leben, o welche Freud! 
+Herrliche Gaben Jesus mir beut: 
+Göttliche Leitung, Schutz in Gefahr, 
+Sieg über Sünde reicht er mir dar. 
+
+# Völlig sein eigen! Nichts such ich mehr; 
+Jesus, er stillet all mein Begehr. 
+Treu will ich dienen ihm immerdar, 
+bis ich gelang zur oberen Schar.</text>
+  <language>de</language>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4351379</ccli_number>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479. In "http://www.liederdatenbank.de/songbook/10115" und "http://www.liederdatenbank.de/songbook/25736" ist der Titel mit "Seliges Wissen" angegeben.</comment>
+  <copyrightyear/>
+  <right/>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1145" xlink:type="simple"/>
+  <author xlink:href="#artist-4259" xlink:type="simple">
+    <part>Text</part>
+    <year>1873</year>
+  </author>
+  <author xlink:href="#artist-12010" xlink:type="simple">
+    <part>Text</part>
+    <year>1901</year>
+  </author>
+  <author xlink:href="#artist-4433" xlink:type="simple">
+    <part>Music</part>
+    <year>1873 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>266</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>322</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>366</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>349</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>111</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>247</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>247</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

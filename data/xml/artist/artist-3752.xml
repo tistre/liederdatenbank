@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3752">
+  <firstname>Ignaz</firstname>
+  <lastname>Franz</lastname>
+  <name/>
+  <born>1719</born>
+  <died>1790</died>
+  <comment>Geboren in Protzan/Schlesien, kath. Priester, Rektor des Priesteralumnats in Breslau, Herausgeber eines Gesangbuchs im Geist der Aufklärung.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ignaz_Franz" xlink:type="simple">
+    <title>Ignaz Franz @ Wikipedia.org</title>
+  </url>
+</artist>

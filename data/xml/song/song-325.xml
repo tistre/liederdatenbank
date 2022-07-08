@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-325">
+  <title>Mein schönste Zier und Kleinod</title>
+  <text># Mein schönste Zier und Kleinod bist
+auf Erden Du, Herr Jesu Christ;
+Dich will ich lassen walten
+und allezeit in Lieb und Leid
+in meinem Herzen halten.
+
+# Dein Lieb und Treu vor allem geht,
+kein Ding auf Erd so fest besteht;
+solchs muss man frei bekennen.
+Drum soll nicht Tod, nicht Angst, nicht Not
+von Deiner Lieb mich trennen.
+
+# Dein Wort ist wahr und trüget nicht
+und hält gewiß, was es verspricht,
+im Tod und auch im Leben.
+Du bist nun mein und ich bin Dein,
+Dir hab ich mich ergeben.
+
+# Der Tag nimmt ab. Ach schönste Zier,
+Herr Jesu Christ, bleib Du bei mir,
+es will nun Abend werden.
+Lass doch Dein Licht auslöschen nicht
+bei uns allhier auf Erden.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4898526</ccli_number>
+  <author xlink:href="#artist-5018" xlink:type="simple">
+    <part>Text</part>
+    <year>1598</year>
+  </author>
+  <author xlink:href="#artist-4824" xlink:type="simple">
+    <part>Music</part>
+    <year>1594</year>
+  </author>
+  <songbookref xlink:href="#songbook-9136" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>473</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>479</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>663</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>477</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>559</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>351</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>340</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>393</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>298</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>431</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>206</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>222a</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21960" xlink:type="simple">
+    <cdnum/>
+    <numoncd>3</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/de/album/mein-schonste-zier-und-kleinod/id326096062?i=326096077" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

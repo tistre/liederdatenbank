@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-147">
+  <title>Der Himmel erfüllt mein Herz</title>
+  <language>de</language>
+  <subtitle/>
+  <right>D: Hänssler-Verlag, Stuttgart-Neuhausen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_number>5172083</ccli_number>
+  <copyrightyear>1991</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-14628" xlink:type="simple"/>
+  <originalsong xlink:href="#song-718" xlink:type="simple"/>
+  <author xlink:href="#artist-28" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23703" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17399" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>2</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

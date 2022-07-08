@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13633">
+  <title>Ich hab ein Wort vernommen</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/1618" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>330</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

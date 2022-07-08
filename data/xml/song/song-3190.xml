@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3190">
+  <title>Abba Father</title>
+  <language>en</language>
+  <right>Für D, A, CH, FL und I: Projektion J Musikverlag, Asslar</right>
+  <subtitle>Abba Father, our loving Father</subtitle>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_features>LANH</ccli_features>
+  <copyrightyear>1994</copyrightyear>
+  <ccli_number>1688176</ccli_number>
+  <publisher xlink:href="#publisher-10921" xlink:type="simple"/>
+  <author xlink:href="#artist-4069" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>14-16</verse>
+  </bibleref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1688176" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

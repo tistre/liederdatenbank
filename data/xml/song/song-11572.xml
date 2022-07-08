@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11572">
+  <title>Das ist köstlich</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text nach dem ungarischen "Mely igen jó az Ur lstent dicsérni" von Mihári Sztárai (vor 1575) 1593. Melodie: 16. Jh., Leutschau (?) 1651.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11571" xlink:type="simple">
+    <part>Text</part>
+    <year>(1971) 1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>284</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-92" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2005">
+  <title>O König aller Ehren</title>
+  <subtitle/>
+  <text># O König aller Ehren,
+Herr Jesu, Davids Sohn,
+dein Reich soll ewig währen,
+im Himmel ist dein Thron;
+hilf, dass allhier auf Erden
+den Menschen weit und breit
+dein Reich bekannt mög werden
+zur Seelen Seligkeit.
+
+# Von deinem Reich auch zeugen
+die Leut aus Morgenland;
+die Knie sie vor dir beugen,
+weil du ihn’ bist bekannt.
+Der neu Stern auf dich weiset,
+dazu das göttlich Wort.
+Drum man zu Recht dich preiset,
+dass du bist unser Hort.
+
+# Du bist ein großer König,
+wie uns die Schrift vermeld’t,
+doch achtest du gar wenig
+vergänglich Gut und Geld,
+prangst nicht auf stolzem Rosse,
+trägst keine güldne Kron,
+sitzt nicht im steinern Schlosse;
+hier hast du Spott und Hohn.
+
+# Doch bist du schön gezieret,
+dein Glanz erstreckt sich weit,
+dein Güt allzeit regieret
+und dein Gerechtigkeit.
+Du wollst die Frommen schützen
+durch dein Macht und Gewalt,
+dass sie im Frieden sitzen,
+die Bösen stürzen bald.
+
+# Du wollst dich mein erbarmen,
+in dein Reich nimm mich auf,
+dein Güte schenk mir Armen
+und segne meinen Lauf.
+Mein’ Feinden wollst du wehren,
+dem Teufel, Sünd und Tod,
+dass sie mich nicht versehren;
+rett mich aus aller Not.
+
+# Du wollst in mir entzünden
+dein Wort, den schönen Stern,
+dass falsche Lehr und Sünden
+sein meinem Herzen fern.
+Hilf, dass ich dich erkenne
+und mit der Christenheit
+dich meinen König nenne
+jetzt und in Ewigkeit.
+</text>
+  <right>Melodie: Ich freu mich in dem Herrn</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-10525" xlink:type="simple">
+    <part>Text</part>
+    <year>1606</year>
+  </author>
+  <author xlink:href="#artist-4464" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-luk-19" xlink:type="simple">
+    <verse>29-38</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-23" xlink:type="simple">
+    <verse>42</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-2" xlink:type="simple">
+    <verse>1-12</verse>
+  </bibleref>
+</song>

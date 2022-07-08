@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21187">
+  <title>Du bisch de Wystock</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>CVJM Jugendzentrum Hasliberg, Schweiz</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach John 15,1-8 / Melodie: Jugendleiterseminar Hasliberg 1974.</comment>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>183</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>1-8</verse>
+  </bibleref>
+</song>

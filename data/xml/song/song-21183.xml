@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21183">
+  <title>Freut euch, wir sind Gottes Volk</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Burckhardthaus-Laetare Verlag GmbH, Offenbach / M.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-9216" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

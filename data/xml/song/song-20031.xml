@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20031">
+  <title>Morgen, Kinder, wird's was geben</title>
+  <subtitle/>
+  <text># Morgen, Kinder wird's was geben,
+morgen werden wir uns freun!
+Welch ein Jubel, welch ein Leben
+wird in unserm Hause sein!
+Einmal werden wir noch wach,
+heißa, dann ist Weihnachtstag!
+
+# Wie wird dann die Stube glänzen
+von der großen Lichterzahl!
+Schöner als bei frohen Tänzen
+ein geputzter Kronensaal.
+Wisst ihr noch, wie vor'ges Jahr
+es am Heil'gen Abend war?
+
+# Wisst ihr noch mein Räderpferdchen,
+Malchens nette Schäferin,
+Jettchens Küche mit dem Herdchen
+und dem blankgeputzten Zinn?
+Heinrichs bunten Harlekin
+mit der gelben Violin?
+
+# Wisst ihr noch den großen Wagen
+und die schöne Jagd von Blei?
+Und die Kleiderchen zum tragen
+und die viele Näscherei?
+Meinen fleiß'gen Sägemann
+mit der Kugel unten dran?
+
+# Welch ein schöner Tag ist morgen,
+viele Freude hoffen wir.
+Uns're lieben Eltern sorgen
+lange, lange schon dafür.
+O, gewiss, wer sie nicht ehrt,
+ist der ganzen Lust nicht wert.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Es gibt verschiedene Melodien.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9181" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26979" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26980" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-19786" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>163</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

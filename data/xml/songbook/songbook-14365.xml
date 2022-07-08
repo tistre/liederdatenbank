@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-14365">
+  <name>Glaubenslieder 2</name>
+  <comment>Christliche Verlagsgesellschaft mbH, Dillenburg 2006
+ISBN 3-89436-485-8, 1. Auflage 2005.
+
+Das Buch ist Ergänzung und Fortführung des Buches "http://www.liederdatenbank.de/songbook/10115".
+Daher beginnt das Buch mit dem Lied Nr. 601.</comment>
+  <state>0</state>
+  <icon xlink:href="#file-14364" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3894364858" xlink:type="simple">
+    <title>Glaubenslieder 2 @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Glaubenslieder+2" xlink:type="simple">
+    <title>Glaubenslieder 2 @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://www.cb-buchshop.de/oxid.php/sid/x/shp/oxbaseshop/cl/details/anid/2185/Glaubenslieder-2/" xlink:type="simple">
+    <title>Glaubenslieder 2 @ CB-Buchshop.de</title>
+  </url>
+  <url xlink:href="http://www.cv-dillenburg.de/index.php?option=com_bookshelf&amp;task=details&amp;book=2185&amp;Itemid=152" xlink:type="simple">
+    <title>Glaubenslieder 2 @ CV-Dillenburg.de</title>
+  </url>
+  <url xlink:href="http://www.google.de/search?q=Glaubenslieder+2" xlink:type="simple">
+    <title>Glaubenslieder 2 @ Google.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/produkt/titel/glaubenslieder-2/99887/99887/99887.html" xlink:type="simple">
+    <title>Glaubenslieder 2 @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.leseplatz.de/cgi-bin/navigation/rm/chooseDetailItem/itemID/3979/title/Glaubenslieder_2/" xlink:type="simple">
+    <title>Glaubenslieder 2 @ Leseplatz.de</title>
+  </url>
+</songbook>

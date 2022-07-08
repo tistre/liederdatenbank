@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-7930">
+  <title>Würdig ist das Lamm, das geopfert ward</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-7929" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3670">
+  <firstname>Gregor</firstname>
+  <lastname>Breier</lastname>
+  <name/>
+  <born>1960</born>
+  <died/>
+  <comment>Geboren in Duisburg, Musikevangelist, lebt in Berg am Starnberger See.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Gregor Breier" xlink:type="simple"/>
+</artist>

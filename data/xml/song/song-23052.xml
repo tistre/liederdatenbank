@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23052">
+  <title>Ich sing in Ewigkeit von des Erbarmers Huld</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year>1798</year>
+  </author>
+  <author xlink:href="#artist-11573" xlink:type="simple">
+    <part>Text</part>
+    <year>1775</year>
+  </author>
+  <author xlink:href="#artist-23053" xlink:type="simple">
+    <part>Text</part>
+    <year>1607</year>
+  </author>
+  <author xlink:href="#artist-11569" xlink:type="simple">
+    <part>Music</part>
+    <year>1562</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>622</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

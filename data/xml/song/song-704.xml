@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-704">
+  <title>Auferstanden! Auferstanden!</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2777" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17401" xlink:type="simple">
+    <cdnum/>
+    <numoncd>16</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+</song>

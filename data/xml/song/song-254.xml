@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-254">
+  <title>Ich bin durch die Welt gegangen</title>
+  <text># Ich bin durch die Welt gegangen, 
+und die Welt ist schön und groß,
+und doch ziehet mein Verlangen 
+mich weit von der Erde los.
+
+# Ich habe die Menschen gesehen, 
+und sie suchen spät und früh,
+sie schaffen, sie kommen und gehen, 
+und ihr Leben ist Arbeit und Müh.
+
+# Sie suchen, was sie nicht finden, 
+in Liebe und Ehre und Glück,
+und sie kommen belastet mit 
+Sünden und unbefriedigt zurück.
+
+# Es ist eine Ruh vorhanden 
+für das arme müde Herz;
+sagt es laut in allen Landen :
+Hier ist gestillet der Schmerz.
+
+# Es ist eine Ruh gefunden 
+für alle, fern und nah,
+in des Gotteslammes Wunden,
+am Kreuze auf Golgatha.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: Neumünster 1931</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4353195</ccli_number>
+  <author xlink:href="#artist-4578" xlink:type="simple">
+    <part>Text</part>
+    <year>1867</year>
+  </author>
+  <author xlink:href="#artist-4579" xlink:type="simple">
+    <part>Music</part>
+    <year>1885</year>
+  </author>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>282</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>322</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>433</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>621</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>201</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>116</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>390</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21709" xlink:type="simple"/>
+</song>

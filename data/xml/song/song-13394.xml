@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13394">
+  <title>Großer Heiland der Verlornen</title>
+  <subtitle/>
+  <text># Großer Heiland der Verlornen,
+Gottes heil'ges Opferlamm,
+Dorngekrönt, mit Fluch beladen,
+Hingst Du an des Kreuzes Stamm!
+
+# Dich, den Herrn, den Fürst des Lebens,
+Traf der Menschen Spott und Hohn,
+Dir, dem Reinen, Fleckenlosen,
+Ward der Sünde bittrer Lohn.
+
+# Rings von Todesnacht umgeben,
+Hast Du unsre Schuld gesühnt,
+Still und stumm, von Gott verlassen,
+Trugest Du was wir verdient.
+
+# Aus den Toten auferstanden,
+Thronst Du als des Menschen Sohn
+Jetzt zur Rechten Gottes droben –
+Sünder gab Er Dir zum Lohn!
+
+# Großer Heiland der Verlornen!
+Wer jetzt gläubig Dir vertraut,
+Der wird nimmermehr zuschanden,
+Hat auf Felsengrund gebaut.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/10200", "http://www.liederdatenbank.de/song/13171", "http://www.liederdatenbank.de/song/1417" oder "http://www.liederdatenbank.de/song/13327" gesungen werden.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25595" xlink:type="simple">
+    <part>Music</part>
+    <year>1735</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#144" xlink:type="simple"/>
+</song>

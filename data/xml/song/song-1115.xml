@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1115">
+  <title>Heute will dich Jesus fragen</title>
+  <subtitle>Wag es mit Jesus</subtitle>
+  <language>de</language>
+  <textcopyright>reserved</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <copyrightyear/>
+  <right/>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4412" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1950</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>304</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>280</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+</song>

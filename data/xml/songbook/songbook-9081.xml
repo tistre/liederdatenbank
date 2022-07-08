@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9081">
+  <name>Du bist Herr 5</name>
+  <icon xlink:href="#file-9080" xlink:type="simple"/>
+  <comment>Du bist Herr, Anbetungslieder, Band 5
+Herausgegeben von Gaetan Roy
+ISBN 3-86591-058-0, Gerth Medien Musikverlag, Asslar 2006.
+
+http://www.liederdatenbank.de/songbook/3430
+http://www.liederdatenbank.de/songbook/90
+http://www.liederdatenbank.de/songbook/91
+http://www.liederdatenbank.de/songbook/562
+http://www.liederdatenbank.de/songbook/9081
+</comment>
+  <state>1</state>
+  <url xlink:href="http://www.amazon.de/dp/3865910580" xlink:type="simple">
+    <title>Du bist Herr 5 @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.gerth.de/?vp_id=www-liederdatenbank-de&amp;fct=search&amp;nav_fct=search&amp;search_str=816058" xlink:type="simple">
+    <title>Du bist Herr 5 @ Gerth.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/show.sxp/haenssler_de.html?art_id=87806" xlink:type="simple">
+    <title>Du bist Herr 5 @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?isbn=3865910580" xlink:type="simple">
+    <title>Du bist Herr 5 @ booklooker.de</title>
+  </url>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=57" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+</songbook>

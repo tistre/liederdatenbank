@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-431">
+  <title>O Gott, dir sei Ehre (Preist den Herrn)</title>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_number>4336507</ccli_number>
+  <copyrightyear>1973</copyrightyear>
+  <right>Original: Marshall, Morgan &amp; Scott, London</right>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-931" xlink:type="simple"/>
+  <author xlink:href="#artist-4259" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-669" xlink:type="simple">
+    <part>Text</part>
+    <year>1955</year>
+  </author>
+  <author xlink:href="#artist-670" xlink:type="simple">
+    <part>Music</part>
+    <year>1875</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>303</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>276</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>275</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>250</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>131</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>237</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

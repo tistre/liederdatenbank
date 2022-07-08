@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15587">
+  <title>On our side</title>
+  <subtitle>Everyone around the world</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11062" xlink:type="simple"/>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-14607" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-14602" xlink:type="simple">
+    <cdnum/>
+    <numoncd>9</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

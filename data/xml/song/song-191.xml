@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-191">
+  <title>Es ist ein Ros entsprungen</title>
+  <text># Es ist ein Ros entsprungen
+aus einer Wurzel zart,
+wie uns die Alten sungen,
+von Jesse kam die Art
+und hat ein Blümlein bracht
+mitten im kalten Winter
+wohl zu der halben Nacht.
+
+# Das Blümlein, das ich meine,
+davon Jesaja sagt,
+hat uns gebracht alleine
+Marie, die reine Magd;
+aus Gottes ewgem Rat
+hat sie ein Kind geboren,
+welches uns selig macht.
+
+2. Strophe (kath. Fassung):
+Das Röslein, das ich meine,
+davon Jesaja sagt,
+ist Maria, die Reine,
+die uns das Blümlein bracht.
+Aus Gottes ewgem Rat
+hat sie ein Kind geboren
+und bleibt doch reine Magd.
+
+# Das Blümelein so kleine,
+das duftet uns so süß;
+mit seinem hellen Scheine
+vertreibt's die Finsternis.
+Wahr' Mensch und wahrer Gott,
+hilft uns aus allem Leide,
+rettet von Sünd und Tod.
+
+# O Jesu, bis zum Scheiden
+aus diesem Jammertal
+laß dein Hilf uns geleiten
+hin in den Freudensaal,
+in deines Vaters Reich,
+da wir dich ewig loben;
+o Gott, uns das verleih!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Im http://www.liederdatenbank.de/songbook/9435: Nr. 132 nur die Strophen 1-3 (Str. 2 kath. Fassung), Nr. 133 die ökumenische Fassung (Str. 2).</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4344977</ccli_number>
+  <author xlink:href="#artist-25517" xlink:type="simple">
+    <part>Text</part>
+    <year>1587/88, Str. 1-2</year>
+  </author>
+  <author xlink:href="#artist-25518" xlink:type="simple">
+    <part>Text</part>
+    <year>1844, Str. 3-4</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>179</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>204</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>812</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1758</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-27042" xlink:type="simple">
+    <cdnum/>
+    <numoncd>7</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

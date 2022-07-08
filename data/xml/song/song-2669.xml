@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2669">
+  <title>Great Big Love</title>
+  <language>en</language>
+  <subtitle>I've got a great big love in my heart</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>1980808</ccli_number>
+  <comment/>
+  <author xlink:href="#artist-3611" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <author xlink:href="#artist-3612" xlink:type="simple">
+    <part>Music</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1980808" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

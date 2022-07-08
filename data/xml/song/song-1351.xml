@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1351">
+  <title>Vater unser im Himmelreich</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1539 / 1539</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>421</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>344</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>9-13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-11" xlink:type="simple">
+    <verse>2-4</verse>
+  </bibleref>
+</song>

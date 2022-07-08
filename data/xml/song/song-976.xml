@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-976">
+  <title>O, hätt ich tausend Zungen nur</title>
+  <text># O, hatt' ich tausend Zungen nur,
+zu rühmen Jesu Tat,
+zu rühmen Jesu Tat
+und seine göttliche Natur,
+die Siege all, die Siege seiner Gnad,
+die Siege seiner Gnad,
+die Siege seiner Gnad.
+
+# Mein gnäd'ger Fürst und Gottesheld,
+in mir die Kraft vermehr,
+in mir die Kraft vermehr,
+zu künden durch die weite Welt,
+Herr, deine Macht, Herr, deine Macht und Ehr, 
+Herr, deine Macht und Ehr,
+Herr, deine Macht und Ehr.
+
+# Jesus, dein Nam verscheucht die Pein, 
+macht aus dem Leid ein Lied,
+macht aus dem Leid ein Lied,
+dringt wie Musik ins Herz hinein,
+ist Leben, Heil, ist Leben,
+Heil und Fried, ist Leben,
+Heil und Fried, ist Leben, Heil und Fried!
+
+#  Er bricht die Macht der Sündenqual,
+lässt Hartgebundne frei,
+lässt Hartgebundne frei.
+Sein Blut versöhnt die Sünder all,
+dies Blut mein Lob, 
+dies Blut mein Lobpreis sei, 
+dies Blut mein Lobpreis sei,
+dies Blut mein Lobpreis sei!</text>
+  <language>en</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-1005" xlink:type="simple"/>
+  <author xlink:href="#artist-4262" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12381" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12382" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12383" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+</song>

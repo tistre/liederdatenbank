@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3096">
+  <title>Ich erkenne Deine Heiligkeit</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1085</copyrightyear>
+  <right>D/A: Rudolf Slezak Musikverlag, Hamburg.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "I Can Almost See Your Holiness" (Spirit Of God).</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13364" xlink:type="simple"/>
+  <author xlink:href="#artist-4979" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1985</year>
+  </author>
+  <author xlink:href="#artist-3636" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+</song>

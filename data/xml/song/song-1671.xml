@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1671">
+  <title>Morgenglanz der Ewigkeit</title>
+  <text># Morgenglanz der Ewigkeit, / Licht vom unerschöpften Lichte,
+schick uns diese Morgenzeit / deine Strahlen zu Gesichte
+und vertreib durch deine Macht / unsre Nacht.
+
+# Deiner Güte Morgentau / fall auf unser matt Gewissen;
+lass die dürre Lebensau / lauter süssen Trost genießen
+und erquick uns, deine Schar, / immerdar.
+
+# Gib, dass deiner Liebe Glut / unsre kalten Werke töte,
+und erweck uns Herz und Mut / bei entstandner Morgenröte,
+dass wir eh wir gar vergehn, / recht aufstehn.
+
+# Ach du Aufgang aus der Höh, / gib, dass auch am Jüngsten Tage
+unser Leib verklärt ersteh / und, entfernt von aller Plage,
+sich auf jener Freudenbahn / freuen kann.
+
+# Leucht uns selbst in jener Welt, / du verklärte Gnadensonne;
+führ uns durch das Tränenfeld / in das Land der süssen Wonne,
+da die Lust, die uns erhöht, / nie vergeht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13744".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5579057</ccli_number>
+  <author xlink:href="#artist-10386" xlink:type="simple">
+    <part>Text</part>
+    <year>1684</year>
+  </author>
+  <author xlink:href="#artist-653" xlink:type="simple">
+    <part>Music</part>
+    <year>1662</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>459</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>465</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>640</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>330</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>450</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>387</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>405</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>200</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

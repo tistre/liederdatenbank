@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-420">
+  <title>Wunderbarer König</title>
+  <text># Wunderbarer König, / Herrscher von uns allen, / laß dir unser Lob gefallen.
+Deine Vatergüte / hast du lassen fließen, / ob wir schon dich oft verließen.
+Hilf uns noch, / stärk uns doch; / laß die Zunge singen, / laß die Stimme klingen.
+
+# Himmel, lobe prächtig / deines Schöpfers Taten / mehr als aller Menschen Staaten.
+Großes Licht der Sonne, / schieße deine Strahlen, / die das große Rund bemalen.
+Lobet gern, / Mond und Stern, / seid bereit, zu ehren / einen solchen Herren.
+
+# O du meine Seele, / singe fröhlich, singe, / singe deine Glaubenslieder;
+was den Odem holet, / jauchze, preise, klinge; / wirf dich in den Staub darnieder.
+Er ist Gott / Zebaoth, / er nur ist zu loben / hier und ewig droben.
+
+# Halleluja bringe, / wer den Herren kennet, / wer den Herren Jesus liebet;
+Halleluja singe, / welcher Christus nennet, / sich von Herzen ihm ergibet.
+O wohl dir! / Glaube mir: / endlich wirst du droben / ohne Sünd ihn loben.
+</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Zu diesem Lied gibt es zwei Melodien – neben der angegebenen von Joachim Neander eine von Johann Michael Müller.
+
+Nicht alle Liederbücher haben die Neander-Melodie abgedruckt - so verwendet z.B.
+das Feiern und Loben - Gesangbuch die Müller-Melodie und das EKG die Neander-Melodie.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4339085</ccli_number>
+  <comment>Die Melodie wurde von http://www.liederdatenbank.de/artist/83 für das Lied http://www.liederdatenbank.de/song/219 verwendet.</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1680</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>279</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>327</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>451</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

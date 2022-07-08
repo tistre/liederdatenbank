@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-683">
+  <firstname>Hella</firstname>
+  <lastname>Heizmann</lastname>
+  <name/>
+  <born>1951</born>
+  <died>2009</died>
+  <comment>Geboren in Wetzlar, Sängerin und Liedermacherin.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Hella_Heizmann" xlink:type="simple">
+    <title>Hella Heizmann @ Wikipedia.de</title>
+  </url>
+</artist>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21766">
+  <title>Licht der Liebe</title>
+  <subtitle>Ein Licht geht uns auf</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-20699" xlink:type="simple"/>
+  <author xlink:href="#artist-9228" xlink:type="simple">
+    <part>Text</part>
+    <year>1986</year>
+  </author>
+  <author xlink:href="#artist-4688" xlink:type="simple">
+    <part>Music</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>057</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

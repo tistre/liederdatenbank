@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10535">
+  <title>Jesu Kreuz, Leiden und Pein</title>
+  <subtitle/>
+  <text># Jesu Kreuz, Leiden und Pein,
+deins Heilands und Herren,
+betracht, christliche Gemein,
+ihm zu Lob und Ehren.
+Merk, was er gelitten hat,
+bis er ist gestorben,
+dich von deiner Missetat
+erlöst, Gnad erworben.
+
+# Jesus, wahrer Gottessohn
+auf Erden erschienen,
+fing bald in der Jugend an,
+als ein Knecht zu dienen;
+äußert sich der göttlich G’walt
+und verbarg ihr Wesen,
+lebt in menschlicher Gestalt;
+daher wir genesen.
+
+# Jesus richtet aus sein Amt
+an den Menschenkindern,
+eh er ward zum Tod verdammt
+für uns arme Sünder,
+lehrt und rüst’ die Jünger sein,
+wusch ihn’ ihre Füße,
+setzt das heilig Nachtmahl ein,
+macht ihn’ das Kreuz süße.
+
+# Jesus ging nach Gottes Will
+in’ Garten zu beten;
+dreimal er da niederfiel
+in sein’ großen Nöten,
+rief sein’ lieben Vater an
+mit betrübtem Herzen,
+von ihm blutiger Schweiß rann
+von Ängsten und Schmerzen.
+
+# Jesus da gefangen ward,
+gebunden geführet
+und im Rat beschweret hart
+und zu Hohn gezieret;
+verdeckt, verspott’ und verspeit,
+jämmerlich geschlagen,
+auch verdammt aus Hass und Neid
+durch erdicht’ Anklagen.
+
+# Jesus ward früh dargestellt
+Pilatus dem Heiden;
+ob der wohl sein Unschuld meld’t,
+dennoch musst er leiden,
+ward gegeißelt und verkleid’t,
+mit Dornen gekrönet,
+in seim großen Herzeleid
+aufs schmählichst gehöhnet.
+
+# Jesus, verurteilt zum Tod,
+musst sein Kreuz selbst tragen
+in großer Ohnmacht und Not,
+ward daran geschlagen;
+hing mehr denn drei ganze Stund’
+in groß Pein und Schmerzen;
+bittre Galle schmeckt sein Mund.
+O Mensch, nimm’s zu Herzen!
+
+# Jesus rief am Kreuze laut:
+»Ach, ich bin verlassen!
+Hab dir doch, mein Gott, vertraut,
+wollst mich nicht verstoßen.
+Gnad dem, der mir Hohn beweist
+jetzt in meim Elende.
+Ich befehl nun meinen Geist
+dir in deine Hände.«
+
+# Jesus ist das Weizenkorn,
+das im Tod erstorben
+und uns, die wir warn verlorn,
+das Leben erworben;
+bringt viel Frücht zu Gottes Preis,
+derer wir genießen,
+gibt sein’ Leib zu einer Speis,
+sein Blut zum Trank süße.
+
+# Jesu, weil du bist erhöht
+zu ewigen Ehren:
+unsern alten Adam töt,
+den Geist tu ernähren;
+zieh uns allesamt zu dir,
+dass empor wir schweben;
+begnad unsers Geists Begier
+mit deim neuen Leben.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>andere Melodie: "Christus, der uns selig macht" (EG 77).</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-10534" xlink:type="simple">
+    <part>Text</part>
+    <year>1566</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1501 / 1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-13" xlink:type="simple">
+    <verse>1-20</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-27" xlink:type="simple">
+    <verse>46</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-12" xlink:type="simple">
+    <verse>25</verse>
+  </bibleref>
+</song>

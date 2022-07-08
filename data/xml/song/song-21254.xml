@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21254">
+  <title>Herr, Deine Güte reicht so weit</title>
+  <subtitle/>
+  <text>Herr, deine Güte reicht so weit,
+so weit, so weit der Himmel ist, 
+und deine Wahrheit, und deine Wahrheit,
+und deine Wahrheit so weit die Wolken gehn.
+Herr, deine Güte reicht so weit,
+so weit, so weit der Himmel ist!
+Halleluja, Halleluja, Halleluja, Halleluja, Halleluja,
+Halleluja, Halleluja, Halleluja, Halleluja, Halleluja!
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-21253" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <bibleref xlink:href="#biblechapter-psa-36" xlink:type="simple">
+    <verse>6</verse>
+  </bibleref>
+  <url xlink:href="http://www.kirchengesangsbund.ch/notenarchiv/pdf/grell_herr_deine_güte.pdf" xlink:type="simple">
+    <title>Noten (PDF) @ kirchengesangsbund.ch</title>
+  </url>
+  <url xlink:href="http://www.youtube.com/watch?v=7k7WzAqrthI" xlink:type="simple">
+    <title>Chor-Aufführung als Video @ YouTube.com</title>
+  </url>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270966344&amp;id=270966129&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

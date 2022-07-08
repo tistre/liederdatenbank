@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1229">
+  <title>Lass mich an dich glauben, wie Abraham es tat</title>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479.</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10872" xlink:type="simple"/>
+  <author xlink:href="#artist-4527" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>Strophe 1-4</year>
+  </author>
+  <author xlink:href="#artist-12737" xlink:type="simple">
+    <part>Text</part>
+    <year>Strophe 5</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>367</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>74</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>142</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>267</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19435" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>625</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

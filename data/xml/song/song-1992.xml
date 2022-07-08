@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1992">
+  <title>Fröhliche Weihnacht überall</title>
+  <subtitle/>
+  <text>* 1.-3. Fröhliche Weihnacht überall,
+tönet durch die Lüfte froher Schall.
+Weihnachtston, Weihnachtsbaum,
+Weihnachsduft in jedem Raum.
+Fröhliche Weihnacht überall,
+tönet durch die Lüfte froher Schall.
+
+# Darum stimmet alle ein in den Jubelton;
+denn es kommt das Licht der Welt von des Vaters Thron.
+
+# Licht auf dunklem Wege hier, unser Licht bist du,
+denn du führst, die dir vertraun, dort zur sel'gen Ruh.
+
+# Was wir andern hab'n getan, sei getan für dich,
+dass ein jeder rühmen kann: Christus kam für mich!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9181" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1874</year>
+  </author>
+  <author xlink:href="#artist-24939" xlink:type="simple">
+    <part>Music</part>
+    <year>19. Jh.</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

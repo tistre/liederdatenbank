@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20543">
+  <title>Swing wide</title>
+  <subtitle/>
+  <copyrightyear>2001</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-12456" xlink:type="simple"/>
+  <originalsong xlink:href="#song-20542" xlink:type="simple"/>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

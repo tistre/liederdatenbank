@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2002">
+  <title>Wunderbarer Gnadenthron, Gottes und Marien Sohn</title>
+  <subtitle/>
+  <text># Wunderbarer Gnadenthron,
+Gottes und Marien Sohn,
+Gott und Mensch, ein kleines Kind,
+das man in der Krippen find’t,
+großer Held von Ewigkeit,
+dessen Macht und Herrlichkeit
+rühmt die ganze Christenheit:
+
+# Du bist arm und machst zugleich
+uns an Leib und Seele reich.
+Du wirst klein, du großer Gott,
+und machst Höll und Tod zu Spott.
+Aller Welt wird offenbar,
+ja auch deiner Feinde Schar,
+dass du, Gott, bist wunderbar.
+
+# Lass mir deine Güt und Treu
+täglich werden immer neu.
+Gott, mein Gott, verlass mich nicht,
+wenn mich Not und Tod anficht.
+Lass mich deine Herrlichkeit,
+deine Wundergütigkeit
+schauen in der Ewigkeit.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "Den die Hirten lobeten sehre" (EG 29)</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4620" xlink:type="simple">
+    <part>Text</part>
+    <year>1665</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1544</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10224">
+  <title>O Gott, an Deiner Gnade</title>
+  <subtitle/>
+  <text># O Gott, an Deiner Gnade
+Genüge uns allein,
+So wird auf Deinem Pfade
+Das Herz stets glücklich sein.
+
+# Will uns der Weg ermüden,
+Und wir der Kampf uns schwer,
+Bewahr' uns Deinen Frieden,
+Die Gnad' in uns vermehr'!
+
+# Wenn Satan uns will schaden,
+Und wenn die Welt uns höhnt –
+Getrost! wir sind in Gnaden,
+Wir sind mit Dir versöhnt.
+
+# Selbst wenn wir Mangel leiden
+Und keinen Ausweg sehn,
+So kann uns doch nichts scheiden,
+Weil wir in Gnaden stehn.
+
+# Du wirst uns sicher leiten
+Durch Deine Gnad' und Treu',
+Du wirst uns zubereiten,
+Bis alles völlig neu.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1479", "http://www.liederdatenbank.de/song/13158".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#25" xlink:type="simple"/>
+</song>

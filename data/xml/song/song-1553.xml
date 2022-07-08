@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1553">
+  <title>Es ist in keinem andern Heil</title>
+  <text># Es ist in keinem andern Heil, kein Nam ist sonst gegeben, 
+in dem uns Gnade wird zuteil und Fried und ewges Leben, 
+als nur der Name Jesu Christ, 
+der unser Herr und Heiland ist. 
+Ihm sei Lob, Preis und Ehre!
+
+# Er ist der Weg zum Himmel hin, durch ihn steht alles offen 
+und wer ihn geht, der hat durch ihn die Seligkeit getroffen. 
+Ach lass mich, o mein Heil und Hort, 
+auf keinem andern Weg hinfort 
+noch Gott zu finden hoffen.
+
+# Er ist die Wahrheit, ihn allein hab ich mir auserlesen; 
+ohn ihn find ich nur Wort und Schein, in ihm ist Kraft und Wesen.
+O Wahrheit, mach mein Herze frei, 
+dass es nur dir ergeben sei, 
+durch den es kann genesen.
+
+# Er ist das Leben, seine Kraft soll Leib und Seele führen.
+Sein Geist, der alles in mir schafft, soll mich allein regieren;
+so werd ich, weil ich nun durch ihn
+mit meinem Gott verbunden bin,
+das Leben nie verlieren.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Andere Melodie: "http://www.liederdatenbank.de/song/11287" (EG 342).</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4782" xlink:type="simple">
+    <part>Text</part>
+    <year>1714</year>
+  </author>
+  <author xlink:href="#artist-4783" xlink:type="simple">
+    <part>Text</part>
+    <year>1692</year>
+  </author>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>308</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>340</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>356</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>262</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

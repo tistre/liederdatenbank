@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24870">
+  <title>Heb deine Augen zu dem auf</title>
+  <subtitle>Aus der Tiefe schau</subtitle>
+  <copyrightyear>2016</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-24800" xlink:type="simple"/>
+  <author xlink:href="#artist-4219" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2016</year>
+  </author>
+  <songbookref xlink:href="#songbook-24802" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-24803" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="www.ecksteinproduction.com" xlink:type="simple"/>
+</song>

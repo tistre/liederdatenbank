@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-12948">
+  <name>In Deiner Nähe</name>
+  <comment>Jugend mit einer Mission e.V., Hurlach 1983
+ISBN 3-88076-016-0.
+46 Lieder mit Akkordbezeichnungen für Gitarrenbegleitung und teils mehrstimmigen Satz.</comment>
+  <state>0</state>
+  <icon xlink:href="#file-12947" xlink:type="simple"/>
+  <url xlink:href="http://www.jmem.de/" xlink:type="simple">
+    <title>Jugend mit einer Mission Deutschland</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/dp/3880760160" xlink:type="simple">
+    <title>In Deiner Nähe @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=In+Deiner+N%E4he&amp;infotext=Liederbuch" xlink:type="simple">
+    <title>In Deiner Nähe @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/In-Deiner-Naehe" xlink:type="simple">
+    <title>In Deiner Nähe @ eBay.de</title>
+  </url>
+</songbook>

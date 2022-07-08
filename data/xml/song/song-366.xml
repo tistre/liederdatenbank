@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-366">
+  <title>Stern, auf den ich schaue</title>
+  <text># 
+Stern, auf den ich schaue, 
+Fels, auf dem ich steh,
+Führer, dem ich traue, 
+Stab, an dem ich geh,
+Brot, von dem ich lebe, 
+Quell, an dem ich ruh,
+Ziel, das ich erstrebe, 
+alles, Herr, bist du.
+
+# 
+Ohne dich, wo käme 
+Kraft und Mut mir her?
+Ohne dich, wer nähme 
+meine Bürde, wer?
+Ohne dich, zerstieben 
+würden mir im Nu
+Glauben, Hoffen, Lieben, 
+alles, Herr, bist du.
+
+# 
+Drum so will ich wallen 
+meinen Pfad dahin,
+bis die Glocken schallen 
+und daheim ich bin.
+Dann mit neuem Klingen 
+jauchz ich froh dir zu:
+nichts hab ich zu bringen, 
+alles, Herr, bist du!</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Satz: Hänssler-Verlag, Holzgerlingen.</right>
+  <textcopyright>free</textcopyright>
+  <comment>Verschiedene Vertonungen. Satz: http://www.liederdatenbank.de/artist/4479.</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4351355</ccli_number>
+  <author xlink:href="#artist-4208" xlink:type="simple">
+    <part>Text</part>
+    <year>1857</year>
+  </author>
+  <author xlink:href="#artist-4209" xlink:type="simple">
+    <part>Music</part>
+    <year>1897</year>
+  </author>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>372</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>317</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>367</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>348</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>407</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>214</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>300</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>349</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>346</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

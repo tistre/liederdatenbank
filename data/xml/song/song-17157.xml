@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-17157">
+  <title>Ist jemand in Christus</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>aus der DDR</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-2co-5" xlink:type="simple">
+    <verse>17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1jo-4" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1639">
+  <title>Ich und mein Haus, wir sind bereit</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/13252", "http://www.liederdatenbank.de/song/1520", "http://www.liederdatenbank.de/song/2106", "http://www.liederdatenbank.de/song/13660", "http://www.liederdatenbank.de/song/1394". - Andere Melodie: 16. Jh. / geistlich Nürnberg um 1555.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year>1827</year>
+  </author>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>581</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>427</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>418</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>695</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-11433" xlink:type="simple"/>
+</song>

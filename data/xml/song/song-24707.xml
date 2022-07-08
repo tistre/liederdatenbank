@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24707">
+  <title>Größter Herr</title>
+  <subtitle>Ich möchte ganz nah, nah bei dir sein</subtitle>
+  <copyrightyear>2011</copyrightyear>
+  <right>Integrity Worship Music.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-23456" xlink:type="simple"/>
+  <author xlink:href="#artist-24705" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24706" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>178</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

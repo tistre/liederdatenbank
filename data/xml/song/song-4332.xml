@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4332">
+  <title>Wie groß ist Deine Güte, Herr</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1992</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-11051" xlink:type="simple"/>
+  <author xlink:href="#artist-4262" xlink:type="simple">
+    <part>Text</part>
+    <year>1743</year>
+  </author>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>1986/1992</year>
+  </author>
+  <author xlink:href="#artist-4647" xlink:type="simple">
+    <part>Music</part>
+    <year>1723</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

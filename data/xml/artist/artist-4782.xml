@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4782">
+  <firstname>Johann Anastasius</firstname>
+  <lastname>Freylinghausen</lastname>
+  <name/>
+  <born>1670</born>
+  <died>1739</died>
+  <comment>Geboren in Gandersheim, Schwiegersohn und Nachfolger August Hermann Franckes, des Vaters des Hallischen Pietismus, in Pfarramt und Leitung des dortigen Waisenhauses, Herausgeber des weitverbreiteten &gt;Geistreichen Gesangbuchs&lt; Halle 1704 und 1714.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Anastasius_Freylinghausen" xlink:type="simple">
+    <title>Johann Anastasius Freylinghausen @ Wikipedia.org</title>
+  </url>
+</artist>

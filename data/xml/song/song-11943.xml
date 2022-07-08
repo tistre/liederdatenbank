@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11943">
+  <title>Gloria sei dir gesungen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text und Melodie: "http://www.liederdatenbank.de/song/1161" (EG 147) Strophe 3. - Satz: Johann Sebastian Bach 1731.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>535</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+</song>

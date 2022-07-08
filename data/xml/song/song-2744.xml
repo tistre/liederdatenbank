@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2744">
+  <title>I'm thirsty, thirsty for Your love</title>
+  <language>en</language>
+  <subtitle/>
+  <copyrightyear>1997</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-12071" xlink:type="simple"/>
+  <originalsong xlink:href="#song-2743" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>148</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+</song>

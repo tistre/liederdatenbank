@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10014">
+  <title>Christ ist erstanden von der Marter alle</title>
+  <subtitle/>
+  <text>Christ ist erstanden 
+von der Marter alle; 
+des solln wir alle froh sein, 
+Christ will unser Trost sein. 
+Kyrieleis.
+ 
+Wär er nicht erstanden, 
+so wär die Welt vergangen; 
+seit dass er erstanden ist, 
+so lobn wir den Vater Jesu Christ'. 
+Kyrieleis.
+
+Halleluja, Halleluja, Halleluja!
+Des solln wir alle froh sein,
+Christ will unser Trost sein.
+Kyrieleis.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>5685202</ccli_number>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/11293 (EG 120)</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-9000" xlink:type="simple">
+    <part>Text</part>
+    <year>12.-15. Jh.</year>
+  </author>
+  <author xlink:href="#artist-27665" xlink:type="simple">
+    <part>Text</part>
+    <year>12.-15. Jh.</year>
+  </author>
+  <author xlink:href="#artist-25597" xlink:type="simple">
+    <part>Music</part>
+    <year>1160/1433</year>
+  </author>
+  <author xlink:href="#artist-26717" xlink:type="simple">
+    <part>Music</part>
+    <year>15. Jh.</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>297</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23473" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>213</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>255</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-luk-24" xlink:type="simple">
+    <verse>34</verse>
+  </bibleref>
+</song>

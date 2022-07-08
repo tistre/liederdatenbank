@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9906">
+  <title>Das Wort Christi wohne (Kanon)</title>
+  <subtitle/>
+  <text>A
+# Das Wort Christi 
+# wohne mit seinem ganzen Reichtum
+# bei euch, bei euch.
+
+B
+# Lasset das Wort Christi 
+# unter euch reichlich wohnen
+# in aller Weisheit.</text>
+  <right>Text zu A: Kath. Bibelanstalt GmbH, Stuttgart.
+Melodien: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>2 Kanons zu je 3 Stimmen. Die beiden Kanons können zusammen musiziert werden.</comment>
+  <language>de</language>
+  <copyrightyear>1980</copyrightyear>
+  <ccli_features/>
+  <author xlink:href="#artist-10630" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1474</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-col-3" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

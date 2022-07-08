@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21277">
+  <title>Sei hoch gelobt, Herr Jesu Christ</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text: Berner Psalter 1787.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>280</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

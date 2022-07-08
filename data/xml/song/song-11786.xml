@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11786">
+  <title>Gott, unser Ursprung, Herr des Raums</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-5006" xlink:type="simple">
+    <part>Text</part>
+    <year>(1982) 1984</year>
+  </author>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year>(1982) 1984</year>
+  </author>
+  <author xlink:href="#artist-4274" xlink:type="simple">
+    <part>Music</part>
+    <year>(1964) 1969</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>431</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

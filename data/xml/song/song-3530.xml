@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3530">
+  <title>O lasset uns anbeten (Kanon)</title>
+  <language>de</language>
+  <subtitle>Ehre sei Gott</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text aus: http://www.liederdatenbank.de/song/236. Kanon zu 4 Stimmen von Bodo Hoppe.</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-16208" xlink:type="simple"/>
+  <author xlink:href="#artist-4832" xlink:type="simple">
+    <part>Text</part>
+    <year>(1823)1826</year>
+  </author>
+  <author xlink:href="#artist-4833" xlink:type="simple">
+    <part>Music</part>
+    <year>(1750)1766</year>
+  </author>
+  <author xlink:href="#artist-4638" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>213</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

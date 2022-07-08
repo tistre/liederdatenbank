@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2933">
+  <title>Sei gesegnet im Namen des Herrn</title>
+  <author xlink:href="#artist-4186" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+  </songbookref>
+</song>

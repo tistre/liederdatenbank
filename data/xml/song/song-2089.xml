@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2089">
+  <title>Lang nach eines Lichtes Schimmer</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11512" xlink:type="simple">
+    <part>Text</part>
+    <year>1878</year>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year>1883</year>
+  </author>
+  <author xlink:href="#artist-4392" xlink:type="simple">
+    <part>Music</part>
+    <year>1873</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>327</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>310</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

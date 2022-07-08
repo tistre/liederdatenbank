@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3807">
+  <title>Ich will Dich erheben, mein Gott, Du König</title>
+  <author xlink:href="#artist-3675" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+  </songbookref>
+</song>

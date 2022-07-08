@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27585">
+  <title>So send I you</title>
+  <subtitle>The harvest is great</subtitle>
+  <copyrightyear>1985</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21741" xlink:type="simple"/>
+  <author xlink:href="#artist-25279" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-26133" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-9" xlink:type="simple">
+    <verse>37</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-20" xlink:type="simple">
+    <verse>21</verse>
+  </bibleref>
+</song>

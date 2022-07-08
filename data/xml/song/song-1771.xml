@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1771">
+  <title>Halleluja! Halleluja!</title>
+  <subtitle>Gott schenkt seinen Heiligen Geist</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Mit Kanon für 3 Stimmen.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11051" xlink:type="simple"/>
+  <author xlink:href="#artist-16706" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

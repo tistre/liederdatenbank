@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2678">
+  <title>Immer, wenn ich an Dich denk</title>
+  <subtitle>Wahnsinn</subtitle>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14573" xlink:type="simple">
+    <cdnum>2</cdnum>
+    <numoncd>3</numoncd>
+  </cdref>
+</song>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2648">
+  <title>Ich geb mich ganz hin</title>
+  <subtitle>Hier bin ich, einmal mehr</subtitle>
+  <language>de</language>
+  <copyrightyear>1993</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5229417</ccli_number>
+  <comment/>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11652" xlink:type="simple"/>
+  <author xlink:href="#artist-3598" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-450" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-3585" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4970" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14573" xlink:type="simple">
+    <cdnum>2</cdnum>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

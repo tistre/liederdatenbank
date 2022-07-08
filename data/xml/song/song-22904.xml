@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22904">
+  <title>Komm und ruh dich aus</title>
+  <subtitle/>
+  <copyrightyear>2008</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5875940</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-22707" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-25738" xlink:type="simple">
+    <cdnum/>
+    <numoncd>14</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

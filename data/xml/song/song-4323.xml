@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4323">
+  <title>Dir, Gott, sei die Ehre</title>
+  <author xlink:href="#artist-4349" xlink:type="simple">
+    <part>Text</part>
+    <year>1997</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+  </songbookref>
+</song>

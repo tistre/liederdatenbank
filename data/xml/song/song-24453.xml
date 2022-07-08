@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24453">
+  <title>In dem Kreuz liegt die Kraft</title>
+  <subtitle>Welch ein dunkler Tag brach dort damals an, als Christus ging den Leidensweg</subtitle>
+  <copyrightyear>2005</copyrightyear>
+  <right>Thankyou Music -- SCM Hänssler, Holzgerlingen, für Integrity Music.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24452" xlink:type="simple"/>
+  <author xlink:href="#artist-10072" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10073" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24454" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24455" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mar-15" xlink:type="simple">
+    <verse>21-41</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-5" xlink:type="simple">
+    <verse>8-10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-5" xlink:type="simple">
+    <verse>21</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-gal-3" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

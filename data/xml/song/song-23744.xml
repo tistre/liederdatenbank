@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23744">
+  <title>Die Vögel unterm Himmel, die Spatzen und die Raaben</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Verlag Ernst Kaufmann, Lahr
+Musik: beim Autor</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-19983" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9216" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10222">
+  <title>Deine Kirche wartet noch</title>
+  <subtitle/>
+  <text>Deine Kirche wartet noch,
+Sehnet sich nach oben,
+Wo sie, frei von allem Joch,
+Dich wird schauend loben.
+Sie ist fremd und einsam hier,
+Von der Welt geschieden.
+Doch, o Jesu, Du bleibst ihr,
+Leitest sie in Frieden.
+
+Ihre Ruhestätt' ist da,
+Wo kein Feind sie störet,
+Wo sie, Dir auf ewig nah',
+Keine Klage höret.
+Wo kein Glied vom Glied sich trennt,
+Wo kein Herz erkaltet,
+Wo man Liebe völlig kennt,
+Wo nur Liebe waltet.
+
+Komm, Du heller Morgenstern,
+Bleibe nicht mehr lange!
+O wir sehn Dein Kommen gern,
+Hier wird uns oft bange.
+Doch Du läßt uns nie allein –
+Stärke dies Vertrauen –
+Bis Du selbst uns führest heim,
+Bis wir dort Dich schauen.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#23" xlink:type="simple"/>
+</song>

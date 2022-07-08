@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26172">
+  <title>Wunder der Gnade</title>
+  <subtitle>Ich bin nicht wert aller Güte und Gnade</subtitle>
+  <copyrightyear>1949</copyrightyear>
+  <right>Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "I Am Not Worthy". Satz: http://www.liederdatenbank.de/artist/542.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21655" xlink:type="simple"/>
+  <author xlink:href="#artist-11067" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26530" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>760</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14538" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

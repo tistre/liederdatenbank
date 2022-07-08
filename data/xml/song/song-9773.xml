@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9773">
+  <title>As for me and my house</title>
+  <subtitle>we will serve the Lord</subtitle>
+  <right>Integrity's Hosanna! Music</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <author xlink:href="#artist-9770" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-4008" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-32" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9079">
+  <lastname>Bortnianskij</lastname>
+  <firstname>Dimitrij Stepanowitsch</firstname>
+  <name/>
+  <born>1751</born>
+  <died>1825</died>
+  <comment>Die deutsche Schreibweise des Namens ist nicht einheitlich in den unterschiedlichen Liederbüchern. 
+Geboren in Goluchow (Ukraine), 1796 Leiter der kaiserlichen Kapelle in Petersburg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Dmytro_Bortnjanskyj" xlink:type="simple">
+    <title>Dmytro Bortnjanskyi @ Wikipedia.de</title>
+  </url>
+</artist>

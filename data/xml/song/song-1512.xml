@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1512">
+  <title>Komm, o komm, du Geist des Lebens</title>
+  <text># Komm, o komm, du Geist des Lebens, 
+wahrer Gott von Ewigkeit! 
+Deine Kraft sei nicht vergebens, 
+sie erfüll uns jederzeit; 
+so wird Leben, Licht und Schein 
+in dem dunklen Herzen sein.
+
+# Gib in unser Herz und Sinnen 
+Weisheit, Rat, Verstand und Zucht, 
+dass wir anders nichts beginnen 
+als nur, was dein Wille sucht; 
+dein Erkenntnis werde groß 
+und mach uns vom Irrtum los.
+
+# Lass uns auf dein Zeugnis bauen, 
+dass wir Gottes Kinder sind, 
+die auf ihn allein vertrauen, 
+wenn sich Not und Drangsal findt; 
+denn des Vaters Lieb und Zucht 
+einzig unser Bestes sucht.
+
+# Lass uns vor den Vater treten, 
+ihn zu ehren stets bereit; 
+seufz auch in uns, wenn wir beten, 
+und  vertritt uns allezeit, 
+so wird unsre Bitt erhört 
+und die Zuversicht vermehrt.
+
+# Ist uns auch um Trost wohl bange, 
+ruft das Herz in Traurigkeit: 
+Ach, mein Gott, mein Gott, wie lange? 
+O so wende unser Leid, 
+sprich der Seele tröstlich zu 
+und gib Mut, Geduld und Ruh.
+
+# O du Geist der Kraft und Stärke,
+du gewisser, neuer Geist,
+fördre in uns deine Werke,
+wenn des Satans Macht sich weist;
+wappne uns in diesem Krieg
+und erhalt in uns den Sieg.
+
+# Herr, bewahr auch unsern Glauben, 
+dass kein Teufel, Tod noch Spott 
+die Gewissheit möge rauben: 
+du bist unser Schutz und Gott; 
+sagt das Ich beharrlich nein, 
+lass dein Wort gewisser sein.
+
+# Wenn  wir endlich sollen sterben, 
+so versichre uns je mehr 
+als des Himmelreiches Erben 
+jener Herrlichkeit und Ehr, 
+die Gott gib durch Jesus Christ 
+und die unaussprechlich ist.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: Neumünster 1931.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4803" xlink:type="simple">
+    <part>Text</part>
+    <year>1658</year>
+  </author>
+  <author xlink:href="#artist-14003" xlink:type="simple">
+    <part>Music</part>
+    <year>1693</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>253</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>278</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>94</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

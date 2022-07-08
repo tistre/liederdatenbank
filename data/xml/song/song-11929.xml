@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11929">
+  <title>Ich wollt, daß ich daheime wär</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Straßburg 1430.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-11897" xlink:type="simple">
+    <part>Text</part>
+    <year>1430</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>517</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+</song>

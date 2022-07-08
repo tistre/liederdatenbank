@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1599">
+  <title>Wie Gott mich führt, so will ich gehn</title>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>369</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>498</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-28">
+  <firstname>Graham</firstname>
+  <lastname>Kendrick</lastname>
+  <name/>
+  <born>1950</born>
+  <died/>
+  <comment>Geboren in Blisworth/Northants (England), 1976 Musikdirektor von &gt;Jugend für Christus&lt; in England, dann in York an der St. Michael Le Befrey Kirche, seit 1984 in London.</comment>
+  <url xlink:href="http://www.grahamkendrick.co.uk/" xlink:type="simple">
+    <title>grahamkendrick.co.uk</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/k/gkendrick.htm" xlink:type="simple">
+    <title>Graham Kendrick @ ccmrezis.de</title>
+  </url>
+</artist>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-923">
+  <title>Holy, holy, holy! Lord God Almighty</title>
+  <text># Holy, holy, holy! Lord God Almighty! 
+Early in the morning our song shall rise to Thee.
+Holy, holy, holy! Merciful and mighty! 
+God in three Persons, blessed Trinity!
+
+# Holy, holy, holy! All the saints adore Thee, 
+casting down their golden Crowns around the glassy sea.
+Cherubim and seraphim falling down before Thee, 
+who wert, and art, and evermore shalt be.
+
+# Holy, holy, holy! Though the darkness hide Thee, 
+though the eye of sinful man Thy glory may not see.
+Only Thou art holy; there is none beside Thee, 
+perfect in pow'r, in love, in purity.
+
+# Holy, holy, holy! Lord God Almighty! 
+All Thy works shall praise Thy name in earth and sky and sea;
+Holy, holy, holy! Merciful and mighty! 
+God in three Persons, blessed Trinity!</text>
+  <language>en</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4467" xlink:type="simple">
+    <part>Text</part>
+    <year>1826</year>
+  </author>
+  <author xlink:href="#artist-4131" xlink:type="simple">
+    <part>Music</part>
+    <year>1861</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>239</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>596</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

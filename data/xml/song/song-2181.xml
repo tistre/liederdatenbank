@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2181">
+  <title>Herr, mach uns stark im Mut, der dich bekennt</title>
+  <language>de</language>
+  <right>Carus-Verlag / Oxford University Press</right>
+  <comment>Dt. Text: Carus-Verlag Stuttgart</comment>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <author xlink:href="#artist-4799" xlink:type="simple">
+    <part>Music</part>
+    <year>1906</year>
+  </author>
+  <author xlink:href="#artist-11340" xlink:type="simple">
+    <part>Text</part>
+    <year>1972</year>
+  </author>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>553</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>289</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>154</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-eze-37" xlink:type="simple">
+    <verse>1-10</verse>
+  </bibleref>
+</song>

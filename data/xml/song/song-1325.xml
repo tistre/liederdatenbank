@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1325">
+  <title>Gottes Sohn! Anbetend schauen</title>
+  <subtitle/>
+  <text># Gottes Sohn! - Anbetend schauen
+Wir in Dir des Vaters Bild,
+Gottes Herrlichkeit und Gnade,
+Seine Liebe unverhüllt.
+Staunend beugen wir uns nieder,
+Singen Dir, dem Herrn der Welt,
+Der das ganze All erhält,
+Unsre Lob und Dankeslieder,
+Preisen mit der Schöpfung laut
+Dich, o Herr, der sie erbaut.
+
+# Gottes Lamm! - Du kamst hernieder
+Aus des Vaters Herrlichkeit,
+Schrittest durch die Welt der Sünde,
+Segen spendend, Gott geweiht.
+Littest stille, ohne Klagen,
+Ließest Dich für unsre Schuld –
+O der wunderbaren Huld! –
+Willig an das Fluchholz schlagen.
+Dank Dir, teures Opferlamm,
+Gottes Sohn am Kreuzesstamm!
+
+# Gottes Lamm! - Jetzt weilst Du droben
+Ruhmgekröhnt auf Gottes Thron.
+Siegreich hast Du überwunden
+Satans Macht und Menschenhohn.
+Jauchzend singen heil'ge Chöre,
+Seit das große Werk vollbracht:
+Dir, dem Lamme, sei gebracht
+Macht und Herrlichkeit und Ehre!
+Und wir stimmen freudig ein:
+Du bist würdig, Du allein!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-5001" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1884</year>
+  </author>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year>1890</year>
+  </author>
+  <author xlink:href="#artist-13386" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#137" xlink:type="simple"/>
+</song>

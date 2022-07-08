@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27471">
+  <title>Du bist das Licht, das nie erlischt</title>
+  <subtitle/>
+  <copyrightyear>1983</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-27472" xlink:type="simple"/>
+  <originalsong xlink:href="#song-27473" xlink:type="simple"/>
+  <author xlink:href="#artist-22551" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3986" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-8" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+</song>

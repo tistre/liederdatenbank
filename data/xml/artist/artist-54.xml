@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-54">
+  <firstname>Johannes</firstname>
+  <lastname>Nitsch</lastname>
+  <name/>
+  <born>1953</born>
+  <died>2002</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Nitsch_%28Musiker%29" xlink:type="simple">
+    <title>Johannes Nitsch @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/n/jnitsch.htm" xlink:type="simple">
+    <title>Johannes Nitsch @ ccmrezis.de</title>
+  </url>
+</artist>

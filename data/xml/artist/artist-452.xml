@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-452">
+  <name>Jesus-Bruderschaft</name>
+  <firstname/>
+  <lastname/>
+  <born/>
+  <died/>
+  <comment>Kommunität Gnadenthal, Jesus-Bruderschaft, 65597 Hünfelden.</comment>
+  <url xlink:href="http://www.jesus-bruderschaft.de/" xlink:type="simple"/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Jesus-Bruderschaft" xlink:type="simple">
+    <title>Jesus-Bruderschaft @ Wikipedia.de</title>
+  </url>
+</artist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26380">
+  <title>Nun will sich scheiden Nacht und Tag</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Nach http://www.liederdatenbank.de/artist/3649 1628</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>822</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

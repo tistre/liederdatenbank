@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1288">
+  <title>Sicher in Jesu Armen, sicher an Seiner Brust</title>
+  <text># Sicher in Jesu Armen, sicher an seiner Brust, 
+ruhend in seiner Liebe, da find ich Himmelslust. 
+Mit holder Hirtenstimme ruft mir mein Heiland zu: 
+Lass ab vom eignen Ringen, an meinem Herzen ruh!" 
+Sicher in Jesu Armen, sicher an seiner Brust, 
+ruhend in seiner Liebe, da find ich Himmelslust.
+
+# Sicher in Jesu Armen, los von der Sorge Qual, 
+sicher in der Versuchung durch Jesu Wundenmal! 
+Frei von dem Druck des Kummers, frei von des Zweifels Pfad, 
+nur noch ein wenig Prüfung, nur etwas Tränensaat! 
+Sicher in Jesu Armen, los von der Sorge Qual, 
+sicher in der Versuchung durch Jesu Wundenmal!
+
+# Jesu, des Herzens Zuflucht, Jesu, du starbst für mich! 
+Sicher auf diesen Felsen stütz ich mich ewiglich. 
+Hier will ich stille warten, bis dass vergeht die Nacht, 
+bis an dem goldnen Ufer leuchtend der Tag erwacht. 
+Jesu, des Herzens Zuflucht, Jesu, du starbst für mich! 
+Sicher auf diesen Felsen stütz ich mich ewiglich.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4259" xlink:type="simple">
+    <part>Text</part>
+    <year>1868</year>
+  </author>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-670" xlink:type="simple">
+    <part>Music</part>
+    <year>(1868) 1870 </year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>437</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>400</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>213</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

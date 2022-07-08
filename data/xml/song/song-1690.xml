@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1690">
+  <title>Nun preiset alle Gottes Barmherzigkeit</title>
+  <text># Nun preiset alle Gottes Barmherzigkeit! 
+Lob ihn mit Schalle, werteste Christenheit! 
+Er lässt dich freundlich zu sich laden; 
+freue dich, Israel, seiner Gnaden, 
+freue dich, Israel, seiner Gnaden!
+
+# Der Herr regieret über die ganze Welt; 
+was sich nur rühret, alles zu Fuß ihm fällt. 
+Viel tausend Engel um ihn schweben, 
+Psalter und Harfen ihm Ehre geben, 
+Psalter und Harfen ihm Ehre geben.
+
+# Wohlauf, ihr Heiden, lasset das Trauern sein, 
+zur grünen Weiden stellet euch willig ein; 
+da lässt er uns sein Wort verkünden, 
+machet uns ledig von allen Sünden, 
+machet uns ledig von allen Sünden.
+
+# Er gibet Speise reichlich und überall, 
+nach Vaters Weise sättigt er allzumal; 
+er schaffet frühn und späten Regen, 
+füllet uns alle mit seinem Segen, 
+füllet uns alle mit seinem Segen.
+
+# Drum preis und ehre seine Barmherzigkeit; 
+sein Lob vermehre, werteste Christenheit! 
+Uns soll hinfort kein Unfall schaden; 
+freue dich, Israel, seiner Gnaden, 
+freue dich, Israel, seiner Gnaden!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: Neumünster 1931.</comment>
+  <copyrightyear/>
+  <ccli_number>4353858</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4689" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1644</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>492</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>672</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>498</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>502</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10905" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21659" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

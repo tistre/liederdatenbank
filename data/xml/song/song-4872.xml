@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4872">
+  <title>Arm und schwach</title>
+  <subtitle>König der Herzen</subtitle>
+  <language>de</language>
+  <right>J. Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <author xlink:href="#artist-4124" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13286">
+  <title>Dich, o Vater, zu verehren</title>
+  <subtitle/>
+  <text># Dich, o Vater, zu verehren,
+Dir zu bringen Preis und Dank,
+Ist das einzige Begehren,
+Wenn wir nahn mit Lobgesang.
+Es erquicket uns Dein Friede,
+In uns wohnt und zeugt Dein Geist,
+Deine Liebe wird nicht müde,
+Immer sie sich treu erweist.
+
+# Deiner Obhut übergeben,
+Trägst Du uns bei Tag und Nacht.
+Wer kann, Vater, g'nug erheben
+Deine Liebe, Gnad' und Macht?
+Da wir arm und Sünder waren,
+Gabst Du ja das Liebste schon,
+Da wir nichts als Feinde waren,
+Starb für uns Dein eigner Sohn.
+
+# Deiner Liebe reiche Fülle
+Alles Denken übersteigt,
+Hast sie völlig ohne Hülle
+In dem Sohne uns gezeigt.
+Und von Deiner Liebe singen,
+Ist des Herzens wahre Freud',
+Ehre, Lob und Dank Dir bringen,
+Ist für uns nur Seligkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13285" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#109" xlink:type="simple"/>
+</song>

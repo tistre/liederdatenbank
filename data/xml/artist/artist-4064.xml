@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4064">
+  <firstname>Gaetan</firstname>
+  <lastname>Roy</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>Generalsekretär der Worship Academy JMS e. V. in Altensteig.</comment>
+  <url xlink:href="http://www.worshipacademy.de/" xlink:type="simple">
+    <title>Worship Academy</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/r/gaetanroy.htm" xlink:type="simple">
+    <title>Gaetan Roy @ ccmrezis.de</title>
+  </url>
+</artist>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-278">
+  <title>Jesu, hilf siegen, du Fürste des Lebens</title>
+  <text># Jesu, hilf siegen, du Fürste des Lebens;
+sieh, wie die Finsternis dringet herein,
+wie sie ihr höllisches Heer nicht vergebens
+mächtig aufführet, mir schädlich zu sein.
+Satan, der sinnet auf allerhand Ränke,
+wie er mich sichte, verstöre und kränke.
+
+# Jesu, hilf siegen! Ach wer muss nicht klagen:
+Herr, mein Gebrechen ist immer vor dir!
+Hilf, wenn die Sünden der Jugend mich nagen,
+die mein Gewissen mir täglich hält für.
+Ach lass mich schmecken dein kräftig Versühnen
+und dies zu meiner Demütigung dienen!
+
+# Jesu, hilf siegen. Wenn in mir die Sünde,
+Eigenlieb, Hoffart und Mißgunst sich regt,
+wenn ich die Last der Begierden empfinde
+und sich mein tiefes Verderben darlegt:
+hilf mir, daß ich vor mir selbst mag erröten
+und durch dein Leiden mein sündlich' Fleisch töten.
+
+# Jesu, hilf siegen, damit auch mein Wille
+dir, Herr, sei gänzlich zu eigen geschenkt
+und ich mich stets in dein Wollen verhülle,
+wo sich die Seele zur Ruhe hin lenkt.
+Lass mich mir sterben und alle dem Meinen,
+dass ich mich zählen kann unter die Deinen.
+
+# Jesu, hilf siegen und laß mich nicht sinken;
+wenn sich die Kräfte der Lügen aufblähn
+und mit dem Scheine der Wahrheit sich schminken,
+laß doch viel heller dann deine Kraft sehn.
+Steh mir zur Rechten, o König und Meister,
+lehre mich kämpfen und prüfen die Geister.
+
+# Jesu, hilf siegen im Wachen und Beten;
+Hüter, du schläfst ja und schlummerst nicht ein;
+laß dein Gebet mich unendlich vertreten,
+der du versprochen, mein Fürsprech zu sein.
+Wenn mich die Nacht mit Ermüdung will decken,
+wollst du mich, Jesu, ermuntern und wecken.
+
+# Jesu, hilf siegen. Wenn alles verschwindet
+und ich mein Nichts und Verderben nur seh,
+wenn kein Vermögen zu beten sich findet,
+wenn ich vor Angst und vor Zagen vergeh,
+ach Herr, so wollst du im Grunde der Seelen
+dich mit dem innersten Seufzen vermählen.
+
+# Jesu, hilf siegen und laß mir's gelingen,
+daß ich das Zeichen des Sieges erlang;
+so will ich ewig dir Lob und Dank singen,
+Jesu, mein Heiland, mit frohem Gesang.
+Wie wird dein Name da werden gepriesen,
+wo du, o Held, dich so mächtig erwiesen.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Der Liedtitel heißt auch "Jesus, hilf siegen". - Gleiche Melodie: "http://www.liederdatenbank.de/song/289", "http://www.liederdatenbank.de/song/2104", "http://www.liederdatenbank.de/song/12049".</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-11750" xlink:type="simple">
+    <part>Text</part>
+    <year>1695</year>
+  </author>
+  <author xlink:href="#artist-8999" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1733</year>
+  </author>
+  <author xlink:href="#artist-25594" xlink:type="simple">
+    <part>Music</part>
+    <year>1766</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>301</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>341</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>445</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>373</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>281</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>272</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-108" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

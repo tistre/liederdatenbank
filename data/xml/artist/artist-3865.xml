@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3865">
+  <firstname>Keith</firstname>
+  <lastname>Green</lastname>
+  <name/>
+  <born>1953</born>
+  <died>1982</died>
+  <comment>Witwe: /artist/68</comment>
+  <url xlink:href="http://en.wikipedia.org/wiki/Keith_Green" xlink:type="simple">
+    <title>Keith Green @ Wikipedia (englisch)</title>
+  </url>
+</artist>

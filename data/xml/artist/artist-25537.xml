@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-25537">
+  <lastname>Corner</lastname>
+  <firstname>David Gregor</firstname>
+  <name/>
+  <born>1585</born>
+  <died>1648</died>
+  <comment>Geboren in Hirschberg/Schlesien, Benediktinermönch, 1638 Rektor der Universität Wien, Herausgeber zweier kath. Gesangbücher.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/David Gregor Corner" xlink:type="simple"/>
+</artist>

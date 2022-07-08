@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23538">
+  <title>Ich schenke euch ein neues Herz</title>
+  <subtitle>Wenn aus kalten Steinen warme Herzen werden</subtitle>
+  <copyrightyear>2016</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Lied zur Jahreslosung 2017</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2016</year>
+  </author>
+  <bibleref xlink:href="#biblechapter-eze-36" xlink:type="simple">
+    <verse>26</verse>
+  </bibleref>
+  <url xlink:href="https://www.scm-shop.de/aktuelles/themenseiten/feste-und-jahreszeiten/das-lied-zur-jahreslosung-2017" xlink:type="simple">
+    <title>Jahreslosung 2017 @ SCM-Shop</title>
+  </url>
+</song>

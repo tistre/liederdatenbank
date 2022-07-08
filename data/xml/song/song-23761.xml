@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23761">
+  <title>Ich sage dir: Schalom. Das heißt: Friede sei mit dir!</title>
+  <subtitle>Hab' ich dich mal geärgert und packt dich dann die Wut</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14405" xlink:type="simple"/>
+  <author xlink:href="#artist-4645" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-44" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

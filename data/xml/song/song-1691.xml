@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1691">
+  <title>Wenn ich, o Schöpfer, deine Macht</title>
+  <text># Wenn ich, o Schöpfer, deine Macht, 
+die Weisheit deiner Wege, 
+die Liebe, die für alle wacht, 
+anbetend überlege, 
+so weiß ich, von Bewundrung voll, 
+nicht, wie ich dich erheben soll, 
+mein Gott, mein Herr und Vater.
+
+# Mein Auge sieht, wohin es blickt, 
+die Wunder deiner Werke; 
+der Himmel, prächtig ausgeschmückt, 
+preist dich, du Gott der Stärke. 
+Wer hat die Sonn an ihm erhöht? 
+Wer kleidet sie mit Majestät? 
+Wer ruft dem Heer der Sterne?
+
+# Wer misst dem Winde seinen Lauf? 
+Wer heißt die Himmel regnen? 
+Wer schließt den Schoß der Erde auf, 
+mit Vorrat uns zu segnen? 
+O Gott der Macht und Herrlichkeit, 
+Gott, deine Güte reicht so weit, 
+so weit die Wolken reichen.
+
+# Dich predigt Sonnenschein und Sturm 
+dich preist der Sand am Meere. 
+Bringt, ruft auch der geringste Wurm, 
+bringt meinem Schöpfer Ehre! 
+Mich, ruft der Baum in seiner Pracht, 
+mich, ruft die Saat, hat Gott gemacht; 
+bringt unserm Schöpfer Ehre!
+
+# Der Mensch, ein Leib, den deine Hand 
+so wunderbar bereitet, 
+der Mensch, ein Geist, den sein Verstand 
+dich zu erkennen leitet: 
+der Mensch, der Schöpfung Ruhm und Preis, 
+ist sich ein täglicher Beweis 
+von deiner Güt und Größe.
+
+# Erheb ihn ewig, o mein Geist, 
+erhebe seinen Namen; 
+Gott unser Vater sei gepreist, 
+und alle Welt sag Amen, 
+und alle Welt fürcht ihren Herrn 
+und hoff auf ihn und dien ihm gern. 
+Wer wollte Gott nicht dienen?</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1469" (EG 329). - "Du bist Herr 1" 227 mit einer neuen Melodie von http://www.liederdatenbank.de/artist/451.</comment>
+  <copyrightyear>1985</copyrightyear>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-12125" xlink:type="simple"/>
+  <author xlink:href="#artist-4612" xlink:type="simple">
+    <part>Text</part>
+    <year>1757</year>
+  </author>
+  <author xlink:href="#artist-4712" xlink:type="simple">
+    <part>Music</part>
+    <year>1668</year>
+  </author>
+  <author xlink:href="#artist-451" xlink:type="simple">
+    <part>Music</part>
+    <year>1985</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>226</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>484</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>495</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>429</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>620</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>506</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>35</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>356</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>436</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24126">
+  <title>Beautiful Things</title>
+  <subtitle>All this pain</subtitle>
+  <copyrightyear>2009</copyrightyear>
+  <right>Für D/A/CH: SCM Hänssler, 71087 Holzgerlingen;</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11062" xlink:type="simple"/>
+  <author xlink:href="#artist-22879" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24125" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

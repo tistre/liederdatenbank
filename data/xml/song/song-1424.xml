@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1424">
+  <title>Alles ist unser, das Brot und der Wein</title>
+  <author xlink:href="#artist-5008" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-5009" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+  </songbookref>
+</song>

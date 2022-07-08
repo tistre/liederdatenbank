@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11907">
+  <title>Nun sich der Tag geendet hat</title>
+  <subtitle/>
+  <text># Nun sich der Tag geendet hat
+und keine Sonn mehr scheint,
+schläft alles, was sich abgematt’
+und was zuvor geweint.
+
+# Nur du, mein Gott, hast keine Rast,
+du schläfst noch schlummerst nicht;
+die Finsternis ist dir verhasst,
+weil du bist selbst das Licht.
+
+# Gedenke, Herr, doch auch an mich
+in dieser schwarzen Nacht
+und schenke du mir gnädiglich
+den Schutz von deiner Wacht.
+
+# Zwar fühl ich wohl der Sünden Schuld,
+die mich bei dir klagt an;
+ach, aber deines Sohnes Huld
+hat g’nug für mich getan.
+
+# Den setz ich dir zum Bürgen ein,
+wenn ich muss vors Gericht;
+ich kann ja nicht verloren sein
+in solcher Zuversicht.
+
+# Weicht, nichtige Gedanken, hin,
+wo ihr habt euren Lauf,
+ich baue jetzt in meinem Sinn
+Gott einen Tempel auf.
+
+# Drauf tu ich meine Augen zu
+und schlafe fröhlich ein,
+mein Gott wacht jetzt in meiner Ruh;
+wer wollt doch traurig sein?
+
+# Soll diese Nacht die letzte sein
+in diesem Jammertal,
+so führ mich, Herr, in’ Himmel ein
+zur Auserwählten Zahl.
+
+# Und also leb und sterb ich dir,
+du Herre Zebaoth;
+im Tod und Leben hilfst du mir
+aus aller Angst und Not.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11760" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1656, (1665) 1667</year>
+  </author>
+  <author xlink:href="#artist-11906" xlink:type="simple">
+    <part>Text</part>
+    <year>(1670) 1692</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>478</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

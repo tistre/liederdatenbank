@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28252">
+  <title>Mit Freuden will ich singen</title>
+  <subtitle/>
+  <text># Mit Freuden will ich singen in dieser Morgenstund;
+recht soll mein Geist sich schwingen in Gottes Liebesgrund.
+Ach Herr, tu auf mein Mund.
+
+# Mit Freuden will ich leben, wie mir mein Gott verleiht,
+recht seinem Wort nachstreben; innerlich Sorge weicht.
+Ach Herr, mein Herz erleucht.
+
+# Mit Freuden will ich danken, für jede Gottesgab,
+will stillen mein Gedanken; in Gott ich alles hab.
+Ach Herr, mein Geist erlab.
+
+# Mit Freuden will ich tragen mein Kreuz an jedem Ort;
+im Leiden will ich sagen: Dein Will g'scheh hier wie dort.
+Ach Herr, bleib du mein Hort.
+
+# Mit Freuden will ich sterben, auf dass ich hab Gewinn,
+die Seligekeit zu erben; zum Himmel steht mein Sinn.
+Ach Herr, mein Seel nimm hin.</text>
+  <copyrightyear/>
+  <right>Satz: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/10630.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-28251" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1605</year>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1729</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21709" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-16" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-16" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+</song>

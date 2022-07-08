@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4741">
+  <firstname>Carl Bernhard</firstname>
+  <lastname>Garve</lastname>
+  <name/>
+  <born>1763</born>
+  <died>1841</died>
+  <comment>Geboren in Jeinsen bei Hannover, Seminarlehrer, dann Prediger der Brüdergemeine in Ebersdorf, Berlin und Neusalz, gestorben in Herrnhut.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Carl_Bernhard_Garve" xlink:type="simple">
+    <title>Carl Bernhard Garve @ Wikipedia.org</title>
+  </url>
+</artist>

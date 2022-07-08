@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11654">
+  <title>In der Nacht vor seinem Tod</title>
+  <subtitle/>
+  <copyrightyear>2001</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-14551" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14517" xlink:type="simple">
+    <cdnum>2</cdnum>
+    <numoncd>14</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-26" xlink:type="simple">
+    <verse>26-28</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2641">
+  <title>Herr, mich zieht es hin zu Dir</title>
+  <subtitle>Auf Deinem Schoß</subtitle>
+  <author xlink:href="#artist-2992" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+  </songbookref>
+</song>

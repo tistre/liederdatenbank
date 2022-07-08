@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-82">
+  <firstname>Lukas</firstname>
+  <lastname>Di Nunzio</lastname>
+  <name/>
+  <born>1966</born>
+  <died/>
+  <comment>Geboren in Wuppertal, Songwriter, lebt in Heidelberg.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Lukas Di Nunzio" xlink:type="simple"/>
+</artist>

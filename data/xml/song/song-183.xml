@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-183">
+  <title>Er ist Herr (von den Toten auferstanden)</title>
+  <language>de</language>
+  <subtitle/>
+  <right>dt. Text: Hännsler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>In http://www.liederdatenbank.de/songbook/10115 ist der Text leicht verändert abgedruckt, die Melodie ist um einen weiteren Teil ergänzt. In http://localhost/ldb/songbook/89 unterscheiden sich Text und Melodie ebenfalls. In http://liederdatenbank.de/songbook/9325 ist der Text leicht vrändert abgedruckt.</comment>
+  <copyrightyear>1977</copyrightyear>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23337" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1068" xlink:type="simple"/>
+  <author xlink:href="#artist-4686" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1977</year>
+  </author>
+  <author xlink:href="#artist-17845" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-17844" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>185</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>60</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>461</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>337</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>152</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>848</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1390</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17413" xlink:type="simple">
+    <cdnum/>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>10-11</verse>
+  </bibleref>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=327191573&amp;id=327191120&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

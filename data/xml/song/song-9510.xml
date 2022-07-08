@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9510">
+  <title>Got a reason for living again</title>
+  <subtitle/>
+  <text>Got a reason for living again,
+got a reason for laughing again,
+got a reason for loving again.
+I´ve got the love of God in my heart!
+
+No reason to cry anymore,
+no reason to sigh anymore,
+no reason to die anymore,
+I´ve got the love of God in my heart!
+
+Monday, I was all alone.
+Tuesday, I had my sins to atone.
+Wednesday, I cried and cried.
+Thursday, I thought I would die.
+
+Friday, I started to pray.
+Saturday, I read my bible all day,
+but Sunday, Lord, the heavens did part.
+I´ve got the love of God in my heart!
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>76</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10160" xlink:type="simple"/>
+</song>

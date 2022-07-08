@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23552">
+  <title>O Jesu, dir sei ewig Dank</title>
+  <subtitle/>
+  <text># O Jesu, dir sei ewig Dank
+für deine Treu und Gaben!
+Ach, lass durch diese Speis und Trank
+auch mich das Leben haben!
+Sei mir willkommen, edler Gast,
+den Sünder nicht verschmähet hast;
+wie soll ich Dank dir sagen?
+
+# O Jesu Christ, du kannst allein
+mein Leib und Seele haben.
+Nun bin ich dein und du bist mein
+mit allen deinen Gaben.
+Hier hab ich, was ich haben soll;
+dein Gnadenbrünnlein ist stets voll,
+hier find ich Trost und Leben.
+
+# Lass mich auch ewig sein in dir;
+lass dir allein mich leben
+und bleib du ewig auch in mir.
+Mein Heil, du wirst mir's geben,
+dass ich kraft dieser Speis und Trank,
+stark bleib, wenn ich bin schwach und krank,
+und fahr zu dir mit Freuden.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4620" xlink:type="simple">
+    <part>Text</part>
+    <year>1671</year>
+  </author>
+  <author xlink:href="#artist-8250" xlink:type="simple">
+    <part>Music</part>
+    <year>1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>094</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

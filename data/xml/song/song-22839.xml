@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22839">
+  <title>East To West</title>
+  <subtitle/>
+  <copyrightyear>2007</copyrightyear>
+  <right>Word Music, LLC / BanaHama Tunes / My Refuge Music / Sony/ATV Tree Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4991313</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-22837" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22838" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

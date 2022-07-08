@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2947">
+  <title>Ströme der Heilung</title>
+  <author xlink:href="#artist-34" xlink:type="simple">
+    <part>Text</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-4196" xlink:type="simple">
+    <part>Music</part>
+    <year>1986</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+  </songbookref>
+</song>

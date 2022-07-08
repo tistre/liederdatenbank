@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13290">
+  <title>Mein Leben ist ein Pilgrimstand</title>
+  <subtitle/>
+  <text># Mein Leben ist ein Pilgrimstand;
+Ich reise nach dem Vaterland,
+Zu Dir, zu meinem Jesus droben.
+Du machtest mir die Stätt' bereit,
+Wo ich, nach allem Kampf und Leid,
+Stets ruhen soll und Dich, Herr, loben.
+Mein Leben ist ein Pilgrimstand,
+Ich reise nach dem Vaterland.
+
+# Durch Deinen Geist, o Herr, mich leit',
+Gib mir im Kampf Beständigkeit,
+Vor Straucheln meinen Fuß beschütze.
+Ich kann ja nichts hier ohne Dich,
+Drum stärke und bewahre mich,
+Sei mir ein Schirm in Trübsalshitze.
+Laß Deinen süßen Gnadenschein
+Mich auf dem öden Pfad erfreun.
+
+# Bin ich in diesem fremden Land
+Der blinden Welt auch unbekannt,
+O Trost! Du bist es, der mich kennet.
+Ich eil' zu Dir, um mit der Schar
+Der Heil'gen Dich dort immerdar
+Zu preisen – dort, wo nichts uns trennet.
+Mein Jesus, komm, o bleib' nicht lang!
+In dieser Fremde ist mir bang.</text>
+  <copyrightyear/>
+  <right>Melodie: Genf 1562</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13273".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13289" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>111</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#111" xlink:type="simple"/>
+</song>

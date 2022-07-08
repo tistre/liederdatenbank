@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-227">
+  <title>Gottes Liebe ist wie die Sonne</title>
+  <language>de</language>
+  <subtitle/>
+  <right>Verlag Rolf Kühne, kassel</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Text und Melodie: Eine Tagungsgruppe Schoß Craheim (Die Rufer), Frankfurt / Main 1970.</comment>
+  <copyrightyear>1970</copyrightyear>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11049" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>385</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>74</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19895" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>041</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

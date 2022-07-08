@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2598">
+  <title>Der Herr regiert, der Herr regiert</title>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2597" xlink:type="simple"/>
+  <author xlink:href="#artist-2774" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2775" xlink:type="simple">
+    <part>Music</part>
+    <year>1980</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+  </songbookref>
+</song>

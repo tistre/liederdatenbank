@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13294">
+  <title>Welche Liebe! Jesus betet</title>
+  <subtitle/>
+  <text># Welche Liebe! Jesus betet.
+Glaubend schauen wir empor.
+Seine Mittlerstimme redet
+Für uns zu des Vaters Ohr.
+In den Himmel eingegangen,
+Siegreich, voller Herrlichkeit,
+Bleibt Sein Herz doch voll Verlangen,
+Uns zu segnen allezeit.
+
+# Und Er betet ohn' Ermüden
+Auch für unsre Seelen jetzt.
+Sein Gebet bewahrt den Frieden,
+Der wie Tau das Herz benetzt.
+Mag der Feinde Schar auch toben,
+Satan selbst uns klagen an,
+Jesu Hände sind gehoben,
+Wer ist, der uns schaden kann?
+
+# Ja, Du betest für die Deinen.
+Welch Vertrauen gibt uns dies!
+Was uns bitter mag erscheinen,
+Wird durch dies Bewußtsein süß.
+Jeden Schmerz hilfst Du uns tragen,
+Jedes Leid kannst Du verstehn,
+Und Du willst in allen Lagen
+Stets zum Vater für uns flehn.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/13270" oder "http://www.liederdatenbank.de/song/13293" gesungen werden.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13285" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#115" xlink:type="simple"/>
+</song>

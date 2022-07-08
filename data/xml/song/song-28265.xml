@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28265">
+  <title>Machet die Tore weit</title>
+  <subtitle>Wer ist derselbe König</subtitle>
+  <text># Machet die Tore weit, 
+und die Türen in der Welt  machet hoch,
+machet hoch, dass der König der Ehren einziehe!
+|: Wer ist derselbe König der Ehren? :|
+Es ist der Herr, stark und mächtig,
+der Herr, stark und mächtig,
+der Herr stark und mächtig im Streite.
+
+# Macht die Tore weit,
+und die Türen in der Welt machet hoch,
+machet hoch, dass der König der Ehren einziehe!
+|: Wer ist derselbe König der Ehren? :|
+Es ist der Herr Zebaoth, es ist der Herr Zebaoth.
+Er ist der König der Ehren, der Ehren!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-28264" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1738</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-24" xlink:type="simple">
+    <verse>7-10</verse>
+  </bibleref>
+</song>

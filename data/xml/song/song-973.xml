@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-973">
+  <title>O Gott, sei gelobt für die Liebe im Sohn</title>
+  <subtitle>Halleluja, sei gepriesen</subtitle>
+  <text># O Gott, sei gelobt 
+für die Liebe im Sohn, 
+der mit Blut uns erwarb 
+und dann aufstieg zum Thron! 
+
+* 1.-3. Halleluja, sei gepriesen, Halleluja,Amen! (2x)
+Herr, segne uns jetzt!
+
+# O Gott, sei gelobt 
+für den Heiligen Geist, 
+der zum Heiland uns führt 
+und dann himmelwärts weist.
+
+# Lob, Ehre und Preis
+sei für immer gebracht
+dir, dem Lamm, das von Sünde
+uns selig gemacht.</text>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-12380" xlink:type="simple">
+    <part>Text</part>
+    <year>1863/1867</year>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4212" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1820</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>323</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>201</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>354</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>252</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>271</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

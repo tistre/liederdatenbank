@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-150">
+  <title>Der Tempel</title>
+  <subtitle>Jesus will uns bau'n zu einem Tempel</subtitle>
+  <language>de</language>
+  <right>D/A/CH/FL : Hänssler Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Originaltitel: "We Are Being Built Into A Temple".</comment>
+  <copyrightyear>1977</copyrightyear>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>5293247</ccli_number>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-10471" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1976</year>
+  </author>
+  <author xlink:href="#artist-38" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>413</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>150</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12915" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>350</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+</song>

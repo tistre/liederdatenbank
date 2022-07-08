@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9032">
+  <title>Komm herab, o Heil'ger Geist</title>
+  <subtitle/>
+  <right>Albert Frey, Ravensburg</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>In http://www.liederdatenbank.de/songbook/9018, S. 40 wurde eine andere Melodie mit einem anderen Refrain als in http://www.liederdatenbank.de/songbook/9046, S. 34 abgedruckt.</comment>
+  <language>de</language>
+  <copyrightyear>1998</copyrightyear>
+  <ccli_number/>
+  <author xlink:href="#artist-9030" xlink:type="simple">
+    <part>Text</part>
+    <year>um 1200</year>
+  </author>
+  <author xlink:href="#artist-9031" xlink:type="simple">
+    <part>Text</part>
+    <year>1971</year>
+  </author>
+  <author xlink:href="#artist-9033" xlink:type="simple">
+    <part>Text</part>
+    <year>1971</year>
+  </author>
+  <author xlink:href="#artist-9034" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1200</year>
+  </author>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-9035" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-9018" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9046" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

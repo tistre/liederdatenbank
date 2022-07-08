@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2415">
+  <title>Du bist da, jeden Tag</title>
+  <subtitle>Wenn ich erwache, bist Du da</subtitle>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1999</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>126</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>407</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>8</numoncd>
+  </cdref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965476&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

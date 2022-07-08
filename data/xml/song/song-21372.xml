@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21372">
+  <title>Wer wohnt unterm Schirm des Höchsten</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-10876" xlink:type="simple"/>
+  <author xlink:href="#artist-21371" xlink:type="simple">
+    <part>Music</part>
+    <year>1953</year>
+  </author>
+  <songbookref xlink:href="#songbook-19439" xlink:type="simple">
+    <numinsongbook>603</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-91" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

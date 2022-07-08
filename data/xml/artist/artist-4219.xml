@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4219">
+  <firstname>Hans-Joachim</firstname>
+  <lastname>Eckstein</lastname>
+  <name/>
+  <born>1950</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Hans-Joachim_Eckstein" xlink:type="simple">
+    <title>Hans-Joachim Eckstein @ Wikipedia</title>
+  </url>
+  <url xlink:href="http://www.ecksteinproduction.com/" xlink:type="simple">
+    <title>Homepage von Hans-Joachim Eckstein</title>
+  </url>
+</artist>

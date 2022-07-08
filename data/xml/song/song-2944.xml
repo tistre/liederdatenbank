@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2944">
+  <title>So wie ein Baum, der am Quellenrand steht</title>
+  <author xlink:href="#artist-72" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+  </songbookref>
+</song>

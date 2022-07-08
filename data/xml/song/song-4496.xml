@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4496">
+  <title>Freut euch, freut euch, Menschenkinder</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-4831" xlink:type="simple">
+    <part>Music</part>
+    <year>1840</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>218</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>816</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

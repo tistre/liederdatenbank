@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22597">
+  <title>Tu den ersten Schritt</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Aus der DDR</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-22493" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+</song>

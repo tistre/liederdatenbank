@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-216">
+  <title>Gott bahnt für mich</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-82" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>190</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17401" xlink:type="simple">
+    <cdnum/>
+    <numoncd>4</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

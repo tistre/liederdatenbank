@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22155">
+  <title>Wir ziehen vor die Tore der Stadt</title>
+  <subtitle/>
+  <copyrightyear>1994</copyrightyear>
+  <right>(Melodie). Rechte für den Text beim Urheber.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-22154" xlink:type="simple"/>
+  <author xlink:href="#artist-19210" xlink:type="simple">
+    <part>Text</part>
+    <year>1971</year>
+  </author>
+  <author xlink:href="#artist-9278" xlink:type="simple">
+    <part>Music</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-22148" xlink:type="simple">
+    <numinsongbook>04</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>6-9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-heb-13" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

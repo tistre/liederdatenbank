@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-25838">
+  <lastname>Rinck</lastname>
+  <firstname>Johann Christian Heinrich</firstname>
+  <name/>
+  <born>1770</born>
+  <died>1846</died>
+  <comment>Geboren in Elgersburg bei Ilmenau (Thüringen), Kantor und Organist in Darmstadt.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/ Christian Heinrich Rinck" xlink:type="simple"/>
+</artist>

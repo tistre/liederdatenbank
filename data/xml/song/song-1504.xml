@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1504">
+  <title>Jesus, Lamm Gottes, in Herrlichkeit droben gekrönet</title>
+  <subtitle/>
+  <text># Jesus, Lamm Gottes, in Herrlichkeit droben gekrönet,
+Warest einst hier und hast sterbend am Kreuz uns versöhnet.
+Ewiger Sohn,
+Gingst von dem Kreuze zum Thron,
+Du, der hienieden verhöhnet.
+
+# Deine Geliebten, versammelt, um Dich zu erheben,
+Die Du geführt hast vom Tode zum ewigen Leben,
+Beten Dich an,
+Der Du so Großes getan,
+Selber Dich für uns gegeben.
+
+# Preis und Anbetung sei Deinem hochheiligen Namen,
+Hoch und erhaben ist er über jeglichen Namen!
+Preis sei schon hier,
+Preis einst in Herrlichkeit Dir!
+Preis sei Dir ewiglich! Amen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/314", "http://www.liederdatenbank.de/song/13398", "http://www.liederdatenbank.de/song/13422", "http://www.liederdatenbank.de/song/13477", "http://www.liederdatenbank.de/song/967", "http://www.liederdatenbank.de/song/1459", "http://www.liederdatenbank.de/song/14016".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13304" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13305" xlink:type="simple">
+    <part>Music</part>
+    <year>1665</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>245</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>129</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#129" xlink:type="simple"/>
+</song>

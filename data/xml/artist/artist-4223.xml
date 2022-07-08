@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4223">
+  <firstname>Jo</firstname>
+  <lastname>Akepsimas</lastname>
+  <name/>
+  <born>1940</born>
+  <died/>
+  <comment>Geboren in Athen, Sänger und Komponist, lebt in Paris.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Jo Akepsimas" xlink:type="simple"/>
+</artist>

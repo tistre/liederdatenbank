@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11213">
+  <title>Tui amoris ignem</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>la</language>
+  <author xlink:href="#artist-3669" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-3668" xlink:type="simple"/>
+  <url xlink:href="http://www.taize.fr/en_article501.html?lang=de" xlink:type="simple"/>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10277">
+  <title>O Gott der Liebe! Ohne Hülle</title>
+  <subtitle/>
+  <text># O Gott der Liebe! ohne Hülle
+Bist Du im Sohn geoffenbart.
+Schon unermeßlich ist die Fülle,
+Die hier der Glaub' in Ihm gewahrt.
+Doch völlig wird das Herz erquickt,
+Wenn Deine Lieb' es ganz erblickt.
+
+# Du gabest einst – o welch Erbarmen!
+Den eignen Sohn für unsre Schuld.
+Jetzt trägst Du uns auf Vaterarmen
+Und leitest uns voll Treu' und Huld.
+Dein Lieben unvergleichlich ist,
+Du liebst uns, weil Du Liebe bist.
+
+# Und welch ein Trost in allen Lagen,
+Daß Deine Treu' uns nie vergißt!
+Wie könnten jemals wir verzagen,
+Da Du, Gott, unser Vater bist!
+Vergäß' die Mutter selbst ihr Kind,
+Dein Lieben nie ein Ende find't.
+
+# Drum gehn wir freudig unsre Pfade
+Und harren aus in jedem Leid.
+Nie wanket Deine Lieb' und Gnade,
+Nie Deines Herzens Freundlichkeit.
+Drum Dank Dir, Vater, ewig Dank!
+Dich preise unser Lobgesang!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1403", "http://www.liederdatenbank.de/song/343".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/031_040.html#32" xlink:type="simple"/>
+</song>

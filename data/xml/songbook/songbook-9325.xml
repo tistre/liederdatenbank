@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9325">
+  <name>Wiedenester Jugendlieder 2002</name>
+  <icon xlink:href="#file-9324" xlink:type="simple"/>
+  <comment>Wiedenester Jugendlieder 2002/03.
+Missionshaus Bibelschule Wiedenest e.V., Olper Straße 10, 51702 Bergneustadt
+in Zusammenarbeit mit:
+CJ Christliche Jugendpflege e.V., Kirchstraße 4, 35685 Diellenburg</comment>
+  <state>1</state>
+  <url xlink:href="http://www.wiedenest.de/" xlink:type="simple">
+    <title>Missionshaus Bibelschule Wiedenest</title>
+  </url>
+</songbook>

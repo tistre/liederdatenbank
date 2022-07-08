@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24620">
+  <title>Sei still, mein Herz und vertrau auf deinen Gott</title>
+  <subtitle/>
+  <copyrightyear>2016</copyrightyear>
+  <right>BMG Rights Management GmbH, Berlin.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22871" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-exo-14" xlink:type="simple">
+    <verse>14</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-62" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>38</verse>
+  </bibleref>
+</song>

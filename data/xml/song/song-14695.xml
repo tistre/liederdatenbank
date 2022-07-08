@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14695">
+  <title>Der Tag, der ist so freudenreich</title>
+  <subtitle/>
+  <text># Der Tag, der ist so freudenreich
+allen Menschenkindern,
+denn Gottes Sohn vom Himmelreich
+zulieb uns armen Sündern
+von einer Jungfrau ist geborn.
+Maria, du bist auserkorn,
+dass du Mutter wärest.
+Was geschah so wundergleich?
+Gottes Sohn vom Himmelreich,
+der ist Mensch geboren.
+
+# Halleluja, denn uns ist heut
+ein göttlich Kind geboren.
+Von ihm kommt unsre Seligkeit;
+wir wären sonst verloren.
+Am Himmel hätten wir nicht teil,
+wenn nicht zu unser aller Heil
+dies Kind geboren wäre.
+Liebster Heiland Jesu Christ,
+der du unser Bruder bist,
+dir sei Lob, Preis und Ehre.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text: Strophe 1 15. Jh. nach »Dies est laetitiae« um 1320; Strophe 2 Johann Peter Uz 1781 nach »Ein Kindelein so löbelich« 15. Jh.
+Melodie: Medingen um 1320, Hohenfurt 1410, Wittenberg 1529
+</comment>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>538</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>1-20</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1054">
+  <title>O Du Lamm Gottes, das da getragen</title>
+  <subtitle/>
+  <text>#
+O du Lamm Gottes, das da getragen 
+all meiner Sünde Schuld, Fluch und Macht, 
+für mich ans Kreuzholz warst du geschlagen, 
+für mich hast alles du dort vollbracht! 
+Nun hat die Erde nichts mehr an mir. 
+Teuer erworben folge ich dir; 
+du bist mein Friede, du bist mein Leben, 
+dich, meine Leuchte in dunkler Nacht 
+fand ich am Kreuz.
+
+#
+O du Lamm Gottes nimm meine Hände
+nimm sie in deine halte sie fest, 
+führe und trage mich bis zum Ende
+wenn mich die eigne Kraft hier verlässt!
+In allem Kreuze in allem Krieg,
+sei meine Stärke, bleibe mein Sieg. 
+Still will ich ruhen, still will ich rasten 
+in dem, was du, Herr, für mich vollbracht; 
+du bist mein Trost!
+
+#
+O du Lamm Gottes, Quelle der Gnaden, 
+Wunder der Liebe wirket dein Blut 
+Wer da mühselig, wer da beladen
+der hat es bei dir köstlich und gut. 
+Dich will ich preisen, dir tönt mein Dank, 
+Lamm, das das Leben für mich errang! 
+Siegesfroh klingt es durch aller Leiden 
+brausende Flut und sengende Glut: 
+„Ich komme bald!"</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-4546" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25511" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>510</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>266</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>841</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>264</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

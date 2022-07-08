@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-848">
+  <title>Wie auf dunklem Weg ein Licht</title>
+  <subtitle>So sind Deine Worte</subtitle>
+  <author xlink:href="#artist-2580" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>213</numinsongbook>
+  </songbookref>
+  <right>© 1991 Musikverlag Klaus Gerth</right>
+</song>

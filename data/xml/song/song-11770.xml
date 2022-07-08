@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11770">
+  <title>Ein wahrer Glaube Gotts Zorn stillt</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1614" (EG 300).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>Text</part>
+    <year>(1560) 1562</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>413</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1co-13" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-5" xlink:type="simple">
+    <verse>43-45</verse>
+  </bibleref>
+</song>

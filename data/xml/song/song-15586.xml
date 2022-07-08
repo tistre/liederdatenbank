@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15586">
+  <title>All bow down</title>
+  <subtitle>You're arriving with the sound of thunder</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4403375</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11062" xlink:type="simple"/>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-14607" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-14602" xlink:type="simple">
+    <cdnum/>
+    <numoncd>8</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

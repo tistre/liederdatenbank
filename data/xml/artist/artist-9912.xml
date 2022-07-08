@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9912">
+  <lastname>Abel</lastname>
+  <firstname>Otto</firstname>
+  <name/>
+  <born>1905</born>
+  <died>1977</died>
+  <comment>Geboren in Berlin. 1930-1970 Kantor und Organist an der Immanuelkirche in Berlin. 1956 Kirchenmusikdirektor, 1959 Landeskirchenmusikdirektor von Berlin-Brandenburg; Verlagslektor bei der Evangelischen Verlagsanstalt in Berlin. Gestorben in Tettnang (Württ.)</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Otto_Abel_(Komponist)" xlink:type="simple">
+    <title>Otto Abel (Komponist) @ Wikipedia.de</title>
+  </url>
+</artist>

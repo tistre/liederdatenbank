@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4881">
+  <title>There is a voice that can be heard</title>
+  <subtitle>The song of heaven</subtitle>
+  <language>en</language>
+  <right>Praize Republic</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-4880" xlink:type="simple"/>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+  </songbookref>
+</song>

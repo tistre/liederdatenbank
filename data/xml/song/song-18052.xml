@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-18052">
+  <title>Mein Gott, ich will hören</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>andere Textfassung: http://www.liederdatenbank.de/song/1730,  http://www.liederdatenbank.de/song/25315,  http://www.liederdatenbank.de/song/27540. </comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-10051" xlink:type="simple"/>
+  <author xlink:href="#artist-9153" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4856" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>531</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

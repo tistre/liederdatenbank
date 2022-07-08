@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23214">
+  <title>Break Every Chain</title>
+  <subtitle/>
+  <copyrightyear>2009</copyrightyear>
+  <right>United Pursuit Music </right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5910977</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-16199" xlink:type="simple"/>
+  <author xlink:href="#artist-23213" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

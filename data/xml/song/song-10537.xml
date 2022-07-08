@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10537">
+  <title>Du Morgenstern, du Licht vom Licht</title>
+  <subtitle/>
+  <text># Du Morgenstern, du Licht vom Licht,
+das durch die Finsternisse bricht,
+du gingst vor aller Zeiten Lauf
+in unerschaffner Klarheit auf.
+
+# Du Lebensquell, wir danken dir,
+auf dich, Lebend’ger, hoffen wir;
+denn du durchdrangst des Todes Nacht,
+hast Sieg und Leben uns gebracht.
+
+# Du ewge Wahrheit, Gottes Bild,
+der du den Vater uns enthüllt,
+du kamst herab ins Erdental
+mit deiner Gotterkenntnis Strahl.
+
+# Bleib bei uns, Herr, verlass uns nicht,
+führ uns durch Finsternis zum Licht,
+bleib auch am Abend dieser Welt
+als Hilf und Hort uns zugesellt.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "Steh auf, ihr lieben Kinderlein" (EG 442), andere Melodie: "Lobt Gott, den Herrn der Herrlichkeit" (EG 300).</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-10527" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1800</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>74</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

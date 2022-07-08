@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13299">
+  <title>Nur bei Jesu möcht' ich weilen</title>
+  <subtitle/>
+  <text># Nur bei Jesu möcht' ich weilen,
+Nur, wo Er ist, ruhen aus.
+Alles werd' ich mit Ihm teilen
+Dort im teuren Vaterhaus.
+Werde ganz für Ihn nur leben,
+Stets Ihn preisen und erheben.
+O welch Glück! wer spricht es aus?
+
+# Nur bei Jesu schweigt mein Sehnen,
+Mein Verlangen stillt nur Er.
+Wie könnt' ich mich auch gewöhnen
+Hier, wo alles öd' und leer?
+Wo ich fremd und einsam gehe,
+Nirgend eine Heimat sehe,
+Nirgend finde mein Begehr?
+
+# Du, mein Jesus, bist mein Leben,
+Bist allein mein köstlich Teil.
+Alles hast Du hingegeben,
+Ja, Dich selbst, zu meinem Heil.
+Darum kann auch nichts auf Erden
+Meines Herzens Wonne werden,
+Du nur, Jesu, bist mein Teil.
+
+# Du, des Himmels ew'ge Sonne,
+Du, der Engel Herrlichkeit,
+Du, des Vaters Freud' und Wonne,
+Du bist mein in Ewigkeit.
+Möchtest Du doch all die Deinen
+Heute noch mit Dir vereinen
+Dort in Deiner Herrlichkeit!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13248". - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/10226", "http://www.liederdatenbank.de/song/13168" oder "http://www.liederdatenbank.de/song/13249" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13298" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#123" xlink:type="simple"/>
+</song>

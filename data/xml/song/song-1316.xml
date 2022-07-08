@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1316">
+  <title>Jauchzt, alle Lande, Gott zu Ehren</title>
+  <text># Jauchzt, alle Lande, Gott zu Ehren, 
+rühmt seines Namens Herrlichkeit, 
+und feierlich ihn zu verklären, 
+sei Stimm und Saite ihm geweiht. 
+Sprecht: Wunderbar sind deine Werke, 
+o Gott, die du hervorgebracht; 
+auch Feinde fühlen deine Stärke 
+und zittern, Herr, vor deiner Macht.
+
+# Dir beuge sich der Kreis der Erde, 
+dich bete jeder willig an, 
+dass laut dein Ruhm besungen werde 
+und alles dir sei untertan. 
+Kommt alle her, schaut Gottes Werke, 
+die er an Menschenkindern tat! 
+Wie wunderbar ist seine Stärke, 
+die er an uns verherrlicht hat!
+
+# Ins Trockne wandelt er die Meere,
+gebot dem Sturm, vor uns zu fliehn;
+wir freuten uns der Macht und Ehre,
+die uns hieß durch die Fluten ziehn.
+Gott herrschet allgewaltig immer,
+da er auf alle Völker schaut.
+Vor ihm gelingt's Empörern nimmer,
+es stürzet, wer auf Menschen baut.
+
+# Rühmt, Völker, unsern Gott; lobsinget, 
+jauchzt ihm, der uns sich offenbart, 
+der uns vom Tod zum Leben bringet, 
+vor Straucheln unsern Fuß bewahrt. 
+Du läuterst uns durch heißes Leiden, 
+wie Silber rein wird in der Glut, 
+durch Leiden führst du uns zu Freuden; 
+ja alles, was du tust, ist gut.
+
+# Du hast uns oft verstrickt in Schlingen,
+den Lenden Lasten angehängt;
+du ließest Menschen auf uns dringen,
+hast ringsumher uns eingeengt.
+Oft wollten wir den Mut verlieren
+im Feuer und in Wassersnot,
+doch kamst du, uns herauszuführen,
+und speisest uns mit Himmelsbrot.
+
+# Ich will zu deinem Tempel wallen,
+dort bring ich dir mein Opfer dar,
+bezahl mit frohem Wohlgefallen
+Gelübde, die ich schuldig war;
+Gelübde, die in banger Stunde -
+an allem, nicht an dir verzagt -
+ich dir, o Gott, mit meinem Munde
+so feierlich hab zugesagt.
+
+# Die ihr Gott fürchtet, ich erzähle: 
+kommt, hört und betet mit mir an! 
+Hört, was der Herr an meiner Seele 
+für große Dinge hat getan. 
+Rief ich ihn an mit meinem Munde, 
+wenn Not von allen Seite drang, 
+so war oft zu derselben Stunde 
+auf meiner Zung ein Lobgesang.
+
+# Gelobt sei Gott und hochgepriesen, 
+denn mein Gebet verwirft er nicht; 
+er hat noch nie mich abgewiesen 
+und ist in Finsternis mein Licht. 
+Zwar elend, dürftig bin ich immer 
+und schutzlos unter Feinden hier; 
+doch er, der Herr, verlässt mich nimmer, 
+wendt seine Güte nie von mir.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11453" (EG 294).</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year>1798</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <author xlink:href="#artist-4640" xlink:type="simple">
+    <part>Music</part>
+    <year>1551</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>279</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

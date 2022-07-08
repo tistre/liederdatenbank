@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11346">
+  <title>Gott Vater, dir sei Dank gesagt</title>
+  <subtitle/>
+  <text>Gott Vater, dir sei Dank gesagt und Ehre;
+Herr Jesu Christ, den Glauben in uns mehre;
+o Heilger Geist, erneu uns Herz und Mund,
+dass wir dein Lob ausbreiten alle Stund.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11345" (EG 271).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9187" xlink:type="simple">
+    <part>Text</part>
+    <year>1652</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

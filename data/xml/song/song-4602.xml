@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4602">
+  <title>Herr, die Erde ist gesegnet</title>
+  <text># Herr, die Erde ist gesegnet von dem Wohltun deiner Hand. 
+Güt und Milde hat geregnet, dein Geschenk bedeckt das Land: 
+auf den Hügeln, in den Gründen ist dein Segen ausgestreut; 
+unser Warten ist gekrönet, unser Herz hast du erfreut.
+
+# Aller Augen sind erhoben, Herr, auf dich zu jeder Stund, 
+dass du Speise gibst von oben und versorgest jeden Mund. 
+Und du öffnest deine Hände, dein Vermögen wird nicht matt, 
+deine Hilfe, Gab und Spende machet alle froh und satt.
+
+# Du gedenkst in deiner Treue an dein Wort zu Noahs Zeit, 
+dass dich nimmermehr gereue deine Huld und Freundlichkeit; 
+und solang die Erde stehet, über der dein Auge wacht, 
+soll nicht enden Saat und Ernte, Frost und Hitze, Tag und Nacht.
+
+# Herr, wir haben solche Güte nicht verdient, die du getan; 
+unser Wissen und Gemüte klagt uns vieler Sünden an. 
+Herr, verleih, dass deine Gnade jetzt an unsre Seelen rührt, 
+dass der Reichtum deiner Milde unser Herz zur Buße führt.
+
+# Hilf, dass wir dies Gut der Erden treu verwalten immerfort. 
+Alles soll geheiligt werden durch Gebet und Gotteswort. 
+Alles, was wir Gutes wirken, ist gesät in deinen Schoß 
+und du wirst die Ernte senden unaussprechlich reich und groß.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/8984): "http://www.liederdatenbank.de/song/2141", "http://www.liederdatenbank.de/song/1517". - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/13103", "http://www.liederdatenbank.de/song/13213", "http://www.liederdatenbank.de/song/1418", "http://www.liederdatenbank.de/song/248" (EG 251), "http://www.liederdatenbank.de/song/13408", "http://www.liederdatenbank.de/song/1374", "http://www.liederdatenbank.de/song/127".</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4690" xlink:type="simple">
+    <part>Text</part>
+    <year>1843</year>
+  </author>
+  <author xlink:href="#artist-4691" xlink:type="simple">
+    <part>Music</part>
+    <year>1831</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>496</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>512</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>671</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>357</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>424</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21659" xlink:type="simple"/>
+</song>

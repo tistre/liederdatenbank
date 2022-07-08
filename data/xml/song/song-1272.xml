@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1272">
+  <title>Nicht der Anfang, nur das Ende</title>
+  <text># Nicht der Anfang, nur das Ende krönt des Christen Glaubensstreit. 
+Ach, getreuer Gott, vollende meinen Lauf in dieser Zeit! 
+Hab ich dich einmal erkannt, so verleih mir auch Bestand, 
+dass ich, bis ich einst erkalte, Glauben, Lieb und Hoffnung halte.
+
+2. Lass mich einem Felsen gleichen, der in Sturm und Wellen steht; 
+lass mich nicht zurückeweichen, wenn mich Not und Tod umfäht. 
+Sei mein Anker, der nicht bricht; sei mein Stern und helles Licht, 
+dass ich nie von dir mich scheide und am Glauben Schiffbruch leide!
+
+# Es ist gut, ein Christ zu werden, besser noch, ein Christ zu sein; 
+doch den besten Ruhm auf Erden gibt der Herr nur dem allein, 
+der ein Christ beständig bleibt und bis an sein Ende glaubt; 
+solchen wird mit ewgen Kronen Christus droben einst belohnen.
+
+# Lass mich halten, was ich habe, dass mir nichts die Krone nimmt. 
+Es ist deines Geistes Gabe, dass mein Glaubensdocht noch glimmt. 
+Lösche nicht dies Fünklein aus, mach ein helles Feuer draus, 
+lass es ungestöret brennen, dich vor aller Welt bekennen.
+
+# Du hast guten Grund geleget: Jesus, der mein Eckstein ist, 
+wird durch keine Macht beweget, ihn verrücket keine List. 
+Lass mich fest auf ihm bestehn, nimmermehr zugrunde gehn, 
+wenn sich Macht und List bemühen, mich von Christo abzuziehen.
+
+# Gib mir, dass ich wie die Rebe, die an ihrem Weinstock hangt, 
+so durch Glauben in dir lebe, bis mein Kampf den Sieg erlangt. 
+Kommt es dann zur letzten Not, so versiegle mir im Tod, 
+was ich hier geglaubt auf Erden, und lass es zum Schauen werden!</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4383" xlink:type="simple">
+    <part>Music</part>
+    <year>1642</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>420</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>447</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

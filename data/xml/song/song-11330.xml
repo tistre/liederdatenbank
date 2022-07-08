@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11330">
+  <title>Nimm von uns, Herr, du treuer Gott</title>
+  <subtitle/>
+  <text># Nimm von uns, Herr, du treuer Gott,
+die schwere Straf und große Not,
+die wir mit Sünden ohne Zahl
+verdienet haben allzumal.
+Behüt vor Krieg und teurer Zeit,
+vor Seuchen, Feu’r und großem Leid.
+
+# Erbarm dich deiner bösen Knecht,
+wir flehn um Gnad und nicht um Recht;
+denn so du, Herr, den rechten Lohn
+uns geben wolltst nach unserm Tun,
+so müsst die ganze Welt vergehn
+und könnt kein Mensch vor dir bestehn.
+
+# Ach Herr Gott, durch die Treue dein
+mit Trost und Rettung uns erschein.
+Beweis an uns dein große Gnad
+und straf uns nicht auf frischer Tat,
+wohn uns mit deiner Güte bei,
+dein Zorn und Grimm fern von uns sei.
+
+# Gedenk an deines Sohnes Tod,
+sieh an sein heilig Wunden rot.
+Die sind ja für die ganze Welt
+die Zahlung und das Lösegeld.
+Des trösten wir uns allezeit
+und hoffen auf Barmherzigkeit.
+
+# Leit uns mit deiner rechten Hand
+und segne unser Stadt und Land;
+gib uns allzeit dein heilig Wort,
+behüt vors Teufels List und Mord;
+ein selig End wollst uns verleihn,
+auf dass wir ewig bei dir sein.
+</text>
+  <copyrightyear/>
+  <right>Text: nach "Aufer immensam, Deus, aufer iram" Wittenberg 1541.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1351" (EG 344).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11319" xlink:type="simple">
+    <part>Text</part>
+    <year>1584</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

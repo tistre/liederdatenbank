@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2345">
+  <title>Jesus, Du bist wunderbar</title>
+  <language>de</language>
+  <right>für Immanuel Music, Ravensburg</right>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear>1997</copyrightyear>
+  <ccli_number>4327798</ccli_number>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9018" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-15188" xlink:type="simple">
+    <cdnum/>
+    <numoncd>10</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270482861&amp;id=270482764&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

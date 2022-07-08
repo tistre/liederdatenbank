@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9187">
+  <lastname>Denicke</lastname>
+  <firstname>David</firstname>
+  <name/>
+  <born>1603</born>
+  <died>1680</died>
+  <comment>Geboren in Zittau, Jurist in Jena und Königsberg, Konsistorialrat in Hannover.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/David Denicke" xlink:type="simple"/>
+</artist>

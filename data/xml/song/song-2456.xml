@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2456">
+  <title>Jesus, berühre mich</title>
+  <subtitle>Nur den Saum deines Gewandes</subtitle>
+  <language>de</language>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear>2000</copyrightyear>
+  <right>Verwaltet von SCM Hänssler</right>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4334499</ccli_number>
+  <publisher xlink:href="#publisher-22716" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>172</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>151</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>944</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17413" xlink:type="simple">
+    <cdnum/>
+    <numoncd>2</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-14" xlink:type="simple">
+    <verse>36</verse>
+  </bibleref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=63770" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=201630994&amp;id=201630955&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

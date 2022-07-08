@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9060">
+  <title>Dein König kommt in niedern Hüllen</title>
+  <subtitle/>
+  <text># Dein König kommt in niedern Hüllen,
+ihn trägt der lastbarn Es’lin Füllen,
+empfang ihn froh, Jerusalem!
+Trag ihm entgegen Friedenspalmen,
+bestreu den Pfad mit grünen Halmen;
+so ist’s dem Herren angenehm.
+
+# O mächt’ger Herrscher ohne Heere,
+gewalt’ger Kämpfer ohne Speere,
+o Friedefürst von großer Macht!
+Es wollen dir der Erde Herren
+den Weg zu deinem Throne sperren,
+doch du gewinnst ihn ohne Schlacht.
+
+# Dein Reich ist nicht von dieser Erden,
+doch aller Erde Reiche werden
+dem, das du gründest, untertan.
+Bewaffnet mit des Glaubens Worten
+zieht deine Schar nach allen Orten
+der Welt hinaus und macht dir Bahn.
+
+# Und wo du kommst herangezogen,
+da ebnen sich des Meeres Wogen,
+es schweigt der Sturm, von dir bedroht.
+Du kommst, dass auf empörter Erde
+der neue Bund gestiftet werde,
+und schlägst in Fessel Sünd und Tod.
+
+# O Herr von großer Huld und Treue,
+o komme du auch jetzt aufs neue
+zu uns, die wir sind schwer verstört.
+Not ist es, dass du selbst hienieden
+kommst, zu erneuen deinen Frieden,
+dagegen sich die Welt empört.
+
+# O lass dein Licht auf Erden siegen,
+die Macht der Finsternis erliegen
+und lösch der Zwietracht Glimmen aus,
+dass wir, die Völker und die Thronen,
+vereint als Brüder wieder wohnen
+in deines großen Vaters Haus.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-9058" xlink:type="simple">
+    <part>Text</part>
+    <year>1834</year>
+  </author>
+  <author xlink:href="#artist-9059" xlink:type="simple">
+    <part>Music</part>
+    <year>1853</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-zec-9" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

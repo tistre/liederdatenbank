@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23142">
+  <title>Dir gehörn</title>
+  <subtitle/>
+  <copyrightyear>2005</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5497373</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22689" xlink:type="simple"/>
+  <originalsong xlink:href="#song-23141" xlink:type="simple"/>
+  <author xlink:href="#artist-23130" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23134" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-8876" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21989" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21965" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22829" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

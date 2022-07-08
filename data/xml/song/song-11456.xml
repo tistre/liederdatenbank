@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11456">
+  <title>Treuer Wächter Israel'</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/2002" (EG 38).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4736" xlink:type="simple">
+    <part>Text</part>
+    <year>1630</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-121" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-46" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

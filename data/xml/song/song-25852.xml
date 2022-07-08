@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25852">
+  <title>Steht auf, steht auf zum Streite</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: nach Sabbath Hymn Book 1858.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12051" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>368</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-26133" xlink:type="simple"/>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9192">
+  <title>Lobt den Herrn, lobt den Herrn</title>
+  <subtitle/>
+  <right>(Text): Strube Verlag, München</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Melodie aus Israel.
+Anderer Text: http://www.liederdatenbank.de/song/9616</comment>
+  <language>de</language>
+  <ccli_number/>
+  <author xlink:href="#artist-4752" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

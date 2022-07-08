@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3643">
+  <firstname>Samuel Sebastian</firstname>
+  <lastname>Wesley</lastname>
+  <name/>
+  <born>1810</born>
+  <died>1876</died>
+  <comment>Sohn von Samuel Wesley und Enkel von http://www.liederdatenbank.de/artist/4262</comment>
+  <url xlink:href="http://en.wikipedia.org/wiki/Samuel_Sebastian_Wesley" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23658">
+  <title>Du bist der ICH-BIN-DA</title>
+  <subtitle>Du bist Vater und Mutter, Schwester und Bruder</subtitle>
+  <copyrightyear/>
+  <right>Impulse Musikverlag Ludger Edelkötter, Drensteinfurt</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Kanon zu 2 Stimmen. Die Strophen versuchen eine Beschreibung des Namens Gottes. Wer ist Gott für dich? Beschreibe seine Eigenschaften mit deinen Worten und Bildern.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4645" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9295" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-exo-3" xlink:type="simple">
+    <verse>14</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4410">
+  <firstname>Jonathan Alexander Benjamin</firstname>
+  <lastname>Paul</lastname>
+  <name/>
+  <born>1853</born>
+  <died>1931</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Jonathan_Paul" xlink:type="simple"/>
+</artist>

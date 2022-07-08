@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4942">
+  <title>O sacred King</title>
+  <subtitle/>
+  <copyrightyear>1999</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>2646701</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=206959930&amp;id=206957865&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

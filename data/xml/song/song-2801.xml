@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2801">
+  <title>Dein Herz suchen wir</title>
+  <author xlink:href="#artist-673" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3977" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+  </songbookref>
+</song>

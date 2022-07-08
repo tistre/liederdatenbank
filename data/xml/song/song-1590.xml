@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1590">
+  <title>Von Gott will ich nicht lassen</title>
+  <text># Von Gott will ich nicht lassen, 
+denn er lässt nicht von mir, führt mich durch alle Straßen, 
+da ich sonst irrte sehr. Er reicht mir seine Hand, 
+den Abend und den Morgen tut er mich wohl versorgen, 
+wo ich auch sei im Land, wo ich auch sei im Land.
+
+# Auf ihn will ich vertrauen in meiner schweren Zeit; 
+es kann mich nicht gereuen, er wendet alles Leid. 
+Ihm sei es heimgestellt; mein Leib, mein Seel, mein Leben 
+sei Gott dem Herrn ergeben, 
+er schaffs, wies ihm gefällt, er schaffs, wies ihm gefällt.
+
+# Darum, ob ich schon dulde hier Widerwärtigkeit, 
+wie ich auch wohl verschulde, kommt doch die Ewigkeit, 
+ist aller Freuden voll, die ohne alles Ende, 
+und, weil ich Christus kenne, 
+mir widerfahren soll, mir widerfahren soll.
+
+# Das ist des Vaters Wille, der uns geschaffen hat. 
+Sein Sohn hat Guts die Fülle erworben uns und Gnad. 
+Auch Gott der Heilig Geist im Glauben uns regieret, 
+zum Reich der Himmel führet. 
+Ihm sei Lob, Ehr und Preis! Ihm sei Lob, Ehr und Preis!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_features>L</ccli_features>
+  <copyrightyear/>
+  <ccli_number>5212637</ccli_number>
+  <author xlink:href="#artist-4648" xlink:type="simple">
+    <part>Text</part>
+    <year>1569</year>
+  </author>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>365</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>389</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>357</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>485</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9534">
+  <title>Gelobt seist du</title>
+  <subtitle/>
+  <right>1979 Jugend mit einer Mission e.V.</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-451" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1ch-29" xlink:type="simple">
+    <verse>10-13</verse>
+  </bibleref>
+</song>

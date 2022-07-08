@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13097">
+  <title>O Lamm Gottes! Du hast selbst getragen</title>
+  <subtitle/>
+  <text># O Lamm Gottes! Du hast selbst getragen
+Unsern Fluch und unsrer Sünden Last.
+Welcher Feind darf zu verdammen wagen
+Uns, Dein Volk, das Du erlöset hast?
+
+# Ja, Dein Werk ist jetzt für uns vollendet.
+Ewig fest steht unser Heil in Dir.
+Gottes Zorn ist von uns abgewendet,
+Gottes Liebe nur genießen wir.
+
+# Teures Opfer, Du, des Segens Fülle!
+Trost und Freude strömen stets aus Dir.
+Sel'ger Friede macht das Herz so stille,
+Und der Geist ist unser Führer hier.
+
+# Nicht mehr lange, und Dich werden sehen
+All die Deinen dort von Angesicht.
+Jedes Herz wird dann Dich ganz verstehen,
+Jeder Mund frohlockend preisen Dich.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Music</part>
+    <year>1853</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/051_060.html#52" xlink:type="simple"/>
+</song>

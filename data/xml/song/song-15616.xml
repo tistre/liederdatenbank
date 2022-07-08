@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15616">
+  <title>When it's all said and done</title>
+  <subtitle/>
+  <copyrightyear>1999</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-15615" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1999</year>
+  </author>
+  <cdref xlink:href="#cd-15605" xlink:type="simple">
+    <cdnum/>
+    <numoncd>9</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

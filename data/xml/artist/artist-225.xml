@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-225">
+  <firstname>Nikolaus Ludwig Graf von</firstname>
+  <lastname>Zinzendorf</lastname>
+  <name/>
+  <comment>Geboren in Dresden. Schüler des Franckeschen Pädagogiums in Halle, 1721 Hof- und Justizrat in Dresden; er nahm die um ihres Glaubens willen vertriebenen Mährischen Brüder in seinem Gut Berthelsdorf auf und gründete 1727 die Herrnhuter Brüdergemeinde, in Tübingen ordiniert, wurde er ab 1737 Bischof; 1736 aus Sachsen verwiesen, verlegte er seine Gemeindearbeit in die Wetterau mit der Ronneburg, Schloß Marienborn und Herrnhaag; nachdem er im Baltikum, in Westindien und Nordamerika missionarisch unter Heiden und ökumenisch unter Christen tätig war, lebte er in London und ab 1756 wieder in Herrnhut. Mit seinen "Singstunden", den Liturgien und Litaneien, mit seinen überquellenden Gesangbuchausgaben und den 2000 oft improvisierten und sprachlich bizarren Liedern hat er das geistliche Singen als gemeinschaftsbildende Glaubensäußerung verstanden; für den Gemeindegebrauch bedurften seine Lieder der verständnisvollen überarbeitenden Hand seines musikalischen Mitarbeiters Christian Gregor. Durch die Herausgabe der Herrnhuter Losungen ab 1731 hat er ein bis heute wirksames Andachtsbüchlein für die gesamte evangelische Christenheit geschaffen. Gestorben in Herrnhut.</comment>
+  <born>1700</born>
+  <died>1760</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Nikolaus_Ludwig_von_Zinzendorf" xlink:type="simple">
+    <title>Wikipedia</title>
+  </url>
+</artist>

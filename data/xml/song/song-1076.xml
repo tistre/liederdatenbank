@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1076">
+  <title>Der Herr ist aufgefahren zum Thron der Herrlichkeit</title>
+  <author xlink:href="#artist-4680" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+  </songbookref>
+</song>

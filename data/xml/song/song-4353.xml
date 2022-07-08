@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4353">
+  <title>Komm doch mit und sieh dir an</title>
+  <author xlink:href="#artist-4631" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <language>de</language>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+  </songbookref>
+</song>

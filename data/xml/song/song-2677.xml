@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2677">
+  <title>I was lost</title>
+  <subtitle>Like a child</subtitle>
+  <author xlink:href="#artist-3579" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+  </songbookref>
+</song>

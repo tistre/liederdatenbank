@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1535">
+  <title>Allein zu Dir, Herr Jesu Christ</title>
+  <subtitle/>
+  <text># Allein zu dir, Herr Jesu Christ,
+mein Hoffnung steht auf Erden.
+Ich weiß, dass du mein Tröster bist,
+kein Trost mag mir sonst werden.
+Von Anbeginn ist nichts erkorn,
+auf Erden ward kein Mensch geborn,
+der mir aus Nöten helfen kann;
+ich ruf dich an,
+zu dem ich mein Vertrauen han.
+
+# Mein Sünd’ sind schwer und übergroß
+und reuen mich von Herzen;
+derselben mach mich frei und los
+durch deinen Tod und Schmerzen;
+und zeige deinem Vater an,
+dass du hast g’nug für mich getan,
+so werd ich los der Sünden Last.
+Erhalt mich fest
+in dem, was du versprochen hast.
+
+# Gib mir durch dein Barmherzigkeit
+den wahren Christenglauben,
+auf dass ich deine Gütigkeit
+mög inniglich anschauen,
+vor allen Dingen lieben dich
+und meinen Nächsten gleich wie mich.
+Am letzten End dein Hilf mir send,
+damit behänd
+des Teufels List sich von mir wend.
+
+# Ehr sei Gott in dem höchsten Thron,
+dem Vater aller Güte,
+und Jesus Christ, seim lieben Sohn,
+der uns allzeit behüte,
+und Gott, dem werten Heilgen Geist,
+der uns allzeit sein Hilfe leist,
+dass wir ihm wohlgefällig sein
+hier in der Zeit
+und folgen ihm in Ewigkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: Konrad Hubert vor 1540; Str. 4: Nürnberg um 1540.  
+Melodie: Paul Hofhaimer 1512; geistlich Wittenberg um 1541, Leipzig 1545
+</comment>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5218332</ccli_number>
+  <author xlink:href="#artist-11386" xlink:type="simple">
+    <part>Text</part>
+    <year>1540</year>
+  </author>
+  <author xlink:href="#artist-11425" xlink:type="simple">
+    <part>Music</part>
+    <year>1512</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>286</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+</song>

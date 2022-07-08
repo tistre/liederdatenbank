@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-732">
+  <title>Bald schon kann es sein, dass wir Gott als König sehn</title>
+  <language>de</language>
+  <right>Rudolf Slezak Musikverlag GmbH, Hamburg</right>
+  <subtitle/>
+  <copyrightyear>1971</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <comment>In "http://www.liederdatenbank.de/songbook/4321", "http://www.liederdatenbank.de/songbook/25500" und in "http://www.liederdatenbank.de/songbook/14340" gibt es einen 3. Vers.
+In "http://www.liederdatenbank.de/songbook/89" und in "http://www.liederdatenbank.de/songbook/21030" gibt es einen Zusatzteil.</comment>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>5416725</ccli_number>
+  <publisher xlink:href="#publisher-20298" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1227" xlink:type="simple"/>
+  <author xlink:href="#artist-3637" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1976 und Satz</year>
+  </author>
+  <author xlink:href="#artist-4021" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>359</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>294</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>800</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>284</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14340" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>869</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10160" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

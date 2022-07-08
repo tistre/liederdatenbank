@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1373">
+  <title>Herr Jesu Christ, dich zu uns wend</title>
+  <text># Herr Jesu Christ, dich zu uns wend,
+dein Heilgen Geist du zu uns send,
+mit Hilf und Gnad er uns regier
+und uns den Weg zur Wahrheit führ.
+
+# Tu auf den Mund zum Lobe dein,
+bereit das Herz zur Andacht fein,
+den Glauben mehr, stärk den Verstand,
+dass uns dein Nam werd wohlbekannt,
+
+# bis wir singen mit Gottes Heer:
+Heilig, heilig ist Gott der Herr!
+Und schauen dich von Angesicht
+in ewger Freud und selgem Licht.
+
+# Ehr sei dem Vater und dem Sohn,
+dem Heilgen Geist in einem Thron;
+der Heiligen Dreieinigkeit
+sei Lob und Preis in Ewigkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: Görlitz 1648. - Satz u. Strophe 4: Gotha 1651.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/1371.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4630" xlink:type="simple">
+    <part>Text</part>
+    <year>1648</year>
+  </author>
+  <author xlink:href="#artist-13830" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>208</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>155</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10159" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

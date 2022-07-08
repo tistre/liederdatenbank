@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1149">
+  <title>Meinen Jesus laß ich nicht</title>
+  <text># Meinen Jesum lass ich nicht; 
+weil er sich für mich gegeben, 
+so erfordert meine Pflicht, 
+unverrückt für ihn zu leben. 
+Er ist meines Lebens Licht: 
+Meinen Jesum lass ich nict
+
+# Jesum lass ich nimmer nicht, 
+weil ich soll auf Erden leben; 
+ihm hab ich voll Zuversicht, 
+was ich bin und hab, ergeben. 
+Alles ist auf ihn gericht': 
+Meinen Jesum lass ich nicht.
+
+# Lass vergehen das Gesicht, 
+Hören, Schmecken, Fühlen weichen; 
+lass das letzte Tageslicht 
+mich auf dieser Welt erreichen; 
+wenn der Lebensfaden bricht: 
+Meinen Jesum lass ich nicht.
+
+# Ich werd ihn auch lassen nicht, 
+wenn ich nun dahin gelanget, 
+wo vor seinem Angesicht 
+meiner Väter Glaube pranget. 
+Mich erfreut sein Angesicht: 
+Meinen Jesum lass ich nicht.
+
+# Nicht nach Welt, nach Himmel nicht 
+meine Seel sich wünscht und sehnet; 
+Jesum wünscht sie und sein Licht, 
+der mich hat mit Gott versöhnet, 
+mich befreiet vom Gericht: 
+Meinen Jesum lass ich nicht.
+
+# Jesum lass ich nicht von mir, 
+geh ihm ewig an der Seiten; 
+Christus wird mich für und für 
+zu der Lebensquelle leiten. 
+Selig, wer mit mir so spricht: 
+Meinen Jesum lass ich nicht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear/>
+  <author xlink:href="#artist-4431" xlink:type="simple">
+    <part>Text</part>
+    <year>1658</year>
+  </author>
+  <author xlink:href="#artist-4432" xlink:type="simple">
+    <part>Music</part>
+    <year>1674</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>270</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>444</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>398</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>447</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>402</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>263</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-gen-32" xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+</song>

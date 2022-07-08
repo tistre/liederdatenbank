@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13275">
+  <title>Du, Herr, bist mein, o welche Gnade</title>
+  <subtitle/>
+  <text># Du, Herr, bist mein, o welche Gnade!
+O welche Huld, ich bin jetzt Dein!
+Was könnt' auf meinem Pilgerpfade
+Noch köstlicher, noch höher sein?
+Was mich erfreut, was mich erquicket,
+In Dir mein Glaube stets erblicket.
+
+# Du bist am Kreuz für mich gestorben,
+Dort nahmst Du meine Stelle ein.
+Dein Blut hat völlig mich erworben,
+Mit Leib und Seele bin ich Dein.
+Dein Sklave sein ist größre Ehre,
+Als König über Land und Heere.
+
+# Ich hab' genug, weil Dich ich habe,
+Mein Geist frohlocket inniglich.
+Wo findet eine solche Gabe
+Auf Erden und im Himmel sich?
+Mein Herz, zu groß für alle Dinge,
+Zu klein, als daß es Dich umfinge.
+
+# Ich ruhe jetzt in Deiner Liebe,
+Die all' Erkenntnis übersteigt,
+Genieße ihre süßen Triebe,
+Die mein Verstand hier nie begreift.
+Doch ob ihr Meer ich nicht ergründe,
+Du bist der Fels, wo Ruh' ich finde.
+
+# O Dank Dir, Jesu, Ruhm und Ehre
+Gebühren Dir, nur Dir allein.
+Dir ganz zu leben ich begehre,
+Mein ganzes Herz nur Dir zu weihn,
+Damit selbst in den schwersten Proben
+An mir Dein Name werd' erhoben.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: "http://www.liederdatenbank.de/song/959", "http://www.liederdatenbank.de/song/13156", "http://www.liederdatenbank.de/song/1015".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9079" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#106" xlink:type="simple"/>
+</song>

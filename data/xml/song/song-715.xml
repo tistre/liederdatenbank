@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-715">
+  <title>We will glorify the King of kings</title>
+  <language>en</language>
+  <right>Rudolf Slezak Musikverlag GmbH</right>
+  <subtitle/>
+  <copyrightyear>1982</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21655" xlink:type="simple"/>
+  <author xlink:href="#artist-690" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1982</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

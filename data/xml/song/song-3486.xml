@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3486">
+  <title>Herr, gib uns deinen Frieden (Kanon)</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Kanon zu 4 Stimmen.</comment>
+  <language>de</language>
+  <copyrightyear>1976</copyrightyear>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-18559" xlink:type="simple"/>
+  <author xlink:href="#artist-9294" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9295" xlink:type="simple">
+    <part>Music</part>
+    <year>1976</year>
+  </author>
+  <songbookref xlink:href="#songbook-9085" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12154" xlink:type="simple">
+    <numinsongbook>956.2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>191</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>436</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21557" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>367</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

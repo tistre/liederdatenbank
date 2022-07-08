@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2065">
+  <title>Stimmt unserm Gott ein Loblied an</title>
+  <subtitle/>
+  <text># Stimmt unserm Gott ein Loblied an 
+mit freudigem Gemüte,
+Es rühm' und preise, wer da kann,
+den Geber aller Güte.
+Er macht uns frei von aller Not,
+drum lobet ihn, drum lobet Gott
+und danket seinem Namen.
+
+# Lobt Gott und rühmet allezeit
+die großen Wunderwerke,
+die Majestät und Herrlichkeit,
+die Weisheit, Kraft und Stärke,
+die er beweist in aller Welt,
+indem er alle Ding erhält,
+und danket seinem Namen.
+
+# Lobt Gott! Er gab uns seinen Sohn,
+der selbst für uns gestorben
+und uns die ewge Lebenskron
+durch seinen Tod erworben;
+der Frieden hat mit Gott gemacht
+und seinen ganzen Rat vollbracht,
+und danket seinem Namen!
+
+# Lobt Gott, der in uns durch den Geist
+den Glauben angezündet
+und seinen Beistand uns verheißt,
+wenn er uns treu erfindet;
+der uns stets durch sein Wort regiert
+und auf den Weg des Lebens führt,
+und danket seinem Namen!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10908" xlink:type="simple"/>
+  <author xlink:href="#artist-4402" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <author xlink:href="#artist-4488" xlink:type="simple">
+    <part>Text</part>
+    <year>1714</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>255</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

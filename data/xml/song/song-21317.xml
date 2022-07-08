@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21317">
+  <title>Abide With Me</title>
+  <subtitle/>
+  <text># Abide with me; fast falls the eventide;
+The darkness deepens; Lord with me abide.
+When other helpers fail and comforts flee,
+Help of the helpless, O abide with me.
+
+# Swift to its close ebbs out life's little day;
+Earth's joys grow dim; its glories pass away;
+Change and decay in all around I see;
+O Thou who changest not, abide with me.
+
+# Not a brief glance I beg, a passing word,
+But as Thou dwell'st with Thy disciples, Lord,
+Familiar, condescending, patient, free.
+Come not to sojourn, but abide with me.
+
+# Come not in terrors, as the King of kings,
+But kind and good, with healing in Thy wings;
+Tears for all woes, a heart for every plea.
+Come, Friend of sinners, thus abide with me.
+
+# Thou on my head in early youth didst smile,
+And though rebellious and perverse meanwhile,
+Thou hast not left me, oft as I left Thee.
+On to the close, O Lord, abide with me.
+
+# I need Thy presence every passing hour.
+What but Thy grace can foil the tempter's power?
+Who, like Thyself, my guide and stay can be?
+Through cloud and sunshine, Lord, abide with me.
+
+# I fear no foe, with Thee at hand to bless;
+Ills have no weight, and tears no bitterness.
+Where is death's sting? Where, grave, thy victory?
+I triumph still, if Thou abide with me.
+
+# Hold Thou Thy cross before my closing eyes;
+Shine through the gloom and point me to the skies.
+Heaven's morning breaks, and earth's vain shadows flee;
+In life, in death, O Lord, abide with me.</text>
+  <copyrightyear/>
+  <right>Gemeinfrei (Public Domain)</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4483" xlink:type="simple">
+    <part>Text</part>
+    <year>1847</year>
+  </author>
+  <author xlink:href="#artist-9087" xlink:type="simple">
+    <part>Music</part>
+    <year>1861 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>196</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

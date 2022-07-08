@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1060">
+  <title>Das Kreuz, es stehet fest</title>
+  <subtitle>Halleluja, rühmt das Kreuz</subtitle>
+  <text>#
+Das Kreuz, es stehet fest, 
+Halleluja! Halleluja! 
+Wie wild der Sturm auch bläst, 
+Halleluja! Halleluja! 
+Die Höll erhebt ihr Haupt, 
+es droht die Welt und schnaubt, 
+das Kreuz uns keiner raubt, 
+Halleluja, rühmt das Kreuz!
+
+*
+Halleluja! Halleluja! Halleluja! 
+Rühmt das Kreuz. 
+Halleluja! Halleluja! 
+Ewig steht uns fest das Kreuz.
+
+#
+Das alte Kreuz ist's noch, 
+Halleluja! Halleluja! 
+Es triumphieret doch, 
+Halleluja! Halleluja! 
+Am Kreuze ward vollbracht, 
+was Gott aus Lieb erdacht, 
+was Sünder selig macht, 
+Halleluja, rühmt das Kreuz! 
+
+#
+O rühmt des Kreuzes Kraft, 
+Halleluja! Halleluja! 
+Die neue Menschen schafft, 
+Halleluja! Halleluja! 
+Das Kreuz ist unsre Zier, 
+ist unser Kriegspanier; 
+im Kreuze siegen wir, 
+Halleluja, rühmt das Kreuz! 
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/78. Originaltitel: Hallelujah For The Cross</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-18055" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-18056" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4381" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>267</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>845</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

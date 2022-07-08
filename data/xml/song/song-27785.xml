@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27785">
+  <title>Ich werde nicht sterben (Psalm 118)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Liederbuch: "Sein Ruhm unsere Freude" 1978, Seite 154.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-8996" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-118" xlink:type="simple">
+    <verse>5-9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-118" xlink:type="simple">
+    <verse>14-17</verse>
+  </bibleref>
+</song>

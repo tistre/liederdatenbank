@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1312">
+  <title>Nun jauchzt dem Herren, alle Welt</title>
+  <text># Nun jauchzt dem Herren alle Welt! 
+Kommt her, zu seinem Dienst euch stellt, 
+kommt mit Frohlocken, säumet nicht, 
+kommt vor sein heilig Angesicht.
+
+# Erkennt, dass Gott ist unser Herr, 
+der uns erschaffen ihm zur Ehr, 
+und nicht wir selbst: durch Gottes Gnad 
+ein jeder Mensch sein Leben hat.
+
+# Wie reich hat uns der Herr bedacht, 
+der uns zu seinem Volk gemacht; 
+als guter Hirt ist er bereit, 
+zu führen uns auf seine Weid.
+
+# Die ihr nun wollet bei ihm sein, 
+kommt, geht zu seinen Toren ein 
+mit Loben durch der Psalmen Klang, 
+zu seinem Vorhof mit Gesang.
+
+# Dankt unserm Gott, lobsinget ihm, 
+rühmt seinen Namen mit lauter Stimm; 
+lobsingt und danket allesamt. 
+Gott loben, das ist unser Amt.
+
+# Er ist voll Güt und Freundlichkeit, 
+voll Lieb und Treu zu jeder Zeit. 
+Sein Gnad währt immer dort und hier 
+und seine Wahrheit für und für.
+
+# Gott Vater in dem höchsten Thron 
+und Jesus Christus, seinen Sohn, 
+den Tröster auch, den Heilgen Geist, 
+im Himmel und auf Erden preist.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: nach Psalm 100 // 1602 Cornelius BEcker / 1646 David Denicke / 1652 Lüneburg (Str. 7)
+Melodie: um 1358 / 1598 Hamburg / 1646 Hannover</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4822640</ccli_number>
+  <author xlink:href="#artist-3649" xlink:type="simple">
+    <part>Text</part>
+    <year>1602</year>
+  </author>
+  <author xlink:href="#artist-9187" xlink:type="simple">
+    <part>Music</part>
+    <year>1646</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>247</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>288</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>474</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-100" xlink:type="simple">
+    <verse>1-5</verse>
+  </bibleref>
+</song>

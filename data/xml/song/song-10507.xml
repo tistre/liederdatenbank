@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10507">
+  <title>Begegne mir</title>
+  <subtitle>Ich warte auf dich</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5183034</ccli_number>
+  <comment/>
+  <language>de</language>
+  <copyrightyear>1999</copyrightyear>
+  <ccli_features>L</ccli_features>
+  <publisher xlink:href="#publisher-13364" xlink:type="simple"/>
+  <originalsong xlink:href="#song-10509" xlink:type="simple"/>
+  <author xlink:href="#artist-10508" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

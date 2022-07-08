@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13393">
+  <title>Es ist das ewige Erbarmen</title>
+  <subtitle/>
+  <text># Es ist das ewige Erbarmen,
+Das alles Denken übersteigt,
+Deß, der mit offnen Liebesarmen
+Sich nieder zu den Sündern neigt;
+Der uns von Fluch und Tod befreit,
+Uns führt zu Jesu Herrlichkeit.
+
+# Wir sollten nicht verloren werden,
+Gott will, uns soll geholfen sein;
+Deswegen kam der Sohn auf Erden
+Und nahm hernach den Himmel ein.
+So kommet nun vom Gnadenthron
+Der Gnade Fülle durch den Sohn.
+
+# O Gnade, welche alle Sünden
+Durch Christi Blut jetzt tilgen kann,
+Und läßt nun allerorts verkünden
+Vergebung, Frieden jedermann.
+Das ew'ge Heil ist jetzt bereit,
+O wunderbare Gnadenzeit!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/1557", "http://www.liederdatenbank.de/song/10277" oder "http://www.liederdatenbank.de/song/1415" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-11747" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11980" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1790</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#143" xlink:type="simple"/>
+</song>

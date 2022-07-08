@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4568">
+  <title>Komm zu uns, Du Kraft des neuen Lebens</title>
+  <subtitle>Der Glaube ist mehr</subtitle>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-3688" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>375</numinsongbook>
+  </songbookref>
+</song>

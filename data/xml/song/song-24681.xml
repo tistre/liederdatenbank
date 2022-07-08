@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24681">
+  <title>Dieser Fluss macht lebendig</title>
+  <subtitle>Ein Strom der Güte</subtitle>
+  <copyrightyear>2015</copyrightyear>
+  <right>Jesus Culture Music / Capitol CMG Amplifier / Capitol CMG Genesis / Common Hymnal Publishing / Red Red Pop.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24680" xlink:type="simple"/>
+  <author xlink:href="#artist-24675" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24678" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24682" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24683" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

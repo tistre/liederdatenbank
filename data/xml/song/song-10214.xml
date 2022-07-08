@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10214">
+  <title>Dank, Anbetung, Preis und Ehre</title>
+  <subtitle/>
+  <text>Dank, Anbetung, Preis und Ehre,
+Macht, Weisheit, Herrlichkeit und Ehre
+Sei Dir, Versöhner Jesu Christ!
+Gottes Vielgeliebte singen,
+Anbetung, Preis und Dank zu bringen
+Dem Lamme, das geopfert ist.
+Du sankst für uns ins Grab,
+Wuschst unsre Sünden ab,
+Alle Sünden!
+Du hast's vollbracht,
+Damit wir rein
+Vor unsers Gottes Auge sei'n.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13282", "http://www.liederdatenbank.de/song/13399", "http://www.liederdatenbank.de/song/1437", "http://www.liederdatenbank.de/song/1616", "http://www.liederdatenbank.de/song/13833".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-10213" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9004" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#17" xlink:type="simple"/>
+</song>

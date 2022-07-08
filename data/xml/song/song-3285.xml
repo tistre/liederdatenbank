@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3285">
+  <title>Ich geb Dir mein Leben hin</title>
+  <language>de</language>
+  <subtitle>Jesus, was kann ich tun</subtitle>
+  <copyrightyear>1994</copyrightyear>
+  <right>D, A, CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13382" xlink:type="simple"/>
+  <originalsong xlink:href="#song-3286" xlink:type="simple"/>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-4087" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

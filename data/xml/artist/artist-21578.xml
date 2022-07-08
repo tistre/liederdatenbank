@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-21578">
+  <lastname>Albrecht</lastname>
+  <firstname>Alois</firstname>
+  <name/>
+  <born>1939</born>
+  <died/>
+  <comment>Geboren in Backnang. Deutscher römisch-katholischer Priester, ehemaliger Generalvikar und Liedtexter.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Alois Albrecht" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10525">
+  <lastname>Behm</lastname>
+  <firstname>Martin</firstname>
+  <name/>
+  <born>1557</born>
+  <died>1622</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Martin_Behm" xlink:type="simple">
+    <title>Martin Behm @ Wikipedia</title>
+  </url>
+</artist>

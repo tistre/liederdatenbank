@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11212">
+  <title>Ubi caritas et amor (1981)</title>
+  <subtitle/>
+  <text>Ubi caritas et amor,
+Ubi caritas, Deus ibi est.</text>
+  <copyrightyear/>
+  <right>Text: St. Gallen, 8. Jh.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Übersetzung: "Wo die Liebe wohnt und Güte, wo die Liebe wohnt, da ist unser Gott."</comment>
+  <language>la</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3669" xlink:type="simple">
+    <part>Music</part>
+    <year>1981</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>651</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>587</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>571.1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-3668" xlink:type="simple"/>
+  <url xlink:href="http://www.taize.fr/en_article503.html?lang=de" xlink:type="simple"/>
+</song>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-10115">
+  <name>Glaubenslieder</name>
+  <comment>Christliche Verlagsgesellschaft, Dillenburg / CLV Bielefeld. Ca. 600 Lieder im Chorsatz (4-Stimmig). ISBN 3-89397-336-2.
+
+Liederbuch der Brüdergemeinden.
+Die Lieder 1 - 300 entsprechen dem älteren "Geistliche Lieder". Es wird damit von "Glaubenslieder" abgelöst.
+
+Seit der 6. Auflage 2006 auch mit Akkordbezeichnungen für Gitarrenbegleitung versehen.
+
+Ergänzung und Fortführung: "http://www.liederdatenbank.de/songbook/14365".</comment>
+  <icon xlink:href="#file-10114" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.amazon.de/gp/product/389436386X" xlink:type="simple">
+    <title>Glaubenslieder @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.bol.de/shop/bde_homestartseite/typhoonartikel/ID11251227.html" xlink:type="simple">
+    <title>Glaubenslieder @ BOL.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Glaubenslieder" xlink:type="simple">
+    <title>Glaubenslieder @ booklooker.de</title>
+  </url>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/uebersicht.html" xlink:type="simple">
+    <title>Glaubenslieder @ Bruederbewegung.de</title>
+  </url>
+  <url xlink:href="http://www.clv.de/index.php?cl=details&amp;anid=149" xlink:type="simple">
+    <title>Glaubenslieder @ CLV.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/produkt/titel/glaubenslieder-1/123284/123284/123284.html" xlink:type="simple">
+    <title>Glaubenslieder @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.leseplatz.de/cgi-bin/navigation/rm/chooseDetailItem/itemID/2277/title/Glaubenslieder_1/" xlink:type="simple">
+    <title>Glaubenslieder @ Leseplatz.de</title>
+  </url>
+</songbook>

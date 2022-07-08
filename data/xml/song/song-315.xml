@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-315">
+  <title>Lobe den Herren, o meine Seele</title>
+  <text># Lobe den Herren, o meine Seele!
+Ich will ihn loben bis in' Tod;
+weil ich noch Stunden auf Erden zähle,
+will ich lobsingen meinem Gott.
+Der Leib und Seel gegeben hat,
+werde gepriesen früh und spat.
+Halleluja, Halleluja.
+
+# Fürsten sind Menschen, vom Weib geboren,
+und kehren um zu ihrem Staub;
+ihre Anschläge sind auch verloren,
+wenn nun das Grab nimmt seinen Raub.
+Weil denn kein Mensch uns helfen kann,
+rufe man Gott um Hilfe an.
+Halleluja, Halleluja.
+
+# Selig, ja selig ist der zu nennen,
+des Hilfe der Gott Jakobs ist,
+welcher vom Glauben sich nicht läßt trennen
+und hofft getrost auf Jesus Christ.
+Wer diesen Herrn zum Beistand hat,
+findet am besten Rat und Tat.
+Halleluja, Halleluja.
+
+# Dieser hat Himmel, Meer und die Erden
+und was darinnen ist gemacht;
+alles muß pünktlich erfüllet werden,
+was er uns einmal zugedacht.
+Er ist's, der Herrscher aller Welt,
+welcher uns ewig Treue hält.
+Halleluja, Halleluja.
+
+# Zeigen sich welche, die Unrecht leiden,
+er ist's, der ihnen Recht verschafft;
+Hungrigen will er zur Speis bereiten,
+was ihnen dient zur Lebenskraft;
+die hart Gebundnen macht er frei,
+und seine Gnad ist mancherlei.
+Halleluja, Halleluja.
+
+# Sehende Augen gibt er den Blinden,
+erhebt, die tief gebeuget gehn;
+wo er kann einige Fromme finden,
+die läßt er seine Liebe sehn.
+Sein Aufsicht ist des Fremden Trutz,
+Witwen und Waisen hält er Schutz.
+Halleluja, Halleluja.
+
+# Aber der Gottesvergeßnen Tritte
+kehrt er mit starker Hand zurück,
+daß sie nur machen verkehrte Schritte
+und fallen selbst in ihren Strick.
+Der Herr ist König ewiglich;
+Zion, dein Gott sorgt stets für dich.
+Halleluja, Halleluja.
+
+# Rühmet, ihr Menschen, den hohen Namen
+des, der so große Wunder tut.
+Alles, was Odem hat, rufe Amen
+und bringe Lob mit frohem Mut.
+Ihr Kinder Gottes, lobt und preist
+Vater und Sohn und Heilgen Geist!
+Halleluja, Halleluja.
+</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: Ansbach 1664, Halle 1714.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number>5226324</ccli_number>
+  <comment>Satz: http://www.liederdatenbank.de/artist/2778.</comment>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4664" xlink:type="simple">
+    <part>Text</part>
+    <year>1714</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>303</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>153</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>241</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19619" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-146" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+</song>

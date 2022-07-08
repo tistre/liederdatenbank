@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25540">
+  <title>Lobt Gott, ihr Christen alle (Kanon)</title>
+  <subtitle/>
+  <text># Lobt Gott, ihr Christen alle gleich,
+# in seinem höchsten Thron,
+# der heut schließt auf sein Himmelreich
+# und schenkt uns seinen Sohn.</text>
+  <copyrightyear/>
+  <right>Melodie: Fidula-Verlag, Boppard/Rhein und Salzburg</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>Text</part>
+    <year>1560</year>
+  </author>
+  <author xlink:href="#artist-9248" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

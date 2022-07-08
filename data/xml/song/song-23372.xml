@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23372">
+  <title>Always</title>
+  <subtitle>I am lost without You, I know</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5363696</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>L</ccli_features>
+  <publisher xlink:href="#publisher-23371" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2699">
+  <title>Jesus, lover of my soul</title>
+  <subtitle>It's all about You</subtitle>
+  <language>en</language>
+  <copyrightyear>1995</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-13382" xlink:type="simple"/>
+  <author xlink:href="#artist-3579" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

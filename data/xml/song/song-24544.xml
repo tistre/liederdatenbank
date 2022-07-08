@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24544">
+  <title>Der Löwe und das Lamm</title>
+  <subtitle>Wenn Jesus wiederkommt</subtitle>
+  <copyrightyear>2015</copyrightyear>
+  <right>Thankyou Music -- SCM Hänssler, Holzgerlingen, für Integrity Music / Meaux Mercy -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / The Devil Is A Liar! Publishing -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Bethel Music Publishing -- Small Stone Media Germany GmbH, Köln.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24543" xlink:type="simple"/>
+  <author xlink:href="#artist-3566" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22799" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22772" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24545" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mar-5" xlink:type="simple">
+    <verse>1-21</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-1" xlink:type="simple">
+    <verse>29</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-16" xlink:type="simple">
+    <verse>25-26</verse>
+  </bibleref>
+</song>

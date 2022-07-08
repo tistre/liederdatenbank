@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-130">
+  <title>Create in me a clean heart</title>
+  <language>en</language>
+  <right>D/A/CH: Rudolf Slezak Musikverlag GmbH, Hamburg.</right>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear>1974</copyrightyear>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14626" xlink:type="simple"/>
+  <author xlink:href="#artist-3865" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>142</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9085" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>311</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21514" xlink:type="simple">
+    <numinsongbook>25a</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-51" xlink:type="simple">
+    <verse>12-14</verse>
+  </bibleref>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=49797636&amp;id=49797638&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

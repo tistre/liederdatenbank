@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4338">
+  <title>Wir suchen Deine Nähe</title>
+  <subtitle>Erbarme dich / Kyrie, Kyrie eleison</subtitle>
+  <language>de</language>
+  <right>Felsenfest Musikverlag, Wesel</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear>1998</copyrightyear>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-19849" xlink:type="simple"/>
+  <author xlink:href="#artist-53" xlink:type="simple">
+    <part>Text</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-2277" xlink:type="simple">
+    <part>Music</part>
+    <year>1998/2002 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>173</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>889</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21001" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=269214461&amp;id=269213876&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11736">
+  <lastname>Falk</lastname>
+  <firstname>Johannes Daniel</firstname>
+  <name/>
+  <born>1768</born>
+  <died>1826</died>
+  <comment>Geboren in Danzig, Schriftsteller, Legationsrat in Weimar, Gründer eines Rettungshauses für verwahrloste Kinder.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Daniel_Falk" xlink:type="simple">
+    <title>Johannes Daniel Falk @ Wikipedia.org</title>
+  </url>
+</artist>

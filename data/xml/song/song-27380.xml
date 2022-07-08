@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27380">
+  <title>Der Herr ist meine Kraft, der Herr ist mein Schild</title>
+  <subtitle/>
+  <copyrightyear>1983</copyrightyear>
+  <right>Sound III, Inc. USA, D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "The Lord Is My Strength".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-14273" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-4076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1419</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-27" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

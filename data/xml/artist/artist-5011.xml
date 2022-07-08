@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5011">
+  <firstname>Otto</firstname>
+  <lastname>Bruder</lastname>
+  <name/>
+  <born>1889</born>
+  <died>1971</died>
+  <comment>"Otto Bruder" ist ein Pseudonym von Otto Salomon.</comment>
+  <url xlink:href="http://www.kirchenkreis-arnsberg.de/pastoerchen/bruder.htm" xlink:type="simple">
+    <title>Rezension seiner Blumhardt-Schriften-Auswahl auf kirchenkreis-ansberg.de</title>
+  </url>
+</artist>

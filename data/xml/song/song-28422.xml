@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28422">
+  <title>Du kümmerst dich</title>
+  <subtitle>So wie du bist</subtitle>
+  <copyrightyear>1998</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Schweizerdeutsch: http://www.liederdatenbank.de/song/28424.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14405" xlink:type="simple"/>
+  <author xlink:href="#artist-4631" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-14338" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

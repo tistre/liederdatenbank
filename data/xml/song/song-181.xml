@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-181">
+  <title>Er hört dein Gebet</title>
+  <subtitle>Wenn die Last der Welt dir zu schaffen macht</subtitle>
+  <language>de</language>
+  <right>D/A/CH: CopyCare Deutschland, Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Siehe: http://www.liederdatenbank.de/song/20676.</comment>
+  <copyrightyear>1983</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>5515413</ccli_number>
+  <publisher xlink:href="#publisher-14648" xlink:type="simple"/>
+  <originalsong xlink:href="#song-21313" xlink:type="simple"/>
+  <author xlink:href="#artist-3676" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-53" xlink:type="simple">
+    <part>Text</part>
+    <year>1987</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1797</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>240</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14342" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>165</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21257" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14340" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>148</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-50" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965535&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

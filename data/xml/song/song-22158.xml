@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22158">
+  <title>Hört das Lied der finstern Nacht</title>
+  <subtitle/>
+  <copyrightyear>1973</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22154" xlink:type="simple"/>
+  <author xlink:href="#artist-19214" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1961/1973</year>
+  </author>
+  <songbookref xlink:href="#songbook-22148" xlink:type="simple">
+    <numinsongbook>09</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-13" xlink:type="simple">
+    <verse>28-30</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-14" xlink:type="simple">
+    <verse>43-52</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-14" xlink:type="simple">
+    <verse>66-72</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-23" xlink:type="simple">
+    <verse>44-46</verse>
+  </bibleref>
+</song>

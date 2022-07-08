@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13215">
+  <title>Dein Erlösungswerk auf Erden</title>
+  <subtitle/>
+  <text># Dein Erlösungswerk auf Erden
+Hast, o Jesu, Du vollbracht.
+Was vollendet sollte werden,
+Das vollführtest Du mit Macht.
+Du bist selbst für uns gestorben,
+Hast uns ew'ges Heil erworben,
+Und Dein siegreich Auferstehn
+Läßt uns als Befreite gehn.
+
+# Alle Namen Deiner Frommen
+Trägst Du jetzt auf Deiner Brust.
+Alle, die zu Dir gekommen,
+Pflegest Du mit Lieb' und Lust.
+Du vertrittst, die an Dich glauben,
+Drum wird niemand sie Dir rauben,
+Und beim Vater richtet'st Du
+Ihnen eine Wohnung zu.
+
+# Drum, Herr Jesu, Dir gebühret
+Dank, Anbetung, Preis und Ruhm.
+Hast uns siegreich ausgeführet
+Aus der Welt ins Heiligtum,
+Wo Dein Volk anbetend dienet,
+Dessen Schuld Dein Blut gesühnet,
+Dessen Dienst, durch Dich geweiht,
+Gott zur Ehr' und Herrlichkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Die ältere Textfassung "o Jesus" wurde durch "Herr Jesus" ersetzt.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4615" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#85" xlink:type="simple"/>
+</song>

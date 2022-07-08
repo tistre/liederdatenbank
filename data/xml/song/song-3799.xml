@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3799">
+  <title>Herr, nimm mich fest in Deine Arme</title>
+  <author xlink:href="#artist-3888" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+  </songbookref>
+</song>

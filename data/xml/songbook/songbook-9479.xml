@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9479">
+  <name>Mosaik 5</name>
+  <comment>Liederbuch der Jesus-Bruderschaft, Gnadenthal.
+Präsenz-Verlag der Jesus-Bruderschaft, Gnadenthal, Hünfelden 1985.
+35 Lieder (mit Noten u. Akkordbezeichnungen)
+ISBN 3-87630-464-4.
+
+(Das Buch ist die Weiterführung von "http://www.liederdatenbank.de/songbook/9476". Daher fangen die Lieder mit der Nummer 141 an.)
+
+Mosaik 1: Lied 001 - 035 (ISBN 3-87630-470-9)
+Mosaik 2: Lied 036 - 070 (ISBN 3-87630-471-7)
+Mosaik 3: Lied 071 - 105 (ISBN 3-87630-472-5)
+Mosaik 4: Lied 106 - 140 (ISBN 3-87630-476-8) - 1978
+http://www.liederdatenbank.de/songbook/9479: Lied 141 - 175 (ISBN 3-87630-464-4) - 1985</comment>
+  <icon xlink:href="#file-9478" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.praesenz-verlag.de/" xlink:type="simple">
+    <title>Präsenz-Verlag in Gnadenthal</title>
+  </url>
+  <url xlink:href="http://www.jesus-bruderschaft.de/" xlink:type="simple">
+    <title>Jesus-Bruderschaft</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=mosaik+liederbuch" xlink:type="simple">
+    <title>Mosaik @ Booklooker.de</title>
+  </url>
+</songbook>

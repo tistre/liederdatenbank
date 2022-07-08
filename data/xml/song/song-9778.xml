@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9778">
+  <title>Lord Have Mercy</title>
+  <subtitle>Jesus, I've forgotten the words that You have spoken</subtitle>
+  <right>Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Integrity's Hosanna! Music</comment>
+  <language>en</language>
+  <copyrightyear>2000</copyrightyear>
+  <ccli_number>2989578</ccli_number>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-9775" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21943" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>175</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

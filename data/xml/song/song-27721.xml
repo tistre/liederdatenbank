@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27721">
+  <title>Ein schöner Tag zu Ende geht</title>
+  <subtitle>Von Ort zu Ort</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Aus: "Wir fahren in die Welt"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22094" xlink:type="simple"/>
+  <author xlink:href="#artist-20125" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22992" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11519" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>245</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

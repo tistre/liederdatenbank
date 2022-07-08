@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4954">
+  <title>Hier bin ich, ganz neu gemacht nur durch Dich</title>
+  <subtitle/>
+  <right>Felsenfest Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <ccli_number/>
+  <author xlink:href="#artist-7828" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>76</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.albert-frey.de/hier_bin_ich.html" xlink:type="simple">
+    <title>Liedtext bei albert-frey.de</title>
+  </url>
+</song>

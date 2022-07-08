@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2683">
+  <title>In der Dunkelheit</title>
+  <subtitle>Gnadenthron</subtitle>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3616" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-3617" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-3618" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+  </songbookref>
+</song>

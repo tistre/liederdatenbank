@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-10768">
+  <name>Lebenslieder plus</name>
+  <comment>Herausgegeben vom CVJM-Gesamtverband in Deutschland e.V.
+durch Ulrich Parzany, Postfach 41 01 54, 34114 Kassel,
+Mundorgel Verlag GmbH, Köln / Waldbröl, 1. Auflage 1999.
+
+Nachfolge- bzw. Ergänzungsband von "http://www.liederdatenbank.de/songbook/9174".</comment>
+  <icon xlink:href="#file-10777" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.cvjm.de/" xlink:type="simple">
+    <title>CVJM-Gesamtverband in Deutschland e.V., Kassel</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Lebenslieder+plus" xlink:type="simple">
+    <title>Lebenslieder plus @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/lebenslieder-plus" xlink:type="simple">
+    <title>Lebenslieder plus @ eBay.de</title>
+  </url>
+</songbook>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26254">
+  <title>Gott segne unser Wandern durch Straßen und durch Nacht</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: https://www.liederdatenbank.de/song/2259</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-26252" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26253" xlink:type="simple">
+    <part>Music</part>
+    <year>1946</year>
+  </author>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4509">
+  <title>Krönt Jesus, unsern Herrn</title>
+  <text># Krönt Jesus, unsern Herrn, das Lamm auf Gottes Thron. 
+Hört, wie im Himmel schon erklingt das Lied vom Gottessohn! 
+Erwache, Herz, und sing von dem, der für dich starb! 
+Anbetung, Ruhm und Ehre bring dem, der das Heil erwarb.
+
+# Krönt Jesus, unsern Herrn, der aus dem Grab erstand 
+und so den großen Sieg erstritt, die Macht des Bösen band. 
+Wir singen nun von dem, der das für uns vollbracht: 
+Er starb und lebt und hat vom Tod uns ewig frei gemacht!
+
+# Krönt Jesus, unsern Herrn, der Frieden uns gebracht 
+und dessen Zepter allem Streit der Welt ein Ende macht. 
+Das Reich ist ewig sein, das wir im Glauben sehn; 
+bekennen wird es jeder Mund, wenn wir dort vor ihm stehn.
+
+# Krönt Jesus, unsern Herrn, der uns zuerst geliebt, 
+ihn, dessen Liebe allen gilt und der die Schuld vergibt. 
+Er starb für uns am Kreuz, erstand in Herrlichkeit. 
+Dem Gotteslamm sei Preis und Ehr in alle Ewigkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11051" xlink:type="simple"/>
+  <originalsong xlink:href="#song-942" xlink:type="simple"/>
+  <author xlink:href="#artist-4805" xlink:type="simple">
+    <part>Text</part>
+    <year>1851</year>
+  </author>
+  <author xlink:href="#artist-4807" xlink:type="simple">
+    <part>Text</part>
+    <year>1874</year>
+  </author>
+  <author xlink:href="#artist-4806" xlink:type="simple">
+    <part>Music</part>
+    <year>1868</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>272</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

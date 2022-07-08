@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23267">
+  <title>Herr der Welt</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>7020646</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <originalsong xlink:href="#song-23266" xlink:type="simple"/>
+  <author xlink:href="#artist-2777" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23265" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

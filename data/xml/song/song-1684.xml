@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1684">
+  <title>Werde munter, mein Gemüte</title>
+  <text># Werde munter, mein Gemüte, und ihr Sinne, geht herfür, 
+dass ihr preiset Gottes Güte, die er hat getan an mir, 
+da er mich den ganzen Tag 
+vor so mancher schweren Plag, 
+vor Betrübnis, Schand und Schaden 
+treu behütet hat in Gnaden.
+
+# Lob und Dank sei dir gesungen, 
+Vater der Barmherzigkeit, 
+dass mir ist mein Werk gelungen, 
+dass du mich vor allem Leid und vor Sünden 
+mancher Art 
+so getreulich hast bewahrt, 
+auch die Feind hinweggetrieben, 
+dass ich unbeschädigt blieben.
+
+# Bin ich gleich von dir gewichen, 
+stell ich mich doch wieder ein, 
+hat uns doch dein Sohn verglichen 
+durch sein Angst und Todespein. 
+Ich verleugne nicht die Schuld, 
+aber deine Gnad und Huld 
+ist viel größer als die Sünde, 
+die ich stets in mir befinde.
+
+# Lass mich diese Nacht empfinden 
+eine sanft und süße Ruh, 
+alles Übel lass verschwinden, 
+decke mich mit Segen zu. 
+Leib und Seele, Mut und Blut, 
+Weib und Kinder, Hab und Gut, 
+Freunde, Feind und Hausgenossen 
+sein in deinen Schutz geschlossen.
+
+# O du großer Gott, erhöre, 
+was dein Kind gebeten hat; 
+Jesu, den ich herzlich ehre, 
+bleibe ja mein Schutz und Rat; 
+und mein Hort, du werter Geist, 
+der du Freund und Tröster heißt, 
+höre doch mein sehnlichs Flehen. 
+Amen, ja, das soll geschehen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear/>
+  <author xlink:href="#artist-9895" xlink:type="simple">
+    <part>Text</part>
+    <year>1642</year>
+  </author>
+  <author xlink:href="#artist-4383" xlink:type="simple">
+    <part>Music</part>
+    <year>1642</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>484</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>669</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>478</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>475</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

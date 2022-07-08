@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11406">
+  <title>Voller Freude über dieses Wunder</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: nach dem norwegischen "Fylt av glede over livets under" von Svein Ellingsen (1971) 1973.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-11405" xlink:type="simple">
+    <part>Music</part>
+    <year>1977</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

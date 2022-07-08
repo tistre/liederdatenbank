@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2409">
+  <title>Komm, hier ist Stärke</title>
+  <subtitle>Ein feste Burg</subtitle>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3694" xlink:type="simple">
+    <part>Music</part>
+    <year>1996</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

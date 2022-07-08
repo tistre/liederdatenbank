@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3623">
+  <firstname>Heiko</firstname>
+  <lastname>Bräuning</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.musik-und-message.de/" xlink:type="simple">
+    <title>musik-und-message.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/s/saitenwind.htm" xlink:type="simple">
+    <title>Saitenwind / Reinhard Börner / Heiko Bräuning @ ccmrezis.de</title>
+  </url>
+</artist>

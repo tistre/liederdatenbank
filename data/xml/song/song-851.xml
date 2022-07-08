@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-851">
+  <title>Ich will Dir gehorchen</title>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <copyrightyear>1983</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3978" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-3979" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17413" xlink:type="simple">
+    <cdnum/>
+    <numoncd>15</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=327191633&amp;id=327191120&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

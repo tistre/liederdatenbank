@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13172">
+  <title>Ich walle in der Fremde</title>
+  <subtitle/>
+  <text># Ich walle in der Fremde,
+Von Menschen ungekannt,
+Doch leiten Deine Hände
+Mich treu zum Vaterland.
+Bei jedem sauren Schritte
+Gewahrt mein Glaube Dich,
+Ich find' hier Deine Tritte,
+Die Du einst tatst für mich.
+
+# Geh' ich auf harten Wegen,
+Auf mühevollem Pfad,
+Ich eile Dir entgegen,
+Mich leitet Deine Gnad'.
+Will mich der Lauf ermüden,
+Und find' ich nirgend Ruh',
+Ist doch mein Herz in Frieden,
+Denn meine Ruh' bist Du.
+
+# Und wenn ich schwach mich finde,
+Gering vor Satans List,
+Ich dennoch überwinde,
+Weil Du zur Seit' mir bist.
+Bist Speis' und Trank auf Erden,
+Wo Brot und Quelle fehlt.
+Wie könnt' ich zaghaft werden?
+Hast selbst mein Haar gezählt!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>76</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#76" xlink:type="simple"/>
+</song>

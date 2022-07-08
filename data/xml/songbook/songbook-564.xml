@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-564">
+  <name>Das gute Land</name>
+  <state>1</state>
+  <icon xlink:href="#songbook-564-icon" xlink:type="simple"/>
+  <comment>Jugend mit einer Mission e.V., Hurlach 1980.
+87 Lieder (Noten, meist mehrstimmer Satz u. Akkordbezeichnungen)
+ISBN 3-88076-012-3.</comment>
+  <url xlink:href="http://www.jmem.de/" xlink:type="simple">
+    <title>Jugend mit einer Mission Deutschland e.V.</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/s/ref=nb_ss_b/?field-keywords=das+gute+land+liederbuch" xlink:type="simple">
+    <title>Das gute Land @ Amazon.de </title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Das+gute+Land+Liederbuch" xlink:type="simple">
+    <title>Das gute Land @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/Das-gute-Land-Liederbuch" xlink:type="simple">
+    <title>Das gute Land @ eBay.de</title>
+  </url>
+</songbook>

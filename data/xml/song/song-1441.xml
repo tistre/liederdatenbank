@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1441">
+  <title>O Heiland, reiß die Himmel auf</title>
+  <text># O Heiland, reiß die Himmel auf, 
+herab, herab vom Himmel lauf; 
+reiß ab vom Himmel Tor und Tür, 
+reiß ab, wo Schloss und Riegel für.
+
+# O Gott, ein' Tau vom Himmel gieß,
+im Tau herab, o Heiland, fließ.
+Ihr Wolken, brecht und regnet aus
+den König über Jakobs Haus.
+
+# O Erd, schlag aus, schlag aus, o Erd,
+daß Berg und Tal grün alles werd.
+O Erd, herfür dies Blümlein bring,
+o Heiland, aus der Erden spring.
+
+# Wo bleibst du, Trost der ganzen Welt, 
+darauf sie all ihr Hoffnung stellt? 
+O komm, ach komm vom höchsten Saal, 
+komm, tröst uns hier im Jammertal.
+
+# O klare Sonn, du schöner Stern, 
+dich wollten wir anschauen gern; 
+o Sonn, geh auf, ohn deinen Schein 
+in Finsternis wir alle sein.
+
+# Hier leiden wir die größte Not, 
+vor Augen steht der ewig Tod. 
+Ach komm, führ uns mit starker Hand 
+vom Elend zu dem Vaterland.
+
+# Da wollen wir all danken dir, 
+unserm Erlöser, für und für; 
+da wollen wir all loben dich 
+zu aller Zeit und ewiglich.</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: Rheinfelsisches Gesangbuch.</comment>
+  <copyrightyear/>
+  <right/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5223846</ccli_number>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4813" xlink:type="simple">
+    <part>Text</part>
+    <year>1622</year>
+  </author>
+  <author xlink:href="#artist-25537" xlink:type="simple">
+    <part>Text</part>
+    <year>Str. 7 1631</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1638</year>
+  </author>
+  <author xlink:href="#artist-9213" xlink:type="simple">
+    <part>Music</part>
+    <year>1666</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-64" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

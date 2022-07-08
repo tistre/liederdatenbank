@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1413">
+  <title>Das sollt ihr, Jesu Jünger, nie vergessen</title>
+  <text># Das sollt ihr, Jesu Jünger, nie vergessen: 
+wir sind, die wir von einem Brote essen, 
+aus einem Kelche trinken, alle Brüder und Jesu Glieder.
+
+# Wenn wir wie Brüder bei einander wohnten, 
+Gebeugte stärkten und die Schwachen schonten, 
+dann würden wir den letzten heilgen Willen des Herrn erfüllen.
+
+# Ach dazu müsse seine Lieb uns dringen! 
+Du wollest, Herr, dies große Werk vollbringen, 
+dass unter einem Hirten eine Herde aus allen werde.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1673" (EG 460).</comment>
+  <copyrightyear/>
+  <ccli_number>5217508</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4660" xlink:type="simple">
+    <part>Text</part>
+    <year>1780</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1640</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>188</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>151</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9085" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

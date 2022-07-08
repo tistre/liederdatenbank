@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2595">
+  <title>The Lord is gracious and compassionate</title>
+  <subtitle>Praise the Lord</subtitle>
+  <language>en</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>640689</ccli_number>
+  <comment/>
+  <copyrightyear/>
+  <author xlink:href="#artist-2773" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>108</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=640689" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

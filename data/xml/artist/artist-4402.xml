@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4402">
+  <firstname>Johann</firstname>
+  <lastname>Stobäus</lastname>
+  <name/>
+  <born>1580</born>
+  <died>1646</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Stob%C3%A4us" xlink:type="simple"/>
+</artist>

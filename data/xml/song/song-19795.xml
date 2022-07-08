@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19795">
+  <title>Hiding Place</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>15568</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-19794" xlink:type="simple"/>
+  <author xlink:href="#artist-4662" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

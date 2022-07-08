@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1389">
+  <title>Wie lieblich schön, Herr Zebaoth</title>
+  <subtitle/>
+  <text># Wie lieblich schön, Herr Zebaoth,
+ist deine Wohnung, o mein Gott;
+wie sehnet sich mein Herz zu gehen,
+wo du dich hast geoffenbart,
+und bald in deiner Gegenwart
+im Vorhof nah am Thron zu stehen.
+Dort jauchzet Leib und Seel in mir,
+o Gott des Lebens, auf zu dir.
+
+# Die Schwalb, der Sperling find't ein Haus,
+sie brüten ihre Jungen aus,
+du gibst Befriedigung und Leben,
+Herr Zebaoth, du wirst auch mir -
+mein Herr, mein Gott, ich traue dir -
+bei deinem Altar Freude geben.
+O selig, wer dort allezeit
+in deinem Lobe sich erfreut.
+
+# Wohl, wohl dem Menschen in der Welt,
+der dich für seine Stärke hält,
+von Herzen deinen Weg erwählt!
+Geht hier sein Pfad durchs Tränental,
+er findet auch in Not und Qual,
+dass Trost und Kraft ihm nimmer fehlet;
+von dir herab fließt mild und hell
+auf ihn der reiche Segensquell.
+
+# Wir wandern in der Pilgerschaft
+und gehen fort von Kraft zu Kraft,
+vor Gott in Zion zu erscheinen.
+Hör mein Gebet, Herr Zebaoth,
+vernimm's, vernimm's, o Jakobs Gott.
+Erquicke mich auch mit den Deinen;
+bis wir vor deinem Throne stehn
+und dort anbetend dich erhöhn.
+
+# Du unser Schild, Gott, schau uns an,
+schau uns in dem Gesalbten an.
+Ein Tag in deinem Haus ist besser
+denn tausend, ohn dich nah zu sehn;
+ja auf der Schwelle nur zu stehn
+an meines Gottes Haus, ist größer,
+als lang in stolzer Ruh der Welt
+zu wohnen in der Bösen Zelt.
+
+# Denn Gott der Herr ist Sonn und Schild,
+er deckt uns, er ist gut und mild,
+er wird uns Gnad und Ehre geben.
+Nichts mangelt dem, der in der Not
+auf Gott vertraut; er hilft im Tod,
+er selber ist der Frommen Leben.
+Heil dem, der stets in dieser Welt,
+Herr Zebaoth, an dich sich hält.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year>1798</year>
+  </author>
+  <author xlink:href="#artist-11569" xlink:type="simple">
+    <part>Music</part>
+    <year>1562</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>282</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-84" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+</song>

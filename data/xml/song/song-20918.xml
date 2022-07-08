@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20918">
+  <title>Es geht nach Haus</title>
+  <subtitle/>
+  <text># Es geht nach Haus, zum Vaterhaus,
+wer weiß, vielleicht schon morgen.
+Vorbei, mein Herz, ist dann der Schmerz,
+und weg sind Sünd und Sorgen.
+
+* 1.-4. 
+Es geht nach Haus, wer weiß vielleicht schon morgen.
+Es geht nach Haus, wer weiß vielleicht schon morgen.
+
+# Du müdes Kind, die Straßen sind 
+dort golden, rein und sonnig,
+und ew'ge Freud vertreibt das Leid
+und Lieder hell und wonnig.
+
+# Die gläubig fleh'n, mit Tränen sä'n,
+die sind im Herrn geborgen.
+Ins Heim so traut, das Gott gebaut,
+zieh'n wir, vielleicht schon morgen.
+
+# O Gnadenort, o selger Hort!
+Wo uns darf nichts mehr schaden;
+da wird viel Freud und Herrlichkeit
+dem, der zum Mahl geladen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-20917" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4553" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>152</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+</song>

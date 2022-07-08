@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9788">
+  <title>Nah sein</title>
+  <subtitle>Jesus, ich will nah bei dir sein</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear>2005</copyrightyear>
+  <ccli_number/>
+  <publisher xlink:href="#publisher-14551" xlink:type="simple"/>
+  <author xlink:href="#artist-9595" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

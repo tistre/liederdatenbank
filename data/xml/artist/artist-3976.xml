@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3976">
+  <firstname>Johannes</firstname>
+  <lastname>Hansen</lastname>
+  <name/>
+  <born>1930</born>
+  <died>2010</died>
+  <comment/>
+  <url xlink:href="http://www.pfarrer-johannes-hansen.de.vu/" xlink:type="simple"/>
+</artist>

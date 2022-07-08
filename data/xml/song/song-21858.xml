@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21858">
+  <title>Nimm mein Herz</title>
+  <subtitle/>
+  <copyrightyear>1982</copyrightyear>
+  <right>D/A/CH/FL/L: Projektion J Musikverlag, Wiesbaden.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Change My Heart".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10921" xlink:type="simple"/>
+  <author xlink:href="#artist-2783" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-50" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-15338" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9927" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

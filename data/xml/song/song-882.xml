@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-882">
+  <title>Gott ist ein ewiger Fels</title>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-3973" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>210</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-deu-32" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

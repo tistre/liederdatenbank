@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1493">
+  <title>O herrlicher Tag, o fröhliche Zeit</title>
+  <text># O herrlicher Tag, o fröhliche Zeit,
+da Jesus lebt ohn alles Leid!
+Er ist erstanden von dem Tod,
+wir sind erlöst aus aller Not.
+O herrlicher Tag, o fröhliche Zeit!
+
+# O herrlicher Tag, o fröhliche Zeit,
+da wir von Sünden sind befreit!
+Getilget ist nun unsre Schuld,
+wir sind gerecht aus Gottes Huld.
+O herrlicher Tag, o fröhliche Zeit!
+
+# O herrlicher Tag, o fröhliche Zeit!
+Der Tod ist überwunden heut;
+es darf uns nicht mehr vor ihm graun,
+wir sind erfüllet mit Vertraun.
+O herrlicher Tag, o fröhliche Zeit!
+
+# O herrlicher Tag, o fröhliche Zeit!
+Die Liebe Gottes uns erfreut;
+des Herren Sieg hat uns erlöst,
+uns neues Leben eingeflößt.
+O herrlicher Tag, o fröhliche Zeit!
+
+# O herrlicher Tag, o fröhliche Zeit!
+Erhalt uns, Jesu, diese Freud,
+zu sagen hier zu aller Stund
+und dort einmal mit selgem Mund:
+O herrlicher Tag, o fröhliche Zeit!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-4488" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1704</year>
+  </author>
+  <author xlink:href="#artist-4489" xlink:type="simple">
+    <part>Music</part>
+    <year>1650</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>121</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>262</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>560</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

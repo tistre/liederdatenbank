@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3100">
+  <title>Ich verherrliche meinen großen Gott</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1982/1985</copyrightyear>
+  <right>Grace Fellowship. D/A/CH: Rudolf Slezak Musikverlag, Hamburg.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "I Will Celebrate".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13364" xlink:type="simple"/>
+  <author xlink:href="#artist-4980" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-27" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-96" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

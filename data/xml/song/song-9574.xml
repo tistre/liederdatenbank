@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9574">
+  <title>Darum jubel ich dir zu</title>
+  <subtitle>Wiesen und Berge</subtitle>
+  <right>JANZ Musikverlag / Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Original: Stand here and rejoice</comment>
+  <language>de</language>
+  <copyrightyear>2004</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>5483129</ccli_number>
+  <author xlink:href="#artist-3702" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9573" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23422" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25021" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-25641" xlink:type="simple">
+    <cdnum/>
+    <numoncd>11</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

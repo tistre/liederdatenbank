@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9834">
+  <title>Wenn du redest</title>
+  <subtitle>Ich möchte deine Stimme hörn</subtitle>
+  <right>Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number>4686343</ccli_number>
+  <ccli_features/>
+  <author xlink:href="#artist-3675" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="https://itunes.apple.com/de/album/ich-m%C3%B6chte-deine-stimme-h%C3%B6rn/id216071112?i=216071137" xlink:type="simple">
+    <title>iTunes Store</title>
+  </url>
+</song>

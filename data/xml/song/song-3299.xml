@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3299">
+  <title>Ich will den Herrn loben allezeit (Preiset mit mir den Herrn)</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1996</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-28063" xlink:type="simple"/>
+  <author xlink:href="#artist-4060" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-34" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+</song>

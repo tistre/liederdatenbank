@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3797">
+  <title>Herr, dieser Tag ist ein Geschenk</title>
+  <subtitle>Mein Lied bringt Lob und Dank</subtitle>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year>1989</year>
+  </author>
+  <author xlink:href="#artist-3889" xlink:type="simple">
+    <part>Text</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-3869" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>111</numinsongbook>
+  </songbookref>
+</song>

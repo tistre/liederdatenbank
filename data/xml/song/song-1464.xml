@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1464">
+  <title>Stern und Engel, Hirten und die Weisen</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>(Musik): Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>In http://www.liederdatenbank.de/songbook/9164 ist die Melodie von http://www.liederdatenbank.de/artist/12114.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-5011" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4322" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12114" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>196</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1151</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

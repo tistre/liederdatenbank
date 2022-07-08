@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1250">
+  <title>Ich blicke voll Beugung und Staunen</title>
+  <subtitle/>
+  <text># Ich blicke voll Beugung und Staunen hinein in das Meer seiner Gnad 
+und lausche der Botschaft des Friedens, die Er mir verkündiget hat.
+
+* 1.-4. Sein Kreuz bedeckt meine Schuld, sein Blut macht hell mich und rein. 
+Mein Wille gehört meinem Gott; ich traue auf Jesus allein.
+
+# Wie lang hab ich mühvoll gerungen, geseufzt unter Sünde und Schmerz! 
+Doch als ich mich ihm überlassen, da strömte sein Fried in mein Herz.
+
+# Sanft hat seine Hand mich berühret; er sprach: O mein Kind, du bist heil!" 
+Ich fasste den Saum seines Kleides: Da ward seine Kraft mir zuteil.
+
+# Der Fürst meines Friedens ist nahe; sein Antlitz ruht strahlend auf mir. 
+O horcht seiner Stimme; sie rufet: Den Frieden verleihe Ich dir!"</text>
+  <language>de</language>
+  <copyrightyear/>
+  <right>Satz: Neumünster 1931</right>
+  <textcopyright>free</textcopyright>
+  <comment>In "http://www.liederdatenbank.de/songbook/10115" ist der Refrain mit "Am Kreuz trug Er meine Schuld..." abgedruckt.</comment>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5210024</ccli_number>
+  <author xlink:href="#artist-12011" xlink:type="simple">
+    <part>Text</part>
+    <year>1873</year>
+  </author>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4524" xlink:type="simple">
+    <part>Music</part>
+    <year>1873</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>394</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>336</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>324</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>200</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-14538" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

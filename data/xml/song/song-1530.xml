@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1530">
+  <title>Jesus nimmt die Sünder an</title>
+  <text># Jesus nimmt die Sünder an. 
+Saget doch dies Trostwort allen, 
+welche von der rechten Bahn 
+auf verkehrten Weg verfallen. 
+Hier ist, was sie retten kann: 
+Jesus nimmt die Sünder an.
+
+# Keiner Gnade sind wir wert; 
+doch hat er in seinem Worte 
+eidlich sich dazu erklärt. 
+Sehet nur, die Gnadenpforte 
+ist hier völlig aufgetan: 
+Jesus nimmt die Sünder an.
+
+# Wenn ein Schaf verloren ist, 
+suchet es ein treuer Hirte; 
+Jesus, der uns nie vergisst, 
+suchet treulich das Verirrte, 
+dass es nicht verderben kann: 
+Jesus nimmt die Sünder an.
+
+# Kommet alle, kommet her,
+kommet, ihr betrübten Sünder! 
+Jesus rufet euch, und er 
+macht aus Sündern Gottes Kinder. 
+Glaubet's doch und denket dran: 
+Jesus nimmt die Sünder an.
+
+# Ich Betrübter komme hier 
+und bekenne meine Sünden; 
+lass, mein Heiland, 
+mich bei dir Gnade zur Vergebung finden, 
+dass dies Wort mich trösten kann: 
+Jesus nimmt die Sünder an.
+
+# Ich bin ganz getrosten Muts:
+ob die Sünden blutrot wären;
+müssen sie kraft deines Bluts
+dennoch sich in schneeweiß kehren,
+da ich gläubig sprechen kann:
+Jesus nimmt die Sünder an.
+
+# Mein Gewissen quält mich nicht, 
+will mich das Gesetz verklagen; 
+der mich frei und ledig spricht, 
+hat die Schulden abgetragen, 
+dass mich nichts verdammen kann: 
+Jesus nimmt die Sünder an.
+
+# Jesus nimmt die Sünder an; 
+mich hat er auch angenommen 
+und den Himmel aufgetan, 
+dass ich selig zu ihm kommen 
+und auf den Trost sterben kann: 
+Jesus nimmt die Sünder an.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1149" (EG 402).</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-5020" xlink:type="simple">
+    <part>Text</part>
+    <year>1718</year>
+  </author>
+  <author xlink:href="#artist-4432" xlink:type="simple">
+    <part>Music</part>
+    <year>1674</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>353</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>274</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>324</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>278</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>237</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

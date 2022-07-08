@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1583">
+  <title>Hier hast du meine beiden Hände</title>
+  <subtitle/>
+  <text># Hier hast du meine beiden Hände, 
+ich kann ja nichts aus eigner Kraft:
+du weißt den Weg, du weißt das Ende,
+bring du mich durch die Fremdlingschaft.
+
+# Ach, leite mich mit deinen Augen
+auf jeden Schritt im dunklen Tal!
+Wie gar nichts meine Kräfte taugen,
+ich fühl es täglich tausendmal.
+
+# Ich müsste ja vor Angst verzagen,
+wüsst ich nicht, dass du mit mir gehst,
+dass deine Schultern für mich tragen,
+und dass im Kampf du bei mir stehst.
+
+# Ich bitte nur, das bis zum Ende
+du mich in dein Erbarmen hüllst;
+hier hast du meine beiden Hände:
+nun mache mit mir, was du willst.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Die Melodie in "http://www.liederdatenbank.de/songbook/87" stammt von E. Janssen, die übrigen Bücher haben die Vertonung von P. Sonderhaus abgedruckt.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4546" xlink:type="simple">
+    <part>Text</part>
+    <year>1892</year>
+  </author>
+  <author xlink:href="#artist-12111" xlink:type="simple">
+    <part>Music</part>
+    <year>1909</year>
+  </author>
+  <author xlink:href="#artist-13425" xlink:type="simple">
+    <part>Music</part>
+    <year>1923</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>350</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>472</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>319</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>176</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

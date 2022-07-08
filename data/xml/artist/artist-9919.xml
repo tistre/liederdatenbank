@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9919">
+  <lastname>Briegel</lastname>
+  <firstname>Wolfgang Carl</firstname>
+  <name/>
+  <born>1626</born>
+  <died>1712</died>
+  <comment>Geboren in Königsberg/Unterfranken, nach Organisten- und Kantorentätigkeiten in versch. Städten 1671 Hofkapellmeister in Darmstadt.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Wolfgang Carl Briegel" xlink:type="simple"/>
+</artist>

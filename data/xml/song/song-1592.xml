@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1592">
+  <title>Warum sollt ich mich denn grämen</title>
+  <text># Warum sollt ich mich denn grämen? 
+Hab ich doch Christus noch; wer will mir den nehmen? 
+Wer will mir den Himmel rauben, 
+den mir schon Gottes Sohn beigelegt im Glauben?
+
+# Nackend lag ich auf dem Boden,
+da ich kam, da ich nahm meinen ersten Odem;
+nackend werd ich auch hinziehen,
+wenn ich werd von der Erd als ein Schatten fliehen.
+
+# Gut und Blut, Leib, Seel und Leben 
+ist nicht mein, Gott allein ist es, der's gegeben. 
+Will er's wieder zu sich kehren, 
+nehm er's hin; ich will ihn dennoch fröhlich ehren.
+
+# Schickt er mir ein Kreuz zu tragen, 
+dringt herein Angst und Pein, sollt ich drum verzagen? 
+Der es schickt, der wird es wenden; 
+er weiß wohl, wie er soll all mein Unglück enden.
+
+# Gott hat mich in guten Tagen
+oft ergötzt; soll ich jetzt nich auch etwas tragen?
+Fromm ist Gott und schärft mit Maßen
+sein Gericht, kann mich nicht ganz und gar verlassen.
+
+# Satan, Welt und ihre Rotten 
+können mir nichts mehr hier tun, als meiner spotten. 
+Lass sie spotten, lass sie lachen! 
+Gott, mein Heil, wird in Eil sie zuschanden machen.
+
+# Unverzagt und ohne Grauen 
+soll ein Christ, wo er ist, stets sich lassen schauen. 
+Wollt ihn auch der Tod aufreiben, 
+soll der Mut dennoch gut und fein stille bleiben.
+
+# Kann uns doch kein Tod nicht töten, 
+sondern reißt unsern Geist aus viel tausend Nöten, 
+schließt das Tor der bittern Leiden 
+und macht Bahn, da man kann gehn  zu Himmelsfreuden.
+
+# Allda will in süßen Schätzen
+ich mein Herz auf den Schmerz ewiglich ergötzen.
+Hier ist kein recht Gut zu finden;
+was die Welt in sich hält, muss im Nu verschwinden.
+
+# Was sind dieses Lebens Güter? 
+Eine Hand voller Sand, Kummer der Gemüter. 
+Dort, dort sind die edlen Gaben, 
+da mein Hirt Christus wird mich ohn Ende laben.
+
+# Herr, mein Hirt, Brunn aller Freuden, 
+du bist mein, ich bin dein, niemand kann uns scheiden. 
+Ich bin dein, weil du dein Leben 
+und dein Blut mir zugut in den Tod gegeben;
+
+# Du bist mein, weil ich dich fasse 
+und dich nicht, o mein Licht, aus dem Herzen lasse. 
+Lass mich, lass mich hingelangen, 
+da du mich und ich dich ewig werd umfangen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13101", "http://www.liederdatenbank.de/song/13421".</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <author xlink:href="#artist-4300" xlink:type="simple">
+    <part>Music</part>
+    <year>1666</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>360</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>511</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>387</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>370</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>328</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>553</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-108" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

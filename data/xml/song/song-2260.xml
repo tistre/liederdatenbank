@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2260">
+  <title>Es ist gewißlich an der Zeit</title>
+  <subtitle/>
+  <text># Es ist gewisslich an der Zeit,
+dass Gottes Sohn wird kommen
+in seiner großen Herrlichkeit,
+zu richten Bös und Fromme.
+Da wird das Lachen werden teu’r,
+wenn alles wird vergehn im Feu’r,
+wie Petrus davon schreibet.
+
+# Posaunen wird man hören gehn
+an aller Welten Ende,
+darauf bald werden auferstehn
+die Toten all behände;
+die aber noch das Leben han,
+die wird der Herr von Stunde an
+verwandeln und erneuen.
+
+# Danach wird man ablesen bald
+ein Buch, darin geschrieben,
+was alle Menschen, jung und alt,
+auf Erden je getrieben;
+da denn gewiss ein jedermann
+wird hören, was er hat getan
+in seinem ganzen Leben.
+
+# O weh dem Menschen, welcher hat
+des Herren Wort verachtet
+und nur auf Erden früh und spat
+nach großem Gut getrachtet!
+Er wird fürwahr gar schlecht bestehn
+und mit dem Satan müssen gehn
+von Christus in die Hölle.
+
+# O Jesu, hilf zur selben Zeit
+von wegen deiner Wunden,
+dass ich im Buch der Seligkeit
+werd angezeichnet funden.
+Daran ich denn auch zweifle nicht,
+denn du hast ja den Feind gericht’
+und meine Schuld bezahlet.
+
+# Derhalben mein Fürsprecher sei,
+wenn du nun wirst erscheinen,
+und lies mich aus dem Buche frei,
+darinnen stehn die Deinen,
+auf dass ich samt den Brüdern mein
+mit dir geh in den Himmel ein,
+den du uns hast erworben.
+
+# O Jesu Christ, du machst es lang
+mit deinem Jüngsten Tage;
+den Menschen wird auf Erden bang
+von wegen vieler Plage.
+Komm doch, komm doch, du Richter groß,
+und mach uns bald in Gnaden los
+von allem Übel. Amen.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11298" xlink:type="simple">
+    <part>Text</part>
+    <year>(1582) 1586</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>706</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1co-15" xlink:type="simple">
+    <verse>52</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2pe-3" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-20" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-20" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+</song>

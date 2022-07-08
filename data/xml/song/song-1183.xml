@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1183">
+  <title>Die Gnade sei mit allen</title>
+  <text># Die Gnade sei mit allen, die Gnade unsers Herrn, des Herrn, 
+dem wir hier wallen, wallen und sehn sein Kommen gern.
+
+# Auf dem so schmalen Pfade gelingt uns ja kein Tritt, 
+es gehe seine Gnade, Gnade denn bis zum Ende mit.
+
+# Auf Gnade darf man trauen, man traut ihr ohne Reu; 
+und wenn uns je will grauen, grauen, so bleibt's: der Herr ist treu.
+
+# Damit wir nicht erliegen, muß Gnade mit uns sein; 
+denn sie flößt zu dem Siegen, Siegen Geduld und Glauben ein.
+
+# So scheint uns nichts ein Schade, was man um Jesum misst; 
+der Herr hat eine Gnade, Gnade, die über alles ist.
+
+# Bald ist es überwunden nun durch des Lammes Blut, 
+das in den schwersten Stunden, Stunden die größten Taten tut.
+
+# Herr, laß es dir gefallen, noch immer rufen wir: 
+die Gnade sei mit allen, allen, die Gnade sei mit mir!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: nach einer schweizerischen Volksweise 1778.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>In "http://www.liederdatenbank.de/songbook/10115" sind die Strophen 1, 3, 2, 5 u. 7 abgedruckt.</comment>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>310</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>148</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

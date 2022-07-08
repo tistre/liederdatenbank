@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-725">
+  <title>Thou art worthy, Thou art worthy</title>
+  <language>en</language>
+  <right>© Copyright 1963,1975 by Fred Bock Music</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>14789</ccli_number>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3968</comment>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-59" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1963</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-4" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-5" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

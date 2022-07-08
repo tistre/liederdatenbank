@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23289">
+  <title>In Jesus' Name</title>
+  <subtitle/>
+  <copyrightyear>2013</copyrightyear>
+  <right>Integrity Worship Music / Integrity's Praise! Music / Sound Of The New Breed / EWI</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6454638</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-666" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12845" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>74</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

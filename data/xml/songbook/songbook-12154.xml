@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-12154">
+  <name>Gotteslob (München-Freising)</name>
+  <comment>Ausgabe für Erzbistum München und Freising.
+Verlag Sankt Michaelsbund, München 1975,  2. erweiterte Auflage von 2003.
+ISBN 3-920821-51-3 (Kaliko weinrot)
+
+Nr. 1 - 800: http://www.liederdatenbank.de/songbook/9435 (Allgemeiner Teil)
+Nr. 801 - 1000: Diözesanteil des Erzbistums München und Freising
+
+*** Dieses Liederbuch ist noch nicht vollständig in der Liederdatenbank erfaßt. ***</comment>
+  <state>0</state>
+  <icon xlink:href="#file-12155" xlink:type="simple"/>
+  <url xlink:href="http://www.erzbistum-muenchen-und-freising.de/" xlink:type="simple">
+    <title>Erzbistum München-Freising</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/dp/3920821513" xlink:type="simple">
+    <title>Gotteslob (München u. Freising) @ Amazon.de</title>
+  </url>
+</songbook>

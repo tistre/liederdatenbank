@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1399">
+  <title>O dass doch bald dein Feuer brennte</title>
+  <text># O, dass doch bald dein Feuer brennte, 
+du unaussprechlich Liebender, 
+und bald die ganze Welt erkennte, 
+dass du bist König, Gott und Herr!
+
+# Verzehre Stolz und Eigenliebe 
+und sondre ab, was unrein ist, 
+und mehre jener Flamme Triebe, 
+die nur auf dich gerichtet ist.
+
+# Erwecke, läutre und vereine 
+des ganzen Christenvolkes Schar 
+und mach in deinem Gnadenscheine 
+dein Heil noch jedem offenbar.
+
+# Du unerschöpfter Quell des Lebens, 
+allmächtig starker Gotteshauch, 
+dein Feuermeer ström nicht vergebens, 
+ach zünd in unsern  Herzen auch.
+
+# Beleb, erleucht, erwärm, entflamme 
+doch bald die ganze weite Welt, 
+und zeig dich jedem Völkerstamme 
+als Heiland, Friedefürst und Held.
+
+# Dann tönen dir von Millionen 
+der Liebe Jubelharmonien, 
+und alle, die auf Erden wohnen, 
+knien vor den Thron des Lammes hin.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Unterschiedliche Vertonungen. - Gleiche Melodie: "http://www.liederdatenbank.de/song/1620".</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4989" xlink:type="simple">
+    <part>Text</part>
+    <year>1812</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <author xlink:href="#artist-4675" xlink:type="simple">
+    <part>Music</part>
+    <year>1827</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>588</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>255</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

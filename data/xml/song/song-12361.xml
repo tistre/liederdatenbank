@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12361">
+  <title>Herr Jesu, der du selbst von Gott als Lehrer kommen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: "http://www.liederdatenbank.de/songbook/8984" (EG 495 II). - Lied zur Ordination und Amtseinführung.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-12360" xlink:type="simple">
+    <part>Text</part>
+    <year>1741</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>584</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-col-1" xlink:type="simple">
+    <verse>25</verse>
+  </bibleref>
+</song>

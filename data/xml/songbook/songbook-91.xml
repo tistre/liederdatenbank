@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-91">
+  <name>Du bist Herr 3</name>
+  <state>1</state>
+  <icon xlink:href="#songbook-91-icon" xlink:type="simple"/>
+  <comment>Du bist Herr, Anbetungslieder, Band 3
+Herausgegeben von Martha u. Helmut Trömel
+ISBN 3-89490-029-6, Projektion J Musikverlag, Asslar 1995.
+
+http://www.liederdatenbank.de/songbook/3430
+http://www.liederdatenbank.de/songbook/90
+http://www.liederdatenbank.de/songbook/91
+http://www.liederdatenbank.de/songbook/562
+http://www.liederdatenbank.de/songbook/9081
+</comment>
+  <url xlink:href="http://www.amazon.de/dp/3894900296" xlink:type="simple">
+    <title>Du bist Herr 3 @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=5" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+</songbook>

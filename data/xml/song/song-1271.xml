@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1271">
+  <title>Erforsche mich, Jesu, mein Licht</title>
+  <text># Erforsche mich, Jesu, mein Licht, 
+durchleuchte mein Innerstes mir! 
+Mein eignes Bemühen taugt nicht. 
+||: Ich nahe mich willig, 
+ich nahe mich willig, 
+ich nahe mich dir. :||
+
+# Was soll mir die Welt und ihr Spiel? 
+Sie gab weder Trost mir noch Ruh. 
+Ich habe ein höheres Ziel: 
+||: mein Kleinod, o Jesu, 
+mein Kleinod, o Jesu, 
+mein Kleinod bist du. :||
+
+# Ich gebe mein Liebstes dir her; 
+mein alles auf Erden sei dein. 
+Was frag ich nach irdischem mehr? 
+||: Du selbst, o Herr Jesu, 
+du selbst, o Herr Jesu, 
+du selbst bist ja mein. :||
+
+# Im Glauben erfasse ich dich; 
+ich weiß es und traue dir's zu: 
+du reinigst und heiligest mich. 
+||: Du kannst mich erretten, 
+du willst stets erretten, 
+allmächtig bist du. :||
+
+# Dir, Jesu, sei Lob und sei Ehr! 
+Du bist meine Kraft, meine Ruh. 
+Du hältst mich, was will ich noch mehr? 
+||: Du kannst mich bewahren, 
+du willst stets bewahren, 
+allmächtig bist du! :||</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear/>
+  <author xlink:href="#artist-4563" xlink:type="simple">
+    <part>Text</part>
+    <year>(1875) 1880</year>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year>1883</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>419</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>437</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>258</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>367</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>333</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10437" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+</song>

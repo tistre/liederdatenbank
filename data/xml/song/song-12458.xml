@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12458">
+  <title>My Jesus, my lifeline</title>
+  <subtitle/>
+  <copyrightyear>1997</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>2432094</ccli_number>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-8921" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-22020" xlink:type="simple">
+    <cdnum/>
+    <numoncd>1</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

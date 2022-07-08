@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3093">
+  <title>Ich bin stark im Schutz des Allerhöchsten</title>
+  <language>de</language>
+  <subtitle>Unter dem Schatten Deiner Hand</subtitle>
+  <copyrightyear>1987</copyrightyear>
+  <right>Restoration Music Ltd., admin. by Lifestyle Music Ltd., England.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "I Will Dwell".</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4977" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1987</year>
+  </author>
+  <author xlink:href="#artist-4976" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-91" xlink:type="simple">
+    <verse>1-2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-91" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-51" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

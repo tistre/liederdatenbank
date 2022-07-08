@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23414">
+  <title>Only You</title>
+  <subtitle>Take my heart, I lay it down</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

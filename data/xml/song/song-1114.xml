@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1114">
+  <title>Sag nicht nein. Gott ruft auch dich</title>
+  <subtitle>Sieh, Er liebt dich</subtitle>
+  <language>de</language>
+  <right>Satz: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <copyrightyear>1971</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/78, http://www.liederdatenbank.de/artist/26489.</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-16750" xlink:type="simple"/>
+  <author xlink:href="#artist-3871" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3870" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>338</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>995</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25444">
+  <title>Where have all the flowers gone, long time passing</title>
+  <subtitle/>
+  <copyrightyear>1961</copyrightyear>
+  <right>Fall River Music Inc., New York, D/A/CH: Essex Musikverlag GmbH, Köln</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22374" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1961</year>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>310</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>223</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

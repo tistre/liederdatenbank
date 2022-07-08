@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3669">
+  <firstname>Jacques</firstname>
+  <lastname>Berthier</lastname>
+  <name/>
+  <born>1923</born>
+  <died>1994</died>
+  <comment>Geboren in Auxerre (Frankreich), Organist, Komponist der Gesänge von Taize, gestorben in Prais.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Jacques_Berthier (Komponist)" xlink:type="simple"/>
+</artist>

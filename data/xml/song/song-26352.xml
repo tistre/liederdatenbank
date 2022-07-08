@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26352">
+  <title>Großer Hirte aller Herden</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: https://www.liederdatenbank.de/song/2143</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-26351" xlink:type="simple">
+    <part>Text</part>
+    <year>1766</year>
+  </author>
+  <author xlink:href="#artist-462" xlink:type="simple">
+    <part>Music</part>
+    <year>1691</year>
+  </author>
+  <author xlink:href="#artist-11462" xlink:type="simple">
+    <part>Music</part>
+    <year>1793</year>
+  </author>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>591</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-joh-10" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

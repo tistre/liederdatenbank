@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2319">
+  <title>Singt, jauchzt, klatscht dem Herrn</title>
+  <author xlink:href="#artist-2774" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-2589" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>35</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+  </songbookref>
+  <right>Universal Songs, Holland</right>
+</song>

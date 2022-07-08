@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1171">
+  <title>Jesu, meine Freude, meines Herzens Weide</title>
+  <text># Jesu, meine Freude, / meines Herzens Weide, / Jesu, meine Zier,
+ach wie lang, ach lange / ist dem Herzen bange / und verlangt nach dir!
+Gottes Lamm, mein Bräutigam, / außer dir soll mir auf Erden / nichts sonst Liebers werden.
+
+# Unter deinem Schirmen / bin ich vor den Stürmen / aller Feinde frei.
+Laß den Satan wettern, / laß die Welt erzittern, / mir steht Jesus bei.
+Ob es jetzt gleich kracht und blitzt, / ob gleich Sund und Hölle schrecken, / Jesus will mich decken.
+
+# Trotz dem alten Drachen, / trotz dem Todesrachen, / trotz der Furcht dazu!
+Tobe, Welt, und springe; / ich steh hier und singe / in gar sichrer Ruh.
+Gottes Macht hält mich in acht; / Erd und Abgrund muß verstummen, / ob sie noch so brummen.
+
+# Weg mit allen Schätzen! / Du bist mein Ergötzen, / Jesu, meine Lust.
+Weg, ihr eitlen Ehren, / ich mag euch nicht hören, / bleibt mir unbewußt!
+Elend, Not, Kreuz, Schmach und Tod / soll mich, ob ich viel muß leiden, / nicht von Jesu scheiden.
+
+# Gute Nacht, o Wesen, / das die Welt erlesen, / mir gefällst du nicht!
+Gute Nacht, ihr Sünden, / bleibet weit dahinten, / kommt nicht mehr ans Licht!
+Gute Nacht, du Stolz und Pracht; / dir sei ganz, du Lasterleben, / gute Nacht gegeben!
+
+# Weicht, ihr Trauergeister! / denn mein Freudenmeister, / Jesus, tritt herein.
+Denen, die Gott lieben, / muß auch ihr Betrüben / lauter Freude sein.
+Duld ich schon hier Spott und Hohn, / dennoch bleibst du auch im Leide, / Jesu, meine Freude.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Die Melodie wird auch für andere Lieder verwendet: "http://www.liederdatenbank.de/song/13167". - In "http://www.liederdatenbank.de/songbook/10115" sind nur die Strophen 1, 2, 5, u. 6 abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4941394</ccli_number>
+  <author xlink:href="#artist-4448" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1653</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>396</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>390</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>368</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>242</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>298</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>508</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>340</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>278</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>304</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>205b</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

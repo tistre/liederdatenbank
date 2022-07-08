@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13274">
+  <title>Herr, du kamst hernieder</title>
+  <subtitle/>
+  <text># Herr, Du kamst hernieder,
+Hast uns versöhnt.
+Gingst zum Vater wieder,
+Wardst am Thron gekrönt.
+Dein Eigentum
+Sind wir, Gott zum Ruhm,
+Sind durch Dich vertreten dort im Heiligtum.
+Ewige Gnade! Wer liebt wie Du!
+O welch hohe Gabe, welch sel'ge Ruh'!
+
+# Jetzt die Deinen beten
+Freimütiglich,
+Weil Du sie vertreten
+Hohenpriesterlich.
+Dein Angesicht
+Ist auch jetzt gericht't
+Auf die Deinen alle. O Du läßt sie nicht!
+Dein treues Lieben, Dein Opfertod
+Brachte uns den Frieden in Sündennot.
+
+# Stehe auf vom Throne,
+Du Gotteslamm!
+Nimm die Braut zum Lohne,
+Teurer Bräutigam!
+Sie ist ja Dein,
+Rufe bald sie heim,
+In des Vaters Wohnung führ' sie mit Dir ein.
+An Deiner Rechten trifft sie kein Leid,
+Nahen keine Schmerzen in Ewigkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13496".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4675" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

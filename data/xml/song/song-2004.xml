@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2004">
+  <title>Auf, Seele, auf und säume nicht</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Melodie: "Lobt Gott, ihr Christen alle gleich" (EG 27)</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number/>
+  <author xlink:href="#artist-10526" xlink:type="simple">
+    <part>Text</part>
+    <year>1700 / 1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-2" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

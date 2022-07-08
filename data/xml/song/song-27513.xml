@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27513">
+  <title>Ich folge dir, ich traue deinem Wort</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Great Joy Music, USA / Arr.: Peter Sandwall, Schweden / Dt. Text: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Follow Of Christ". Bearbeitung: http://www.liederdatenbank.de/artist/482.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-10142" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-65" xlink:type="simple">
+    <part>Text</part>
+    <year>Str. 1</year>
+  </author>
+  <author xlink:href="#artist-25064" xlink:type="simple">
+    <part>Text</part>
+    <year>Str. 2</year>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

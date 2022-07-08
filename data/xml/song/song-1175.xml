@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1175">
+  <title>Hast du eine Sorgenlast</title>
+  <text># Hast du eine Sorgenlast, 
+die dir raubet Fried und Rast, 
+Jesu Herz dir offen steht: 
+Mach aus Sorgen ein Gebet!
+
+# Glühet tief in deiner Brust 
+irdischer Hoffnung süße Lust, 
+achte fein, wo Jesus geht, 
+werde stille im Gebet!
+
+# Bist du traurig und allein, 
+drückt dich bittre Seelenpein, 
+dein Erbarmer dich versteht; 
+suche Tröstung im Gebet!
+
+# Droht des Feindes Macht und List, 
+flieh zu dem, der Sieger ist, 
+und von seiner Majestät 
+ziehe Kraft an im Gebet!
+
+# Willst du Jesu Diener sein, 
+sorg im stillen Kämmerlein, 
+dass sein Geist dich rein umweht, 
+hole Weisung im Gebet!
+
+# Was dein Herze auch bewegt, 
+ob sich Schmerz, ob Wonne regt, 
+flieh zu Jesus früh und spät, 
+mach aus allem ein Gebet!</text>
+  <language>de</language>
+  <right>Brunnen-Verlag</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Text</part>
+    <year>1893</year>
+  </author>
+  <author xlink:href="#artist-4454" xlink:type="simple">
+    <part>Music</part>
+    <year>vor 1826</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>311</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>303</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>413</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>125</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21312" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1478">
+  <title>Jesu, Deine Passion</title>
+  <text># 
+Jesu, deine Passion will ich jetzt bedenken; 
+wollest mir vom Himmelsthron Geist und Andacht schenken. 
+In dem Bilde jetzt erschein, Jesu, meinem Herzen, 
+wie du, unser Heil zu sein, littest alle Schmerzen.
+
+# 
+Meine Seele sehen mach deine Angst und Bande, 
+deine Schläge, deine Schmach, deine Kreuzesschande, 
+deine Geißel, Dornenkron, Speer- und Nägelwunden, 
+deinen Tod, o Gottessohn, der mich dir verbunden.
+
+# 
+Aber lass mich nicht allein deine Marter sehen, 
+lass mich auch die Ursach fein und die Frucht verstehen. 
+Ach die Ursach war auch ich, ich und meine Sünde: 
+diese hat gemartert dich, dass ich Gnade finde.
+
+#
+Jesu, lehr bedenken mich dies mit Buß und Reue;
+hilf, dass ich mit Sünde dich martre nicht aufs neue.
+Sollt ich dazu haben Lust und nicht wollen meiden,
+was du selber büßen musst mit so großen Leiden?
+
+# 
+Wenn mir meine Sünde will machen heiß die Hölle,
+Jesu, mein Gewissen still, dich ins Mittel stelle.
+Dich und deine Passion lass mich gläubig fassen;
+liebet mich sein lieber Sohn, wie kann Gott mich hassen?
+
+# 
+Gib auch, Jesu, dass ich gern dir das Kreuz nachtrage, 
+dass ich Demut von dir lern und Geduld in Plage, 
+dass ich Lieb um Lieb dir geb, dass ich Lob dir singe, 
+bis ich dorten bei dir leb, bessern Dank dir bringe.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: "http://www.liederdatenbank.de/song/10533" (EG 77).</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4822" xlink:type="simple">
+    <part>Text</part>
+    <year>1663</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>238</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-16" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+</song>

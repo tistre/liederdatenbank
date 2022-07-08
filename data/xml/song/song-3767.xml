@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3767">
+  <title>Create in me a clean heart</title>
+  <subtitle>Wash me, cleanse me</subtitle>
+  <author xlink:href="#artist-3873" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+  </songbookref>
+</song>

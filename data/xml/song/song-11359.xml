@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11359">
+  <title>Herr, erbarme dich (gregorianisch)</title>
+  <subtitle/>
+  <text>Herr, erbarme dich.
+Christus, erbarme dich.
+Herr, erbarme dich.</text>
+  <copyrightyear/>
+  <right>Melodie: nach dem gregorianischen Kyrie XVI 11./12. Jh.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-9064" xlink:type="simple">
+    <part>Music</part>
+    <year>1952</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>178.05</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

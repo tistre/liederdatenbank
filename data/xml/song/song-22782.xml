@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22782">
+  <title>Für immer (Du bist der Anfang und das Ziel)</title>
+  <subtitle/>
+  <copyrightyear>2011</copyrightyear>
+  <right>Gracetown Publishing / Verwaltet von SCM Hänssler</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6116866</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-21984" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21953" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13264" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1019">
+  <title>Dem König, welcher Blut und Leben</title>
+  <subtitle/>
+  <text># Dem König, welcher Blut und Leben 
+dem Leben seiner Völker weiht, 
+dem König werde Preis gegeben!
+Erzählt sein Lob der Ewigkeit! 
+Singt alle Wunder, die er tut; 
+doch über alles rühmt sein Blut!
+
+# Den König hat mein Herz gefunden; 
+wo anders als auf Golgatha? 
+Da floß mein Heil aus seinen Wunden; 
+auch mich, auch mich erlöst' er da. 
+Für mich gab er sein Leben dar, 
+der ich von seinen Feinden war.
+
+# Wem anders sollt ich mich ergeben, 
+o König, der am Kreuz verblich? 
+Hier opf'r ich dir mein Blut und Leben; 
+mein ganzes Herz ergießet sich! 
+Dir schwör ich zu der Kreuzesfahn 
+als Streiter und als Untertan!
+
+# O gib dein Manna mir zu essen; 
+dein Freudenwein erquicke mich! 
+O lass mich deiner nie vergessen! 
+In meinem Geist verkläre dich! 
+So halt ich hier schon Abendmahl 
+und einst im großen Himmelssaal.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/329", "http://www.liederdatenbank.de/song/13748", "http://www.liederdatenbank.de/song/343".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4535" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>419</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>118</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>183</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>206</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>839</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21951" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+</song>

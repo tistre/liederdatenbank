@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14016">
+  <title>Dich Herr, der du einst am Kreuze</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1504", "http://www.liederdatenbank.de/song/13398", "http://www.liederdatenbank.de/song/314", "http://www.liederdatenbank.de/song/13422", "http://www.liederdatenbank.de/song/13477", "http://www.liederdatenbank.de/song/967", "http://www.liederdatenbank.de/song/1459".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13305" xlink:type="simple">
+    <part>Music</part>
+    <year>1665</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>512</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

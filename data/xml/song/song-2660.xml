@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2660">
+  <title>Ich beuge mich und fleh zu Dir</title>
+  <subtitle>Es gibt noch mehr</subtitle>
+  <author xlink:href="#artist-3585" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-2984" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-2985" xlink:type="simple">
+    <part>Music</part>
+    <year>1994</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+  </songbookref>
+</song>

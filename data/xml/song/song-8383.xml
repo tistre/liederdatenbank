@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-8383">
+  <title>Zweifeln und Staunen</title>
+  <subtitle/>
+  <right>2005 Hit'n Run Publishing, Schalksmühle</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Das Lied von ProChrist 2006.</comment>
+  <language>de</language>
+  <ccli_number>4686020</ccli_number>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-55" xlink:type="simple">
+    <part>Text</part>
+    <year>2005</year>
+  </author>
+  <author xlink:href="#artist-77" xlink:type="simple">
+    <part>Music</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

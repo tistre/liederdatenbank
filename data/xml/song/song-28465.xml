@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28465">
+  <title>Bunt, bunt kommt der Herbst</title>
+  <subtitle>Rot die Hagebutten sind</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10925" xlink:type="simple"/>
+  <author xlink:href="#artist-2778" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-21659" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

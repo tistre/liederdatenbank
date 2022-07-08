@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22793">
+  <title>Das ist unsre Zeit</title>
+  <subtitle/>
+  <copyrightyear>2010</copyrightyear>
+  <right>Gractown Publishing / Verwaltet von SCM Hänssler</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5841479</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-22707" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13264" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21953" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21955" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-49" xlink:type="simple">
+    <verse>8-10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-6" xlink:type="simple">
+    <verse>1-2</verse>
+  </bibleref>
+</song>

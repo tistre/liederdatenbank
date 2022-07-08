@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-186">
+  <title>Erscheinen meines Gottes Wege</title>
+  <text># Erscheinen meines Gottes Wege 
+mir seltsam, rätselhaft und schwer,
+und geh'n die Wünsche, die ich hege, 
+still unter in der Sorgen Meer,
+will trüb und still der Tag verrinnen, 
+der mir nur Schmerzen und Qual gebracht,
+dann darf ich mich auf eins besinnen: 
+dass Gott nie einen Fehler macht.
+
+# Wenn über ungelösten Fragen 
+mein Herz verzweiflungsvoll erbebt,
+an Gottes Liebe will verzagen, 
+weil sich der Unverstand erhebt:
+Dann darf ich all mein müdes Sehnen 
+in Gottes Rechte legen sacht
+und leise sprechen unter Tränen, 
+dass Gott nie einen Fehler macht.
+
+# Wenn mir zu hoch des Herrn Gedanken, 
+zu tief der Brunnen Seiner Huld,
+wenn alle Stützen haltlos wanken, 
+die Kraft mir fehlt und die Geduld;
+wenn gar mein Blick kein Ziel mehr findet 
+in langer, tränenvoller Nacht,
+ein Glaubensfunke dennoch kündet, 
+dass Gott nie einen Fehler macht.
+
+# Drum still, mein Herz, und lass vergehen, 
+was irdisch und vergänglich heißt.
+Im Lichte droben wirst du sehen, 
+dass gut die Wege, die Er weist.
+Und müsstest du dein Liebstes missen, 
+und ging's durch kalte, finstre Nacht:
+Halt fest an diesem sel´gen Wissen, 
+dass Gott nie einen Fehler macht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>In Stalingrad niedergeschrieben.</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-17838" xlink:type="simple"/>
+  <author xlink:href="#artist-24614" xlink:type="simple">
+    <part>Text</part>
+    <year>1943</year>
+  </author>
+  <author xlink:href="#artist-25227" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>154</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-108" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1291">
+  <title>Der Herr ist gut, in dessen Dienst wir stehn</title>
+  <text># Der Herr ist gut, in dessen Dienst wir stehn, 
+wir dürfen ihn in Demut Vater nennen; 
+wenn wir nur treu auf seinen Wegen gehn, 
+so sehn wir ihn von zarter Liebe brennen. 
+Dies Wort gibt uns im Kampfe Kraft und Mut: 
+Der Herr ist gut.
+
+# Der Herr ist gut und will der Sünder Schuld 
+nicht unerbittlich mit dem Schwerte rächen; 
+es ist bei ihm ein Reichtum der Geduld, 
+er sieht nicht an der Irrenden Verbrechen; 
+er ist versöhnt durch seines Sohnes Blut. 
+Der Herr ist gut.
+
+# Der Herr ist gut und teilt sich willig mit; 
+sein Wesen ist ein Brunnen guter Gaben. 
+Er geht uns nach und fragt bei jedem Schritt, 
+ob wir nicht was von ihm zu bitten haben. 
+Wo ist ein Herr, der so mit Knechten tut? 
+Der Herr ist gut.
+
+# Der Herr ist gut. Kein Elend ist so groß, 
+er hat so Kraft als Neigung, uns zu schützen. 
+Umschließt uns seiner starken Liebe Schoß, 
+so kann der Geist in stillem Frieden sitzen. 
+Es macht sein Schutz, dass man hier sicher ruht. 
+Der Herr ist gut.
+
+# Der Herr ist gut. Wer dies im Glauben schmeckt, 
+wird nimmermehr aus seinen Diensten gehen. 
+Hier wird erst recht, was Freiheit sei, entdeckt, 
+hier kann der Geist im rechten Adel stehen. 
+Nichts ist umsonst, was hier der Glaube tut. 
+Der Herr ist gut.
+
+# Der Herr ist gut und sieht in Gnaden an 
+den armen Dienst der Knechte, die ihn lieben. 
+Er gibt mehr Lohn, als man erwarten kann; 
+kein kühler Trunk ist unvergolten blieben: 
+er gibt dafür die ganze Segensflut. 
+Der Herr ist gut.
+
+# Der Herr ist gut und bleibt es bis zum Tod.
+Wir sollen ihm in seinen Armen sterben;
+er will uns führen aus der letzten Not
+und alles, was er hat, uns lassen erben
+und Ruhe geben, wie er selber ruht.
+Der Herr ist gut.
+
+# Der Herr ist gut. Fallt nieder vor dem Thron! 
+Wir sind zum Segen herzlich eingeladen. 
+Lobt unsern Gott, lobt seinen lieben Sohn, 
+lobt seinen Heilgen Geist, den Geist der Gnaden! 
+Lobt ihn für alles, was er ist und tut! 
+Der Herr ist gut.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4831806</ccli_number>
+  <author xlink:href="#artist-4615" xlink:type="simple">
+    <part>Text</part>
+    <year>1727</year>
+  </author>
+  <author xlink:href="#artist-9107" xlink:type="simple">
+    <part>Text</part>
+    <year>1837, Strophen 7-8</year>
+  </author>
+  <author xlink:href="#artist-4666" xlink:type="simple">
+    <part>Music</part>
+    <year>1825 / 1838</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>440</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>398</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>534</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>161</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>185</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>293</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>121</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>631</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

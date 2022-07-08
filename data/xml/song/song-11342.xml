@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11342">
+  <title>O Christe, Morgensterne</title>
+  <subtitle/>
+  <text># O Christe, Morgensterne,
+leucht uns mit hellem Schein;
+schein uns vons Himmels Throne
+an diesem dunklen Ort
+mit deinem reinen Wort.
+
+# O Jesu, Trost der Armen,
+mein Herz heb ich zu dir;
+du wirst dich mein erbarmen,
+dein Gnade schenken mir,
+das trau ich gänzlich dir.
+
+# Du hast für mich vergossen
+am Kreuz dein teures Blut:
+das lass mich, Herr, genießen,
+tröst mich durch deine Güt;
+hilf mir, das ist mein Bitt.
+
+# O Jesu, Lob und Ehre
+sing ich dir allezeit;
+den Glauben in mir mehre,
+dass ich nach dieser Zeit
+mit dir eingeh zur Freud.</text>
+  <copyrightyear/>
+  <right>Text: Leipzig 1579 nach dem weltlichen "Er ist der Morgensterne" Zwickau 1531 - Melodie: 16. Jh., giestlich Leipzig 1585, bei Barholomäus Gesius 1605</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1605</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-2pe-1" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+</song>

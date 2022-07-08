@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11327">
+  <title>Heut singt die liebe Christenheit</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>nach der Übertragung des Hymnus "Dicimus grates tibi" von Philipp Melanchthon (1539) 1543 durch Nikolaus Hermann 1560. - Melodie: 16. Jh.; geistlich Nürnberg um 1555</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11326" xlink:type="simple">
+    <part>Text</part>
+    <year>1985</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-6" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-12" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

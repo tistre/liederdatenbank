@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2764">
+  <title>We're reaching out to You</title>
+  <subtitle>Pre-revival days</subtitle>
+  <author xlink:href="#artist-4048" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+  </songbookref>
+</song>

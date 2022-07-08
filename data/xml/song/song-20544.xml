@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20544">
+  <title>Näher zu dir</title>
+  <subtitle>Man sagt, du wohnst auf hohen Bergen</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4904544</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22760" xlink:type="simple"/>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2004</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-jer-29" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-7" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

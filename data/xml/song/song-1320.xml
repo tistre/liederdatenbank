@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1320">
+  <title>Lobsinget dem Herrn, o preiset Ihn gern</title>
+  <subtitle/>
+  <text># Lobsinget dem Herrn,
+O preiset Ihn gern!
+Anbetung und Lob Ihm gebühret.
+
+# Lobsingt Seiner Lieb',
+Die einzig Ihn trieb,
+Zu sterben für unsere Sünden!
+
+# Lobsingt Seiner Macht!
+Sein Werk ist vollbracht:
+Er sitzet zur Rechten des Vaters.
+
+# Lobsingt Seiner Treu',
+Die immerdar neu,
+Bis Er uns zur Herrlichkeit führet!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <author xlink:href="#artist-10116" xlink:type="simple">
+    <part>Music</part>
+    <year>1818</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#1" xlink:type="simple"/>
+  <ccli_features>L</ccli_features>
+</song>

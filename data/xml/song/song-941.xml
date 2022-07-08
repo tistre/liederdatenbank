@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-941">
+  <title>Mit allen Kronen krönt das Lamm auf Gottes Thron</title>
+  <language>de</language>
+  <right>Dt. Text: Hännsler-Verlag, Neuhausen-Stuttgart</right>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>andere Übersetzung: "http://www.liederdatenbank.de/song/4509".</comment>
+  <copyrightyear/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-942" xlink:type="simple"/>
+  <author xlink:href="#artist-4805" xlink:type="simple">
+    <part>Text</part>
+    <year>1851</year>
+  </author>
+  <author xlink:href="#artist-4807" xlink:type="simple">
+    <part>Text</part>
+    <year>1874</year>
+  </author>
+  <author xlink:href="#artist-4806" xlink:type="simple">
+    <part>Music</part>
+    <year>1868</year>
+  </author>
+  <author xlink:href="#artist-4256" xlink:type="simple">
+    <part>Text</part>
+    <year>1989</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

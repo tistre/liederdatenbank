@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2072">
+  <title>Ich bin im Himmel angeschrieben</title>
+  <author xlink:href="#artist-5074" xlink:type="simple">
+    <part>Text</part>
+    <year>1716</year>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>281</numinsongbook>
+  </songbookref>
+</song>

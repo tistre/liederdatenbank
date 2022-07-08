@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2151">
+  <title>Mein Gott, wie bist Du so verborgen</title>
+  <subtitle>Mein Vater, führ mich immerdar</subtitle>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>476</numinsongbook>
+  </songbookref>
+</song>

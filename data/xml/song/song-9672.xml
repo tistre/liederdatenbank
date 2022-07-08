@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9672">
+  <title>You Shine</title>
+  <subtitle>Why should I fear man</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <ccli_number>3361793</ccli_number>
+  <copyrightyear>2001</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21943" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14045" xlink:type="simple">
+    <cdnum/>
+    <numoncd>2</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-21945" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

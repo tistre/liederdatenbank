@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12289">
+  <title>Herr, ich danke dir</title>
+  <subtitle/>
+  <copyrightyear>1979</copyrightyear>
+  <right>beim Verfasser</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-12288" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1979</year>
+  </author>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-24803">
+  <name>Wie ein Adler </name>
+  <comment>2017 by Ecksteinproduction
+Vertrieb: SCM Hänssler</comment>
+  <state>0</state>
+  <url xlink:href="www.Ecksteinproduktion" xlink:type="simple">
+    <title>Wie ein Adler</title>
+  </url>
+  <icon xlink:href="#file-25676" xlink:type="simple"/>
+</cd>

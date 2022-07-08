@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-127">
+  <title>Bei dir, Jesu, will ich bleiben</title>
+  <text># Bei dir, Jesu, will ich bleiben,
+stets in deinem Dienste stehn;
+nichts soll mich von dir vertreiben,
+will auf deinen Wegen gehn.
+Du bist meines Lebens Leben,
+meiner Seele Trieb und Kraft,
+wie der Weinstock seinen Reben
+zuströmt Kraft und Lebenssaft.
+
+# Könnt ich's irgend besser haben
+als bei dir, der allezeit
+soviel tausend Gnadengaben
+für mich Armen hat bereit?
+Könnt ich je getroster werden
+als bei dir, Herr Jesu Christ,
+dem im Himmel und auf Erden
+alle Macht gegeben ist?
+
+# Wo ist solch ein Herr zu finden,
+der, was Jesus tat, mir tut:
+mich erkauft von Tod und Sünden
+mit dem eignen teuren Blut?
+Sollt ich dem nicht angehören,
+der sein Leben für mich gab,
+sollt ich ihm nicht Treue schwören,
+Treue bis in Tod und Grab?
+
+# Ja, Herr Jesu, bei dir bleib ich
+so in Freude wie in Leid;
+bei dir bleib ich, dir verschreib ich
+mich für Zeit und Ewigkeit.
+Deines Winks bin ich gewärtig,
+auch des Rufs aus dieser Welt;
+denn der ist zum Sterben fertig,
+der sich lebend zu dir hält.
+
+# Bleib mir nah auf dieser Erden,
+bleib auch, wenn mein Tag sich neigt,
+wenn es nun will Abend werden
+und die Nacht herniedersteigt.
+Lege segnend dann die Hände
+mir aufs müde, schwache Haupt,
+sprich: "Mein Kind, hier geht's zu Ende;
+aber dort lebt, wer hier glaubt."
+
+# Bleib mir dann zur Seite stehen,
+graut mir vor dem kalten Tod
+als dem kühlen, scharfen Wehen
+vor dem Himmelsmorgenrot.
+Wird mein Auge dunkler, trüber,
+dann erleuchte meinen Geist,
+daß ich fröhlich zieh hinüber,
+wie man nach der Heimat reist.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: 1688 / Geistlich um 1735. - Gleiche Melodie: "http://www.liederdatenbank.de/song/13103", "http://www.liederdatenbank.de/song/13213", "http://www.liederdatenbank.de/song/1418", "http://www.liederdatenbank.de/song/248", "http://www.liederdatenbank.de/song/13408", "http://www.liederdatenbank.de/song/1374".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4897637</ccli_number>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year>1833</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>342</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>376</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>355</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>406</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>265</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>290</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>284</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-14538" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=64946" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+</song>

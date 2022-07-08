@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22933">
+  <title>Voice Of Truth</title>
+  <subtitle/>
+  <copyrightyear>2003</copyrightyear>
+  <right>Sony/ATV Tree Publishing / My Refuge Music / Primary Wave Brian</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4196620</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-13854" xlink:type="simple"/>
+  <author xlink:href="#artist-22837" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22812" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

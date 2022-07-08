@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1475">
+  <title>Herzliebster Jesu, was hast Du verbrochen</title>
+  <text># Herzliebster Jesu, was hast du verbrochen, 
+dass man ein solch scharf Urteil hat gesprochen? 
+Was ist die Schuld, in was für Missetaten 
+bist du geraten?
+
+# Du wirst gegeißelt und mit Dorn gekrönet, 
+ins Angesicht geschlagen und verhöhnet, 
+du wirst mit Essig und mit Gall getränket, 
+ans Kreuz gehenket.
+
+# Was ist doch wohl die Ursach solcher Plagen? 
+Ach, meine Sünden haben dich geschlagen; 
+ich, mein Herr Jesu, habe dies verschuldet, 
+was du erduldet.
+
+# Wie wunderbarlich ist doch diese Strafe! 
+Der gute Hirte leidet für die Schafe, 
+die Schuld bezahlt der Herre, der Gerechte, 
+für seine Knechte.
+
+# Der Fromme stirbt, der recht und richtig wandelt, 
+der Böse lebt, der wider Gott gehandelt; 
+der Mensch verdient den Tod und ist entgangen, 
+Gott wird gefangen.
+
+# O große Lieb, o Lieb ohn alle Maße, 
+die dich gebracht auf diese Marterstraße! 
+Ich lebte mit der Welt in Lust und Freuden, 
+und du musst leiden.
+
+# Ach großer König, groß zu allen Zeiten, 
+wie kann ich gnugsam solche Treu ausbreiten? 
+Keins Menschen Herz vermag es auszudenken, 
+was dir zu schenken.
+
+# Ich kanns mit meinen Sinnen nicht erreichen, 
+womit doch dein Erbarmung zu vergleichen; 
+wie kann ich dir denn deine Liebestaten 
+im Werk erstatten?
+
+# Ich werde dir zu Ehren alles wagen, 
+kein Kreuz nicht achten, keine Schmach und Plagen, 
+nichts von Verfolgung, nichts von Todesschmerzen 
+nehmen zu Herzen.
+
+# Weils aber nicht besteht in eignen Kräften, 
+fest die Begierden an das Kreuz zu heften, 
+so gib mir deinen Geist, der mich regiere, 
+zum Guten führe.
+
+# Wenn, o Herr Jesu, dort vor deinem Throne 
+wird stehn auf meinem Haupt die Ehrenkrone, 
+da will ich dir, wenn alles wird wohl klingen, 
+Lob und Dank singen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_number>4917995</ccli_number>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4736" xlink:type="simple">
+    <part>Text</part>
+    <year>1630</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1640 nach</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>208</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>240</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>291</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>6ß</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>228</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>210</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

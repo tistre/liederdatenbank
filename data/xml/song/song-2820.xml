@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2820">
+  <title>Du bist Herr über Tag und Nacht</title>
+  <author xlink:href="#artist-2787" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-2786" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+  </songbookref>
+</song>

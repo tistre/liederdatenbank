@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22576">
+  <title>Der Geist des Herrn erfüllt das All</title>
+  <subtitle/>
+  <copyrightyear>1946</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22156" xlink:type="simple"/>
+  <author xlink:href="#artist-9031" xlink:type="simple">
+    <part>Text</part>
+    <year>1946</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>566</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>554</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

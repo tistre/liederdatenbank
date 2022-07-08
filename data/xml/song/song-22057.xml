@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22057">
+  <title>Wir werden uns noch wundern</title>
+  <subtitle/>
+  <copyrightyear>2009</copyrightyear>
+  <right>beim Autor</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-9472" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2009</year>
+  </author>
+  <cdref xlink:href="#cd-22042" xlink:type="simple">
+    <cdnum/>
+    <numoncd>15</numoncd>
+  </cdref>
+  <url xlink:href="http://www.susannefrankholz.de/" xlink:type="simple"/>
+  <url xlink:href="http://home.mnet-online.de/susannefrankholz/wundern.mp3" xlink:type="simple">
+    <title>MP3</title>
+  </url>
+</song>

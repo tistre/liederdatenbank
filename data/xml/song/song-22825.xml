@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22825">
+  <title>Kyrie Eleison (Melodie: Klaus Göttler)</title>
+  <subtitle/>
+  <text>Kyrie, kyrie, kyrie eleison.
+Kyrie, kyrie, kyrie eleison.</text>
+  <copyrightyear>2011</copyrightyear>
+  <right>SCM Hänssler (Melodie)</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-3655" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22826" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

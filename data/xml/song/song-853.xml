@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-853">
+  <title>Vater, ich folge Dir</title>
+  <subtitle>Herr, mach uns frei von uns selbst</subtitle>
+  <author xlink:href="#artist-3866" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>226</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

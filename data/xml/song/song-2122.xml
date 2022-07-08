@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2122">
+  <title>Jesus, meine Sonne in der dunklen Nacht</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/13975".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4282" xlink:type="simple">
+    <part>Text</part>
+    <year>1902</year>
+  </author>
+  <author xlink:href="#artist-13774" xlink:type="simple">
+    <part>Music</part>
+    <year>1819</year>
+  </author>
+  <author xlink:href="#artist-4450" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>486</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>394</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4593">
+  <title>Herr, lehre uns, dass wir sterben müssen</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Strube Verlag, München-Berlin, Melodie und Satz: Hänssler-Verlag, Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>unterschiedliche Vertonungen</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4725" xlink:type="simple">
+    <part>Text</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-11942" xlink:type="simple">
+    <part>Music</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Music</part>
+    <year>2002 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>451</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>534</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19895" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>957</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>6</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-90" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965464&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

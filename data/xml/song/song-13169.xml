@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13169">
+  <title>Du führtest uns ins Heiligtum</title>
+  <subtitle/>
+  <text># Du führtest uns ins Heiligtum,
+Nicht sind wir mehr geschieden,
+Wir singen Deines Namens Ruhm
+Und beten an in Frieden.
+O Liebesglut!
+Du gabst Dein Blut.
+Von Sünd' sind wir gereinigt
+Und sind mit Dir vereinigt.
+
+# Nichts trennt uns mehr. Des Vaters Herz
+Ist uns in Dir geschenket –
+Das Herz, das stets in Leid und Schmerz
+So liebend an uns denket.
+Es hebt und trägt,
+Es sorgt und pflegt,
+Es segnet ohn' Ermüden,
+Versäumet keins hienieden.
+
+# Wie unaussprechlich ist die Gnad',
+Wie reich die Segensfülle,
+Die stets erhellet unsern Pfad
+Und macht das Herz so stille!
+O gib, daß wir
+Im Glauben hier
+Auf Dich, o Jesu, sehen
+Und Deine Lieb' verstehen!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/10189", "http://www.liederdatenbank.de/song/1223", "http://www.liederdatenbank.de/song/13105", "http://www.liederdatenbank.de/song/13438", "http://www.liederdatenbank.de/song/1597", "http://www.liederdatenbank.de/song/13533".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4522" xlink:type="simple">
+    <part>Music</part>
+    <year>1675</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#72" xlink:type="simple"/>
+</song>

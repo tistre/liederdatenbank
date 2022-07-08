@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13220">
+  <title>Wer findet Worte, dir zu danken?</title>
+  <subtitle/>
+  <text># Wer findet Worte, Dir zu danken?
+O Vater, Deine Lieb' ist groß,
+Ist unaussprechlich, ohne Schranken:
+Du gabst den Sohn aus Deinem Schoß.
+Du gabst Ihn hin, den Eingebornen,
+Du sandtest Ihn zu uns herab,
+Für Deine Feinde, die Verlornen,
+Gabst Du Ihn hin in Tod und Grab.
+
+# O wohl uns, daß Du voll Erbarmen,
+Daß Du, o Gott, die Liebe bist,
+Daß wir in treuen Vaterarmen
+So sicher ruhn durch Jesum Christ!
+In Ihm gabst Du uns Heil und Leben,
+Ja, alles - o wer liebt so sehr!
+Ein Gott, der Seinen Sohn gegeben,
+Ein solcher Gott versagt nichts mehr.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13251", "http://www.liederdatenbank.de/song/1563", "http://www.liederdatenbank.de/song/13417". - Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/13219" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#89" xlink:type="simple"/>
+</song>

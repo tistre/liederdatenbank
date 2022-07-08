@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10531">
+  <lastname>Greitter</lastname>
+  <firstname>Matthäus</firstname>
+  <name/>
+  <born>um 1495</born>
+  <died>1550</died>
+  <comment>Geboren in Aichach bei Augsburg, Mönch und Kantor in Straßburg, 1524 evangelisch, dann Hilfsprediger, Kantor, 1550 wieder katholisch.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Matthias_Greitter" xlink:type="simple"/>
+</artist>

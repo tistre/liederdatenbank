@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3946">
+  <title>Zwischen Himmel und Erde</title>
+  <language>de</language>
+  <subtitle/>
+  <right>Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear>2002</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4686556</ccli_number>
+  <publisher xlink:href="#publisher-22681" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21943" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>173</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14517" xlink:type="simple">
+    <cdnum>2</cdnum>
+    <numoncd>13</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-21945" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>11</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=203507444&amp;id=203506117&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

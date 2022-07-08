@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11294">
+  <title>Wir danken dir, Herr Jesu Christ, daß du gen Himmel g'fahren bist</title>
+  <subtitle/>
+  <text># Wir danken dir, Herr Jesu Christ,
+dass du gen Himmel g’fahren bist:
+Halleluja, Halleluja,
+o starker Gott Immanuel,
+stärk uns an Leib, stärk uns an Seel.
+Halleluja, Halleluja.
+
+# Nun freu sich alle Christenheit
+und sing und spring ohn alles Leid.
+Halleluja, Halleluja.
+Gott Lob und Dank im höchsten Thron,
+weil unser Bruder Gottes Sohn.
+Halleluja, Halleluja.
+
+# Gen Himmel aufgefahren hoch,
+ist er doch allzeit bei uns noch;
+Halleluja, Halleluja;
+sein Macht und Reich unendlich ist,
+wahr’ Gott und Mensch zu aller Frist.
+Halleluja, Halleluja.
+
+# Durch ihn der Himmel unser ist.
+Hilf uns, o Bruder Jesu Christ,
+Halleluja, Halleluja,
+dass wir nur trauen fest auf dich
+und durch dich leben ewiglich.
+Halleluja, Halleluja.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11284" (EG 109).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4721" xlink:type="simple">
+    <part>Text</part>
+    <year>1607</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>121</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

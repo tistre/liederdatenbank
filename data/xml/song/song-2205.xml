@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2205">
+  <title>Du stehst am Platz, den Gott dir gab</title>
+  <subtitle/>
+  <text># Du stehst am Platz, den Gott dir gab,
+dem Platz, den er dir zugedacht; 
+dort nur bleibt er dein Schild und Stab,
+dort gibt er Frucht, dort wirkt er Macht.
+
+# Will er dich segnen, sucht er dich
+nicht in der ganzen weiten Welt:
+Er sucht dich nur an deinem Platz,
+dem Platz, wo er dich hingestellt.
+
+# Bleib auf dem Platz, den Gott dir gab,
+und halte da in Treue aus:
+Ist es ein Kreuz, steig nicht herab;
+ist's Schmelzerglut, weich ihr nicht aus!
+
+# Blick auch nicht seufzend rechts und links,
+scheint er verborgen, irdisch, klein;
+auf diesem Platz, den Gott dir gab,
+will er durch dich gepriesen sein.
+
+# Bedenk's, den Platz, den Gott dir gab,
+kann niemand füllen als nur du;
+es ist nicht gleich, ob du dort stehst,
+denn grade dich braucht er dazu.
+
+# Nimm täglich ihn aus Gottes Hand,
+den Platz, den seine Liebe gab;
+was sich an eignen Plänen fand
+bei dir noch, senk's in Christi Grab!
+
+# Ja, auf dem Platz, den er dir gab,
+da jauchze du ihm fröhlich zu,
+dass jeder sieht: Sein Wille ist
+dir Leben, Herrlichkeit und Ruh.
+
+# Sieh, wenn er kommt, sucht er auch dich
+nicht in der ganzen weiten Welt;
+er sucht dich dort nur sicherlich,
+wohin er selber dich gestellt.
+
+# Und dann - o selger Freudentag!
+Wenn er an deinem Platz dich fand,
+versetzt er dich, gibt dir den Platz
+auf seinem Thron im Heimatland.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4546" xlink:type="simple">
+    <part>Text</part>
+    <year>1930</year>
+  </author>
+  <author xlink:href="#artist-22032" xlink:type="simple">
+    <part>Music</part>
+    <year>1862</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>590</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28553">
+  <title>Was ist nur mit meinen Träumen</title>
+  <subtitle>und ich hab viel erlebt</subtitle>
+  <copyrightyear/>
+  <right>Otto Müller Verlag, A- 5021 Salzburg.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Aus: "P.Aimé Duval S.J., Chansons 1.u.2."</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25627" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+</song>

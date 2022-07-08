@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15075">
+  <title>Du bist unser König</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <cdref xlink:href="#cd-14041" xlink:type="simple">
+    <cdnum/>
+    <numoncd>2</numoncd>
+  </cdref>
+  <url xlink:href="http://www.mp3.de/musik/preview/686692.m3u" xlink:type="simple">
+    <title>Du bist unser König (Hörprobe) @ MP3.de</title>
+  </url>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=203480884&amp;id=203480804&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+  <url xlink:href="http://de.youtube.com/watch?v=NTlj1nJyr-M" xlink:type="simple">
+    <title>Youtube Video mit Musik</title>
+  </url>
+</song>

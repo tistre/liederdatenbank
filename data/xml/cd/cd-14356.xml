@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-14356">
+  <name>Helmut Jost and Gospelfire: Send a Revival</name>
+  <comment>Helmut Jost and Gospelfire: Send a Revival
+Produced &amp; arranged by Helmut Jost
+Crative Kirche Medien GmbH, Sandstraße 12, 58455 Witten 2006
+Bestell-Nr. CD: 440 410 035</comment>
+  <state>0</state>
+  <icon xlink:href="#file-14355" xlink:type="simple"/>
+  <url xlink:href="http://www.creative-kirche.de/" xlink:type="simple">
+    <title>Creative Kirche</title>
+  </url>
+  <url xlink:href="http://www.bvbuch.de/produkt/titel/send-a-revival/100250/100250/100250.html" xlink:type="simple">
+    <title>Send a Revival @ bvbuch.de</title>
+  </url>
+</cd>

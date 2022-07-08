@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2896">
+  <title>Jesus, o Jesus, Du bist hier</title>
+  <subtitle>Wir singen zu Dir, o Gott</subtitle>
+  <author xlink:href="#artist-4171" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+  </songbookref>
+</song>

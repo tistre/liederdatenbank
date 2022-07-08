@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1580">
+  <title>Das sei alle meine Tage meine Sorg und meine Frage</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/1576" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13569" xlink:type="simple">
+    <part>Text</part>
+    <year>1839</year>
+  </author>
+  <author xlink:href="#artist-4614" xlink:type="simple">
+    <part>Music</part>
+    <year>1711</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>347</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>285</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

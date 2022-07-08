@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2391">
+  <title>In the secret</title>
+  <subtitle>I want to know You</subtitle>
+  <language>en</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>1810119</ccli_number>
+  <comment/>
+  <copyrightyear>1995</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-10921" xlink:type="simple"/>
+  <author xlink:href="#artist-2770" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1810119" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1563">
+  <title>Von deiner Gnade will ich singen</title>
+  <subtitle/>
+  <text># Von Deiner Gnade will ich singen,
+Die mich erfüllt mit sel'ger Ruh',
+Anbetung Deiner Liebe bringen.
+Wer liebt, o Gott, wer liebt wie Du!
+Die Gnade führt von bösen Wegen
+Den Sünder, den verlornen, aus,
+Die Liebe eilt ihm froh entgegen,
+Als käm' der einz'ge Sohn nach Haus.
+
+# Nur Gnade ist's, die mir begegnet,
+So lang ich hier in Schwachheit bin.
+Der Liebe Fülle dort mich segnet,
+Komm' ich zur ew'gen Heimat hin.
+Mag auch hienieden alles wanken,
+Mag alles hier auch enden sich:
+Die Gnade kennet keine Schranken,
+Und Liebe bleibet ewiglich.
+
+# Wie kommt's, daß ich hier sicher walle?
+Weil Deine Gnad', o Gott, mich schützt.
+Wie kommt's, daß ich im Kampf nicht falle?
+Weil Deine Lieb' mich schirmt und stützt.
+Ja, Gnade ist's, die stets mich leitet,
+Und Liebe, die mich führet heim.
+Schon ist die Wohnstätt' dort bereitet,
+Bald zieh' ich jubelnd zu Dir ein.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen in den Büchern. - Gleiche Melodie: "http://www.liederdatenbank.de/song/13220", "http://www.liederdatenbank.de/song/13251", "http://www.liederdatenbank.de/song/13417".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>324</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#117" xlink:type="simple"/>
+</song>

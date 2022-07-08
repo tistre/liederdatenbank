@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-541">
+  <firstname>Ernst Heinrich</firstname>
+  <lastname>Gebhardt</lastname>
+  <name/>
+  <born>1832</born>
+  <died>1899</died>
+  <comment>Geboren in Ludwigsburg, Methodistenprediger in Deutschland und der Schweiz, Mitbegründer des Christlichen Sängerbundes, Herausgeber zahlreicher Liedersammlungen. Gestorben in Ludwigsburg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ernst_Heinrich_Gebhardt" xlink:type="simple">
+    <title>Ernst Heinrich Gebhardt @ Wikipedia.org</title>
+  </url>
+</artist>

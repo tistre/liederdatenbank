@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4827">
+  <firstname>Hermann</firstname>
+  <lastname>Claudius</lastname>
+  <name/>
+  <born>1878</born>
+  <died>1980</died>
+  <comment>Geboren in Langenfelde/Holstein, 1900-1934 Lehrer, dann freier Schriftsteller, gestorben in Grönwohld bei Hamburg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Hermann_Claudius" xlink:type="simple"/>
+</artist>

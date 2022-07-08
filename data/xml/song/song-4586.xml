@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4586">
+  <title>Du hast mir so oft neuen Mut gegeben</title>
+  <subtitle>Ich danke Dir, mein Gott</subtitle>
+  <language>de</language>
+  <copyrightyear>1990</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-684" xlink:type="simple">
+    <part>Text</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-685" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1990</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>425</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>951</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1706</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>4</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965458&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

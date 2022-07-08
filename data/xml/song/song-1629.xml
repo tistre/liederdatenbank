@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1629">
+  <title>In allen meinen Taten lass ich den Höchsten raten</title>
+  <text># In allen meinen Taten 
+lass ich den Höchsten raten, 
+der alles kann und hat; 
+er muss zu allen Dingen, 
+solls anders wohl gelingen, 
+mir selber geben Rat und Tat.
+
+# Nichts ist es spät und frühe 
+um alle meine Mühe, 
+mein Sorgen ist umsonst; 
+er mags mit meinen Sachen 
+nach seinem Willen machen, 
+ich stells in seine Vatergunst.
+
+# Es kann mir nichts geschehen, 
+als was er hat ersehen 
+und was mir selig ist. 
+Ich nehm es, wie ers gibet; 
+was ihm von mir beliebet, 
+dasselbe hab auch ich erkiest.
+
+# Ich traue seiner Gnaden, 
+die mich vor allem Schaden, 
+vor allem Übel schützt; 
+lob ich nach seinen Sätzen, 
+so wird mich nichts verletzen, 
+nichts fehlen, was mir ewig nützt.
+
+# Er wolle meiner Sünden 
+in Gnaden mich entbinden, 
+durchstreichen meine Schuld; 
+er wird auf solch Verbrechen 
+nicht stracks das Urteil sprechen 
+und haben noch mit mir Geduld.
+
+# Ihm hab ich mich ergeben 
+zu sterben und zu leben, 
+sobald er mir gebeut; 
+es sei heut oder morgen, 
+dafür lass ich ihn sorgen, 
+er weiß allein die rechte  Zeit.
+
+# So sei nun, Seele, deine 
+und traue dem alleine, 
+der dich geschaffen hat. 
+Es gehe, wie es gehe, 
+dein Vater in der Höhe, 
+der weiß zu allen Sachen Rat.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: 15. Jh. / Geistlich um 1505.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1366", "http://www.liederdatenbank.de/song/13418", "http://www.liederdatenbank.de/song/1683", "http://www.liederdatenbank.de/song/338", "http://www.liederdatenbank.de/song/1651".</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4738" xlink:type="simple">
+    <part>Text</part>
+    <year>(1633) 1642</year>
+  </author>
+  <author xlink:href="#artist-4729" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1495</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>415</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>474</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>430</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>368</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>321</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>407</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1696</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

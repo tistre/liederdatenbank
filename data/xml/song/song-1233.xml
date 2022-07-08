@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1233">
+  <title>Wir haben einen Felsen, der unbeweglich steht</title>
+  <text># Wir haben einen Felsen, der unbeweglich steht. 
+Wir haben eine Wahrheit, die niemals untergeht. 
+Wir haben Wehr und Waffen in jedem Kampf und Streit. 
+Wir haben eine Wolke von Gottes Herrlichkeit.
+
+# Wir haben eine Speise, der Welt hier unbekannt. 
+Wir haben einen Schatten im heißen Sonnenbrand. 
+Wir haben eine Quelle, die niemals je versiegt, 
+wir haben Kraft zum Tragen, die keiner Last erliegt.
+
+# Wir haben einen Tröster voll heiliger Geduld, 
+wir haben einen Helfer von liebevoller Huld. 
+Wir haben eine Freude, die niemand von uns nimmt, 
+wir haben eine Harfe, vom König selbst gestimmt.
+
+# Wir haben eine Zuflucht in jedem Sturm und Not, 
+wir haben einen Reichtum, der nie zu schwinden droht. 
+Wir haben eine Gnade, die alle Morgen neu, 
+wir haben ein Erbarmen, das mächtig ist und treu.
+
+# Wir haben hier die Fülle, seitdem der Heiland kam, 
+wir haben dort ein Erbe so reich und wundersam. 
+Wir haben Glück, das leuchtend und unbeschreiblich ist, 
+wir haben alles, alles in dir, Herr Jesu Christ.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <author xlink:href="#artist-4531" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1913</year>
+  </author>
+  <author xlink:href="#artist-4546" xlink:type="simple">
+    <part>Text</part>
+    <year>1914</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>371</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>373</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>313</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>223</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>352</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+</song>

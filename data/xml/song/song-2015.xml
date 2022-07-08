@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2015">
+  <title>Der schöne Ostertag</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: frei nach dem englischen "This joyful Eastertide" von George Ratcliffe Woodward 1902 und dessen niederländischer Vorlage "Hoe groot de vrugten zijn" von Joachim Frants Oudaan 1685</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-11289" xlink:type="simple">
+    <part>Music</part>
+    <year>1624</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

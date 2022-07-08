@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19979">
+  <title>Ihr Hirten erwacht</title>
+  <subtitle/>
+  <text># Ihr Hirten, erwacht,
+seid munter und lacht!
+Die Engel sich schwingen
+vom Himmel und singen:
+Die Freude ist nah,
+der Heiland ist da!
+
+# Ihr Hirten, geschwind,
+kommt, singet dem Kind!
+Blast in die Schalmeien,
+sein Herz zu erfreuen;
+auf, suchet im Feld
+den Heiland der Welt!
+
+# Sie hörten das Wort
+und eilten schon fort;
+sie kamen in Haufen
+in Eifer gelaufen
+und fanden da all
+den Heiland im Stall.
+
+# Sie kannten geschwind
+das himmlische Kind,
+sie fielen darnieder
+und sangen ihm Lieder
+und bliesen dabei
+die Pfeif und Schalmei.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-19978" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1852</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2958">
+  <title>Welch ein gnädiger Gott</title>
+  <author xlink:href="#artist-33" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4053" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3587" xlink:type="simple">
+    <part>Music</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-3603" xlink:type="simple">
+    <part>Music</part>
+    <year>1992</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>216</numinsongbook>
+  </songbookref>
+</song>

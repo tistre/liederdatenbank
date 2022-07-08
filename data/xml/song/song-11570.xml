@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11570">
+  <title>Herr, der du vormals hast dein Land</title>
+  <subtitle/>
+  <text># Herr, der du vormals hast ein Land 
+mit Gnaden angeblicket
+und des gefangnen Volkes Band 
+gelöst und es erquicket,
+der du die Sünd und Missetat,
+die es zuvor begangen hat,
+hast väterlich verziehen:
+
+# willst, du, O Vater uns denn nicht
+nun einmal wieder laben?
+Und sollen wir an deinem Licht
+nicht wieder Freude haben?
+Ach gieß aus deines Himmels Haus,
+Herr, deine Güt und Segen aus
+auf uns und unsre Häuser.
+
+# Ach dass ich hören sollt das Wort
+erschallen bald auf Erden,
+dass Friede sollt an allem Ort,
+wo Christen wohnen, werden!
+Ach dass uns doch Gott sagte zu
+des Krieges Schluss, der Waffen Ruh
+und alles Unglücks Ende!
+
+# Ach dass doch bald die böse Zeit
+bald wiche guten Tagen,
+damit wir in dem großen Leid
+nicht möchten ganz verzagen!
+Doch ist ja Gottes Hilfe nah,
+und seine Gnade stehet da
+all denen, die ihn fürchten.
+
+# Wenn wir nun fromm sind, wird sich Gott
+schon wieder zu uns wenden,
+den Krieg und alle andre Not
+nach Wunsch und also enden,
+dass seine Ehr in unserm Land
+und allenthalben wird erkannt,
+ja stetig bei uns wohne.
+
+# Die Güt und Treue werden schön
+einander grüßen müssen;
+Gerechtigkeit wird einhergehn,
+und Friede wird sie küssen;
+die Treue wird mit Lust und Freud
+auf Erden blühn, Gerechtigkeit
+wird von dem Himmel schauen.
+
+# Der Herr wird uns viel Gutes tun,
+das Land wird Früchte geben,
+und die in seinem Schoße ruhn,
+die werden davon leben;
+Gerechtigkeit wird dennoch stehn
+und stets in vollem Schwange gehen
+zur Ehre seines Namens.
+</text>
+  <copyrightyear/>
+  <right>gleiche Melodie: Aus tiefer Not schrei ich zu dir</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1534" (EG 299 II).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <author xlink:href="#artist-4791" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>283</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

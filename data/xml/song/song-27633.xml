@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27633">
+  <title>Jubilate Deo, praise our Lord</title>
+  <subtitle>Rejoice, rejoice</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text und Melodie: Arbeitsgruppe Methodistischer Jugendrat 1978.</comment>
+  <language>en</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23350" xlink:type="simple"/>
+  <originalsong xlink:href="#song-13195" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-11059" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

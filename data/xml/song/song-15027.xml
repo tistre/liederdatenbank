@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15027">
+  <title>Für den König (Alle Ehre König Jesus)</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right>Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4902364</ccli_number>
+  <publisher xlink:href="#publisher-22681" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23422" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>176</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14041" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1ti-1" xlink:type="simple">
+    <verse>17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-65" xlink:type="simple">
+    <verse>25</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>33</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-13" xlink:type="simple">
+    <verse>43</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-6" xlink:type="simple">
+    <verse>17</verse>
+  </bibleref>
+  <url xlink:href="http://www.sendbuch.de/hoerproben/3678_05_Fuer_den_Koenig.mp3" xlink:type="simple">
+    <title>Hörprobe (mp3) @ Sendbuch.de</title>
+  </url>
+  <url xlink:href="http://fineblade.finetunes.de/trackid/1157458195884.mp3" xlink:type="simple">
+    <title>Hörprobe (mp3) @ mp3.de</title>
+  </url>
+  <url xlink:href="http://www.miteinander-wie-sonst.de/lieder/fuer_den_koenig.pdf" xlink:type="simple">
+    <title>Notenblatt (pdf)</title>
+  </url>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=203480982&amp;id=203480804&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2027">
+  <title>O Heilger Geist, kehr bei uns ein</title>
+  <subtitle/>
+  <text># O Heilger Geist, kehr bei uns ein / und laß uns deine Wohnung sein,
+o komm du Herzens Sonne. Du Himmelslicht, laß deinen Schein
+bei uns und in uns kräftig sein / zu steter Freud und Wonne.
+Sonne, Wonne, / himmlisch Leben willst du geben, wenn wir beten
+zu dir kommen wir getreten.
+
+# Du Quell, draus alle Weisheit fließt, / die sich in fromme Seelen gießt,
+laß deinen Trost uns hören, / daß wir in Glaubenseinigekeit
+auch können alle Christenheit / dein wahres Zeugnis lehre.
+Höre, lehre, daß wir können / Herz und Sinnen dir ergeben,
+dir zum Lob und uns zum Leben.
+
+# Steh uns stets bei mit deinem Rat / und führ uns selbst auf rechtem Pfad,
+die wir den Weg nicht wissen. / Gib uns Beständigkeit,
+daß wir getreu dir bleiben / für und für, auch wenn wir
+leiden müssen. Schaue, baue, / was zerissen und beflissen,
+dich zu schauen und au fdeinen Trost zu bauen.
+
+# Laß uns dein edle Balsamkraft / empfinden und zur Ritterschaft
+dadurch gestärket werden, / auf daß wir unter deinem Schutz
+gegegnen aler Feinde Trutz / mit freudigen Gebärden.
+Laß dich reichlich auf uns nieder, / daß wir wieder Trost empfinden,
+alles Unglück überwinden.
+
+#O starker Fels und Lebenshort, / laß uns dein himmelsüßes Wort
+in unsern Herzen brennen, / daß wir uns mögen nimmermehr
+von deiner weisheitsreichen Lehr / und treuen Liebe trennen.
+Fließe, gieße deine Güte / ins Gemüte, daß wir können
+Christum unsern Heiland nennen.
+
+# Du süßer Himmelstau, / laß dich in unsre Herzen kräftiglich
+und schenk uns deine Liebe, / daß unser Sinn verbunden
+sei dem Nächsten stehts mit Liebestreu / und sich darinnen übe.
+Kein Neid, kein Streit dich betrübe, / Fried und Liebe müssen schweben,
+Fried und Freude wirst du geben.
+
+# Gib, daß in reiner Heiligkeit / wir führen unsre Lebenszeit,
+sei unsers Geistes Stärke, / daß uns forthin sei unbewußt
+die Eitelkeit, des Fleisches Lust / und seine toten Werke.
+Rühre, führe unser Sinnen / und Beginnen von der Erden,
+daß wir Himmelserben werden.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/1520</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4842" xlink:type="simple">
+    <part>Text</part>
+    <year>1640</year>
+  </author>
+  <author xlink:href="#artist-9004" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

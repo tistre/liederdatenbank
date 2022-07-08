@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4448">
+  <firstname>Johann</firstname>
+  <lastname>Franck</lastname>
+  <name/>
+  <born>1618</born>
+  <died>1677</died>
+  <comment>Geboren in Gruben, dort Rechtsanwalt und Bürgermeister, befreundet mit Johann Crüger.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Franck" xlink:type="simple">
+    <title>Johann Franck @ Wikipedia.de</title>
+  </url>
+</artist>

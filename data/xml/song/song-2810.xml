@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2810">
+  <title>Dich anbeten</title>
+  <language>de</language>
+  <subtitle>Dich anbeten mit all meinem Sein</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_number>5183065</ccli_number>
+  <copyrightyear>1991</copyrightyear>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-13364" xlink:type="simple"/>
+  <originalsong xlink:href="#song-4891" xlink:type="simple"/>
+  <author xlink:href="#artist-4085" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4134" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-33" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2985" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

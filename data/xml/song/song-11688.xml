@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11688">
+  <title>Gloria, gloria, soli deo gloria (Kanon)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Rabe-Verlag Peter Tonger, Köln-Rodenkirchen</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Kanon zu 3 Stimmen. Ostinato: Paul Ernst Ruppel 1993. </comment>
+  <language>la</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11687" xlink:type="simple">
+    <part>Music</part>
+    <year>1947</year>
+  </author>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>271</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

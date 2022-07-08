@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-962">
+  <title>Auf, Christen, stimmt ein Loblied an</title>
+  <text># Auf, Christen, stimmt ein Loblied an, 
+und lasst uns fröhlich sein! 
+Der Herr hat viel an uns getan, 
+wir wollen Dank ihm weihn. 
+Das Gotteslamm ist's wahrlich wert, 
+dass jede Seel es ewig ehrt, 
+dass jede Seel es ewig ehrt.
+
+# Wer waren wir? Wir waren fern 
+von Gott und seiner Gnad. 
+Wer sind wir nun? Erlöst vom Herrn 
+und auf dem ewgen Pfad, 
+der uns zu unsrem Heiland bringt, 
+bei dem man ewig Psalmen singt, 
+bei dem man ewig Psalmen singt.
+
+# Hier sieht's uns freilich niemand an, 
+was wir einst werden sein; 
+armselig sind wir angetan, 
+und unter vieler Pein 
+gehn wir den schmalen Weg, verschmäht; 
+mit Tränen wird von uns gesät, 
+mit Tränen wird von uns gesät.
+
+# Doch wir sind froh, denn er, 
+der Herr, ist stets in unsrer Mitt. 
+Er ist um uns, die Seinen, her 
+und hört auf unsre Bitt 
+Und droht die ganze Welt mit Krieg, 
+so bleibt mit ihm uns doch der Sieg, 
+so bleibt mit ihm uns doch der Sieg.
+
+# Gar bald wird's überstanden sein; 
+ihr Streiter, frisch voran! 
+Dann gehen wir zur Freude ein 
+und singen jubelnd dann 
+dem Lamme, das uns hat befreit, 
+Lob, Preis und Dank in Ewigkeit, 
+Lob, Preis und Dank in Ewigkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Anderer Titel: http://www.liederdatenbank.de/song/10606</comment>
+  <copyrightyear/>
+  <right/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4278" xlink:type="simple">
+    <part>Text</part>
+    <year>1844</year>
+  </author>
+  <author xlink:href="#artist-4279" xlink:type="simple">
+    <part>Music</part>
+    <year>1864</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>218</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

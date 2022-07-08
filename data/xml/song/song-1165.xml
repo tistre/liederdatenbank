@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1165">
+  <title>Und dennoch, wenns auch tobt und stürmt</title>
+  <author xlink:href="#artist-4429" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>291</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11723">
+  <title>Jesus zieht in Jerusalem ein</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verlag Ernst Kaufmann, Lahr</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11722" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1968</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>314</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19895" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>1-11</verse>
+  </bibleref>
+</song>

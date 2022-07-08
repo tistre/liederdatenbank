@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-914">
+  <title>Shalom, Shalom! His peace upon us</title>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+  </songbookref>
+</song>

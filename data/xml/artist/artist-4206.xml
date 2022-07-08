@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4206">
+  <firstname>Christian Gottlob</firstname>
+  <lastname>Barth</lastname>
+  <name/>
+  <born>1799</born>
+  <died>1862</died>
+  <comment>Geboren in Stuttgart, Pfarrer in Möttlingen, Volksschullehrer und Verleger, Förderer der Heidenmission, gestorben in Calw.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Christian_Gottlob_Barth" xlink:type="simple">
+    <title>Christian Gottlob Barth @ Wikipedia</title>
+  </url>
+</artist>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-373">
+  <title>Tut mir auf die schöne Pforte</title>
+  <text># Tut mir auf die schöne Pforte,
+führt in Gottes Haus mich ein;
+ach wie wird an diesem Orte
+meine Seele fröhlich sein!
+Hier ist Gottes Angesicht,
+hier ist lauter Trost und Licht.
+
+# Ich bin, Herr, zu dir gekommen,
+komme du nun auch zu mir.
+Wo du Wohnung hast genommen,
+da ist lauter Himmel hier.
+Zieh in meinem Herzen ein,
+laß es deinen Tempel sein.
+
+# Laß in Furcht mich vor dich treten,
+heilige du Leib und Geist,
+daß mein Singen und mein Beten
+ein gefällig Opfer heißt.
+Heilige du Mund und Ohr,
+zieh das Herze ganz empor.
+
+# Mache mich zum guten Lande,
+wenn dein Samkorn auf mich fällt.
+Gib mir Licht in dem Verstande
+und, was mir wird vorgestellt,
+präge du im Herzen ein,
+laß es mir zur Frucht gedeihn.
+
+# Stärk in mir den schwachen Glauben,
+laß dein teures Kleinod mir
+nimmer aus dem Herzen rauben,
+halte mir dein Wort stets für,
+daß es mir zum Leitstern dient
+und zum Trost im Herzen grünt.
+
+# Rede, Herr, so will ich hören,
+und dein Wille werd erfüllt;
+nichts laß meine Andacht stören,
+wenn der Brunn des Lebens quillt;
+speise mich mit Himmelsbrot,
+tröste mich in aller Not.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number>5224807</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year>1734</year>
+  </author>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>Music</part>
+    <year>1680</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>178</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10159" xlink:type="simple"/>
+</song>

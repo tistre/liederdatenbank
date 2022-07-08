@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21926">
+  <title>Seele, mach dich heilig auf</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: http://www.liederdatenbank.de/song/1478
+oder http://www.liederdatenbank.de/song/10533</comment>
+  <language>de</language>
+  <author xlink:href="#artist-21925" xlink:type="simple">
+    <part>Text</part>
+    <year>1675</year>
+  </author>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-12" xlink:type="simple">
+    <verse>12-19</verse>
+  </bibleref>
+</song>

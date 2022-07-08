@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11218">
+  <title>Christe, du Schöpfer aller Welt</title>
+  <subtitle/>
+  <text># Christe, du Schöpfer aller Welt,
+du König, der die Gläub’gen hält,
+weil unser Bitten dir gefällt,
+nimm unser Loblied an, o Held.
+
+# Kein Maß hat deine Gnad gekannt,
+hat in Geduld mit starker Hand
+durch Leid am Kreuz gelöst das Band,
+das Adams Sünde um uns wand.
+
+# Vor dem die Sterne neigen sich,
+du kamst ins Fleisch demütiglich,
+darin zu leiden williglich;
+in Todesschmerz dein Leib erblich.
+
+# Die Hand gebunden ausgestreckt,
+zu lösen, was in Banden steckt,
+hast du mit Gnad den Zorn bedeckt,
+den Menschenschuld in Gott erweckt.
+
+# Du hangst am Kreuze sterbend hier,
+und doch erbebt die Erd vor dir,
+der Geist der Kraft geht aus von dir,
+die stolze Welt erblasst vor dir.
+
+# Jetzt um dein Siegerangesicht
+des ewgen Vaters Glanz sich flicht,
+jetzt mit des Geistes Kraft und Licht,
+o König du, verlass uns nicht.
+</text>
+  <copyrightyear/>
+  <right>Text: nach dem Hymnus "Rex Christe, factor omnium" (9. Jh.)
+Melodie: 9. Jh., Königsberg 1527, bei Johann Hermann Schein 1627.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11217" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4770" xlink:type="simple">
+    <part>Music</part>
+    <year>1627</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

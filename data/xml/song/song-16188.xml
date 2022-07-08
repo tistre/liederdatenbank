@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-16188">
+  <title>Der Kluge baut sein Haus</title>
+  <subtitle/>
+  <text># |: Der Kluge baut sein Haus auf Felsengrund, :|
+der Kluge baut sein Haus auf Felsengrund,
+und der Regen strömt herab.
+|: Der Regen strömt herab, und die Flut steigt hoch, :|
+der Regen strömt herab, und die Flut steigt hoch,
+doch das Haus auf dem Fels blieb steh'n.
+
+# |: Ein Narr aber hat auf Sand gebaut, :|
+ein Narr aber hat auf Sand gebaut,
+und der Regen strömt herab.
+|: Der Regen strömt herab, und die Flut steigt hoch, :|
+der Regen strömt herab, und die Flut steigt hoch,
+und das Haus auf dem Sand fiel um.
+
+# |: So bau dein Haus auf den Herrn Jesus Christ, :|
+so bau dein Haus auf den Herrn Jesus Christ,
+und der Segen strömt herab.
+|: Der Segen strömt herab, und Gebet steigt hoch, :|
+der Segen strömt herab, und Gebet steigt hoch,
+so bau dein Haus auf den Herrn.</text>
+  <copyrightyear/>
+  <right>nicht feststellbar.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Musik: Alte Melodie aus den USA. Originaltitel: "The Wise Man And The Foolish Man". In http://www.liederdatenbank.de/songbook/16118 und http://www.liederdatenbank.de/songbook/9927 werden die Bewegungen zu dem Lied erklärt.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9185" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24411" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9927" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-7" xlink:type="simple">
+    <verse>24-27</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1468">
+  <title>Jesus soll die Losung sein</title>
+  <text># 
+Jesus soll die Losung sein, 
+da ein neues Jahr erschienen;
+Jesu Name soll allein
+denen als ihr Zeichen dienen,
+die in seinem Bunde stehn 
+und auf seinen Wegen gehn.
+
+#
+Jesu Name, Jesu Wort 
+soll bei uns in Zion schallen,
+und so oft wir an den Ort,
+der nach ihm genannt ist, wallen,
+mache seines Namens Ruhm
+unser Herz zum Heiligtum.
+
+# 
+Alle Sorgen, alles Leid 
+soll der Name überwinden;
+so wird alle Bitterkeit 
+endlich doch in Freude münden.
+Jesu Nam sei Sonn und Schild, 
+welcher allen Kummer stillt.
+
+# 
+Unsre Wege wollen wir 
+nur in Jesu Namen gehen.
+Geht uns dieser Leitstern für, 
+so wird alles wohl bestehen
+und durch seinen Gnadenschein 
+alles voller Segen sein.
+
+# 
+Alle Sorgen, alles Leid 
+soll der Name uns versüßen;
+so wird alle Bitterkeit 
+uns zur Freude werden müssen.
+Jesu Nam sei Sonn und Schild, 
+welcher allen Kummer stillt.
+
+# 
+Jesus, aller Bürger Heil, 
+und der Stadt ein Gnadenzeichen,
+auch des Landes bestes Teil, 
+dem kein Kleinod zu vergleichen,
+Jesus, unser Trost und Hort, 
+sei die Losung fort und fort.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Andere Melodie: http://www.liederdatenbank.de/song/1652, http://www.liederdatenbank.de/song/1149</comment>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year>1726</year>
+  </author>
+  <author xlink:href="#artist-4432" xlink:type="simple">
+    <part>Music</part>
+    <year>1674</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>200</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>682</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>281</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>463</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>43</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>215</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>21</verse>
+  </bibleref>
+</song>

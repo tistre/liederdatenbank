@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1455">
+  <title>Dies ist der Tag, den Gott gemacht</title>
+  <text># Dies ist der Tag, den Gott gemacht; 
+sein werd in aller Welt gedacht; 
+ihn preise, was durch Jesus Christ 
+im Himmel und auf Erden ist.
+
+# Die Völker haben dein geharrt, 
+bis dass die Zeit erfüllet ward; 
+da sandte Gott von seinem Thron 
+das Heil der Welt, dich, seinen Sohn.
+
+# Wenn ich dies Wunder fassen will, 
+so steht mein Geist vor Ehrfurcht still; 
+er betet an und er ermisst, 
+dass Gottes Lieb unendlich ist.
+
+# Damit der Sünder Gnad erhält, 
+erniedrigst du dich, Herr der Welt, 
+nimmst selbst an unsrer Menschheit teil, 
+erscheinst im Fleisch und wirst uns Heil.
+
+# Herr, der du Mensch geboren wirst, 
+Immanuel und Friedefürst, 
+auf den die Väter hoffend sahn, 
+dich, Gott Messias, bet ich an.
+
+# Du unser Heil und höchstes Gut, 
+vereinest dich mit Fleisch und Blut, 
+wirst unser Freund und Bruder hier, 
+und Gottes Kinder werden wir.
+
+# Jauchzt, Himmel, die ihr ihn erfuhrt,
+den Tag der heiligsten Geburt;
+und Erde, die ihn heute sieht,
+sing ihm, dem Herrn, ein neues Lied!
+
+# Dies ist der Tag, den Gott gemacht; 
+sein werd in aller Welt gedacht; 
+ihn preise, was durch Jesus Christ 
+im Himmel und auf Erden ist.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/384", "http://www.liederdatenbank.de/song/10210". Im Liederbuch "http://www.liederdatenbank.de/songbook/14689" weichen die Strophen 7 bis 9 ab.</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5208153</ccli_number>
+  <author xlink:href="#artist-4612" xlink:type="simple">
+    <part>Text</part>
+    <year>1757</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>201</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>295</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

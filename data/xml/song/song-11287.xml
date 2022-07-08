@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11287">
+  <title>Es ist das Heil uns kommen her</title>
+  <subtitle/>
+  <text># Es ist das Heil uns kommen her
+von Gnad und lauter Güte;
+die Werk, die helfen nimmermehr,
+sie können nicht behüten.
+Der Glaub sieht Jesus Christus an,
+der hat für uns genug getan,
+er ist der Mittler worden.
+
+# Was Gott im G’setz geboten hat,
+da man es nicht konnt halten,
+erhob sich Zorn und große Not
+vor Gott so mannigfalten;
+vom Fleisch wollt nicht heraus der Geist,
+vom G’setz erfordert allermeist;
+es war mit uns verloren.
+
+# Doch musst das G’setz erfüllet sein,
+sonst wärn wir all verdorben.
+Drum schickt Gott seinen Sohn herein,
+der selber Mensch ist worden;
+das ganz Gesetz hat er erfüllt,
+damit seins Vaters Zorn gestillt,
+der über uns ging alle.
+
+# Und wenn es nun erfüllet ist
+durch den, der es konnt halten,
+so lerne jetzt ein frommer Christ
+des Glaubens recht Gestalte.
+Nicht mehr denn: »Lieber Herre mein,
+dein Tod wird mir das Leben sein,
+du hast für mich bezahlet.«
+
+# Daran ich keinen Zweifel trag,
+dein Wort kann nicht betrügen.
+Nun sagst du, dass kein Mensch verzag
+– das wirst du nimmer lügen -:
+»Wer glaubt an mich und wird getauft,
+demselben ist der Himmel erkauft,
+dass er nicht werd verloren.«
+
+# Es ist gerecht vor Gott allein,
+der diesen Glauben fasset;
+der Glaub gibt einen hellen Schein,
+wenn er die Werk nicht lasset;
+mit Gott der Glaub ist wohl daran,
+dem Nächsten wird die Lieb Guts tun,
+bist du aus Gott geboren.
+
+# Die Werk, die kommen g’wißlich her
+aus einem rechten Glauben;
+denn das nicht rechter Glaube wär,
+wolltst ihn der Werk berauben.
+Doch macht allein der Glaub gerecht;
+die Werk, die sind des Nächsten Knecht,
+dran wir den Glauben merken.
+
+# Sei Lob und Ehr mit hohem Preis
+um dieser Guttat willen
+Gott Vater, Sohn und Heilgem Geist.
+Der woll mit Gnad erfüllen,
+was er in uns ang’fangen hat
+zu Ehren seiner Majestät,
+dass heilig werd sein Name;
+
+# sein Reich zukomm; sein Will auf Erd
+g’scheh wie im Himmelsthrone;
+das täglich Brot noch heut uns werd;
+woll unsrer Schuld verschonen,
+wie wir auch unsern Schuldnern tun;
+lass uns nicht in Versuchung stehn;
+lös uns vom Übel. Amen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11286" xlink:type="simple">
+    <part>Text</part>
+    <year>1523</year>
+  </author>
+  <author xlink:href="#artist-26261" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1390</year>
+  </author>
+  <author xlink:href="#artist-13411" xlink:type="simple">
+    <part>Music</part>
+    <year>1523/24</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>342</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-rom-3" xlink:type="simple">
+    <verse>21-28</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-16" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>9-13</verse>
+  </bibleref>
+</song>

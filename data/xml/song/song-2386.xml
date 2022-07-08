@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2386">
+  <title>Stille vor dir, mein Vater (Rede, du mein Vater)</title>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear>1998</copyrightyear>
+  <right/>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4329208</ccli_number>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-3675" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>113</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17245" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17310" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25021" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>880</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17411" xlink:type="simple">
+    <cdnum/>
+    <numoncd>8</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-21001" xlink:type="simple">
+    <cdnum/>
+    <numoncd>4</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14538" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25965" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-85" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-10" xlink:type="simple">
+    <verse>39</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=269214306&amp;id=269213876&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

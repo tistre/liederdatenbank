@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10306">
+  <title>Heiland der Welt</title>
+  <subtitle>Menschen stehn und friern</subtitle>
+  <right>Hänssler Verlag, D-71087 Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <copyrightyear>2005</copyrightyear>
+  <ccli_number>4690140</ccli_number>
+  <author xlink:href="#artist-9595" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

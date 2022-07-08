@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28573">
+  <title>Jo, i weiss, Gott het mich gärn</title>
+  <subtitle>tanze, schreie, singe</subtitle>
+  <copyrightyear>1996</copyrightyear>
+  <right>D,A,CH: Projektion J Musikverlag, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Dance, Shout, Sing". Schweizerdeutsch.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14547" xlink:type="simple"/>
+  <originalsong xlink:href="#song-23731" xlink:type="simple"/>
+  <author xlink:href="#artist-23729" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <author xlink:href="#artist-23730" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <author xlink:href="#artist-19025" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-14338" xlink:type="simple">
+    <numinsongbook>118</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

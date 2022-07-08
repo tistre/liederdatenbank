@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-25911">
+  <lastname>Griesinger</lastname>
+  <firstname>Wilhelm</firstname>
+  <name/>
+  <born>1834</born>
+  <died>1910</died>
+  <comment>Oberlehrer in Stuttgart.</comment>
+</artist>

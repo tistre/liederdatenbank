@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-22969">
+  <name/>
+  <firstname>Tore W.</firstname>
+  <lastname>Aas</lastname>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Oslo_Gospel_Choir" xlink:type="simple">
+    <title>Oslo Gospel Choir @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://www.ogc.no/" xlink:type="simple">
+    <title>ogc.no (Oslo Gospel Choir)</title>
+  </url>
+</artist>

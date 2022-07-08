@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23054">
+  <title>Singet dem Herrn ein neues Lied</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verein zur Herausgabe des Gesangbuchs der evangelisch-reformierten Kirchen der deutschsprachigen Schweiz, Zürich</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-23042" xlink:type="simple">
+    <part>Text</part>
+    <year>1983/1990</year>
+  </author>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1623/1661</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>624</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

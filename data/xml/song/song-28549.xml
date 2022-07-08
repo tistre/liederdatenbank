@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28549">
+  <title>Du bist gekommen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Aus: "Gott schenkt Freiheit".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22511" xlink:type="simple"/>
+  <author xlink:href="#artist-5007" xlink:type="simple">
+    <part>Text</part>
+    <year>1965</year>
+  </author>
+  <author xlink:href="#artist-12345" xlink:type="simple">
+    <part>Music</part>
+    <year>1965</year>
+  </author>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+</song>

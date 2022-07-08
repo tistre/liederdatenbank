@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1287">
+  <title>Called unto holiness</title>
+  <subtitle>Holiness unto the Lord</subtitle>
+  <author xlink:href="#artist-4434" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>435</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

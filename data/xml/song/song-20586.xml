@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20586">
+  <title>Wer festen Herzens ist</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-16722" xlink:type="simple"/>
+  <author xlink:href="#artist-451" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2006</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-26" xlink:type="simple">
+    <verse>3-4</verse>
+  </bibleref>
+</song>

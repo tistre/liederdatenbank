@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1404">
+  <title>Lobsinge, getaufte Gemeinde des Herrn</title>
+  <author xlink:href="#artist-4641" xlink:type="simple">
+    <part>Text</part>
+    <year>1854</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>145</numinsongbook>
+  </songbookref>
+</song>

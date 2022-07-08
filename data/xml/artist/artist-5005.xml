@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5005">
+  <firstname>Ernst</firstname>
+  <lastname>Hansen</lastname>
+  <name/>
+  <born>1923</born>
+  <died>1993</died>
+  <comment/>
+</artist>

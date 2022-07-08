@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13399">
+  <title>Herr, dein Wort ist Geist und Leben</title>
+  <subtitle/>
+  <text># Herr, Dein Wort ist Geist und Leben,
+Zum Licht und Heile uns gegeben,
+Wie haben wir's so oft verspürt!
+Bist auch heute uns begegnet,
+Hast mild und gnädiglich gesegnet,
+Auf grüne Auen uns geführt.
+Du schließt Dein Wort uns auf,
+Stärkst uns im Pilgerlauf,
+Bis zum Ziele,
+Zu jeder Frist.
+Wie selig ist,
+Daß Du selbst unser Hirte bist!
+
+Als die Schäflein Deiner Herde,
+Die Du erkauft von dieser Erde,
+Sind wir nun Dein in Ewigkeit.
+Laß das Wort aus Deinem Munde,
+Das neu Du gabst in dieser Stunde,
+Auch mit uns gehen durch die Zeit!
+Herr, lehr' uns wachend stehn,
+Und wartend auf Dich sehn,
+Treu im Kleinen!
+Bald ruhen wir,
+O Herr, bei Dir,
+Und preisen dann Dich für und für.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/10214", "http://www.liederdatenbank.de/song/13282", "http://www.liederdatenbank.de/song/1437", "http://www.liederdatenbank.de/song/1616", "http://www.liederdatenbank.de/song/13833".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#147" xlink:type="simple"/>
+</song>

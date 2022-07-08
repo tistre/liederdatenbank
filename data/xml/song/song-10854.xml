@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10854">
+  <title>Komm bald, Jesus</title>
+  <subtitle/>
+  <right>Präsenz-Verlag, Gnadenthal, Hünfelden</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-9219" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9504" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+</song>

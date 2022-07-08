@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2866">
+  <title>Herr, vergib die Schuld unsres Volkes</title>
+  <subtitle>Rette uns, Herr</subtitle>
+  <author xlink:href="#artist-3573" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-52" xlink:type="simple">
+    <part>Music</part>
+    <year>1991</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+  </songbookref>
+</song>

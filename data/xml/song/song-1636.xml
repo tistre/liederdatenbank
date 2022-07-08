@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1636">
+  <title>Segne, Herr, dies junge Leben</title>
+  <subtitle/>
+  <text># Segne, Herr, dies junge Leben, / lege segnend deine Hand
+auf dies Kind, das uns gegeben / als ein anvertrautes Pfand.
+Höre unser ernstes Flehen; / du tust mehr, als wir verstehen.
+
+# Gnädig wollest du bewahren / dieses Kind an Leib und Seel,
+in den täglichen Gefahren / unter deinen Schutz es stell,
+lass es deine Nähe spüren / und dein guter Geist es führen.
+
+# Wollst den Eltern Gnade schenken, / dieses Kind recht zu erziehn,
+dass ihr Reden, Handeln, Denken / jederzeit zum Vorbild dien;
+lehre sie, an allen Tagen, / Herr, nach deinem Willen fragen.
+
+# Segne, Herr, dies junge Leben, / segne dieses Kindlein hier;
+wollst ihm deinen Frieden geben, / führen seinen Weg zu dir.
+Lass, o Herr, an ihm geschehen, / was wir heut von dir erflehen.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/1467" gesungen werden.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-10060" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1912</year>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>422</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>468</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

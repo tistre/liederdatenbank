@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4363">
+  <title>Im Namen Gottes werde ich wie Jesus nun getauft</title>
+  <language>de</language>
+  <right>Hänssler Verlag, Holzgerlingen</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>2002</year>
+  </author>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Music</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>142</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21001" xlink:type="simple">
+    <cdnum/>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-4617" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=269215956&amp;id=269213876&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

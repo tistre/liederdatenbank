@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-20077">
+  <name>Du bist Herr - Lieder aus Band 5 (1)</name>
+  <comment/>
+  <state>0</state>
+  <url xlink:href="http://www.gerth.de/?vp_id=www-Link&amp;fct=search&amp;nav_fct=search&amp;search_str=946331" xlink:type="simple">
+    <title>CD bei Gerth Medien</title>
+  </url>
+  <icon xlink:href="#file-20078" xlink:type="simple"/>
+</cd>

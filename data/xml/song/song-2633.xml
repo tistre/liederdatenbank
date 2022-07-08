@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2633">
+  <title>Herr, Du rufst</title>
+  <subtitle>Ich gehöre Dir</subtitle>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3592" xlink:type="simple">
+    <part>Music</part>
+    <year>1996</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28521">
+  <title>I chumme zu Dir</title>
+  <subtitle>Herr, vo ganzem Härze</subtitle>
+  <copyrightyear>2000</copyrightyear>
+  <right>D,A: Musikverlag Klaus Gerth, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-28571" xlink:type="simple"/>
+  <author xlink:href="#artist-19025" xlink:type="simple">
+    <part>Text</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-28477" xlink:type="simple">
+    <part>Music</part>
+    <year>2000</year>
+  </author>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

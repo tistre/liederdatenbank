@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-21601">
+  <name>So groß ist der Herr</name>
+  <comment>Die schönsten Lobpreissongs
+Herausgegeben von Arne Kopfermann
+Verlag: Gerth Medien Musikverlag, Asslar
+ISBN: 978-3-89615-435-4
+
+*** Dieses Liederbuch ist vollständig in der Liederdatenbank erfasst. ***</comment>
+  <state>1</state>
+  <icon xlink:href="#file-21602" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3896154354" xlink:type="simple">
+    <title>So groß ist der Herr @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.gerth.de/index.php?id=details&amp;sku=857435" xlink:type="simple">
+    <title>So groß ist der Herr @ Gerth Medien</title>
+  </url>
+</songbook>

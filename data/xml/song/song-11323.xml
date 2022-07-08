@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11323">
+  <title>Wir wollen singn ein' Lobgesang</title>
+  <subtitle/>
+  <text># Wir wollen singn ein’ Lobgesang
+Christus dem Herrn zu Preis und Dank,
+der Sankt Johann vorausgesandt,
+durch ihn sein Ankunft macht bekannt.
+
+# Die Buß er predigt in der Wüst:
+»Euer Leben ihr bessern müsst,
+das Himmelreich kommt jetzt herbei,
+tut rechte Buß ohn Heuchelei!«
+
+# Man fragt ihn, ob er Christus wär.
+»Ich bin’s nicht, bald wird kommen er,
+der lang vor mir gewesen ist,
+der Welt Heiland, der wahre Christ.«
+
+# Er zeigt ihn mit dem Finger an,
+sprach: »Siehe, das ist Gottes Lamm,
+das trägt die Sünd der ganzen Welt,
+sein Opfer Gott allein gefällt.
+
+# Ich bin viel zu gering dazu,
+dass ich auflösen sollt sein Schuh;
+taufen wird er mit Feu’r und Geist,
+wahrer Sohn Gotts er ist und heißt.«
+
+# Wir danken dir, Herr Jesu Christ,
+des Vorläufer Johannes ist;
+hilf, dass wir folgen seiner Lehr,
+so tun wir dir die rechte Ehr.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Johannestag, 24. Juni</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>Text</part>
+    <year>1560</year>
+  </author>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1603</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-joh-1" xlink:type="simple">
+    <verse>19-28</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-3" xlink:type="simple">
+    <verse>1-12</verse>
+  </bibleref>
+</song>

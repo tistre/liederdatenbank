@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2058">
+  <title>Lob soll Dir erschallen, unser Gott und Herr</title>
+  <subtitle/>
+  <text># Lob soll dir erschallen, unser Gott und Herr!
+König, nimm von allen Preis und Dank und Ehr!
+Du hast große Dinge auch an uns getan:
+unser Loblied klinge freudig himmelan!
+
+# Herr, nur deinem Namen gib die Ehre hier,
+wir, von sündgem Samen, stehn gebeugt vor dir;
+unsrer Freuden beste, unsers Glauben Grund
+auch am Jubelfeste ist: dein Gnadenbund.
+
+# Der du halfst bis heute, höre unsre Bitt:
+Starker Held im Streite, nimm uns ferner mit!
+Lehr uns kämpfen, siegen, hilf uns wacker sein;
+lass dein Werk nicht liegen, Meister, es ist dein.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4392" xlink:type="simple">
+    <part>Music</part>
+    <year>1873</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>239</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

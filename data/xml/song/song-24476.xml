@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24476">
+  <title>Your Grace Finds Me</title>
+  <subtitle>It's there in the newborn cry, there in the light of ev'ry sunrise</subtitle>
+  <copyrightyear>2013</copyrightyear>
+  <right>Atlas Mountain Songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing/ Said And Done Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / sixsteps Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Thankyou Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / worshiptogether.com songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-8875" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-86" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-1" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-15" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1212">
+  <title>Er weckt mich alle Morgen</title>
+  <text># Er weckt mich alle Morgen, 
+Er weckt mir selbst das Ohr.
+Gott hält sich nicht verborgen, 
+führt mir den Tag empor,
+daß ich mit Seinem Worte 
+begrüß das neue Licht.
+Schon an der Dämmrung Pforte 
+ist Er mir nah und spricht.
+
+# Er spricht wie an dem Tage, 
+da Er die Welt erschuf.
+Da schweigen Angst und Klage; 
+nichts gilt mehr als Sein Ruf.
+Das Wort der ewgen Treue, 
+die Gott uns Menschen schwört,
+erfahre ich aufs neue 
+so, wie ein Jünger hört.
+
+# Er will, daß ich mich füge. 
+Ich gehe nicht zurück.
+Hab nur in Ihm Genüge, 
+in Seinem Wort mein Glück.
+Ich werde nicht zuschanden, 
+wenn ich nur Ihn vernehm.
+Gott löst mich aus den Banden. 
+Gott macht mich Ihm genehm.
+
+# Er ist mir täglich nahe 
+und spricht mich selbst gerecht.
+Was ich von Ihm empfahe, 
+gibt sonst kein Herr dem Knecht.
+Wie wohl hat's hier der Sklave, 
+der Herr hält sich bereit,
+daß Er ihn aus dem Schlafe 
+zu seinem Dienst geleit.
+
+# Er will mich früh umhüllen 
+mit Seinem Wort und Licht,
+verheißen und erfüllen, 
+damit mir nichts gebricht;
+will vollen Lohn mir zahlen, 
+fragt nicht, ob ich versag.
+Sein Wort will helle strahlen, 
+wie dunkel auch der Tag.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Melodie: Mundorgel Verlag, Köln</right>
+  <textcopyright>free</textcopyright>
+  <comment>Andere Melodie: https://www.liederdatenbank.de/song/2259 ; 
+Satz (Das junge Lied): https://www.liederdatenbank.de/artist/4350</comment>
+  <ccli_number/>
+  <copyrightyear>1938</copyrightyear>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14692" xlink:type="simple"/>
+  <author xlink:href="#artist-3743" xlink:type="simple">
+    <part>Text</part>
+    <year>1938</year>
+  </author>
+  <author xlink:href="#artist-3744" xlink:type="simple">
+    <part>Music</part>
+    <year>1941</year>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9170" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9136" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>452</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>454</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>466</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>403</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>348</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>327</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>632</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>374</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>155</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>296</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>411</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9501">
+  <name>Lied des Lebens</name>
+  <comment>Jugend mit einer Mission e.V., Tübingen 1986.
+103 Lieder mit Akkordbezeichnungen u. meist mehrstimmigen Satz.
+ISBN 3-88076-024-1.
+
+Das Liederbuch enthält einige alte Kirchenchoräle im Original und mit einer zweiten neuen Vertonung.</comment>
+  <icon xlink:href="#file-9500" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.jmem.de/" xlink:type="simple">
+    <title>Jugend mit einer Mission Deutschland</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/gp/product/3880760241" xlink:type="simple">
+    <title>Lied des Lebens @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Lied+des+Lebens&amp;infotext=Liederbuch" xlink:type="simple">
+    <title>Lied des Lebens @ Booklooker.de</title>
+  </url>
+</songbook>

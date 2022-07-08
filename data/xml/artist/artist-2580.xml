@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2580">
+  <firstname>Werner Arthur</firstname>
+  <lastname>Hoffmann</lastname>
+  <name/>
+  <born>1953</born>
+  <died/>
+  <comment>Musikevengelist, Musiklektor, lebt in Wesel.</comment>
+  <url xlink:href="http://www.werner-hoffmann-music.de/" xlink:type="simple">
+    <title>werner-hoffmann-music.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/h/whoffmann.htm" xlink:type="simple">
+    <title>Werner Hoffmann @ ccmrezis.de</title>
+  </url>
+</artist>

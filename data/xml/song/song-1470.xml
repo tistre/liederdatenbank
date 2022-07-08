@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1470">
+  <title>Nun lasst uns gehn und treten</title>
+  <text># Nun lasst uns gehen und treten / mit Singen und mit Beten
+zum Herrn, der unserm Leben / bis hierher Kraft gegeben.
+
+# Wir gehen dahin und wandern / von einem Jahr zum andern,
+wir leben und gedeihen / vom alten bis zum neuen
+
+# durch so viel Angst und Plagen, / durch Zittern und durch Zagen,
+durch Krieg und große Schrecken, / die alle Welt bedecken.
+
+# Denn wie von treuen Müttern / in schweren Ungewittern
+die Kindlein hier auf Erden / mit Fleiß bewahret werden,
+
+# also auch und nicht minder / lässt Gott uns, seine Kinder,
+wenn Not und Trübsal blitzen, / in seinem Schoße sitzen.
+
+# Ach Hüter unsres Lebens, / fürwahr, es ist vergebens
+mit unserm Tun und Machen, / wo nicht dein Augen wachen.
+
+# Gelobet sei deine Treue, / die alle Morgen neue;
+Lob sei den starken Händen, / die alles Herzleid wenden.
+
+# Lass ferner dich erbitten, / o Vater, und bleib mitten
+in unserm Kreuz und Leiden / ein Brunnen unsrer Freuden.
+
+# Gib mir und allen denen, / die sich von Herzen sehnen
+nach dir und deiner Hulde, / ein Herz, das sich gedulde.
+
+# Schließ zu die Jammerpforten / und lass an allen Orten
+auf so viel Blutvergießen / die Freudentränen fließen.
+
+# Sprich deinen milden Segen / zu allen unsern Wegen,
+lass Großen und auch Kleinen / die Gnadensonne scheinen.
+
+# Sei der Verlassnen Vater, / der Irrenden Berater,
+der Unversorgten Gabe, / der Armen Gut und Habe.
+
+# Hilf gnädig allen Kranken, / gib fröhliche Gedanken
+den hochbetrübten Seelen, / die sich mit Schwermut quälen.
+
+# Und endlich, was das meiste, / füll uns mit deinem Geiste,
+der uns hier herrlich ziere / und dort zum Himmel führe.
+
+# Das alles wollst du geben, / o meines Lebens Leben,
+mir und der Christen Schare / zum selgen neuen Jahre.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1328", "http://www.liederdatenbank.de/song/1666".</comment>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <author xlink:href="#artist-3634" xlink:type="simple">
+    <part>Music</part>
+    <year>1587</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1649</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>230</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>683</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>471</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+</song>

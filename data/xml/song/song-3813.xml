@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3813">
+  <title>Jesus, Du bist so gut zu mir</title>
+  <author xlink:href="#artist-2998" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+  </songbookref>
+</song>

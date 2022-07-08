@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23608">
+  <title>Lobpreiset all zu dieser Zeit</title>
+  <subtitle/>
+  <text># Lobpreiset all zu dieser Zeit,
+wo Sonn und Jahr sich wendet,
+die Sonne der Gerechtigkeit,
+die alle Nacht geendet.
+
+* 1.-3. Dem Herrn, der Tag und Jahr geschenkt,
+der unser Leben trägt und lenkt,
+sei Dank und Lob gesungen.
+
+# Christus hat unser Jahr erneut
+und hellen Tag gegeben,
+da er aus seiner Herrlichkeit
+eintrat ins Erdenleben.
+
+# Er ist der Weg, auf dem wir gehn,
+die Wahrheit, der wir trauen.
+Er will als Bruder bei uns stehn,
+bis wir im Glanz ihn schauen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>EGB 1969.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3753" xlink:type="simple">
+    <part>Text</part>
+    <year>1852</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0143</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>280</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

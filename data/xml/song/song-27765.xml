@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27765">
+  <title>Aus Gottes Lieb (Kanon)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text:beim Autor. Kanon: Verlag Singende Gemeinde, Wuppertal.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>1. Str. 1-stimmig, 2. Str. 2-stimmig im Kanon, 3. Str. 4-stimmig im Kanon.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4252" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23693" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4322" xlink:type="simple">
+    <part>Music</part>
+    <year>als Kanon</year>
+  </author>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

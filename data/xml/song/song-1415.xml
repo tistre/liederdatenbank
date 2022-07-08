@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1415">
+  <title>Anbetung Dir! Sei hoch gepriesen</title>
+  <subtitle/>
+  <text># Anbetung Dir! Sei hochgepriesen
+Für Deine Liebe, Jesu Christ!
+Die Du an Sündern hast bewiesen,
+Da Du für uns gestorben bist.
+Wieviel hast Du für uns getan!
+Wir beten dankend, Herr, Dich an.
+
+# Anbetung Dir! So wird es schallen
+Im neuen Liede fort und fort.
+Anbetung Dir! Das schwache Lallen
+Wird bald zum mächt'gen Chore dort,
+Wo, bei der goldnen Harfen Klang,
+Dir tönt der ew'ge Lobgesang.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Textfassungen in den Büchern. - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/1557" oder "http://www.liederdatenbank.de/song/10277" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4573" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1681</year>
+  </author>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13387" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#138" xlink:type="simple"/>
+</song>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-13076">
+  <lastname>Poseck</lastname>
+  <firstname>Julius Anton von</firstname>
+  <name/>
+  <born>1816</born>
+  <died>1896</died>
+  <comment>Geboren in Zwickau/Pommern. Evang. getauft und römisch-kath. erzogen, Studium der kath. Theologie und Jura, 1843 Regierungsreferendar in Düsseldorf, gab nach seiner Bekehrung die Beamtenlaufbahn auf und arbeitete als Schriftsteller, Sprachlehrer und Missionar in Wort und Schrift.
+Mitarbeiter an der Elberfelder Bibel, Übersetzer vieler Schriften Darbys, ab 1856 Sprachlehrer in London, 1856 Professor der Philologie in Reading; die Spaltung unter den Anhängern Darbys (1882) überschattete seinen Lebensabend, gestorben in Lewisham bei London.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Julius_Anton_von_Poseck" xlink:type="simple"/>
+</artist>

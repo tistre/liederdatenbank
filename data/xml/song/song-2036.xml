@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2036">
+  <title>Gottes Wort ist wie Licht in der Nacht (Kanon)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Bischöfliches Generalvikariat, Essen. - Melodie: bei den Rechtsnachfolgern</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/849 und http://www.liederdatenbank.de/song/267</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22248" xlink:type="simple">
+    <part>Text</part>
+    <year>(1978) 1983</year>
+  </author>
+  <author xlink:href="#artist-22249" xlink:type="simple">
+    <part>Music</part>
+    <year>1935</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>056</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>591</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

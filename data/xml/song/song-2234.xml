@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2234">
+  <title>Bleibe bei uns, denn es will Abend werden</title>
+  <language>de</language>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>654</numinsongbook>
+  </songbookref>
+</song>

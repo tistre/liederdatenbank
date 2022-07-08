@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24317">
+  <title>Heiliger, heiliger, heiliger Herr Zebaoth</title>
+  <subtitle>, welchem Erd und Himmel dienet</subtitle>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4203" xlink:type="simple">
+    <part>Text</part>
+    <year>1778</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

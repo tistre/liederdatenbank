@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1089">
+  <title>Take my life, and let it be consecrated</title>
+  <author xlink:href="#artist-4388" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+  </songbookref>
+  <right>Brunnen-Verlag</right>
+</song>

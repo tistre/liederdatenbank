@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1014">
+  <title>Rock of ages, cleft for me</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>http://www.liederdatenbank.de/song/1013</comment>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-7817" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>113</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

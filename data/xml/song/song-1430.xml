@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1430">
+  <title>Dein ist das Reich und die Kraft und die Herrlichkeit</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Melodie: Dresden um 1560 / Frankfurt (Main) 1569</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

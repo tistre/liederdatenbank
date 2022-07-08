@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1476">
+  <title>O Welt, sieh hier dein Leben</title>
+  <text># O Welt, sieh hier dein Leben 
+am Stamm des Kreuzes schweben, 
+dein Heil sinkt in den Tod. 
+Der große Fürst der Ehren 
+lässt willig sich beschweren 
+mit Schlägen, Hohn und großem Spott.
+
+# Wer hat dich so geschlagen, 
+mein Heil, und dich mit Plagen 
+so übel zugericht? 
+Du bist ja nicht ein Sünder 
+wie wir und unsre Kinder, 
+von Übeltaten weißt du nicht.
+
+# Ich, ich und meine Sünden, 
+die sich wie Körnlein finden 
+des Sandes an dem Meer, 
+die haben dir erreget 
+das Elend, das dich schläget, 
+und deiner schweren Martern Heer.
+
+# Ich bins, ich sollte büßen 
+an Händen und an Füßen 
+gebunden in der Höll; 
+die Geißeln und die Bande 
+und was du ausgestanden, 
+das hat verdienet meine Seel.
+
+# Du nimmst auf deinen Rücken
+die Lasten, die mich drücken
+viel schwerer als ein Stein;
+du wirst ein Fluch, dagegen
+verehrst du mir den Segen;
+dein Schmerzen muss mein Labsal sein.
+
+# Du setzest dich zum Bürgen, 
+ja lässest dich gar würgen 
+für mich und meine Schuld; 
+mir lässest du dich krönen 
+mit Dornen, die dich höhnen, 
+und leidest alles mit Geduld.
+
+# Ich bin, mein Heil, verbunden
+all Augenblick und Stunden
+dir überhoch und sehr;
+was Leib und Seel vermögen,
+das soll ich billig legen
+allzeit an deinen Dienst und Ehr.
+
+# Nun, ich kann nicht viel geben 
+in diesem armen Leben, 
+eins aber will ich tun: 
+es soll dein Tod und Leiden, 
+bis Leib und Seele scheiden, 
+mir stets in meinem Herzen ruhn.
+
+# Ich will's vor Augen setzen,
+mich stets daran ergötzen,
+ich sei auch, wo ich sei;
+es soll mir sein ein Spiegel
+der Unschuld und ein Siegel
+der Lieb und unverfälschten Treu.
+
+# Ich will daraus studieren,
+wie ich mein Herz soll zieren
+mit stillem, sanften Mut,
+und wie ich die soll lieben,
+die mich doch sehr betrüben
+mit Werken, so die Bosheit tut.
+
+# Wenn böse Zungen stechen,
+mir Ehr und Namen brechen,
+so will ich zähmen mich;
+das Unrecht will ich dulden,
+dem Nächsten seine Schulden
+verzeihen gern und williglich.
+
+# Ich will ans Kreuz mich schlagen 
+mit dir und dem absagen, 
+was meinem Fleisch gelüst; 
+was deine Augen hassen, 
+das will ich fliehn und lassen, 
+so viel mir immer möglich ist.
+
+# Dein Seufzen und dein Stöhnen
+und die viel tausend Tränen,
+die dir geflossen zu,
+die sollen mich am Ende
+in deinen Schoß und Hände
+begleiten zu der ewgen Ruh.
+
+</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Abweichende Strophenreihenfolge in den verschiedenen Liederbüchern. Insgesamt gibt es 15 Strophen. Gleiche Melodie:"http://www.liederdatenbank.de/song/1651".</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1647</year>
+  </author>
+  <author xlink:href="#artist-4729" xlink:type="simple">
+    <part>Music</part>
+    <year>(um1495) 1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>209</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>246</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>183</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

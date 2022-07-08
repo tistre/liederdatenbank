@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-224">
+  <title>Gottes Führung fordert Stille</title>
+  <text># Gottes Führung fordert Stille.
+Wo der Fuß noch selber rauscht,
+wird des ewgen Vaters Wille
+mit der eignen Wahl vertauscht.
+
+# Wer da leben will, der sterbe;
+wer nicht stirbt, der lebet nicht.
+Ehe denn das Fleisch verderbe,
+scheinet uns kein Gnadenlicht.
+
+# Alle menschlichen Geschäfte
+gehen überhaupt nicht gut,
+wenn man sie durch eigne Kräfte
+und nicht aus der Gnade tut.
+
+# Göttliche und innre Dinge
+lassen vollends gar nicht zu,
+daß man sie mit Sturm erzwinge,
+sondern weisen uns zur Ruh.
+
+# Laß uns immer also handeln,
+in der kurz bemeßnen Frist,
+daß wir in dem Lichte wandeln,
+Herr, wie Du im Lichte bist.
+
+# Unsern Stand laß mit dem Glanze
+Deiner Kraft umgeben sein
+und ein jedes Kind zur Pflanze
+der Gerechtigkeit gedeihn.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>unterschiedliche Vertonungen</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-225" xlink:type="simple">
+    <part>Text</part>
+    <year>1722</year>
+  </author>
+  <author xlink:href="#artist-4665" xlink:type="simple">
+    <part>Music</part>
+    <year>1715</year>
+  </author>
+  <author xlink:href="#artist-226" xlink:type="simple">
+    <part>Music</part>
+    <year>1984</year>
+  </author>
+  <author xlink:href="#artist-13563" xlink:type="simple">
+    <part>Music</part>
+    <year>1924</year>
+  </author>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>344</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>259</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>265</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

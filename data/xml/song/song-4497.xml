@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4497">
+  <title>Im Stall an der Krippe</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Rechte für den Text beim Autor, Satz: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <author xlink:href="#artist-4349" xlink:type="simple">
+    <part>Text</part>
+    <year>1987</year>
+  </author>
+  <author xlink:href="#artist-4828" xlink:type="simple">
+    <part>Music</part>
+    <year>1895</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21173" xlink:type="simple">
+    <cdnum/>
+    <numoncd>8</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270961199&amp;id=270961070&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

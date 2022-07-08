@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2999">
+  <firstname>Daniel</firstname>
+  <lastname>Kallauch</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.daniel-kallauch.de/" xlink:type="simple">
+    <title>Homepage</title>
+  </url>
+  <url xlink:href="http://www.sendbuch.de/name/Daniel_Kallauch" xlink:type="simple">
+    <title>Daniel Kallauch @ Sendbuch.de</title>
+  </url>
+</artist>

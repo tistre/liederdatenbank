@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24383">
+  <title>Holy Spirit, You are welcome here</title>
+  <subtitle>There's nothing worth more that will ever come close</subtitle>
+  <copyrightyear>2011</copyrightyear>
+  <right>Jesus Culture Music / Capitol CMG Genesis</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24381" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24382" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-3" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-1" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+</song>

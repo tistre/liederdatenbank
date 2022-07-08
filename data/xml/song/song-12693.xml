@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12693">
+  <title>Fürchtet euch nicht</title>
+  <subtitle>Es war Nacht und die Jünger allein</subtitle>
+  <copyrightyear>1977</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-27615" xlink:type="simple"/>
+  <author xlink:href="#artist-452" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1977</year>
+  </author>
+  <songbookref xlink:href="#songbook-12677" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-14" xlink:type="simple">
+    <verse>22-27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-6" xlink:type="simple">
+    <verse>47-50</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-6" xlink:type="simple">
+    <verse>16-20</verse>
+  </bibleref>
+</song>

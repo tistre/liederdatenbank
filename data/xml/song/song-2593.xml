@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2593">
+  <title>Das Herz ist hungrig</title>
+  <subtitle>Sehnsucht</subtitle>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+  </songbookref>
+  <right>1998 Praize Republic, Köln</right>
+</song>

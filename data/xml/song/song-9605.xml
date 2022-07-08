@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9605">
+  <title>Nun freut euch, ihr Christen</title>
+  <subtitle/>
+  <text/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/236" (EG 45)</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4833" xlink:type="simple">
+    <part>Text</part>
+    <year>1971</year>
+  </author>
+  <author xlink:href="#artist-9604" xlink:type="simple">
+    <part>Text</part>
+    <year>1790</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>544</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

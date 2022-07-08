@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4031">
+  <firstname>Sarah Fuller</firstname>
+  <lastname>Adams</lastname>
+  <name/>
+  <born>1805</born>
+  <died>1848</died>
+  <comment>Geboren in Great Harlow/Essex (England) als zweite Tochter des Journalisten Bejamin Flower. Schauspielerin. Innerer Widerstand gegen die Bühne und ihre Verheiratung mit dem Tiefbauingeneur William Bridge Adams (1834) lenkten ihre literarischen Kräfte zur Dichtung. Ihr berühmtes Lied erschien 1841 in der Sammlung "Hymns and Anthems", die weitere 13 Lieder von ihr und 63 Melodien ihrer Schwester Eliza enthält.
+Eliza starb 1848 an der Tuberkulose. Von der Pflege geschwächt starb Sarah in London an der gleichen Krankheit.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Sarah Flower Adams" xlink:type="simple"/>
+</artist>

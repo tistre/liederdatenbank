@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3804">
+  <title>I will praise You, oh Lord</title>
+  <author xlink:href="#artist-3892" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1988</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+  </songbookref>
+</song>

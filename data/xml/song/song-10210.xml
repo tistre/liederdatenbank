@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10210">
+  <title>Du gabst, o Herr, Dein teures Blut</title>
+  <subtitle/>
+  <text># Du gabst, o Herr, Dein teures Blut,
+Du trugest still der Feinde Wut,
+Befreitest uns von Sünd' und Tod
+Und wurdest unser Weg zu Gott.
+
+# Dein Lieben, Herr, ist grenzenlos,
+Und was Du gibst, so göttlich groß!
+Doch größer noch als alles ist,
+Daß Du, Herr, selber unser bist.
+
+# Und völlig wird das Herz gestillt
+Und unsre Freude ganz erfüllt,
+Wenn wir, Herr, Dir entgegen gehn
+Und in der Herrlichkeit Dich sehn.
+
+# Du bist's, den unsre Seele liebt,
+Der Leben uns und alles gibt.
+Drum komm, erfüll' das heiße Flehn
+Und laß uns dort Dein Antlitz sehn!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/384", "http://www.liederdatenbank.de/song/1455".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#14" xlink:type="simple"/>
+</song>

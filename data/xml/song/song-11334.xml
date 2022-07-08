@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11334">
+  <title>Ermuntert euch, ihr Frommen</title>
+  <subtitle/>
+  <text># Ermuntert euch, ihr Frommen,
+zeigt eurer Lampen Schein!
+Der Abend ist gekommen,
+die finstre Nacht bricht ein.
+Es hat sich aufgemachet
+der Bräutigam mit Pracht.
+Auf, betet, kämpft und wachet!
+Bald ist es Mitternacht.
+
+# Macht eure Lampen fertig
+und füllet sie mit Öl
+und seid des Heils gewärtig,
+bereitet Leib und Seel!
+Die Wächter Zions schreien:
+»Der Bräutigam ist nah!«
+Begegnet ihm im Reigen
+und singt: Halleluja!
+
+# Ihr klugen Jungfraun alle,
+hebt nun das Haupt empor
+mit Jauchzen und mit Schalle
+zum frohen Engelchor!
+Wohlan, die Tür ist offen,
+die Hochzeit ist bereit.
+Erfüllt ist euer Hoffen:
+der Bräut’gam ist nicht weit.
+
+# Er wird nicht lang verziehen,
+drum schlafet nicht mehr ein;
+man sieht die Bäume blühen;
+der schöne Frühlingsschein
+verheißt Erquickungszeiten;
+die Abendröte zeigt
+den schönen Tag von weitem,
+davor das Dunkle weicht.
+
+# Begegnet ihm auf Erden,
+ihr, die ihr Zion liebt,
+mit freudigen Gebärden
+und seid nicht mehr betrübt;
+es sind die Freudenstunden
+gekommen, und der Braut
+wird, weil sie überwunden,
+die Krone nun vertraut.
+
+# Die ihr Geduld getragen
+und mitgestorben seid,
+sollt nun nach Kreuz und Klagen
+in Freuden ohne Leid
+mitleben und -regieren
+und vor des Lammes Thron
+mit Jauchzen triumphieren
+in eurer Siegeskron.
+
+# Hier ist die Stadt der Freuden,
+Jerusalem, der Ort,
+wo die Erlösten weiden,
+hier ist die sichre Pfort,
+hier sind die güldnen Gassen,
+hier ist das Hochzeitsmahl,
+hier soll sich niederlassen
+die Braut im Freudensaal.
+
+# O Jesu, meine Wonne,
+komm bald und mach dich auf;
+geh auf, ersehnte Sonne,
+und eile deinen Lauf.
+O Jesu, mach ein Ende
+und führ uns aus dem Streit;
+wir heben Haupt und Hände
+nach der Erlösungszeit.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11332" (EG 148). Andere Melodie: "http://www.liederdatenbank.de/song/2259" (EG 523).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11288" xlink:type="simple">
+    <part>Text</part>
+    <year>1700</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>151</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-25" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2ti-2" xlink:type="simple">
+    <verse>11-12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

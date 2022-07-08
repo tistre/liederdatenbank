@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-25402">
+  <name/>
+  <firstname>Marie</firstname>
+  <lastname>Hüsing</lastname>
+  <born>1909</born>
+  <died>1995</died>
+  <comment/>
+  <url xlink:href="https://de.wikipedia.org/wiki/Marie_Hüsing" xlink:type="simple"/>
+</artist>

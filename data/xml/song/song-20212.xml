@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20212">
+  <title>Du bist das Licht</title>
+  <subtitle>Du hast den Himmel aufgemacht</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right>bei den Urhebern</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>orientiert an: http://www.liederdatenbank.de/song/1441</comment>
+  <language>de</language>
+  <author xlink:href="#artist-3585" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2004</year>
+  </author>
+  <author xlink:href="#artist-20211" xlink:type="simple">
+    <part>Text</part>
+    <year>2004</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

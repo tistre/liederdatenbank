@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2322">
+  <title>Ehre sei dem Herrn</title>
+  <subtitle>Wer hält das All in seiner Hand</subtitle>
+  <language>de</language>
+  <right>Universal Songs, Holland</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <originalsong xlink:href="#song-2323" xlink:type="simple"/>
+  <author xlink:href="#artist-3737" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-444" xlink:type="simple">
+    <part>Music</part>
+    <year>2000</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14400" xlink:type="simple">
+    <cdnum/>
+    <numoncd>10</numoncd>
+  </cdref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=269187919&amp;id=269186639&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

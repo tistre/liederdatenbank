@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-23955">
+  <name>Hans-Joachim Eckstein Liederbuch</name>
+  <comment>Hans-Joachim Eckstein Liederbuch - 36 beliebte und aktuelle Lieder
+SCM Hänssler, Holzgerlingen (395.662) 2015
+36 Lieder und weitere Sinnsprüche von Hans-Joachim Eckstein
+ISBN 978-3-7751-5662-2</comment>
+  <state>1</state>
+  <icon xlink:href="#file-24268" xlink:type="simple"/>
+  <code/>
+  <url xlink:href="http://www.liederdatenbank.de/artist/4219" xlink:type="simple">
+    <title>Hans-Joachim Eckstein @ Liederdatenbank</title>
+  </url>
+  <url xlink:href="https://www.scm-haenssler.de/musik/songbooks/liederbuch.html" xlink:type="simple">
+    <title>Liederbuch @ SCM Hänssler</title>
+  </url>
+  <url xlink:href="http://www.ecksteinproduction.com/" xlink:type="simple">
+    <title>Homepage von Hans-Joachim Eckstein</title>
+  </url>
+  <url xlink:href="https://de.wikipedia.org/wiki/Hans-Joachim_Eckstein" xlink:type="simple">
+    <title>Hans-Joachim Eckstein @ Wikipedia</title>
+  </url>
+</songbook>

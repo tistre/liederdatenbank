@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11428">
+  <title>So wahr ich lebe, spricht dein Gott</title>
+  <subtitle/>
+  <text># »So wahr ich lebe«, spricht dein Gott,
+»mir ist nicht lieb des Sünders Tod;
+vielmehr ist dies mein Wunsch und Will,
+dass er von Sünden halte still,
+von seiner Bosheit kehre sich
+und lebe mit mir ewiglich.«
+
+# Dies Wort bedenk, o Menschenkind,
+verzweifle nicht in deiner Sünd;
+hier findest du Trost, Heil und Gnad,
+die Gott dir zugesaget hat,
+und zwar mit einem teuern Eid.
+O selig, dem die Sünd ist leid!
+
+# Doch hüte dich vor Sicherheit,
+denk nicht: »Zur Buß ist noch wohl Zeit,
+ich will erst fröhlich sein auf Erd;
+wann ich des Lebens müde werd,
+alsdann will ich bekehren mich,
+Gott wird wohl mein erbarmen sich.«
+
+# Wahr ist’s: Gott ist wohl stets bereit
+dem Sünder mit Barmherzigkeit;
+doch wer auf Gnade sündigt hin,
+fährt fort in seinem bösen Sinn
+und seiner Seele selbst nicht schont,
+dem wird mit Ungnad abgelohnt.
+
+# Gnad hat dir zugesaget Gott,
+von wegen Christi Blut und Tod;
+zusagen hat er nicht gewollt,
+ob du bis morgen leben sollt;
+dass du musst sterben, ist dir kund,
+verborgen ist des Todes Stund.
+
+# Heut lebst du, heut bekehre dich!
+Eh morgen kommt, kann’s ändern sich;
+wer heut ist frisch, gesund und rot,
+ist morgen krank, ja wohl gar tot.
+So du nun stirbest ohne Buß,
+dein Seel und Leib dort brennen muss.
+
+# Hilf, o Herr Jesu, hilf du mir,
+dass ich noch heute komm zu dir
+und Buße tu den Augenblick,
+eh mich der schnelle Tod hinrück,
+auf dass ich heut und jederzeit
+zu meiner Heimfahrt sei bereit.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1351" (EG 344).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4736" xlink:type="simple">
+    <part>Text</part>
+    <year>1630</year>
+  </author>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>Text</part>
+    <year>1560</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-eze-33" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+</song>

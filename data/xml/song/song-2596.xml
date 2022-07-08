@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2596">
+  <title>Der Herr ist gnädig und barmherzig</title>
+  <subtitle>Darum, Herr, preis ich Dich</subtitle>
+  <language>de</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2595" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2773" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-27">
+  <name>Wort des Glaubens, München</name>
+  <firstname/>
+  <lastname/>
+  <born/>
+  <died/>
+  <comment>Die Gemeinde "Wort des Glaubens" in Feldkirchen bei München, heißt seit mehreren Jahren "Gospel Life Center"</comment>
+  <url xlink:href="http://www.gospellifecenter.de/" xlink:type="simple"/>
+</artist>

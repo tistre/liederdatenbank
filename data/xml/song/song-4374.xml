@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4374">
+  <title>Lord, I receive Your gift of love</title>
+  <language>en</language>
+  <right>Dyba Music</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Begleitsatz: Henning Worreschk 2002.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-2574" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>178</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20999" xlink:type="simple">
+    <cdnum/>
+    <numoncd>3</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=268727218&amp;id=268726877&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

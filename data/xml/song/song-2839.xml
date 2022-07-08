@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2839">
+  <title>Finsternis hat keine Macht</title>
+  <author xlink:href="#artist-4088" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-4144" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+  </songbookref>
+</song>

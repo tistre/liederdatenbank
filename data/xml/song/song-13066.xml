@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13066">
+  <title>Jesus, dir wir Dankeslieder singen</title>
+  <subtitle/>
+  <text># Jesu, Dir wir Dankeslieder singen,
+Reichlich strömt für uns die Gnadenflut.
+Dir wir Preis und Lob und Ehre bringen.
+Du, o Jesu, machtest alles gut.
+
+# Alle unsre Sünden sind vernichtet,
+Droben spricht für uns Dein kostbar Blut.
+Ja, der Gnadenthron ist aufgerichtet,
+Du, o Jesu, machtest alles gut.
+
+# Deine Gnade, Deine Huld wir kennen,
+Weil das Herz in Deiner Liebe ruht.
+Kann auch niemand Deine Fülle nennen,
+Du, o Jesu, machtest alles gut.
+
+# Du gingst hin, die Stätt' uns zu bereiten,
+Süße Hoffnung stärkt der Pilger Mut,
+Und Dein Geist wird uns hier treu geleiten.
+Du, o Jesu, machtest alles gut.
+
+# Dann, wenn schauend wir Dir Ehre bringen,
+Jeder müde Kämpfer siegreich ruht,
+Werden ewig sel'ge Herzen singen:
+Du, o Jesu, machtest alles gut!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Music</part>
+    <year>1853</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/041_050.html#42" xlink:type="simple"/>
+</song>

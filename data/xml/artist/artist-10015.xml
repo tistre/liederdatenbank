@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10015">
+  <lastname>Siemoneit</lastname>
+  <firstname>Hans Rudolf</firstname>
+  <name/>
+  <born>1927</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Hans_Rudolf_Siemoneit" xlink:type="simple">
+    <title>Hans Rudolf Siemoneit @ Wikipedia.de</title>
+  </url>
+</artist>

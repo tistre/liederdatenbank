@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26127">
+  <title>Hör nur, er rufet deinen Namen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verlag: Jajasan Persekutuan Pekabaran Jndjil Indonesia, Batu-Malang.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-26128" xlink:type="simple"/>
+  <author xlink:href="#artist-26126" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>707</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+</song>

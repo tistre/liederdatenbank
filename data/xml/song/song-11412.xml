@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11412">
+  <title>Herr Jesu Christ, du höchstes Gut</title>
+  <subtitle/>
+  <text># Herr Jesu Christ, du höchstes Gut,
+du Brunnquell aller Gnaden,
+wir kommen, deinen Leib und Blut,
+wie du uns hast geladen,
+zu deiner Liebe Herrlichkeit
+und unsrer Seelen Seligkeit
+zu essen und zu trinken.
+
+# O Jesu, mach uns selbst bereit
+zu diesem hohen Werke,
+schenk uns dein schönes Ehrenkleid
+durch deines Geistes Stärke.
+Hilf, dass wir würd’ge Gäste sein
+und werden dir gepflanzet ein
+zum ewgen Himmelswesen.
+
+# Bleib du in uns, dass wir in dir
+auch bis ans Ende bleiben;
+lass Sünd und Not uns für und für
+nicht wieder von dir treiben,
+bis wir durch deines Nachtmahls Kraft
+eingehn zur Himmelsbürgerschaft
+und ewig selig werden.
+</text>
+  <copyrightyear/>
+  <right>Text: Chemnitz 1713 - Melodie: Görlitz 1587, Dresden 1593</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: "http://www.liederdatenbank.de/song/1534" (EG 299 II).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>219</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

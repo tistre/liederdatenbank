@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11328">
+  <title>Aus tiefer Not laßt uns zu Gott</title>
+  <subtitle/>
+  <text># Aus tiefer Not lasst uns zu Gott
+von ganzem Herzen schreien,
+bitten, dass er aus seiner Gnad
+uns woll vom Übel befreien
+und alle Sünd und Missetat,
+die unser Fleisch begangen hat,
+als Vater uns verzeihen.
+
+# O Gott und Vater, sieh doch an
+uns Armen und Elenden,
+die wir sehr übel han getan
+mit Herzen, Mund und Händen;
+verleih uns, dass wir Buße tun
+und sie in Christus, deinem Sohn,
+zur Seligkeit vollenden.
+
+# Zwar unsre Schuld ist groß und schwer,
+von uns nicht auszurechnen;
+doch dein Barmherzigkeit ist mehr,
+die kein Mensch kann aussprechen:
+die suchen und begehren wir
+und hoffen, du lässt es an dir
+uns nimmermehr gebrechen.
+
+# Du willst nicht, dass der Sünder sterb
+und zur Verdammnis fahre,
+sondern dass er dein Gnad erwerb
+und sich darin bewahre;
+so hilf uns nun, o Herre Gott,
+auf dass uns nicht der ewge Tod
+in Sünden widerfahre.
+
+# Wir opfern uns dir arm und bloß,
+durch Reue tief geschlagen;
+o nimm uns auf in deinen Schoß
+und lass uns nicht verzagen.
+O hilf, dass wir getrost und frei
+ohn arge List und Heuchelei
+dein Joch zum Ende tragen.
+
+# Sprich uns durch deine Boten zu,
+gib Zeugnis dem Gewissen,
+stell unser Herz durch sie zur Ruh,
+tu uns durch sie zu wissen,
+wie Christus vor deim Angesicht
+all unsre Sachen hab geschlicht’:
+den Trost lass uns genießen.
+
+# Erhalt in unsers Herzens Grund
+deinen göttlichen Samen
+und hilf, dass wir den neuen Bund
+in deines Sohnes Namen
+vollenden in aller Wahrheit,
+also der Krone der Klarheit
+teilhaftig werden. Amen.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1534" (EG 299 II).</comment>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number/>
+  <author xlink:href="#artist-9002" xlink:type="simple">
+    <part>Text</part>
+    <year>1531</year>
+  </author>
+  <author xlink:href="#artist-4791" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-130" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

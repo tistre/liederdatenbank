@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1566">
+  <title>Jesus, der Herr, sagt: Ich bin das Brot</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Urdu / Bongkok 1962</comment>
+  <language>de</language>
+  <author xlink:href="#artist-10057" xlink:type="simple">
+    <part>Text</part>
+    <year>1962</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>329</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

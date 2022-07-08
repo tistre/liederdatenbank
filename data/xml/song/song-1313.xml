@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1313">
+  <title>Sei Lob und Ehr dem höchsten Gut</title>
+  <text># Sei Lob und Ehr dem höchsten Gut,
+dem Vater aller Güte,
+dem Gott, der alle Wunder tut,
+dem Gott, der mein Gemüte
+mit seinem reichen Trost erfüllt,
+dem Gott, der allen Jammer stillt.
+Gebt unserm Gott die Ehre!
+
+# Es danken dir die Himmelsheer,
+o Herrscher aller Thronen;
+und die auf Erden,
+Luft und Meer in deinem Schatten wohnen,
+die preisen deine Schöpfermacht,
+die alles also wohl bedacht.
+Gebt unserm Gott die Ehre!
+
+# Was unser Gott geschaffen hat,
+das will er auch erhalten,
+darüber will er früh und spat
+mit seiner Güte walten.
+In seinem ganzen Königreich
+ist alles recht, ist alles gleich.
+Gebt unserm Gott die Ehre!
+
+# Ich rief zum Herrn in meiner Not:
+Ach Gott, vernimm mein Schreien!
+Da half mein Helfer mir vom Tod
+und ließ mir Trost gedeihen.
+Drum dank, ach Gott, drum dank ich dir;
+ach danket, danket Gott mit mir!
+Gebt unserm Gott die Ehre!
+
+# Ihr, die ihr Christi Namen nennt,
+gebt unserm Gott die Ehre;
+ihr, die ihr Gottes Macht bekennt,
+gebt unserm Gott die Ehre!
+Die falschen Götzen macht zu Spott;
+der Herr ist Gott, der Herr ist Gott!
+Gebt unserm Gott die Ehre!
+
+# Der Herr ist treu, er ist noch nicht
+von seinem Volk geschieden;
+er bleibet ihre Zuversicht,
+ihr Segen, Heil und Frieden.
+Mit Mutterhänden leitet er
+die Seinen stetig hin und her.
+Gebt unserm Gott die Ehre!
+
+# Ich will dich all mein Leben lang,
+o Gott, von nun an ehren.
+Man soll, Gott, deinen Lobgesang
+an allen Orten hören.
+Mein ganzes Herz ermuntre sich,
+mein Geist und Leib erfreue dich!
+Gebt unserm Gott die Ehre!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>In http://www.liederdatenbank.de/songbook/10115 ist eine andere Melodie, als in den anderen Büchern, abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4655" xlink:type="simple">
+    <part>Text</part>
+    <year>1675</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>251</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>326</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>496</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

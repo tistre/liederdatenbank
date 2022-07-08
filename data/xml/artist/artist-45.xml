@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-45">
+  <firstname>Peter</firstname>
+  <lastname>Strauch</lastname>
+  <name/>
+  <born>1943</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Peter_Strauch" xlink:type="simple"/>
+</artist>

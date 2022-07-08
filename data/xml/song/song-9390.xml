@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9390">
+  <title>You are mighty</title>
+  <subtitle/>
+  <right>Projektion J Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-450" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>113</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

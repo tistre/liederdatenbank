@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13063">
+  <title>Wer ist wohl wie du</title>
+  <subtitle/>
+  <text># Wer ist wohl wie Du,
+Jesu, süße Ruh'!
+Bist vom Vater auserkoren,
+Zu erretten was verloren.
+Wer ist wohl wie Du,
+Jesu, süße Ruh'!
+
+# Du gingst in den Tod,
+Littest Angst und Not.
+Bist am Kreuz für uns gerichtet,
+Hast der Sünde Macht vernichtet.
+Kein Gericht mehr droht,
+Du gingst in den Tod.
+
+# Deiner Liebe Macht
+Hat das Werk vollbracht.
+Und Du gingst zum Vater wieder,
+Der Dich sandt' zu uns hernieder,
+Als das Werk vollbracht
+Deiner Liebe Macht.
+
+# Bald kommst Du zurück –
+O welch selig Glück!
+Führest uns aus Kampf und Leiden
+Hin zu Dir, zu ew'gen Freuden.
+O welch selig Glück!
+Du kommst bald zurück.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/277", "http://www.liederdatenbank.de/song/1484", "http://www.liederdatenbank.de/song/13687".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4782" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9015" xlink:type="simple">
+    <part>Music</part>
+    <year>1698</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/031_040.html#39" xlink:type="simple"/>
+</song>

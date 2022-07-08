@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-17455">
+  <title>Praise the lamb</title>
+  <subtitle/>
+  <copyrightyear>1983</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-63" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15609">
+  <title>Revival</title>
+  <subtitle>I hear the voice of one crying</subtitle>
+  <copyrightyear>1998</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-15608" xlink:type="simple"/>
+  <author xlink:href="#artist-3660" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-15605" xlink:type="simple">
+    <cdnum/>
+    <numoncd>3</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2457">
+  <title>Du bist der Anfang und das Ende</title>
+  <subtitle>Herr, ich will mit meinem Leben</subtitle>
+  <author xlink:href="#artist-3673" xlink:type="simple">
+    <part>Text</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-3629" xlink:type="simple">
+    <part>Music</part>
+    <year>2000</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>173</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21585">
+  <title>Lasst uns den Weg der Gerechtigkeit gehn</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>tvd-Verlag, Düsseldorf</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text nach Anunciaramos tu reino.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-23081" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-21584" xlink:type="simple">
+    <part>Text</part>
+    <year>1965</year>
+  </author>
+  <author xlink:href="#artist-21586" xlink:type="simple">
+    <part>Music</part>
+    <year>1965</year>
+  </author>
+  <author xlink:href="#artist-9614" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4016" xlink:type="simple">
+    <part>Text</part>
+    <year>1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>064</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>675</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

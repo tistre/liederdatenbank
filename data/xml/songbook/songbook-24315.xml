@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-24315">
+  <name>Gesangbuch der Evangelischen Brüdergemeine</name>
+  <comment>Herausgegeben von der Evangelischen Brüder-Unität/Herrnhuter Brüdergemeine Bad Boll - Herrnhut - Zeist
+1054 Lieder, außerdem Gebete und verschiedene Verzeichnisse
+Friedrich Reinhardt Verlag, Basel 2007
+ISBN: 978-3-7245-1486-2 .</comment>
+  <state>0</state>
+  <icon xlink:href="#file-24328" xlink:type="simple"/>
+  <url xlink:href="https://www.cobu-shop.de/Gesangbuch-der-Evangelischen-Bruedergemeine-2007" xlink:type="simple">
+    <title>@ Comenius-Buchhandlung</title>
+  </url>
+</songbook>

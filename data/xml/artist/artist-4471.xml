@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4471">
+  <firstname>Johann</firstname>
+  <lastname>Scheffler</lastname>
+  <name/>
+  <born>1624</born>
+  <died>1677</died>
+  <comment>Angelus Silesius</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Scheffler" xlink:type="simple"/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Angelus_Silesius" xlink:type="simple"/>
+</artist>

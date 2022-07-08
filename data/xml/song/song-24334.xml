@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24334">
+  <title>Bringt her dem Herren Lob und Ehr aus freudigem Gemüte!</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4488" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1704</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <author xlink:href="#artist-4640" xlink:type="simple">
+    <part>Music</part>
+    <year>1551</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1653</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

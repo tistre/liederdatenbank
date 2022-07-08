@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9504">
+  <name>Singt dem Herrn 1</name>
+  <comment>Lieder des CVJM München
+Präsenz-Verlag, Gnadenthal, Hünfelden 1978.
+ic33 Lieder (mit Noten u. Akkordbezeichnungen)
+ISBN 3-87630-475-X
+
+*** Alle Lieder dieses Liederbuches sind in der Liederdatenbank erfaßt. ***</comment>
+  <icon xlink:href="#file-9503" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.cvjm-muenchen.org/" xlink:type="simple">
+    <title>CVJM München e.V.</title>
+  </url>
+  <url xlink:href="http://www.praesenz-verlag.de/" xlink:type="simple">
+    <title>Präsenz-Verlag, Gnadenthal</title>
+  </url>
+</songbook>

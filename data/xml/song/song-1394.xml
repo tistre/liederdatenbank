@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1394">
+  <title>Du unser Haupt, Herr Jesu Christ</title>
+  <text># Du unser Haupt, Herr Jesu Christ, 
+der du stets bei den Deinen bist, 
+o komm in unsre Mitte! 
+Belebe uns durch deine Kraft, 
+die neue Herzen in uns schafft, 
+erhöre unsre Bitte, 
+dass wir ganz dir uns ergeben 
+und dein Leben in uns fließe, 
+sich auf uns dein Geist ergieße.
+
+# Lass uns in wahrer Bruderschaft 
+durch deines Geistes Lebenskraft 
+fest zueinander stehen, 
+in Freuden und in Traurigkeit, 
+im Frieden wie im heißen Streit 
+stets füreinander flehen. 
+So wird, o Hirt, deine Treue 
+stets aufs neue uns beschirmen, 
+ob Gefahren sich auch türmen.
+
+# Der du zur Rechten Gottes thronst 
+und auch in unserm Herzen wohnst, 
+dir muss es doch gelingen, 
+den Satan und sein ganzes Reich 
+und damit unser Herz zugleich 
+vollkommen zu bezwingen. 
+So stärk dein Werk in uns allen, 
+dass wir wallen deine Wege, 
+was uns auch begegnen möge.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13252", "http://www.liederdatenbank.de/song/1520", "http://www.liederdatenbank.de/song/2106", "http://www.liederdatenbank.de/song/13660".</comment>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>1863</year>
+  </author>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>356</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>205</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

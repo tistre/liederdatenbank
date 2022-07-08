@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20279">
+  <title>Facedown</title>
+  <subtitle>Welcomed into the courts of the King</subtitle>
+  <copyrightyear>2003</copyrightyear>
+  <right>kingswaysongs.com</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4109837</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=206894755&amp;id=206892552&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

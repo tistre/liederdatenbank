@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2719">
+  <title>Singt dem Herrn ein neues Lied</title>
+  <subtitle>Voller Freude</subtitle>
+  <author xlink:href="#artist-34" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-4321">
+  <name>Feiern &amp; Loben</name>
+  <state>1</state>
+  <icon xlink:href="#songbook-4321-icon" xlink:type="simple"/>
+  <comment>Herausgegeben vom Hänssler Verlag, Bundes-Verlag und Oncken Verlag in Zusammenarbeit mit dem Bund Freier evangelischer Gemeinden und dem Bund Evangelisch-Freikirchlicher Gemeinden 2003. 500 Lieder (Text, mehrstimmiger Satz mit Akkordbezeichnungen).
+
+*** Alle Lieder dieses Liederbuches sind in der Liederdatenbank erfaßt. ***</comment>
+  <url xlink:href="http://www.haenssler.de/show.sxp/haenssler_de.html?art_id=74988" xlink:type="simple">
+    <title>Feiern &amp; Loben @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Feiern_%26_Loben" xlink:type="simple">
+    <title>Feiern &amp; Loben @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/gp/product/3789378267" xlink:type="simple">
+    <title>Feiern &amp; Loben @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=63" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+</songbook>

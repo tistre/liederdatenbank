@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10206">
+  <lastname>Franck</lastname>
+  <firstname>Melchior</firstname>
+  <name/>
+  <born>ca. 1580</born>
+  <died>1639</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Melchior_Franck" xlink:type="simple"/>
+</artist>

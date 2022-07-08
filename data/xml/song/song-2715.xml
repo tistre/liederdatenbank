@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2715">
+  <title>Ob ich liege oder steh</title>
+  <subtitle>Du hast mich erkannt</subtitle>
+  <author xlink:href="#artist-4042" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+  </songbookref>
+</song>

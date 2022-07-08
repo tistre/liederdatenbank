@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12818">
+  <title>Ich danke dir, Herr Gott, in deinem Throne</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Text: Herborn 1612. Melodie: Haarlem 1664.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>661</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2729">
+  <title>This God is our God</title>
+  <author xlink:href="#artist-4043" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <author xlink:href="#artist-4044" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+  </songbookref>
+</song>

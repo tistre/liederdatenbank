@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14452">
+  <title>Seltsam war die Schlacht von Jericho</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verfasser unbekannt</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-14342" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

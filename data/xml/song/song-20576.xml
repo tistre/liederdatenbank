@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20576">
+  <title>Vater unser</title>
+  <subtitle>Vater unser im Himmel, heilig ist dein Name</subtitle>
+  <copyrightyear>2004</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-16722" xlink:type="simple"/>
+  <author xlink:href="#artist-15338" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2004</year>
+  </author>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>161</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>9-13</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13388">
+  <title>Dankt unserm Gott und bringt ihm Ehre</title>
+  <subtitle/>
+  <text># Dankt unserm Gott und bringt Ihm Ehre,
+Denn Er ist freundlich jederzeit!
+Frohlockt, daß Seine Güte währe
+Von Ewigkeit zu Ewigkeit!
+Ja, rühmet Ihn mit Herz und Munde,
+Er ist allein des Rühmens wert.
+Ein Lobgesang sei jede Stunde,
+Die Seine Güte uns beschert!
+
+# Du, großer Gott, bist unsre Stärke,
+Bist unser Licht in dunkler Nacht.
+Du hast durch wunderbare Werke
+Heil und Erlösung uns gebracht.
+Wir waren hoffnungslos verloren,
+In Welt und Sündenlust verstrickt.
+Du hast uns für Dich selbst erkoren,
+Des Feindes Macht und List entrückt.
+
+# Dich sollen Herz und Zunge loben,
+Erheben Deine Majestät.
+Dein Ruhm, o Gott, sei hoch erhoben,
+Der über alle Himmel geht!
+Dein Vaterantlitz voll Erbarmen
+Bestrahlet uns zu jeder Zeit.
+Du trägst Dein Volk auf mächt'gen Armen,
+Du großer Gott von Ewigkeit!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13423", "http://www.liederdatenbank.de/song/11952", "http://www.liederdatenbank.de/song/14004". - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/13219" oder "http://www.liederdatenbank.de/song/1563" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4782" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#139" xlink:type="simple"/>
+</song>

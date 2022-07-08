@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22792">
+  <title>Wir öffnen uns für dich</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right>JANZ Musikverlag / Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6119052</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LH</ccli_features>
+  <author xlink:href="#artist-20284" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-25739" xlink:type="simple">
+    <cdnum/>
+    <numoncd>7</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-55" xlink:type="simple">
+    <verse>23</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>105</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-10" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1pe-5" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

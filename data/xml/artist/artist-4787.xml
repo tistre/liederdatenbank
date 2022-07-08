@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4787">
+  <firstname>Hans</firstname>
+  <lastname>Böhm</lastname>
+  <name/>
+  <born>1899</born>
+  <died>1962</died>
+  <comment>Geboren in Hamm/Westfalen, Pfarrer, führend in der &gt;Bekennenden Kirche&lt; in Berlin-Brandenburg, nach 1945 Probst, gestorben in Berlin.</comment>
+</artist>

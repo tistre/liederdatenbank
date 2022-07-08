@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4931">
+  <title>God almighty, we look to Thee</title>
+  <subtitle/>
+  <copyrightyear>2002</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4016597</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11794" xlink:type="simple"/>
+  <author xlink:href="#artist-2574" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <url xlink:href="www.judybailey.com" xlink:type="simple"/>
+</song>

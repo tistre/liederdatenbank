@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-959">
+  <title>Für dich sei ganz mein Herz und Leben</title>
+  <text># Für dich sei ganz mein Herz und Leben, 
+mein süßer Gott, und all mein Gut! 
+Für dich hast du mir's nur gegeben; 
+in dir es nur und selig ruht. 
+Hersteller meines schweren Falles, 
+für dich sei ewig Herz und alles!
+
+# Ich bete an die Macht der Liebe, 
+die sich in Jesus offenbart; 
+ich geb mich hin dem freien Triebe, 
+wodurch ich Wurm geliebet ward; 
+ich will, anstatt an mich zu denken, 
+ins Meer der Liebe mich versenken.
+
+# Ich liebt und lebte recht im Zwange, 
+wie ich mir lebte ohne dich. 
+Ich wollte dich nicht, ach so lange; 
+doch liebtest du und suchtest mich, 
+mich böses Kind aus bösem Samen, 
+im hohen, holden Jesusnamen.
+
+# Wie bist du mir so zart gewogen, 
+und wie verlangt dein Herz nach mir! 
+Durch Liebe sanft und tief gezogen, 
+neigt sich mein alles auch zu dir. 
+Du traute Liebe, gutes Wesen, 
+du hast mich und ich dich erlesen.
+
+# Ehr sei dem hohen Jesusnamen, 
+in dem der Liebe Quell entspringt, 
+von dem hier alle Bächlein kamen, 
+aus dem der Seigen Schar dort trinkt. 
+Wie beugen sie sich ohne Ende! 
+Wie falten sie die frohen Hände!
+
+# O Jesu, daß dein Name bliebe 
+im Grunde tief gedrücket ein! 
+Möcht deine süße Jesusliebe 
+in Herz und Sinn gepräget sein! 
+Im Wort, im Werk und allem Wesen 
+sei Jesus und sonst nichts zu lesen!</text>
+  <language>de</language>
+  <subtitle>Ich bete an die Macht der Liebe</subtitle>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13156", "http://www.liederdatenbank.de/song/13275", "http://www.liederdatenbank.de/song/1015".</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4336909</ccli_number>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1757/1751</year>
+  </author>
+  <author xlink:href="#artist-9079" xlink:type="simple">
+    <part>Music</part>
+    <year>1822</year>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>358</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>313</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>274</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>661</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>641</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>188</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>226</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/041_050.html#45" xlink:type="simple"/>
+  <url xlink:href="http://www.youtube.com/watch?v=U5mRQIrFbC4" xlink:type="simple">
+    <title>Chor-Aufführung als Video @ YouTube.com</title>
+  </url>
+</song>

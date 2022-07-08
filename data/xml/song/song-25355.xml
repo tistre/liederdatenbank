@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25355">
+  <title>Wir bauen hier so feste (Kanon)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: aus der Musica Figuralis, Bern 1658</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Kanon zu 4 Stimmen</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25354" xlink:type="simple">
+    <part>Text</part>
+    <year>1658</year>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>85b</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

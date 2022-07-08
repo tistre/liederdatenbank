@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4262">
+  <firstname>Charles</firstname>
+  <lastname>Wesley</lastname>
+  <name/>
+  <comment/>
+  <born>1707</born>
+  <died>1788</died>
+  <url xlink:href="http://en.wikipedia.org/wiki/Charles_Wesley" xlink:type="simple">
+    <title>Charles Wesley @ Wikipedia.en</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Charles_Wesley" xlink:type="simple">
+    <title>Charles Wesley @ Wikipedia.de</title>
+  </url>
+</artist>

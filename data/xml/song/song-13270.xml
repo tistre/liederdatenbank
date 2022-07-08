@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13270">
+  <title>Dank, Anbetung sei geweihet</title>
+  <subtitle/>
+  <text># Dank, Anbetung sei geweihet,
+Jesu, Dir, Du höchster Ruhm!
+Fried' und Hoffnung uns erfreuet,
+Seit Du weilst im Heiligtum.
+Nichtig sind die Erdenfreuden,
+Wertlos Erdengüter jetzt.
+Mag hienieden alles scheiden,
+Alles wird durch Dich ersetzt.
+
+# Um uns her ist eine Wüste,
+Wo die Seele nichts erquickt.
+Unser Herz sucht jene Küste,
+Wo das Auge Dich erblickt.
+Nicht mehr lange wird es währen,
+Und die Nacht ist ganz vorbei,
+Dann wird alles Dich verehren,
+Und die Schöpfung selbst wird frei.
+
+# Dann ist jeder Schmerz gestillet,
+Jede Träne abgewischt.
+Freude nur das Herz erfüllet,
+Sel'ge Freude unvermischt.
+Diese Welt, wo Du gelitten,
+Die auch uns verwarf mit Dir,
+Sieht verherrlicht Dich inmitten
+Deiner Heil'gen, eins mit Dir.
+
+# Kron' und Zepter wirst Du teilen
+Dort mit Deiner sel'gen Braut.
+Ewig wird sie bei Dir weilen,
+Die hier glaubend Dir vertraut.
+Schauend ihre Füll' und Habe,
+Preist sie Dich ohn' Unterlaß.
+Doch daß Du bist ihre Gabe,
+Bleibt der Freude höchstes Maß.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#102" xlink:type="simple"/>
+</song>

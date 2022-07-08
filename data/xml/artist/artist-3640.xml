@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3640">
+  <firstname>Naomi van</firstname>
+  <lastname>Dooren</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>Tochter von http://www.liederdatenbank.de/artist/29</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Van_Dooren_Sisters" xlink:type="simple">
+    <title>Van Dooren Sisters @ Wikipedia.de</title>
+  </url>
+</artist>

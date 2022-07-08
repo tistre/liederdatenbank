@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4883">
+  <title>Der Herr regiert in Majestät</title>
+  <subtitle>Voller Ehrfurcht</subtitle>
+  <author xlink:href="#artist-5047" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-5048" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+  </songbookref>
+  <right>Projektion J Musikverlag</right>
+</song>

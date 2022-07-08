@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2656">
+  <title>I see the moon</title>
+  <subtitle>Into Jesus</subtitle>
+  <author xlink:href="#artist-3604" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-3605" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-3606" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-3607" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+  </songbookref>
+</song>

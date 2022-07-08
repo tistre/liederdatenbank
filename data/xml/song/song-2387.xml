@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2387">
+  <title>Mit leeren Händen steh ich hier</title>
+  <author xlink:href="#artist-2986" xlink:type="simple">
+    <part>Music</part>
+    <year>2001</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

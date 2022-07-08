@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24571">
+  <title>Du bisch Würklichkeit</title>
+  <subtitle/>
+  <copyrightyear>2008</copyrightyear>
+  <right>DÄN Zeltner.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-9547" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <bibleref xlink:href="#biblechapter-psa-25" xlink:type="simple">
+    <verse>4-5</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-89" xlink:type="simple">
+    <verse>2-3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-14" xlink:type="simple">
+    <verse>6</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>14</verse>
+  </bibleref>
+</song>

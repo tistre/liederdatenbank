@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26128">
+  <title>Dengar Dia panggil nama saja</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verlag: Jajasan Persekutuan Pekabaran Jndjil Indonesia, Batu-Malang.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-26126" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>707</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+</song>

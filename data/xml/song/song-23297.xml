@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23297">
+  <title>Jesus Gottes Sohn</title>
+  <subtitle/>
+  <copyrightyear>2012</copyrightyear>
+  <right>S. D. G. Publishing / Sixsteps Songs / Thankyou Music / Valley Of Songs Music / Worship Together Music / Open Hands Music / Sony/ATV Timber Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>7020648</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-23296" xlink:type="simple"/>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-14609" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22776" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24447" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

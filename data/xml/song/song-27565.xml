@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27565">
+  <title>Gott wird alle Tränen abwischen</title>
+  <subtitle/>
+  <copyrightyear>1976</copyrightyear>
+  <right>Canticle Publications, Inc., USA / D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "God Shall Wipe Away All Tears".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-19992" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4261" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>3-4</verse>
+  </bibleref>
+</song>

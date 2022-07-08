@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12353">
+  <title>Kind, du bist uns anvertraut</title>
+  <subtitle/>
+  <copyrightyear>1973</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/312" (EG 161).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23027" xlink:type="simple"/>
+  <author xlink:href="#artist-9620" xlink:type="simple">
+    <part>Text</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-12352" xlink:type="simple">
+    <part>Text</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-9621" xlink:type="simple">
+    <part>Text</part>
+    <year>1973</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>576</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>596</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>582</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4617" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-20" xlink:type="simple">
+    <verse>25-28</verse>
+  </bibleref>
+</song>

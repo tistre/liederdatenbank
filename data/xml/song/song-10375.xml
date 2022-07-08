@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10375">
+  <title>In Frieden</title>
+  <subtitle>leg ich mich nieder</subtitle>
+  <right>Felsenfest Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-3675" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2004</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21960" xlink:type="simple">
+    <cdnum/>
+    <numoncd>6</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/de/album/in-frieden/id326096062?i=326096086" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9036">
+  <title>Kyrie</title>
+  <subtitle>Du bist vom Vater gesandt</subtitle>
+  <right>1996 Hänssler Verlag, Holzgerlingen, für Immanuel Music, Ravensburg</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-9018" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

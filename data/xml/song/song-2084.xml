@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2084">
+  <title>Komm zu Jesus, lass dich bitten</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>308</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

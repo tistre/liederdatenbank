@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28419">
+  <title>Preist ihn, den Herrn</title>
+  <subtitle>Jede Stunde, jeden Tag</subtitle>
+  <copyrightyear>1988</copyrightyear>
+  <right>D, A, CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Sagen Vid Tronen". Satz: http://www.liederdatenbank.de/artist/3968.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23350" xlink:type="simple"/>
+  <author xlink:href="#artist-4291" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-482" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-3619" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1552</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

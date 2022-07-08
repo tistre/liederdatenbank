@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-8871">
+  <title>Everything To Me</title>
+  <subtitle>Jesus, I want to discover You</subtitle>
+  <right>2003 Celmar Music, Ermelo</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <author xlink:href="#artist-3652" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <author xlink:href="#artist-8870" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

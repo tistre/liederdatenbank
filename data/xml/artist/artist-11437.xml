@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11437">
+  <lastname>Bogatzky</lastname>
+  <firstname>Karl Heinrich von</firstname>
+  <name/>
+  <born>1690</born>
+  <died>1774</died>
+  <comment>Geboren in Jantkawe (Schlesien), Theologe, krankheitshalber ohne Pfarramt, geistlicher Berater an pietistischen Fürstenhöfen, Erbauungsschriftsteller, gestorben in Halle.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Karl_Heinrich_von_Bogatzky" xlink:type="simple"/>
+</artist>

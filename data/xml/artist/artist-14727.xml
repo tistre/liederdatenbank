@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-14727">
+  <lastname>Füger</lastname>
+  <firstname>Kaspar</firstname>
+  <name/>
+  <born>1562</born>
+  <died>1617</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Kaspar_Füger" xlink:type="simple">
+    <title>Kaspar Füger @ Wikipedia.org</title>
+  </url>
+</artist>

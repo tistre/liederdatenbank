@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11565">
+  <title>Der Herr ist mein getreuer Hirt</title>
+  <subtitle/>
+  <text># Der Herr ist mein getreuer Hirt, / hält mich in seiner Hute,
+darin mir gar nicht mangeln wird / jemals an einem Gute.
+Er weidet mich ohn Unterlass, / da aufwächst das wohlschmeckend Gras
+seines heilsamen Wortes.
+
+# Zum reinen Wasser er mich weist, / das mich erquickt so gute,
+das ist sein werter Heilger Geist, / der mich macht wohlgemute;
+er führet mich auf rechter Straß / in seim Gebot ohn Unterlass
+um seines Namens willen.
+
+# Ob ich wandert im finstern Tal, / fürch ich doch kein Unglücke
+in Leid, Verfolgung und Trübsal, / in dieser Welte Tücke:
+denn du bist bei mir stetiglich, / dein Stab und Stecken trösten mich,
+auf dein Wort ich mich lasse.
+
+# Du b'reitest vor mir einen Tisch / vor mein' Feind allenthalben,
+machst mein Herz unverzaget frisch, / mein Haupt tust du mir salben
+mit deinem Geist, der Freuden Öl, / und schenkest voll ein meiner Seel
+deiner geistlichen Freuden.
+
+# Gutes und viel Barmherzigkeit / folgen mir nach im Leben,
+und ich werd bleiben allezeit / im Haus des Herren eben
+auf Erd in der christlichen G'mein, / und nach dem Tode werd ich sein
+bei Christus, meinem Herren.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9213" xlink:type="simple">
+    <part>Text</part>
+    <year>1531</year>
+  </author>
+  <author xlink:href="#artist-3704" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>274</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-23" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+</song>

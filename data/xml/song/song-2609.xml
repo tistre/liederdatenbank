@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2609">
+  <title>Empty again</title>
+  <subtitle>Much afraid</subtitle>
+  <author xlink:href="#artist-3575" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <author xlink:href="#artist-3576" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <author xlink:href="#artist-3577" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <author xlink:href="#artist-3578" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+  </songbookref>
+</song>

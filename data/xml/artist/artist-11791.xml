@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11791">
+  <lastname>Ahle</lastname>
+  <firstname>Johann Georg</firstname>
+  <name/>
+  <born>1651</born>
+  <died>1706</died>
+  <comment>Nachfolger seines Vaters Johann Rudolf Ahle als Organist in Mühlhausen (Thüringen). Tüchtiger Kirchenkomponist, schrieb auch Instrumentalmusik und veröffentlichte theoretische Werke.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Georg_Ahle" xlink:type="simple">
+    <title>Johann Georg Ahle @ Wikipedia.de</title>
+  </url>
+</artist>

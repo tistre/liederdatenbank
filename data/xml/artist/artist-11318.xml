@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11318">
+  <lastname>Blarer</lastname>
+  <firstname>Ambrosius</firstname>
+  <name/>
+  <born>1492</born>
+  <died>1564</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ambrosius_Blarer" xlink:type="simple">
+    <title>Ambrosius Blarer @ Wikipedia.org</title>
+  </url>
+</artist>

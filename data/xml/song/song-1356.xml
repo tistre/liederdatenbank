@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1356">
+  <title>Herr, lehre uns beten</title>
+  <language>de</language>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+  </songbookref>
+</song>

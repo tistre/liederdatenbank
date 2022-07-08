@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14374">
+  <title>Die Sonne, die Erde, die Wolken</title>
+  <subtitle/>
+  <copyrightyear>1969</copyrightyear>
+  <right>Turmberg-Verlag, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14551" xlink:type="simple"/>
+  <author xlink:href="#artist-2778" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-14342" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23703" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>250</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19619" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4822">
+  <firstname>Sigmund von</firstname>
+  <lastname>Birken</lastname>
+  <name/>
+  <born>1626</born>
+  <died>1681</died>
+  <comment>Geboren in Wildenstein bei Eger/Böhmen. Als Dichter vom Kaiser geadelt, gestorben in Nürnberg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Sigmund_von_Birken" xlink:type="simple">
+    <title>Sigmund von Birken @ Wikipedia</title>
+  </url>
+</artist>

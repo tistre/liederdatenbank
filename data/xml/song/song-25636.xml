@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25636">
+  <title>Siehe, ich bin bei euch.</title>
+  <subtitle>Christus macht den Jüngern Mut</subtitle>
+  <copyrightyear>2002</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10908" xlink:type="simple"/>
+  <author xlink:href="#artist-3905" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>871</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-28" xlink:type="simple">
+    <verse>20b</verse>
+  </bibleref>
+</song>

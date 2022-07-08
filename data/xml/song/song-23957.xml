@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23957">
+  <title>Vor uns liegt ein weites Land</title>
+  <subtitle>Tag für Tag die gleichen Sorgen</subtitle>
+  <copyrightyear/>
+  <right>Eckstein Production</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/54.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-4219" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23955" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1678</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-24812" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21709" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

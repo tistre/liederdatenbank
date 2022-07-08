@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3778">
+  <title>Du bist unser König. Dir wollen wir Ehre geben</title>
+  <author xlink:href="#artist-3881" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+  </songbookref>
+</song>

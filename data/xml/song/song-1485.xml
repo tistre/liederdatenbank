@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1485">
+  <title>Ich steh an Deinem Kreuz, Herr Christ</title>
+  <language>de</language>
+  <subtitle/>
+  <right>Text: aus "Sein Wort geht durch die Zeiten" - Verlag Junge Gemeinde, Stuttgart.
+Melodie: Mundorgel Verlag, Köln / Waldbröl</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie von http://www.liederdatenbank.de/artist/11760: "http://www.liederdatenbank.de/song/1522"</comment>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4252" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1956) 1962</year>
+  </author>
+  <author xlink:href="#artist-11760" xlink:type="simple">
+    <part>Music</part>
+    <year>1656</year>
+  </author>
+  <author xlink:href="#artist-4485" xlink:type="simple">
+    <part>Music</part>
+    <year>1965</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>245</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>284</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>556</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

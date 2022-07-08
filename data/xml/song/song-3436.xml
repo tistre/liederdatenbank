@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3436">
+  <title>Alleluja, ... Ich glaube Deiner Liebe</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Gemeinschaft Emmanuel e.V., Bonn.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Alleluia,... Je crois en ton amour".
+Deutsch: Brüder Jesu im Heiligen Geist, Graz, u. Musikteam "Paraklet", Wien.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-27977" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>7-8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>11-12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>68</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>114</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>123</verse>
+  </bibleref>
+</song>

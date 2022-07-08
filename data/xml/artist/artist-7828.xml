@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-7828">
+  <lastname>Adams-Frey</lastname>
+  <firstname>Andrea</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>Verheiratet mit http://www.liederdatenbank.de/artist/51.</comment>
+  <url xlink:href="http://www.adams-frey.de/" xlink:type="simple">
+    <title>adams-frey.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/a/aaf.htm" xlink:type="simple">
+    <title>Andrea Adams-Frey @ ccmrezis.de</title>
+  </url>
+</artist>

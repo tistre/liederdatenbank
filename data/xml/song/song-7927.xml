@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-7927">
+  <title>Neig Dein Ohr meinen Worten, o Herr</title>
+  <subtitle>Psalm 5</subtitle>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-7928" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20869">
+  <title>Come and join the reapers</title>
+  <subtitle>Faithful men</subtitle>
+  <copyrightyear>1985</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-17557" xlink:type="simple"/>
+  <author xlink:href="#artist-690" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-19448" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-9" xlink:type="simple">
+    <verse>36-38</verse>
+  </bibleref>
+</song>

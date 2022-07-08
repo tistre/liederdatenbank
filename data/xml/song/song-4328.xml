@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4328">
+  <title>Heilig, heilig, heilig</title>
+  <subtitle>Preist Ihn! Preist Ihn und rühmt Ihn laut</subtitle>
+  <language>de</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2326" xlink:type="simple"/>
+  <author xlink:href="#artist-76" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+  </songbookref>
+</song>

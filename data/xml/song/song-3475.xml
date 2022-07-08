@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3475">
+  <title>Ehre und Herrlichkeit</title>
+  <subtitle>Wie ein guter Hirte</subtitle>
+  <copyrightyear/>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Ära Och Härlighet".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4291" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-482" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz 1988</year>
+  </author>
+  <author xlink:href="#artist-481" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1548</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

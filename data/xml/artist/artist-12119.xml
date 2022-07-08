@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-12119">
+  <lastname>Haydn</lastname>
+  <firstname>Joseph</firstname>
+  <name/>
+  <born>1732</born>
+  <died>1809</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Joseph_Haydn" xlink:type="simple"/>
+</artist>

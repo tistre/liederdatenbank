@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12427">
+  <title>The Noise We Make</title>
+  <subtitle>This is the noise we make</subtitle>
+  <copyrightyear>2000</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>3028366</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11062" xlink:type="simple"/>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-12429" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>142</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

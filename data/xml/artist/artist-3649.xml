@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3649">
+  <firstname>Cornelius</firstname>
+  <lastname>Becker</lastname>
+  <name/>
+  <born>1561</born>
+  <died>1604</died>
+  <comment>Geboren in Leipzig, Pfarrer in Rochlitz, in Leipzig, dort Professor der Theologie, Dichter eines Liedpsalters für die Lutherische Kirche.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Cornelius_Becker" xlink:type="simple">
+    <title>Cornelius Becker @ Wikipedia.de</title>
+  </url>
+</artist>

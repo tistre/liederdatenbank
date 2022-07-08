@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9247">
+  <lastname>Becker</lastname>
+  <firstname>Wilhard</firstname>
+  <name/>
+  <born>1927</born>
+  <died>2017</died>
+  <comment>Geboren in Neu-Isenburg, 1950-1960 Landesjugendpastor der Ev.-Freikirchlichen Gemeinden in Niedersachsen, 
+gleichzeitig Gründer der Ruferarbeit und deren Leiter bis 1975. 
+1960 Gemeindepastor in Hannover, 1968-1973 Mitarbeiter im Ökumenischen Lebenszentrum Schloß Craheim,
+1980 Freie Praxis als Psychotherapeut in Hannover und Schöntal, gestorben in Springe.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Wilhard Becker" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11293">
+  <title>Christ fuhr gen Himmel</title>
+  <subtitle/>
+  <text>Christ fuhr gen Himmel.
+Was sandt er uns hernieder?
+Den Tröster, den Heiligen Geist,
+zu Trost der armen Christenheit.
+Kyrieleis.
+
+Christ fuhr mit Schallen
+von seinen Jüngern allen.
+Er segnet’ sie mit seiner Hand
+und sandte sie in alle Land.
+Kyrieleis.
+
+Halleluja, Halleluja, Halleluja!
+Des solln wir alle froh sein,
+Christ will unser Trost sein.
+Kyrieleis.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: "http://www.liederdatenbank.de/song/10014" (EG 99).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11291" xlink:type="simple">
+    <part>Text</part>
+    <year>1480</year>
+  </author>
+  <author xlink:href="#artist-11292" xlink:type="simple">
+    <part>Text</part>
+    <year>1545</year>
+  </author>
+  <author xlink:href="#artist-25597" xlink:type="simple">
+    <part>Music</part>
+    <year>1160/1433</year>
+  </author>
+  <author xlink:href="#artist-26717" xlink:type="simple">
+    <part>Music</part>
+    <year>15. Jh.</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

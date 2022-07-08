@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9107">
+  <lastname>Knapp</lastname>
+  <firstname>Albert</firstname>
+  <name/>
+  <born>1798</born>
+  <died>1864</died>
+  <comment>Geboren in Tübingen, Pfarrer in verschiedenen württembergischen Gemeinden, schließlich in Stuttgart, gab 1837 den &gt;Evangelischen Liederschatz&lt; heraus.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Albert_Knapp" xlink:type="simple"/>
+  <url xlink:href="http://www.bautz.de/bbkl/k/Knapp_a.shtml" xlink:type="simple"/>
+</artist>

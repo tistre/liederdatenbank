@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13378">
+  <title>Herr der ganzen Welt</title>
+  <subtitle>Herr der ganzen Schöpfung</subtitle>
+  <copyrightyear>2000</copyrightyear>
+  <right>Storm Boy Music / Never Say Never Songs / New Spring Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Textübersetzung: "http://www.liederdatenbank.de/song/9577".</comment>
+  <language>de</language>
+  <originalsong xlink:href="#song-4946" xlink:type="simple"/>
+  <author xlink:href="#artist-9575" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-9576" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

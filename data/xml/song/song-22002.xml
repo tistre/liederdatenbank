@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22002">
+  <title>Auf diesen Tag bedenken wir</title>
+  <subtitle/>
+  <text># Auf diesen Tag bedenken wir,
+ dass Christus aufgefahren,
+ und danken Gott von Herzen hier
+ und flehn, er woll bewahren 
+ uns arme Sünder hier auf Erd,
+ die wir, von mancher Not beschwert, 
+ Trost nur in Hoffnung haben.
+ Halleluja, Halleluja.
+
+ # Gott Lob, der Weg ist nun gemacht,
+ uns steht der Himmel offen;
+ Christus schließt auf mit großer Pracht,
+ was vorhin war verschlossen.
+ Wer´s glaubt, des Herz ist freudenvoll;
+ dabei er sich doch rüsten soll, 
+ dem Herren nach zu folgen.
+ Halleluja, Halleluja.
+
+ # Wer hier nicht seinen Willen tut,
+ dem ist´s nicht ernst zum Herren,
+ und er wird auch vor Fleisch und Blut 
+ sein Himmelreich versperren.
+ Am Glauben liegt´s; ist der nur echt,
+ so wird gewiss das Leben recht
+ zum Himmel sein gerichtet.
+ Halleluja, Halleluja.
+
+ # Solch Himmelfahrt fängt in uns an,
+ bis wir den Vater finden
+ und fliehen stets der Welte Bahn,
+ tun uns zu Gottes Kindern;
+ die sehn hinauf und Gott herab,
+ an Treu und Lieb geht ihn´ nichts ab,
+ bis sie zusammenkommen.
+ Halleluja, Halleluja.
+
+ # Dann wird der Tag erst freudenreich,
+ wann Gott uns zu sich nehmen 
+ und seinem Sohn wird machen gleich,
+ wie wir es jetzt bekennen. 
+ Da wird sich finden Freud und Mut
+ zu ewger Zeit beim höchsten Gut.
+ Gott woll, dass wir´s erleben!
+ Halleluja, Halleluja.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3703" xlink:type="simple">
+    <part>Text</part>
+    <year>1533/1534</year>
+  </author>
+  <author xlink:href="#artist-22574" xlink:type="simple">
+    <part>Music</part>
+    <year>? 1533/1534 </year>
+  </author>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>565</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>552</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21628" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mar-16" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+</song>

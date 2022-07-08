@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10529">
+  <title>Ehre sei dir, Christe</title>
+  <subtitle/>
+  <text># Ehre sei dir, Christe, der du littest Not,
+an dem Stamm des Kreuzes für uns bittern Tod,
+herrschest mit dem Vater in der Ewigkeit:
+hilf uns armen Sündern zu der Seligkeit
+
+* Kyrie eleison,
+Chrste eleison,
+Kyrie eleison.
+
+# Wäre nicht gekommen Christus in die Welt
+und hätt angenommen unser arm Gestalt
+und für unsre Sünde gestorben williglich.,
+so hätten wir müssen verdammt sein ewiglich.
+
+# Darum wolln wir loben, danken allezeit
+dem Vater und Sohne und dem Heilgen Geist;
+bitten, daß sie wollen behüten und hinfort,
+und daß wir stets bleiben bei seinem heilgen Wort.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

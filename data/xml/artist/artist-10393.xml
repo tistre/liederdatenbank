@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10393">
+  <lastname>Melanchthon</lastname>
+  <firstname>Philipp</firstname>
+  <name/>
+  <born>1497</born>
+  <died>1560</died>
+  <comment>geb. 1497 in Bretten (Baden), seit 1518 Professor der griechischen Sprache, später auch der Theologie an der Universität Wittenberg, Luthers enger Mitarbeiter bei der Reformation der Kirche, Verfasser der Augsburgischen Konfession, gest. 1560.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Philipp_Melanchthon" xlink:type="simple">
+    <title>Philipp Melanchthon @ Wikipedia.de</title>
+  </url>
+</artist>

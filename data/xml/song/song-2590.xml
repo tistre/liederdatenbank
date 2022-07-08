@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2590">
+  <title>Auf unsern Knien</title>
+  <subtitle>Herr, wir wollen jetzt Erweckung</subtitle>
+  <author xlink:href="#artist-2769" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+  </songbookref>
+  <right>Christliches Zentrum Frankfurt</right>
+</song>

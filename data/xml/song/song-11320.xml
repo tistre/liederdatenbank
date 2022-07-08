@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11320">
+  <title>Heilger Geist, du Tröster mein</title>
+  <subtitle/>
+  <text># Heilger Geist, du Tröster mein,
+hoch vom Himmel uns erschein
+mit dem Licht der Gnaden dein.
+
+# Komm, Vater der armen Herd,
+komm mit deinen Gaben wert,
+uns erleucht auf dieser Erd.
+
+# O du sel’ge Gnadensonn,
+füll das Herz mit Freud und Wonn
+aller, die dich rufen an.
+
+# Ohn dein Beistand, Hilf und Gunst
+ist all unser Tun und Kunst
+vor Gott ganz und gar umsonst.
+
+# Lenk uns nach dem Willen dein,
+wärm die kalten Herzen fein,
+bring zurecht, die irrig sein.
+
+# Gib dem Glauben Kraft und Halt,
+Heilger Geist, und komme bald
+mit den Gaben siebenfalt.a
+
+# Führ uns durch die Lebenszeit,
+gib im Sterben dein Geleit,
+hol uns heim zur ewgen Freud.
+</text>
+  <copyrightyear/>
+  <right>Text: nach der Sequenz "Veni sancte Spiritus et emitte" des Stephan Langton um 1200.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11319" xlink:type="simple">
+    <part>Text</part>
+    <year>1584</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-11" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+</song>

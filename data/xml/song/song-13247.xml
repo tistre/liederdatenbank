@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13247">
+  <title>Ich rühm' dich, Herr, allein!</title>
+  <subtitle/>
+  <text># Ich rühm' Dich, Herr, allein!
+Denn alles, was des Rühmens wert,
+Sowohl im Himmel als auf Erd',
+Kann ja von Dir nur sein.
+Du bist mein Schild im Streit,
+Mein Ruhm, mein Schutz und meine Kraft.
+Du bist's, der alles in mir schafft.
+Du bist mein Trost im Leid.
+
+# Es wohnt in mir Dein Geist.
+Er leitet durch die Wüste mich,
+Vertritt mich allzeit kräftiglich.
+Ich bin hier nicht verwaist.
+Nicht auszusprechen ist
+Sein Seufzen für mich hier im Leid.
+Doch Du verstehst es allezeit,
+Du, der Du Liebe bist.
+
+# Und wenn es um mich stürmt,
+So ist mein Schutz Dein Hirtenstab,
+Du wendest alle Feinde ab,
+Du bist's, der stets mich schirmt.
+Und sollt' ich alles hier
+Verlieren, guter Herr, für Dich,
+Es wär' ja kein Verlust für mich,
+Ich hab' genug an Dir.
+
+# Und Du bist stets mein Teil.
+Von Dir trennt mich hier keine Not,
+Nicht Trübsal, Angst, Verfolgung, Tod,
+Du bist, Du bleibst mein Heil.
+Du lässest nimmer mich.
+Getrost bin ich im fremden Land,
+Es reißt mich nichts aus Deiner Hand.
+Ich traue, Herr, auf Dich.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10191" xlink:type="simple">
+    <part>Music</part>
+    <year>1806</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/091_100.html#95" xlink:type="simple"/>
+</song>

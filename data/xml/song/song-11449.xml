@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11449">
+  <title>Wach auf, wach auf, 's ist hohe Zeit</title>
+  <subtitle/>
+  <text># Wach auf, wach auf, ’s ist hohe Zeit,
+Christ, sei mit deiner Hilf nicht weit!
+Das wütend ungestüme Meer
+läuft an mit Macht und drängt uns sehr.
+
+# Hilfst du nicht bald, so ist’s geschehn,
+zugrund wir müssen eilends gehn.
+Bedroh der Wellen wild Gebrüll,
+so legt es sich und wird ganz still.
+
+# Ach Herr, um deines Namens Ehr
+halt uns im Fried bei deiner Lehr;
+gib deiner Kirche gute Ruh,
+Gesundheit und Gedeihn dazu.
+
+# Darüber auch das Allerbest:
+dass wir im Glauben stark und fest
+dich preisen und den Namen dein,
+dir leben, dein lieb Völklein sein,
+
+# aus deinem Geist ganz neu geborn;
+den gib uns, Herr, sonst ist’s verlorn.
+Dies alles unser Herz begehrt,
+wiewohl wir deren keins sind wert.
+
+# Haben das Widerspiel verschuld’t,
+zum Zorn gereizt oft dein Geduld,
+dein treue Warnung auch veracht’,
+all Zucht und Ehrbarkeit verlacht.
+
+# Und ist vielleicht das Maß jetzt voll,
+dass unsre Sünde haben soll
+verdiente Straf, so g’schieht uns recht
+als einem ungetreuen Knecht.
+
+# Jedoch, dieweil dein Wort ist gut,
+so wehr all derer Übermut,
+die uns dabei nicht lassen stehn
+und es vertrieben möchten sehn.
+
+# Mach uns vor ihnen nicht zu Spott;
+die Sach ist dein, o starker Gott.
+Gib uns den Feinden nicht zur Schand;
+wir fallen gern in deine Hand.
+
+# Sei du Hauptmann in diesem Streit,
+dein siegreich Hand helf uns beizeit,
+damit der Feind, wie groß er ist,
+muss sehen, dass du stärker bist.
+
+# Bekehr den Feind zu Christi Lehr,
+dass er mit uns dich lob und ehr
+und alle Welt des inne werd,
+dass du groß Wunder tust auf Erd.
+
+# In deiner Kraft wir liegen ob,
+dass weit erschall dein Ehr und Lob
+und alle Welt des inne werd,
+dass du noch lebst und richtst auf Erd.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/11450</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11318" xlink:type="simple">
+    <part>Text</part>
+    <year>1561</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>244</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>868</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2954">
+  <title>Vater, laß unsre Augen sehn Jesus allein</title>
+  <subtitle>Herr, wir schauen fest auf Dich</subtitle>
+  <author xlink:href="#artist-440" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>Music</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-450" xlink:type="simple">
+    <part>Music</part>
+    <year>1992</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13297">
+  <title>Amen, Amen! Jesu, eile</title>
+  <subtitle/>
+  <text># Amen, Amen! Jesu, eile,
+Still' das Sehnen Deiner Braut.
+Mächtiglich die Wolken teile,
+Daß Dich unser Auge schaut!
+Steige auf am Horizonte,
+Morgenstern, durchbrich die Nacht!
+O daß Deine Braut schon thronte
+Dort mit Dir in Himmelspracht!
+
+# Amen, Amen! Brich Dein Schweigen,
+Laß uns nicht getrennt mehr gehn,
+Laß uns bald in sel'gen Reigen
+Dort um Dich versammelt stehn.
+Komm, Herr Jesu, komm behende,
+Zeig' uns Deiner Liebe Macht!
+Amen, Amen! O vollende,
+Was Dein kostbar Blut gebracht!</text>
+  <copyrightyear/>
+  <right>Komponist unbekannt</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#120" xlink:type="simple"/>
+</song>

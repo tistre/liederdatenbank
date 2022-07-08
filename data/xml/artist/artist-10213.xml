@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10213">
+  <lastname>Klopstock</lastname>
+  <firstname>Friedrich Gottlieb</firstname>
+  <name/>
+  <born>1724</born>
+  <died>1803</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Friedrich_Gottlieb_Klopstock" xlink:type="simple"/>
+</artist>

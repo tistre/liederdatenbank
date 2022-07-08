@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4823">
+  <firstname>Ämilie Juliane Gräfin zu</firstname>
+  <lastname>Schwarzburg-Rudolfstadt</lastname>
+  <name/>
+  <born>1637</born>
+  <died>1706</died>
+  <comment>Geborene Gräfin von Barby, geboren als Flüchtlingskind auf der Heidecksburg bei Rudolstadt, wo sei 1665 mit Graf Albert Anton von Schwarzburg-Rudolstadt getraut wurde; die liederreichste unter den deutschen geistlichen Dichterinnen. Gestorben in Rudolstadt.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Aemilie_Juliane_%28Schwarzburg-Rudolstadt%29" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13193">
+  <title>Von deinen Quellen leben wir, Herr Jesu Christ</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Christlicher Liederverlag Gisela Hoppe, Hatten-Sandkrug.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Kanon zu 3 Stimmen.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4638" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1957</year>
+  </author>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>327</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

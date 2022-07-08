@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-542">
+  <firstname>Peter</firstname>
+  <lastname>van Woerden</lastname>
+  <name/>
+  <born>1924</born>
+  <died>1990</died>
+  <comment/>
+  <url xlink:href="https://de.wikipedia.org/wiki/Peter_van_Woerden" xlink:type="simple">
+    <title>Peder van Woerden @ Wikipedia.de</title>
+  </url>
+</artist>

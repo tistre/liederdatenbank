@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11339">
+  <title>Der Himmel, der ist, ist nicht der Himmel, der kommt</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11337" xlink:type="simple">
+    <part>Text</part>
+    <year>1971</year>
+  </author>
+  <author xlink:href="#artist-11338" xlink:type="simple">
+    <part>Music</part>
+    <year>1980</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>153</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

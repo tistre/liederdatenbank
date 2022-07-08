@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3974">
+  <firstname>Günter</firstname>
+  <lastname>Balders</lastname>
+  <name/>
+  <born>1942</born>
+  <died/>
+  <comment>Geboren in Meppen, Pastor, Dozent am Theologischen Seminar des BEFG in Hamburg und Elstal, 1996 Vorsitzender des CS, Mitarbeit an "Gemeindelieder", "Neue Gemeindelieder", "Feiern &amp; Loben".</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Günter_Balders" xlink:type="simple">
+    <title>Günter Balders @ Wikipedia</title>
+  </url>
+</artist>

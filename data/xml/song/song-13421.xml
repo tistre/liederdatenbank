@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13421">
+  <title>Christus ist vom Tod erstanden</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Dichter unbekannt.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13101", "http://www.liederdatenbank.de/song/1592".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4300" xlink:type="simple">
+    <part>Music</part>
+    <year>1666</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>169</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

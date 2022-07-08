@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1106">
+  <title>Kehret um, kehret um, und ihr werdet leben</title>
+  <text>Kehret um, kehret um, 
+und ihr werdet leben. 
+Kehret um, kehret um, 
+und ihr werdet leben.
+
+Oberstimme:
+Zeige du, Herr, uns den
+Weg, den wir gehen sollen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Satz: tvd-Verlag, Melodie: Hänssler Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: Götz Wiese</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-9209" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-4654" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>307</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>86</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>589</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-eze-18" xlink:type="simple">
+    <verse>32</verse>
+  </bibleref>
+</song>

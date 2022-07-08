@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-967">
+  <title>Juble, mein Herze, ich habe den Heiland gefunden</title>
+  <text># Juble, mein Herze, ich habe den Heiland gefunden; 
+er hat für ewig sich nun meiner Seele verbunden! 
+Bringe ihm Dank mit lautem Freudengesang! 
+Er läßt mich völlig gesunden!
+
+# Juble, mein Herze, die Sündenschuld ist nun vergeben, 
+denn auch für mich ließ der Heiland am Kreuze sein Leben! 
+Sein teures Blut ist ja mein herrlichstes Gut, 
+seit ich mich ihm übergeben.
+
+# Juble, mein Herze, für mich ist der Heiland erstanden! 
+Er löset völlig von Sündenmacht, Ketten und Banden! 
+Er ist's allein, der da macht heilig und rein 
+die, so im Glauben ihn fanden.
+
+# Juble, mein Herze, ich darf meinem Heiland vertrauen, 
+darf ohne Zagen beständig auf Jesum nur schauen! 
+Fortan nicht droht mir bange Sorge und Not, 
+nimmermehr braucht mir zu grauen.
+
+# Juble, mein Herze, mein Heiland will selber mich leiten, 
+in seiner Führung darf fröhlich ich vorwärts nun schreiten. 
+Glaube ihm nur, folge getrost seiner Spur: 
+er schützt die Füße vorm Gleiten.
+
+# Juble, mein Herze, lass freudig dein Danklied erklingen! 
+Jesus will selber zur seligen Heimat dich bringen! 
+Zieh ich hier aus, bin ich bei ihm ja zu Haus, 
+darf ihm dort ewig lobsingen!</text>
+  <language>de</language>
+  <right>Melodie: 17. Jh., Stralsund 1665 / Halle 1741 </right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1504", "http://www.liederdatenbank.de/song/13398", "http://www.liederdatenbank.de/song/314", "http://www.liederdatenbank.de/song/13422", "http://www.liederdatenbank.de/song/13477", "http://www.liederdatenbank.de/song/1459", "http://www.liederdatenbank.de/song/14016".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4282" xlink:type="simple">
+    <part>Text</part>
+    <year>1895</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>361</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>445</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

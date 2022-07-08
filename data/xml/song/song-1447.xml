@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1447">
+  <title>Sieh, dein König kommt zu dir</title>
+  <text># Sieh, dein König kommt zu dir; 
+Seele das sind frohe Worte! 
+Sprich: Mein König, komm zu mir; 
+sieh, ich öffne dir die Pforte. 
+Zieh mit deiner Sanftmut ein; 
+was du findest, das ist dein.
+
+# Komm, ich bin dein Eigentum, 
+weil du dich für mich gegeben; 
+komm, dein Evangelium 
+werde mir zu Geist und Leben. 
+Du schickst ja dein Wort voran, 
+dir zu schaffen eine Bahn.
+
+# Komm und räume alles aus, 
+was du hassest und mich reuet; 
+komm und reinige dein Haus, 
+das die Sünde hat entweihet; 
+mach mit deinem Opferblut 
+alles wieder rein und gut.
+
+# Komm in deinem Abendmahl,
+das du uns zum Heil gegeben,
+dass wir schon im Erdental
+mit dir als im Himmel leben.
+Komm, Herr Jesu, leb in mir,
+und mein Leben sei in dir.
+
+# Komm und bring den Geist auch mit, 
+deinen Geist, der dich verkläret, 
+der mich im Gebet vertritt 
+und des Königs Willen lehret, 
+dass ich bis auf jenen Tag: 
+Komm, Herr Jesu! rufen mag.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodieund Satz: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1652" (EG 526). - Andere Melodie: "http://www.liederdatenbank.de/song/1149" (EG 402).</comment>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5208050</ccli_number>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year>1762/1767</year>
+  </author>
+  <author xlink:href="#artist-4432" xlink:type="simple">
+    <part>Music</part>
+    <year>1674</year>
+  </author>
+  <author xlink:href="#artist-4479" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz 1925</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>538</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>241</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>537</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1736</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-zec-9" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-5" xlink:type="simple">
+    <verse>26</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-heb-10" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>26-27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22800">
+  <title>Komm, sieh</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right>Word Music, LLC / Smittyfly Music / This Is Your Time Music / Meaux Mercy</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6062941</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-22796" xlink:type="simple"/>
+  <author xlink:href="#artist-2587" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22795" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22797" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22798" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22799" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22801" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-7" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-4" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-15" xlink:type="simple">
+    <verse>11-32</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-10" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-14" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2ti-1" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-117">
+  <title>Allein Gott in der Höh sei Ehr</title>
+  <text># Allein Gott in der Höh sei Ehr
+und Dank für seine Gnade,
+darum daß nun und nimmermehr
+uns rühren kann kein Schade.
+Ein Wohlgefalln Gott an uns hat;
+nun ist groß Fried ohn Unterlaß,
+all Fehd hat nun ein Ende.
+
+# Wir loben, preisn, anbeten dich;
+für deine Ehr wir danken,
+daß du, Gott Vater, ewiglich
+regierst ohn alles Wanken.
+Ganz ungemessn ist deine Macht,
+allzeit geschieht, was du bedacht.
+Wohl uns solch eines Herren!
+
+# O Jesu Christ, Sohn eingeborn
+des allerhöchsten Vaters,
+Versöhner derer, die verlorn,
+du Stiller unsers Haders,
+Lamm Gottes, heilger Herr und Gott:
+nimm an die Bitt aus unsrer Not,
+erbarm dich unser aller.
+
+# O Heilger Geist, du höchstes Gut,
+du allerheilsamst' Tröster:
+vor Teufels G'walt fortan behüt,
+die Jesus Christ erlöset
+durch große Mart'r und bittern Tod;
+abwend all unsern Jamm'r und Not!
+Darauf wir uns verlassen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: Nach dem "Gloria in Excelsis Deo" 4. Jh. 
+Melodie: Nach dem Gloria einer Ostermesse 10. Jh. Im "Gotteslob" ist nur Strophe 1-3 abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4337726</ccli_number>
+  <author xlink:href="#artist-8250" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>(1523) 1525/1539</year>
+  </author>
+  <author xlink:href="#artist-27685" xlink:type="simple">
+    <part>Text</part>
+    <year>4. Str. 1525</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>179</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>457</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>262</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>187 </numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>152</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=65142" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+</song>

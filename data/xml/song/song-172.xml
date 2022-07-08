@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-172">
+  <title>Du großer Gott, wenn ich die Welt betrachte</title>
+  <text># Du großer Gott, wenn ich die Welt betrachte,
+die Du geschaffen durch Dein Allmachtswort,
+wenn ich auf alle jene Wesen achte,
+die Du regierst und nährest fort und fort,
+
+* 1.-4. dann jauchzt mein Herz Dir, großer Herrscher, zu:
+Wie groß bist Du! Wie groß bist Du!
+Dann jauchzt mein Herz Dir, großer Herrscher, zu:
+Wie groß bist Du! Wie groß bist Du!
+
+# Blick ich empor zu jenen lichten Welten
+und seh der Sterne unzählbare Schar,
+wie Sonn und Mond im lichten Äther zelten,
+gleich goldnen Schiffen hehr und wunderbar,
+* dann jauchzt mein Herz ...
+
+# Wenn mir der Herr in Seinem Wort begegnet,
+wenn ich die großen Gnadentaten seh,
+wie Er das Volk des Eigentums gesegnet,
+wie Er's geliebt, begnadigt je und je,
+* dann jauchzt mein Herz ...
+
+# Und seh ich Jesus auf der Erde wandeln
+in Knechtsgestalt, voll Lieb und großer Huld,
+wenn ich im Geiste seh Sein göttlich Handeln,
+am Kreuz bezahlen vieler Sünder Schuld,
+* dann jauchzt mein Herz ...</text>
+  <language>de</language>
+  <subtitle>Dann jauchzt mein Herz</subtitle>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4339597</ccli_number>
+  <comment>Englische Übersetzung: http://www.liederdatebank.de/song/928, Die Autorenangaben differieren. In "Come to Worship" ist Stuart K. Hine angegeben, der allerdings laut Wikipedia nur ins Englische übersetzt und zwei Strophen hinzugefügt hat, in allen anderen Büchern Boberg. Satz: http://www.liederdatenbank.de/artist/4479.</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-25343" xlink:type="simple"/>
+  <author xlink:href="#artist-10141" xlink:type="simple">
+    <part>Text</part>
+    <year>1886</year>
+  </author>
+  <author xlink:href="#artist-61" xlink:type="simple">
+    <part>Text</part>
+    <year>1907</year>
+  </author>
+  <author xlink:href="#artist-25056" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>432</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>610</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>287</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>358</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10905" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23422" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>245</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-104" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+  <url xlink:href="http://en.wikipedia.org/wiki/How_Great_Thou_Art_(hymn)" xlink:type="simple">
+    <title>Wikipedia (englisch): How Great Thou Art</title>
+  </url>
+</song>

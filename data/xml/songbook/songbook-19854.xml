@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-19854">
+  <name>Weihnachtslieder</name>
+  <comment>Deutscher Taschenbuch Verlag GmbH &amp; Co. KG, München, und Bärenreiter-Verlag Karl Vötterle GmbH &amp; Co. KG, Kassel, 1981, ISBN 3-7618-1243-4.
+
+Die Lied-Nummerierung ist die Seitenzahl.</comment>
+  <state>1</state>
+  <icon xlink:href="#file-19853" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3761812434" xlink:type="simple">
+    <title>Weihnachtslieder @ Amazon.de</title>
+  </url>
+</songbook>

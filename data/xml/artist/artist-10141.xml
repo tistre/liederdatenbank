@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10141">
+  <lastname>Boberg</lastname>
+  <firstname>Carl Gustav</firstname>
+  <name/>
+  <born>1859</born>
+  <died>1940</died>
+  <comment>Geboren in Mönsteras (Schweden), Redakteur einer christlichen Wochenzeitschrift, Parlamentsabgeordneter, gestorben in Kalmar.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Carl Gustav Boberg" xlink:type="simple"/>
+</artist>

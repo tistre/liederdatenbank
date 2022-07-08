@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11898">
+  <title>Ach lieber Herre Jesu Christ, weil du ein Kind gewesen bist</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Melodie: Straßburg 1430.</right>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11897" xlink:type="simple">
+    <part>Text</part>
+    <year>1430</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>468</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <ccli_features>L</ccli_features>
+</song>

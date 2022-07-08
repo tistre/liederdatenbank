@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3842">
+  <title>Weil Gott dein Vater ist</title>
+  <subtitle>Ich kenn den Weg</subtitle>
+  <author xlink:href="#artist-3910" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>237</numinsongbook>
+  </songbookref>
+</song>

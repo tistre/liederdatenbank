@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25312">
+  <title>Ich bin glücklich und froh, ER ist mein Freund</title>
+  <subtitle/>
+  <copyrightyear>1967</copyrightyear>
+  <right>WordInc./Sacred Songs, Waco, Texas USA, Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "He's My Friend". Dt. Text: Jugend für Christus Teen-Team 1971. Satz: http://www.liederdatenbank.de/artist/78</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-7816" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>838</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

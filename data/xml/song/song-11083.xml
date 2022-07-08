@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11083">
+  <title>Dir, dir, Jehova, will ich singen</title>
+  <subtitle/>
+  <text># Dir, dir, Jehova, will ich singen;
+denn wo ist wohl ein solcher Gott wie du?
+Dir will ich meine Lieder bringen;
+ach gib mir deines Geistes Kraft dazu,
+dass ich es tu im Namen Jesu Christ,
+so wie es dir durch ihn gefällig ist.
+
+# Zeuch mich, o Vater, zu dem Sohne
+damit dein Sohn mich wieder zieh zu dir;
+dein Geist in meinem Herzen wohne
+und meine Sinnen und Verstand regier;
+dass ich den Frieden Gottes schmeck und fühl
+und dir darob im Herzen sing und spiel.
+
+# Verleih, mich Höchster, solche Güte,
+so wird gewiss mein Singen recht getan,
+so klingt es schön in meinem Liede,
+und ich bet' dich im Geist und Wahrheit an,
+so hebt dein Geist mein Herz zu dir empor,
+dass ich dir Psalmen sing' im höhern Chor.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Anderer Titel: "http://www.liederdatenbank.de/song/159"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-8248" xlink:type="simple">
+    <part>Text</part>
+    <year>1697</year>
+  </author>
+  <author xlink:href="#artist-8993" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>275</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <url xlink:href="http://www.gesangbuch.org/lyrics/d0033.html" xlink:type="simple"/>
+  <url xlink:href="http://www.cs.ualberta.ca/~wfb/cantatas/452.html" xlink:type="simple"/>
+</song>

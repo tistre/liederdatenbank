@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1048">
+  <title>Ein Jahr geht nach dem andern hin</title>
+  <subtitle/>
+  <text>#
+Ein Jahr geht nach dem andern hin, 
+der Ewigkeit entgegen. 
+Ach, möchte doch der träge Sinn 
+dies fleißiger erwägen! 
+Ach, brächte doch ein jedes Jahr 
+viel neue, gute Früchte dar!
+
+#
+Allein, allein, wo ist die Frucht, 
+die wir bisher getragen? 
+Wie oft hat Gott umsonst gesucht! 
+Wie hat er müssen klagen! 
+Es tat ihm weh, wenn seine Hand 
+anstatt der Frucht nur Blätter fand.
+
+#
+„Haut ab", spricht er, „den faulen Baum, 
+der keine Früchte traget! 
+Was nimmt er ändern Saft und Raum? 
+Komm, Tod, der alles schlaget. 
+Die Axt leg an die Wurzel an, 
+tu einen Streich, so ist's getan!"
+
+#
+Allein der treue Heiland spricht: 
+„Lass ihn dies Jahr noch stehen! 
+Trägt er auch jetzt die Früchte nicht, 
+ich hoff sie noch zu sehen. 
+Ach, halt des strengen Urteils Lauf 
+noch dieses Jahr, mein Vater, auf!"
+
+#
+So gib denn, lieber Heiland, 
+Kraft, dies Jahr viel Frucht zu bringen! 
+Ach, lass doch deines Geistes Saft 
+in unsre Zweige dringen! 
+Schutt doch auf uns und unser Haus 
+viel Gnade, Kraft und Segen aus!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4615" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4770" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>161</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+</song>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-369">
+  <title>Such, wer da will, ein ander Ziel</title>
+  <text># Such, wer da will, ein ander Ziel,
+die Seligkeit zu finden;
+mein Herz allein bedacht soll sein,
+auf Christus sich zu gründen.
+Sein Wort sind wahr, sein Werk sind klar,
+sein heilger Mund hat Kraft und Grund,
+all Feind zu überwinden.
+
+# Such, wer da will, Nothelfer viel,
+die uns doch nichts erworben;
+hier ist der Mann, der helfen kann,
+bei dem nie was verdorben.
+Uns wird das Heil durch ihn zuteil,
+uns macht gerecht der treue Knecht,
+der für uns ist gestorben.
+
+# Ach sucht doch den, lasst alles stehn,
+die ihr das Heil begehret;
+er ist der Herr, und keiner mehr,
+der euch das Heil gewähret.
+Sucht ihn all Stund von Herzensgrund,
+sucht ihn allein; denn wohl wird sein
+dem, der ihn herzlich ehret.
+
+# Meins Herzens Kron, mein Freudensonn
+sollst du, Herr Jesu, bleiben;
+lass mich doch nicht von deinem Licht
+durch Eitelkeit vertreiben;
+bleib du mein Preis, dein Wort mich speis,
+bleib du mein Ehr, dein Wort mich lehr,
+an dich stets fest zu glauben.
+
+# Wend von mir nicht dein Angesicht,
+lass mich im Kreuz nicht zagen;
+weich nicht von mir, mein höchste Zier,
+hilf mir mein Leiden tragen.
+Hilf mir zur Freud nach diesem Leid;
+hilf, dass ich mag nach dieser Klag
+dort ewig dir Lob sagen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>andere Melodie: "http://www.liederdatenbank.de/song/1691".</comment>
+  <copyrightyear/>
+  <ccli_number>4965363</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4401" xlink:type="simple">
+    <part>Text</part>
+    <year>(1623) 1642</year>
+  </author>
+  <author xlink:href="#artist-4402" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>287</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>312</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>216</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>318</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>346</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>275</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>249</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+</song>

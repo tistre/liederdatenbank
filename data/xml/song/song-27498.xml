@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27498">
+  <title>Singet dem Herrn neue Lieder</title>
+  <subtitle/>
+  <copyrightyear>1982</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23337" xlink:type="simple"/>
+  <originalsong xlink:href="#song-27497" xlink:type="simple"/>
+  <author xlink:href="#artist-3755" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-4748" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3932">
+  <title>Ich brauche Dich</title>
+  <subtitle>Wie ein trockener Schwamm</subtitle>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+  </songbookref>
+</song>

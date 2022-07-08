@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2088">
+  <title>Halte ein und überlege</title>
+  <subtitle>Kehre um zu dem Erbarmer</subtitle>
+  <text># Halte ein und überlege,
+sag, o Mensch, wo willst du hin?
+Dir graut selbst vor deinem Wege,
+denn er führt zum Abgrund hin.
+
+* 1.-6. Kehre um zu dem Erbarmer,
+dem Befreier Jesus Christ!
+Er verstößt dich nicht, er wartet;
+komm zu ihm, so wie du bist.
+
+# Lang genung hast du gerungen,
+voller Fragen, oft beengt;
+hast dein Leben nicht bezwungen,
+was dich fesselt, nicht gesprengt.
+
+# O das ist ein andres Leben,
+wenn man weiß: Ich bin befreit.
+Meine Sünden sind vergeben,
+meinem Herrn bin ich geweiht.
+
+# Komm, der Herr hat gute Gaben
+für den Menschen, der ihn liebt.
+Komm, auch du kannst alles haben,
+was er hier den Seinen gibt.
+
+# Kannst du selbst dich nicht bewahren,
+nimm ihn auf in Herz und Haus,
+und auch du wirst es erfahren:
+eine Kraft geht von ihm aus.
+
+# Komm und wirf dich vor ihm nieder,
+um, befreit aus deiner Haft,
+dann zu seiner Ehre wieder
+aufzustehn in seiner Kraft.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: ARRÈTE, O PÉCHEUR, ARRÉTE!</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11963" xlink:type="simple">
+    <part>Text</part>
+    <year>1885</year>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year>1891</year>
+  </author>
+  <author xlink:href="#artist-4417" xlink:type="simple">
+    <part>Music</part>
+    <year>1873</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>321</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>335</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

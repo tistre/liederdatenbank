@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1035">
+  <title>O Du mein Trost und süßes Hoffen</title>
+  <subtitle/>
+  <text># O du mein Trost und süßes Hoffen, 
+lass mich nicht länger meiner Pein; 
+mein Herz und Seele sind dir offen, 
+o Jesu, ziehe bei mir ein! 
+Du Himmelslust, du Erdenwonne, 
+du Gott und Mensch, du Morgenglanz, 
+ach komm, du teure Gnadensonne, 
+durchleuchte meine Seele ganz!
+
+# O Heiland, stille mein Verlangen 
+mit deines Kommens Seligkeit; 
+voll Demut will ich dich empfangen; 
+mein Herz und Seele sind bereit, 
+mein Denken, Herr, und all' mein
+Sinnen ganz deinem teuren Dienst zu weihn; 
+o lass mich deinen Trost gewinnen, 
+o Jesu, ziehe bei mir ein!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-11694" xlink:type="simple">
+    <part>Text</part>
+    <year>1681</year>
+  </author>
+  <author xlink:href="#artist-11695" xlink:type="simple">
+    <part>Text</part>
+    <year>1856</year>
+  </author>
+  <author xlink:href="#artist-4448" xlink:type="simple">
+    <part>Music</part>
+    <year>1681</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>587</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

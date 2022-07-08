@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-13183">
+  <name>Singt mit uns</name>
+  <comment>Ein Liederbuch für die Gemeinde mit vierstimmigen Sätzen. Herausgegeben von Klaus Heizmann. Unter Mitarbeit von Ueli Haldemann, Roland Eichenberger, David Plüss, Reinhold Scharnowski, Gordon Schultz. Hänssler-Verlag, Neuhausen-Stuttgart 1987. Bestell-Nr. 391.189, ISBN 3-7751-1189-1. 379 Lieder.</comment>
+  <state>1</state>
+  <icon xlink:href="#file-13182" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3775111891" xlink:type="simple">
+    <title>Singt mit uns @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?isbn=3775111891" xlink:type="simple">
+    <title>Singt mit uns @ Booklooker.de</title>
+  </url>
+</songbook>

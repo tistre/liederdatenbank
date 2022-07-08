@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24496">
+  <title>Du bist für mich</title>
+  <subtitle>Größer bist du, der in mir lebt</subtitle>
+  <copyrightyear>2011</copyrightyear>
+  <right>ICF Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Integrity's Praise Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24495" xlink:type="simple"/>
+  <author xlink:href="#artist-24494" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24497" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24498" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24499" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-luk-18" xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>31</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-4" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

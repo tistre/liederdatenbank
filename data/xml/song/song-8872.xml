@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-8872">
+  <title>Du bist alles für mich, Herr</title>
+  <subtitle>Jesus, ich will Dich noch mehr verstehn</subtitle>
+  <right>2003 Celmar Music, Ermelo</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <originalsong xlink:href="#song-8871" xlink:type="simple"/>
+  <author xlink:href="#artist-3652" xlink:type="simple">
+    <part>Music</part>
+    <year>2003</year>
+  </author>
+  <author xlink:href="#artist-8870" xlink:type="simple">
+    <part>Music</part>
+    <year>2003</year>
+  </author>
+  <author xlink:href="#artist-3639" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

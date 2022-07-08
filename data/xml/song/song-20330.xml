@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20330">
+  <title>Breathe your life in me</title>
+  <subtitle/>
+  <copyrightyear>2000</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-20322" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-20321" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <url xlink:href="http://www.derlobpreis.de/mp3/breath_your_life.mp3" xlink:type="simple"/>
+</song>

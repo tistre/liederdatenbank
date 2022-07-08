@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11410">
+  <title>Du hast uns Leib und Seel gespeist</title>
+  <subtitle/>
+  <text>Du hast uns Leib und Seel gespeist;
+nun gib uns, so zu leben,
+dass unser Glaub und Lieb dich preist,
+die uns dein Gnad will geben;
+dass durch dein Treu die Sünd uns reu,
+für die dein Sohn vergossen
+sein teures Blut, das uns zugut
+den Himmel hat erschlossen.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1588" (EG 364).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11409" xlink:type="simple">
+    <part>Text</part>
+    <year>um 1533/34</year>
+  </author>
+  <author xlink:href="#artist-4745" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>216</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

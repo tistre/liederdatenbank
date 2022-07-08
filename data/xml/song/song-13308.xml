@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13308">
+  <title>Du hast uns lieb, du treuer Gott und Vater</title>
+  <subtitle/>
+  <text># Du hast uns lieb, Du treuer Gott und Vater,
+Wie nie ein Mensch geliebt.
+Du hast uns lieb! selbst nicht im Mutterherzen
+Es solche Liebe gibt.
+
+# Du hast uns lieb! – Den Sohn, den eingebornen,
+Gabst Du aus Deinem Schoß.
+Du hast uns lieb, unwürdig, wie wir waren,
+Und sündig, arm und bloß.
+
+# Du hast uns lieb! Mit Kleidern ew'gen Heiles
+Hast Du uns angetan;
+Du hast uns lieb! – als vielgeliebte Kinder
+Anbetend wir Dir nahn.
+
+# Du hast uns lieb, und Deine Liebe gossest
+Du in das Herz uns aus.
+Du hast uns lieb! drum eilen frohen Mutes
+Wir heim ins Vaterhaus.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13306" xlink:type="simple">
+    <part>Text</part>
+    <year>1834</year>
+  </author>
+  <author xlink:href="#artist-13307" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4625" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#130" xlink:type="simple"/>
+</song>

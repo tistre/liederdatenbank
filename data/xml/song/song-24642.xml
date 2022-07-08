@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24642">
+  <title>Alles, was ich bin</title>
+  <subtitle>Wenn ich die schönsten Lieder schriebe über dich und deine Liebe</subtitle>
+  <copyrightyear>2013</copyrightyear>
+  <right>Falkand adm. by Gerth Medien, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22707" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1co-13" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-gal-2" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1jo-4" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

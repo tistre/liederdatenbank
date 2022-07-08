@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11387">
+  <title>O Gott, du höchster Gnadenthron</title>
+  <subtitle/>
+  <text># O Gott, du höchster Gnadenhort,
+verleih, dass uns dein göttlich Wort
+von Ohren so zu Herzen dring,
+dass es sein Kraft und Schein vollbring.
+
+# Der einig Glaub ist diese Kraft,
+der fest an Jesus Christus haft’;
+die Werk der Lieb sind dieser Schein,
+dadurch wir Christi Jünger sein.
+
+# Verschaff bei uns auch, lieber Herr,
+dass wir durch deinen Geist je mehr
+in dein’r Erkenntnis nehmen zu
+und endlich bei dir finden Ruh.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1373" (EG 155).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11386" xlink:type="simple">
+    <part>Text</part>
+    <year>1545</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

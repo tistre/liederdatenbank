@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27631">
+  <title>Mein Schöpfer, steh mir bei</title>
+  <subtitle/>
+  <text># Mein Schöpfer, steh mir bei, 
+sei meines Lebens Licht;
+dein Auge leite mich, 
+bis mir mein Auge bricht.
+Hier leg ich Herz und Gleider 
+vor dir zum Opfer nieder
+und widme meine Kräfte 
+für dich und dein Geschafte.
+Du willst, dass ich der Deine sei:
+mein Schöpfer, steh mir bei!
+
+# Mein Heiland, wasche mich
+mit deinem reinen Blut,
+das alle Flecken tilgt
+und lauter Wunder tut.
+Schließ mich verirrten Armen
+ganz ein in dein Erbarmen,
+dass ich von Zorn und Sünde
+hier wahre Freiheit finde.
+Ich bin voll Sünden ohne dich,
+mein Heiland, wasche mich.
+
+# Mein Tröster, gib mir Kraft,
+wenn sich Versuchung zeigt;
+regiere meinen Geist, 
+wenn er zur Welt sich neigt.
+Lehr mich den Sohn erkennen,
+ihn meinen Herren nennen,
+sein Gnadenwort verstehen,
+auf seinen Wegen gehen.
+Du bist, der alles Gute schafft:
+mein Tröster, gib mir Kraft!
+
+# Gott, Vater, Sohn und Geist,
+dir bin ich, was ich bin.
+Ach, drücke selbst dein Bild
+recht tief in meinen Sinn;
+erwähle mein Gemüte
+zum Tempel deiner Güte,
+verkläre an mir Armen
+dein gnadenreich Erbarmen.
+Wohl mir, wenn du der Meine heiß'st,
+Gott, Vater, Sohn und Geist!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4615" xlink:type="simple">
+    <part>Text</part>
+    <year>1729</year>
+  </author>
+  <author xlink:href="#artist-23023" xlink:type="simple">
+    <part>Music</part>
+    <year>1741</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>690</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

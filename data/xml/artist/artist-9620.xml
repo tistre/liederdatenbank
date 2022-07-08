@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9620">
+  <lastname>Barth</lastname>
+  <firstname>Friedrich Karl</firstname>
+  <name/>
+  <comment/>
+  <born>1938</born>
+  <died/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Friedrich_Karl_Barth" xlink:type="simple">
+    <title>Friedrich Karl Barth @ Wikipedia.de</title>
+  </url>
+</artist>

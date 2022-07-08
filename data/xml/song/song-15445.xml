@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15445">
+  <title>Helft mir Gotts Güte</title>
+  <subtitle/>
+  <text># Helft mir Gotts Güte preisen,
+ihr Christen insgemein,
+mit G'sang und andern Weisen
+ihm allzeit dankbar sein,
+vornehmlich zu der Zeit,
+da sich das Jahr tut enden,
+die Sonn sich zu uns wenden,
+das neu Jahr ist nicht weit.
+
+# Erstlich laßt uns betrachten
+des Herren reiche Gnad
+und so gering nicht achten
+sein unzählig Wohltat;
+stets führen zu Gemüt,
+wie er dies Jahr hat geben,
+all Nötigs diesem Leben,
+und uns vor Leid behüt´;
+
+# Lehramt, Schul, Kirch erhalten
+in gutem Fried und Ruh;
+Nahrung für Jung und Alte
+bescheret auch dazu
+und gar mit milder Hand
+sein Güter ausgespendet,
+Verwüstung abgewendet
+von diesem Ort und Land.
+
+# Er hat unser verschonet
+aus väterlicher Gnad;
+wenn er sonst hätt gelohnet
+all unsre Missetat
+mit gleicher Straf und Pein,
+wir wären längst gestorben,
+in mancher Not verdorben,
+die wir voll Sünden sein.
+
+# Nach Vaters Art und Treuen
+er uns so gnädig ist;
+wenn wir die Sünd bereuen,
+glauben an Jesum Christ 
+herzlich ohn Heuchelei,
+tut er all Sünd vergeben,
+lindert die Straf daneben,
+steht uns in Nöten bei.
+
+# All solch dein Güt wir preisen,
+Vater im Himmelsthron,
+die du uns tust beweisen
+durch Christum deinen Sohn,
+und bitten fürder dich:
+Gib uns ein fröhlich Jahre,
+vor allem Leid bewahre
+und nähr uns mildiglich!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: http://www.liederdatenbank.de/song/1590
+Melodie: http://www.liederdatenbank.de/song/2260</comment>
+  <language>de</language>
+  <author xlink:href="#artist-11577" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>550</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+</song>

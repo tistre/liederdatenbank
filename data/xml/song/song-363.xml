@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-363">
+  <title>Du bist das Licht der Welt</title>
+  <subtitle>So sehr hat Gott die Welt geliebt</subtitle>
+  <language>de</language>
+  <bible>
+    <book xlink:href="#biblebook-591" xlink:type="simple"/>
+    <chapter>3</chapter>
+    <verses>16</verses>
+  </bible>
+  <bible>
+    <book xlink:href="#biblebook-591" xlink:type="simple"/>
+    <chapter>8</chapter>
+    <verses>12</verses>
+  </bible>
+  <bible>
+    <book xlink:href="#biblebook-588" xlink:type="simple"/>
+    <chapter>5</chapter>
+    <verses>14</verses>
+  </bible>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <right/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4330204</ccli_number>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1674</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-3" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-8" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2pe-1" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-5" xlink:type="simple">
+    <verse>14-16</verse>
+  </bibleref>
+</song>

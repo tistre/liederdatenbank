@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10197">
+  <title>Du, Herr, hast unsre Schuld gesühnt</title>
+  <subtitle/>
+  <text># Du, Herr, hast unsre Schuld gesühnt;
+Am Kreuz trugst Du, was wir verdient,
+Trugst unsrer Sünden Menge.
+Jetzt weilest Du im Heiligtum,
+Nicht auszusprechen ist Dein Ruhm
+Und Deines Lebens Länge.
+
+# Du bleibest Priester ewiglich,
+Vertrittst die Deinen kräftiglich,
+Die Himmel Du bewohnest.
+Gericht und Tod uns nicht mehr schreckt,
+Dein Blut uns allzeit schirmt und deckt,
+Weil Du, Herr, droben thronest.
+
+# Wer fasset Deiner Liebe Tat,
+Und wer ergründet Deine Gnad',
+Die uns so reich umgibet?
+Selbst Engel Deinem Throne nahn
+Und beten staunend mit uns an,
+Daß Du uns so geliebet.
+
+# Und hast Du Deinen Dienst erfüllt,
+Wird unser Sehnen ganz gestillt,
+Dann wirst Du wiederkehren.
+Führst uns zu Deiner Ruhe ein,
+Wo wir uns Deines Anblicks freun,
+Mit ew'gem Lob Dich ehren.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#6" xlink:type="simple"/>
+</song>

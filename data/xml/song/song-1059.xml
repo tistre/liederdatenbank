@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1059">
+  <title>O Du Lamm Gottes, du hast auf Golgatha</title>
+  <subtitle/>
+  <text># O Du Lamm Gottes, Du hast auf Golgatha
+herrlich gesieget. Amen, Halleluja!
+Du hast erworben Heil für die ganze Welt
+und hast aufs völligste gezahlt das Lösegeld.
+Du riefst mit lauter Stimm durch's Todes Nacht:
+"Es ist vollbracht! Es ist vollbracht!"
+
+# O Wort des Lebens, hier kann mein Glaube ruhn,
+auf diesen Felsen kann ich mich gründen nun.
+Ewig vollkommen ist unsers Gottes Heil;
+nimm es, o Sünder, an, so wird dir's ganz zuteil;
+nichts kannst du machen mehr, Er hat's gemacht:
+Es ist vollbracht! Es ist vollbracht!
+
+# O Wort des Sieges! Wenn mir der Satan naht,
+blick ich zum Helden, der ihn zertreten hat.
+In Jesu Wunden bin ich erlöst und frei,
+sein lauter Todesruf ist nun mein Siegesschrei.
+Nicht soll mich fesseln mehr des Feindes Macht.
+Es ist vollbracht! Es ist vollbracht!
+
+# Jesus, mein Heiland, Dir sag ich Preis und Dank!
+O Überwinder, hör meinen Lobgesang!
+In deiner Gnade hüll ich mich tief hinein,
+in deinem teuren Blut bin ich gerecht und rein.
+Ehr sei dem Lamm, das rief, da es geschlacht:
+"Es ist vollbracht! Es ist vollbracht!" </text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1882</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>176</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>210</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>229</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

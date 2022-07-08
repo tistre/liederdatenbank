@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10527">
+  <lastname>Herder</lastname>
+  <firstname>Johann Gottfried</firstname>
+  <name/>
+  <born>1744</born>
+  <died>1803</died>
+  <comment>Geboren in Mohrungen/Ostpreußen, Oberpfarrer in Bückeburg, Generalsuperintendent in Weimar, befreundet mit Johann Wolfgang von Goethe.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Gottfried_Herder" xlink:type="simple"/>
+</artist>

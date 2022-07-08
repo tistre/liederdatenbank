@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1417">
+  <title>Auf dem Lamm ruht meine Seele</title>
+  <text># Auf dem Lamm ruht meine Seele, betet voll Bewund'rung an. 
+Alle, alle meine Sünden hat sein Blut hinweggetan.
+
+# Selger Ruhort! Süßer Friede füllet meine Seele jetzt. 
+Da, wo Gott mit Wonne ruhet, bin auch ich in Ruh gesetzt.
+
+# Ruhe fand hier mein Gewissen, denn sein Blut, o reicher Quell, 
+hat von allen meinen Sünden mich gewaschen rein und hell.
+
+# Und mit süßer Ruh im Herzen geh ich hier durch Kampf und Leid, 
+ewge Ruhe find ich droben in des Lammes Herrlichkeit.
+
+# Dort wird ihn mein Auge sehen, dessen Lieb mich hier erquickt. 
+Dessen Treue mich geleitet, dessen Gnad mich reich beglückt.
+
+# Dort besingt des Lammes Liebe seine teur erkaufte Schar, 
+bringt in Zions selger Ruhe ihm ein ewges Loblied dar.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: Hamburg 1894. In "http://www.liederdatenbank.de/songbook/25736" gibt es zwei verschiedene Melodien. Der Satz dazu ist von Simon Josua Elter (2017). Gleiche Melodie: "http://www.liederdatenbank.de/song/1323".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5207941</ccli_number>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year>1856</year>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year>(1858) 1861</year>
+  </author>
+  <author xlink:href="#artist-25906" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>332</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>179</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>40a/b</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>427</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>223</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#78" xlink:type="simple"/>
+</song>

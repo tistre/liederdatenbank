@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24331">
+  <title>Lob sei dem Herrn, Ruhm seinem Namen!</title>
+  <subtitle>Kostet und seht, wie gütig der Herr.</subtitle>
+  <copyrightyear/>
+  <right>Text: Psalm 34 // 1940 Erhard Quack (Str. 1.3.5) / 1967 Manuel Thomas (Str. 2.4.6-8)
+Melodie: 1940 Erhard Quack</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11590" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1940</year>
+  </author>
+  <author xlink:href="#artist-24330" xlink:type="simple">
+    <part>Text</part>
+    <year>1967</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

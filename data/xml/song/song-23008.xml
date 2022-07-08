@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23008">
+  <title>Turn Your Eyes Upon Jesus</title>
+  <subtitle/>
+  <copyrightyear>1922</copyrightyear>
+  <right>New Spring / Verwaltet von Small Stone Media Germany GmbH</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>15960</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LAN</ccli_features>
+  <author xlink:href="#artist-23009" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>198</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

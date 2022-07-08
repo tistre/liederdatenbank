@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2607">
+  <title>Du fandest mich im Dunkeln</title>
+  <subtitle>Ich liebe Dich so sehr</subtitle>
+  <language>de</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2608" xlink:type="simple"/>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3574" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+  </songbookref>
+</song>

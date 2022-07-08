@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3843">
+  <title>We'll sing a new song of glorious triumph</title>
+  <author xlink:href="#artist-3911" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>239</numinsongbook>
+  </songbookref>
+</song>

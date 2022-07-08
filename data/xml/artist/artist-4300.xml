@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4300">
+  <firstname>Johann Georg</firstname>
+  <lastname>Ebeling</lastname>
+  <name/>
+  <born>1637</born>
+  <died>1676</died>
+  <comment>Geboren in Lüneburg, Theologe und 1660 Musiker in Hamburg, 1662 Kantor an St. Nicolai in Berlin als Nachfolger von Johann Crüger; Freund Paul Gerhardt's, er gab 1666/67 120 Lieder von Paul Gerhardt in neuen Vertonungen heraus, 1668 Kantor und Gymnasiallehrer für Griechisch in Stettin.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Georg_Ebeling" xlink:type="simple">
+    <title>Johann Georg Ebeling @ Wikipedia.de</title>
+  </url>
+</artist>

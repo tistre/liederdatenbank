@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10129">
+  <lastname>Riecker</lastname>
+  <firstname>Otto</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>Gründer des Lebenszentrums Adelshofen
+Herausgeber der Liederbuch-Reihe "Jesu Name nie verklinget".</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Lebenszentrum_Adelshofen" xlink:type="simple"/>
+  <url xlink:href="http://www.lza.de/" xlink:type="simple">
+    <title>Lebenszentrum Adelshofen - Homepage</title>
+  </url>
+</artist>

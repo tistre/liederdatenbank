@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-139">
+  <title>Das Jahr geht still zu Ende</title>
+  <text># Das Jahr geht still zu Ende,
+nun sei auch still, mein Herz.
+In Gottes treue Hände
+leg ich nun Freud und Schmerz
+und was dies Jahr umschlossen,
+was Gott der Herr nur weiß,
+die Tränen, die geflossen,
+die Wunden brennend heiß.
+
+# Warum es so viel Leiden,
+so kurzes Glück nur gibt?
+Warum denn immer scheiden,
+wo wir so sehr geliebt?
+So manches Aug gebrochen
+und mancher Mund nun stumm,
+der erst noch hold gesprochen:
+du armes Herz, warum?
+
+# Daß nicht vergessen werde,
+was man so gern vergißt:
+daß diese arme Erde
+nicht unsre Heimat ist.
+Es hat der Herr uns allen,
+die wir auf ihn getauft,
+in Zions goldnen Hallen
+ein Heimatrecht erkauft.
+
+# Hier gehen wir und streuen
+die Tränensaat ins Feld,
+dort werden wir uns freuen
+im sel'gen Himmelszelt;
+wir sehnen uns hienieden
+dorthin ins Vaterhaus
+und wissen's: die geschieden,
+die ruhen dort schon aus.
+
+# O das ist sichres Gehen
+durch diese Erdenzeit:
+nur immer vorwärts sehen
+mit sel'ger Freudigkeit;
+wird uns durch Grabeshügel
+der klare Blick verbaut,
+Herr, gib der Seele Flügel,
+daß sie hinüberschaut.
+
+# Hilf du uns durch die Zeiten
+und mache fest das Herz,
+geh selber uns zur Seiten
+und führ uns heimatwärts.
+Und ist es uns hienieden
+so öde, so allein,
+o laß in deinem Frieden
+uns hier schon selig sein.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4908038</ccli_number>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/827" (EG 361). - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/1486", "http://www.liederdatenbank.de/song/13424", "http://www.liederdatenbank.de/song/13433", "http://www.liederdatenbank.de/song/13530", "http://www.liederdatenbank.de/song/1578", "http://www.liederdatenbank.de/song/13920".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4578" xlink:type="simple">
+    <part>Text</part>
+    <year>(1857) 1867</year>
+  </author>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>679</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>476</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-126" xlink:type="simple">
+    <verse>5-6</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-heb-13" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

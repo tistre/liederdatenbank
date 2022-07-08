@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2478">
+  <title>Jesus, all for Jesus</title>
+  <language>en</language>
+  <subtitle/>
+  <copyrightyear>1991</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>879168</ccli_number>
+  <comment/>
+  <publisher xlink:href="#publisher-15614" xlink:type="simple"/>
+  <author xlink:href="#artist-3660" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <author xlink:href="#artist-3661" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>188</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-15605" xlink:type="simple">
+    <cdnum/>
+    <numoncd>8</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9050">
+  <name/>
+  <firstname>Aurelius</firstname>
+  <lastname>Ambrosius</lastname>
+  <born>340 (?)</born>
+  <died>397</died>
+  <comment>Aurelius Ambrosius, geb. um 340 (?) in Trier, seit 373 Jurist (Consular) in Mailand, seit 374 Bischof von Mailand, dort gest. 397. Er führte den wechselchörigen Psalmengesang der Ostkirche im Westen ein und ist Verfasser zahlreicher Hymnen in lat. Sprache, die die Entwicklung ds abendländischen Kirchengesanges maßgebend beeinflußten.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ambrosius_von_Mailand" xlink:type="simple">
+    <title>Ambrosius von Mailand @ Wikipedia.de</title>
+  </url>
+</artist>

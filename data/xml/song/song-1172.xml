@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1172">
+  <title>Blicke nur auf Jesus, Seele, eil ihm zu</title>
+  <text># Blicke nur auf Jesus, Seele, eil ihm zu!
+Der für dich gelitten, gibt dir Fried und Ruh.
+Er trug deine Schmerzen, alle deine Schuld.
+Blicke nur auf Jesus, traue seiner Huld!
+
+# Blicke nur auf Jesus mitten in dem Streit!
+Wird der Kampf auch heißer, Hilfe ist bereit.
+Ist der Feind gleich mächtig, deine Kraft nur klein,
+blicke nur auf Jesus, sein Sieg ist auch dein!
+
+# Blicke nur auf Jesus, wenn der Himmel hell!
+Oft, wenn alles ruhig, kommt Versuchung schnell.
+Erdenfreuden schwinden wie des Tages Licht.
+Blicke nur auf Jesus, er entweichet nicht!
+
+# Blicke nur auf Jesus bei der Arbeit Last!
+Denn zu seinen Füßen findst du süße Rast.
+Horch, er ruft so gnädig: Alles ist bereit!"
+Blicke nur auf Jesus, folg ihm allezeit!
+
+# Einst wird's herrlich klingen dort im Himmelssaal;
+dann wirst du mitsingen bei dem Hochzeitsmahl.
+Doch bei allem Glänze, der dort ist bereit,
+blicke nur auf Jesus, bis in Ewigkeit!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Anderer Titel: "Blicke nur auf Jesus, wende dich ihm zu" (http://www.liederdatenbank.de/songbook/10115). - Andere Melodie: "http://www.liederdatenbank.de/song/1176".</comment>
+  <author xlink:href="#artist-4449" xlink:type="simple">
+    <part>Text</part>
+    <year>1873</year>
+  </author>
+  <author xlink:href="#artist-4404" xlink:type="simple">
+    <part>Text</part>
+    <year>1880</year>
+  </author>
+  <author xlink:href="#artist-4553" xlink:type="simple">
+    <part>Music</part>
+    <year>1873</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>299</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>313</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>291</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>389</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

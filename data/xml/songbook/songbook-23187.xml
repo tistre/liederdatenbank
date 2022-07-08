@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-23187">
+  <name>So groß ist der Herr 2</name>
+  <comment>Mit 144 neuen Songs und wenigen ausgewählten Klassikern.
+Herausgegeben von Juri Friesen, Albert Frey und Arne Kopfermann.
+Verlag: Gerth Medien Musikverlag, Asslar
+ISBN: 978-3-89615-490-3
+
+-&gt; Liederbuch wird zur Zeit in die Liederdatenbank eingepflegt.
+
+--- Noch nicht vollständig in der Liederdatenbank erfasst. --- </comment>
+  <state>0</state>
+  <icon xlink:href="#file-23188" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3896154907/" xlink:type="simple">
+    <title>So groß ist der Herr 2 @ Amazon.de </title>
+  </url>
+  <url xlink:href="http://www.gerth.de/index.php?id=details&amp;sku=857490" xlink:type="simple">
+    <title>So groß ist der Herr 2 @ Gerth Medien</title>
+  </url>
+</songbook>

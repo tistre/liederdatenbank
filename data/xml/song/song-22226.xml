@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22226">
+  <title>Du bist da, bist am Anfang der Zeit</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: tvd-Verlag, Düsseldorf. - Musik: Strube Verlag, München</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22224" xlink:type="simple">
+    <part>Text</part>
+    <year>2004</year>
+  </author>
+  <author xlink:href="#artist-22225" xlink:type="simple">
+    <part>Music</part>
+    <year>2004</year>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>034</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23473" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-810">
+  <title>No Other Gods</title>
+  <language>en</language>
+  <right/>
+  <subtitle>Lord, break the power of idols</subtitle>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>1188157</ccli_number>
+  <comment/>
+  <copyrightyear>1993</copyrightyear>
+  <publisher xlink:href="#publisher-12079" xlink:type="simple"/>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1993</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1188157" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

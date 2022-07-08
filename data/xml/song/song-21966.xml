@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21966">
+  <title>Nie mehr zweifeln</title>
+  <subtitle>Noch mehr Liebe kann man nicht zeigen</subtitle>
+  <copyrightyear>2008</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-21965" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-20261" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-21943" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21968" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>11</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="http://www.classicsonline.com/catalogue/product.aspx?pid=917179" xlink:type="simple">
+    <title>Von Jesus bewegt</title>
+  </url>
+</song>

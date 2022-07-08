@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24419">
+  <title>We utter our cry: that peace may prevail</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24417" xlink:type="simple">
+    <part>Text</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-24418" xlink:type="simple">
+    <part>Music</part>
+    <year>1987</year>
+  </author>
+</song>

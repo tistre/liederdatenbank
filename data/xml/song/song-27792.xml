@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27792">
+  <title>Wo werd ich sein, wenn die Posaune erschallt</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Liederbuch: "Sein Ruhm unsere Freude" 1978, Seite 73.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9137" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-18597">
+  <title>Weihnachten ist Party für Jesus</title>
+  <subtitle/>
+  <copyrightyear>1996/2005</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5441697</ccli_number>
+  <comment>aus: "Hurra für Jesus 6: Christmas Party"</comment>
+  <language>de</language>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-16722" xlink:type="simple"/>
+  <author xlink:href="#artist-2999" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-18596" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23703" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-27042" xlink:type="simple">
+    <cdnum/>
+    <numoncd>6</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

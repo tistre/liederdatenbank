@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12337">
+  <title>Komm, Heilger Geist, der Leben schafft</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach dem Hymnus "Veni creator spiritus". - Melodie: Kempten um 1000, Wittenberg 1524, Mainz 1947.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-12313" xlink:type="simple">
+    <part>Text</part>
+    <year>1969</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>563</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

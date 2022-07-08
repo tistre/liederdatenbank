@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2809">
+  <title>Die Ehre sei allein Ihm</title>
+  <subtitle>Alle Ehre und Herrlichkeit</subtitle>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>5227275</ccli_number>
+  <author xlink:href="#artist-2984" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3587" xlink:type="simple">
+    <part>Music</part>
+    <year>1991</year>
+  </author>
+  <author xlink:href="#artist-3603" xlink:type="simple">
+    <part>Music</part>
+    <year>1991</year>
+  </author>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

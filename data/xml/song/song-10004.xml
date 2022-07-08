@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10004">
+  <title>Gottes Sohn ist Mensch geworden</title>
+  <subtitle/>
+  <right>Strube-Verlag, München</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach dem "Quem pastores laudavere", 14. Jahrhundert.
+Doppelkanon zu 4 Stimmen.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-10015" xlink:type="simple">
+    <part>Music</part>
+    <year>14. Jh.</year>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>279</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-8227">
+  <title>Make My Life A Prayer To You</title>
+  <subtitle/>
+  <right>1977 EMI April Music</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <ccli_number/>
+  <author xlink:href="#artist-68" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1977</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

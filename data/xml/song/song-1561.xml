@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1561">
+  <title>Dank, Jesu, Dank, o welche Huld</title>
+  <subtitle/>
+  <text># Dank, Jesu, Dank! O welche Huld!
+Nur Gnade uns begegnet.
+Hast selbst getragen unsre Schuld,
+In Dir sind wir gesegnet.
+Am Kreuze hast Du durch Dein Blut
+Erworben uns ein ew'ges Gut,
+Zur Kindschaft uns geführet.
+
+# Vor aller Zeit sind wir erwählt
+Nach Gottes Wohlgefallen,
+Dir, dem Geliebten, zugezählt,
+Dein Geist wohnt in uns allen.
+Wir werden in der Füll' der Zeit,
+Zum Lobe Deiner Herrlichkeit,
+Mit Dir, Herr, alles erben.
+
+# Denn alle Dinge sind ja Dein
+Im Himmel und auf Erden,
+Du bist von allem Haupt allein,
+Es muß Dir alles werden.
+Du wirst zur Rechten Gottes sein,
+Bis alle Feinde, groß und klein,
+Zu Deinen Füßen liegen.
+
+# Jetzt seufzt die ganze Schöpfung noch
+Und harret voll Verlangen.
+Erlöse sie vom eitlen Joch,
+Befrei' sie von dem Bangen!
+Mit Seufzen alles aufwärts schaut.
+"Komm!" – ruft der Geist und Deine Braut –
+"Komm, Jesu, uns befreie!"</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year>1853</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>320</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#24" xlink:type="simple"/>
+</song>

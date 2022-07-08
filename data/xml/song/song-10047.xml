@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10047">
+  <title>Ich will den Ruhm des Herrn verkünden</title>
+  <subtitle/>
+  <right>beim Autor</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach Psalm 145. - Kanon zu 4 Stimmen.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-9253" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>312</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

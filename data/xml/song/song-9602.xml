@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9602">
+  <title>Vom Himmel hoch, o Engel, kommt</title>
+  <subtitle/>
+  <text># Vom Himmel hoch, o Engel kommt!
+ Eia, eia, susani, susani, susani!
+ Kommt singt und springt, kommt, pfeift und tombt!
+ Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Kommt ohne Instrumente nit, 
+ Eia, eia, susani, susani, susani!
+ Bringt Lauten, Harfen, Geigen mit!
+ Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Lasst hören euer Stimmen viel,
+Eia, eia, susani, susani, susani!
+mit Orgel- und mit Saitenspiel!
+Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Hier muß die Musik himmlisch sein,
+Eia, eia, susani, susani, susani!
+weil dies ein himmlisch Kindelein
+Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Die Stimmen müssen lieblich gehn
+Eia, eia, susani, susani, susani!
+und Tag und Nacht nicht stille stehn
+Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Sehr süß muß sein der Orgel klang
+Eia, eia, susani, susani, susani!
+süß über allen Vogelsang
+Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Das Lautenspiel muß lauten süß,
+Eia, eia, susani, susani, susani!
+Davon das Kindlein schlafen muß!
+Alleluja, alleluja! Von Jesus singt und Maria!
+
+# Singt Fried den Menschen weit und breit,
+Eia, eia, susani, susani, susani!
+Gott Preis und Ehr in Ewigkeit!
+Alleluja, alleluja! Von Jesus singt und Maria!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4813" xlink:type="simple">
+    <part>Text</part>
+    <year>1623</year>
+  </author>
+  <author xlink:href="#artist-9601" xlink:type="simple">
+    <part>Music</part>
+    <year>1616</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1623</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>542</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>541</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

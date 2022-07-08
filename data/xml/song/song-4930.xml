@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4930">
+  <title>Gott im Himmel</title>
+  <subtitle>Hab Erbarmen</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <originalsong xlink:href="#song-4931" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

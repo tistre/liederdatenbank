@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-260">
+  <title>Ich singe dir mit Herz und Mund</title>
+  <text># Ich singe dir mit Herz und Mund,
+Herr, meines Herzens Lust;
+ich sing und mach auf Erden kund,
+was mir von dir bewusst.
+
+# Ich weiß, dass du der Brunn der Gnad
+und ewge Quelle bist,
+daraus uns allen früh und spat
+viel Heil und Gutes fließt.
+
+# Was sind wir doch? Was haben wir
+auf dieser ganzen Erd,
+das uns, o Vater, nicht von dir
+allein gegeben werd?
+
+# Wer hat das schöne Himmelszelt
+hoch über uns gesetzt?
+Wer ist es, der uns unser Feld
+mit Tau und Regen netzt?
+
+# Wer wärmet uns in Kält und Frost?
+Wer schützt uns vor dem Wind?
+Wer macht es, daß man Öl und Most
+zu seinen Zeiten find't?
+
+# Wer gibt uns Leben und Geblüt?
+Wer hält mit seiner Hand
+den güldnen, werten, edlen Fried
+in unserm Vaterland?
+
+# Ach Herr, mein Gott, das kommt von dir,
+du, du musst alles tun,
+du hältst die Wach an unsrer Tür
+und lässt uns sicher ruhn.
+
+# Du nährest uns von Jahr zu Jahr,
+bleibst immer fromm und treu
+und stehst uns, wenn wir in Gefahr
+geraten, treulich bei.
+
+# Du strafst uns Sünder mit Geduld
+und schlägst nicht allzusehr,
+ja endlich nimmst du unsre Schuld
+und wirfst sie in das Meer.
+
+# Wenn unser Herze seufzt und schreit,
+wirst du gar leicht erweicht
+und gibst uns, was uns hoch erfreut
+und dir zur Ehr gereicht.
+
+# Du zählst, wie oft ein Christe wein
+und was sein Kummer sei;
+kein Zähr- und Tränlein ist so klein,
+du hebst und legst es bei.
+
+# Du füllst des Lebens Mangel aus
+mit dem, was ewig steht,
+und führst uns in des Himmels Haus,
+wenn uns die Erd entgeht.
+
+# Wohlauf, mein Herze, sing und spring
+und habe guten Mut!
+Dein Gott, der Ursprung aller Ding,
+ist selbst und bleibt dein Gut.
+
+# Er ist dein Schatz, dein Erb und Teil,
+dein Glanz und Freudenlicht,
+dein Schirm und Schild, dein Hilf und Heil,
+schafft Rat und lässt dich nicht.
+
+# Was kränkst du dich in deinem Sinn
+und grämst dich Tag und Nacht?
+Nimm deine Sorg und wirf sie hin
+auf den, der dich gemacht.
+
+# Hat er dich nicht von Jugend auf
+versorget und ernährt?
+Wie manches schweren Unglücks Lauf
+hat er zurückgekehrt!
+
+# Er hat noch niemals was versehn
+in seinem Regiment,
+nein, was er tut und lässt geschehn,
+das nimmt ein gutes End.
+
+# Ei nun, so lass ihn ferner tun
+und red ihm nicht darein,
+so wirst du hier im Frieden ruhn
+und ewig fröhlich sein.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Unterschiedliche Strophen in den verschiedenen Liederbüchern. 
+Gleiche Melodie: "http://www.liederdatenbank.de/song/335", "http://www.liederdatenbank.de/song/1331".</comment>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4337788</ccli_number>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <author xlink:href="#artist-11569" xlink:type="simple">
+    <part>Music</part>
+    <year>1562</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1653</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>324</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>246</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>232</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23473" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>161</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>952</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>291</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-33" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-115" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>34</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3634">
+  <firstname>Nikolaus</firstname>
+  <lastname>Selnecker</lastname>
+  <name/>
+  <born>1530</born>
+  <died>1592</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Nikolaus_Selnecker" xlink:type="simple"/>
+</artist>

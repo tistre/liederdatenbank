@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11112">
+  <title>Wer tilgt meine Sünden alle</title>
+  <subtitle/>
+  <text># Wer tilgt meine Sünden alle? Jesus allein!
+Wer schenket Mut mir nach dem Falle? Jesus allein!
+Wer lehrt himmelwärts mich streben? 
+Wer kann auch mir ein neues Leben,
+Frieden und wahre Freude geben? 
+Jesus allein!
+
+# Wer befreit mich in Gefahren? Jesus allein!
+Wer kann mich stest aufs neu bewahren? Jesus allein!
+Wer hilft mir die Lasten tragen?
+Wer kann mich auch in Leidenstagen
+schützen vor Bitterkeit und Klagen?
+Jesus allein!
+
+# Ja, ich bin geschützt, geborgen, Jesus, bei dir!
+Und es entflehen alle Sorgen, Jesus, bei dir!
+Du kannst trösten, du kannst laben.
+Alles, ja alles kann ich haben,
+alles, ja alles kann ich haben,
+Jesus, bei dir!
+
+# Darum rühm ich deine Treue, Jesus, mein Hirt!
+Du, dessen ich mich täglich freue, Jesus, mein Hirt!
+Dir will ich in allen Proben
+Treue bis in den Tod geloben,
+ja, bis ich dich einst schaue droben,
+Jesus, mein Hirt!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11985" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11986" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>296</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>190</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

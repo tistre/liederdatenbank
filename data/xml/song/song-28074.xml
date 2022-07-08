@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28074">
+  <title>Dankt dem Herrn, der uns errettet</title>
+  <subtitle>Die in der Wüste</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22110" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1580</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-107" xlink:type="simple">
+    <verse>1-32</verse>
+  </bibleref>
+</song>

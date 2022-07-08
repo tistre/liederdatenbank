@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1572">
+  <title>Ich will dich lieben, meine Stärke</title>
+  <text># Ich will dich lieben, meine Stärke, 
+ich will dich lieben, meine Zier; 
+ich will dich lieben mit dem Werke 
+und immerwährender Begier! 
+Ich will dich lieben, schönstes Licht, 
+bis mir das Herze bricht.
+
+# Ich will dich lieben, o mein Leben, 
+als meinen allerbesten Freund; 
+ich will dich lieben und erheben, 
+solange mich dein Glanz bescheint; 
+ich will dich lieben, Gottes Lamm, 
+als meinen Bräutigam.
+
+# Ach, dass ich dich so spät erkannte, 
+du hochgelobte Schönheit du, 
+dass ich nicht eher mein dich nannte, 
+du höchstes Gut und wahre Ruh; 
+es ist mir leid, ich bin betrübt, 
+dass ich so spät geliebt.
+
+# Ich lief verirrt und war verblendet, 
+ich suchte dich und fand dich nicht; 
+ich hatte mich von dir gewendet 
+und liebte das geschaffne Licht. 
+Nun aber ists durch dich geschehn, 
+dass ich dich hab ersehn.
+
+# Ich danke dir, du wahre Sonne, 
+dass mir dein Glanz hat Licht gebracht; 
+ich danke dir, du Himmelswonne, 
+dass du mich froh und frei gemacht; 
+ich danke dir, du güldner Mund, 
+dass du mich machst gesund.
+
+# Erhalte mich auf deinen Stegen 
+und lass mich nicht mehr irregehn; 
+lass meinen Fuß in deinen Wegen 
+nicht straucheln oder stillestehn; 
+erleucht mir Leib und Seele ganz, 
+du starker Himmelsglanz.
+
+# Ich will dich lieben, meine Krone, 
+ich will dich lieben, meinen Gott; 
+ich will dich lieben sonder Lohne 
+auch in der allergrößten Not; 
+ich will dich lieben, schönstes Licht, 
+bis mir das Herze bricht.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1985</copyrightyear>
+  <right>(Melodie von M. Warrington)</right>
+  <textcopyright>free</textcopyright>
+  <comment>unterschiedliche Vertonungen. - Gleiche Melodie: "http://www.liederdatenbank.de/song/13415". - Die Texte in den verschiedenen Büchern differieren in Feinheiten.</comment>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5225758</ccli_number>
+  <publisher xlink:href="#publisher-12125" xlink:type="simple"/>
+  <author xlink:href="#artist-4471" xlink:type="simple">
+    <part>Text</part>
+    <year>1657</year>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <author xlink:href="#artist-451" xlink:type="simple">
+    <part>Music</part>
+    <year>1985</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>335</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>354</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>356</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>400</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>163</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>169</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>139</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

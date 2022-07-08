@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11297">
+  <title>Auf Christi Himmelfahrt allein</title>
+  <subtitle/>
+  <text># Auf Christi Himmelfahrt allein
+ich meine Nachfahrt gründe
+und allen Zweifel, Angst und Pein
+hiermit stets überwinde.
+Denn weil das Haupt im Himmel ist,
+wird seine Glieder Jesus Christ
+zur rechten Zeit nachholen.
+
+# Weil er gezogen himmelan
+und große Gab empfangen,
+mein Herz auch nur im Himmel kann,
+sonst nirgends, Ruh erlangen;
+denn wo mein Schatz gekommen hin,
+da ist auch stets mein Herz und Sinn,
+nach ihm mich sehr verlanget.
+
+# Ach Herr, lass diese Gnade mich
+von deiner Auffahrt spüren,
+dass mit dem wahren Glauben ich
+mag meine Nachfahrt zieren
+und dann einmal, wenn’s dir gefällt,
+mit Freuden scheiden aus der Welt.
+Herr, höre doch mein Flehen!
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/2260" (EG 149).</comment>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number/>
+  <author xlink:href="#artist-11295" xlink:type="simple">
+    <part>Text</part>
+    <year>1661</year>
+  </author>
+  <author xlink:href="#artist-11296" xlink:type="simple">
+    <part>Text</part>
+    <year>1636</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21628" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-12" xlink:type="simple">
+    <verse>32</verse>
+  </bibleref>
+</song>

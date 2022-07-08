@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27353">
+  <title>In aller Angst und Not</title>
+  <subtitle/>
+  <copyrightyear>1981/1982</copyrightyear>
+  <right>D/A/CH: Pila Music GmbH.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Textfassung: http://www.liederdatenbank.de/song/169.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13364" xlink:type="simple"/>
+  <originalsong xlink:href="#song-423" xlink:type="simple"/>
+  <author xlink:href="#artist-58" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-65" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1395</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-32" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-56" xlink:type="simple">
+    <verse>4-5</verse>
+  </bibleref>
+</song>

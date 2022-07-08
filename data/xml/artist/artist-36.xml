@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-36">
+  <firstname>Lothar</firstname>
+  <lastname>Kosse</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.kosse.de/" xlink:type="simple">
+    <title>kosse.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/k/lotharkosse.htm" xlink:type="simple">
+    <title>Lothar Kosse @ ccmrezis.de</title>
+  </url>
+</artist>

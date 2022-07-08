@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-53">
+  <firstname>Christoph</firstname>
+  <lastname>Zehendner</lastname>
+  <name/>
+  <born>1961</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.christoph-zehendner.de/" xlink:type="simple">
+    <title>christoph-zehendner.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/x_z/czehendner.htm" xlink:type="simple">
+    <title>Christoph Zehendner @ ccmrezis.de</title>
+  </url>
+</artist>

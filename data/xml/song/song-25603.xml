@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25603">
+  <title>Heilig, heilig, heilig, Heilige anbeten.</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>andere Übersetzung: "http://www.liederdatenbank.de/song/922", http://www.liederdatenbank.de/song/26360, http://www.liederdatenbank.de/song/4327, http://www.liederdatenbank.de/song/27480, http://www.liederdatenbank.de/song/27481.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-923" xlink:type="simple"/>
+  <author xlink:href="#artist-4467" xlink:type="simple">
+    <part>Text</part>
+    <year>1826</year>
+  </author>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4131" xlink:type="simple">
+    <part>Music</part>
+    <year>1861</year>
+  </author>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>239</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

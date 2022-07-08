@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27638">
+  <title>Das Kreuz, an dem Jesus starb</title>
+  <subtitle>Die Welt trägt</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23350" xlink:type="simple"/>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10775" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>60</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1co-1" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-1" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+</song>

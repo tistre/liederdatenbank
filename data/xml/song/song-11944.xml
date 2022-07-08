@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11944">
+  <title>Hosianna Davids Sohne</title>
+  <subtitle/>
+  <text># Hosianna Davids Sohne 
+ der jetzt bei uns kehret ein, 
+ der soll hochgelobet sein,
+ der da kommt vom höchsten Throne. 
+ Durch die Welt erschall und geh: 
+ Hosianna in der Höh. 
+
+# Den die Alten mit Verlangen 
+ oft gewünscht, gerufen oft, 
+ seinen Eintritt stets gehofft, 
+ der läßt sich von uns empfangen. 
+ Durch die Welt erschall und geh:  
+Hosianna in der Höh. 
+
+# Fritte muß vom Himmel tauen' 
+ denn erschienen ist die Zeit, 
+ daß der Herr der Herrlichkeit 
+ sich im Fleische lässet schauen.  
+Durch die Welt erschall und geh:  
+Hosianna in der Höh. 
+
+# Seht, ihr Sünder, den Gerechten, 
+ der euch seine Heiligkeit  anlegt 
+als ein Ehrenkleid 
+und will euer Recht verfechten. 
+ Durch die Welt erschall und geh: 
+ Hosianna in der Höh. 
+
+# Seht den Helfer willig kommen,  
+euch zu raten in der Not, 
+ in dem Leben, in dem Tod, 
+ den er hat auf sich genommen. 
+ Durch die Welt erschall und geh: 
+ Hosianna in der Höh. 
+
+# Seht, ihr Armen, seht den Armen, 
+der von seiner Armut euch 
+ hier und ewig machet reich: 
+ er will euer sich erbarmen, 
+ Durch die Welt erschall und geh:
+ Hosianna in der Höh. 
+
+# Herr, o Herr, laß wohl gelingen. 
+ Diesen Tag hast du gemacht, 
+ dieser Tag hat Freud gebracht; 
+ drum wir alle fröhlich singen. 
+ Durch die Welt erschall und geh:  
+Hosianna in der Höh. 
+
+# Hosianna Davids Sohne,  
+der jetzt bei uns kehret ein,  
+der soll hochgelobet sein, 
+ der da kommt vom höchsten Throne.  
+Durch die Welt erschall und geh: 
+ Hosianna in der Höh.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Altdorf 1653, geistlich Greifswald 1661.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4431" xlink:type="simple">
+    <part>Text</part>
+    <year>1655</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>536</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>1-11</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1618">
+  <title>Der du in Todesnächten erkämpft das Heil der Welt</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>unterschiedliche Melodien. - Melodie im EG: "http://www.liederdatenbank.de/song/2259" (EG 523). - Melodie im "http://www.liederdatenbank.de/songbook/10115": B. Helder.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4206" xlink:type="simple">
+    <part>Text</part>
+    <year>1827</year>
+  </author>
+  <author xlink:href="#artist-11463" xlink:type="simple">
+    <part>Music</part>
+    <year>1837</year>
+  </author>
+  <author xlink:href="#artist-4464" xlink:type="simple">
+    <part>Music</part>
+    <year>1630</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>399</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>586</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>257</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>249</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

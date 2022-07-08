@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25133">
+  <title>Give me joy in my heart</title>
+  <subtitle/>
+  <copyrightyear>1966</copyrightyear>
+  <right>Text: Church Pastoral-Aid Soc. London / D: Hänssler-Verlag, Neuhausen-Stutgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Übersetzung: http://liederdatenbank.de/song/1279 / weitere englische Texte:   http://liederdatenbank.de/song/25131 /          http://liederdatenbank.de/song/25130              </comment>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24957" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>241</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

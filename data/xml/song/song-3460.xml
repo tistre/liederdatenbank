@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3460">
+  <title>Jerusalem</title>
+  <subtitle>Dunkelheit bedeckt alle Völker</subtitle>
+  <copyrightyear/>
+  <right>Gemeinschaft Emmanuel e.V., Bonn.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Deutsch: Brüder Jesu im Heiligen Geist, Graz.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24046" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-60" xlink:type="simple">
+    <verse>1-7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-61" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+</song>

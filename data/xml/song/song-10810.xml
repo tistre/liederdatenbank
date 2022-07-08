@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10810">
+  <title>Adonai Ro'i</title>
+  <subtitle/>
+  <right>Musikverlag Klaus Gerth, Asslar</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>he</language>
+  <author xlink:href="#artist-542" xlink:type="simple">
+    <part>Music</part>
+    <year>1976</year>
+  </author>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-23" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

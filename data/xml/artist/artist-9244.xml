@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9244">
+  <lastname>Backhaus</lastname>
+  <firstname>Arno</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://ccmrezis.de/cds/b/arnobackhaus.htm" xlink:type="simple">
+    <title>Arno Backhaus / Arno &amp; Andreas @ ccmrezis.de</title>
+  </url>
+  <url xlink:href="http://www.arno-backhaus.de/" xlink:type="simple">
+    <title>arno-backhaus.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Arno_Backhaus" xlink:type="simple">
+    <title>Arno Backhaus @ Wikipedia.de</title>
+  </url>
+</artist>

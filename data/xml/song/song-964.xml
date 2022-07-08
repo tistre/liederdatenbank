@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-964">
+  <title>Halleluja, Halleluja! Jesus Christus, wir loben Dich</title>
+  <language>de</language>
+  <right>WORD OF GOD MUSIC/Cop. Comp. Rechte für D,A/CH: CopyCare Deutschland, Pf. 12 20, D-73762 Neuhausen-Stuttgart</right>
+  <subtitle/>
+  <copyrightyear>1973</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Alleluja No. 1". Andere Übersetzung: http://www.liederdatenbank.de/song/21596.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4281" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1973</year>
+  </author>
+  <author xlink:href="#artist-3619" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

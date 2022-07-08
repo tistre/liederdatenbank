@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-21553">
+  <lastname>Andersson</lastname>
+  <firstname>Benny</firstname>
+  <name/>
+  <born>1946</born>
+  <died/>
+  <comment>Geboren in Stockholm. Schwedischer Musiker, Songwriter und Musikproduzent.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Benny Andersson" xlink:type="simple"/>
+</artist>

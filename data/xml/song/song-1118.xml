@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1118">
+  <title>Ich weiß einen Strom</title>
+  <subtitle>O Seele, ich bitte dich: Komm</subtitle>
+  <text># Ich weiß einen Strom, dessen herrliche Flut 
+fließt wunderbar stille durchs Land; 
+doch strahlet und glänzt er wie feurige Glut. 
+Wem ist dieses Wasser bekannt?
+
+* 1.-5. O Seele, ich bitte dich: Komm! 
+Und such diesen herrlichen Strom! 
+Sein Wasser fließt frei und mächtiglich, 
+o glaube, es fließet für dich!
+
+# Wohin dieser Strom sich nur immer ergießt, 
+da jubelt und jauchzet das Herz, 
+das nunmehr den köstlichen Segen genießt, 
+erlöset von Sorge und Schmerz.
+
+
+# Der Strom ist gar tief, und sein Wasser ist klar, 
+es schmecket so lieblich und fein; 
+es heilet die Kranken und stärkt wunderbar, 
+ja machet die Unreinsten rein. 
+
+# Das Wasser des Lebens, das ist diese Flut; 
+durch Jesum ergießet sie sich. 
+Sein kostbares, teures und heiliges Blut, 
+o Sünder, vergoß er für dich! 
+
+# Wen dürstet, der komme und trinke sich satt! 
+So rufet der Geist und die Braut. 
+Nur wer in dem Strome gewaschen sich hat, 
+das Angesicht Gottes einst schaut.</text>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4414" xlink:type="simple">
+    <part>Text</part>
+    <year>1876</year>
+  </author>
+  <author xlink:href="#artist-25721" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>237</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>145</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>332</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+</song>

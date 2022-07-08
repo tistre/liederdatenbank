@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2979">
+  <title>Wo der Herr das Haus nicht baut</title>
+  <subtitle>Wir brauchen deine Hilfe, Herr</subtitle>
+  <language>de</language>
+  <copyrightyear>1992</copyrightyear>
+  <right>Bene Müller</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5315149</ccli_number>
+  <comment/>
+  <ccli_features>LAN</ccli_features>
+  <author xlink:href="#artist-3693" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>239</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

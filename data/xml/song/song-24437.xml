@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24437">
+  <title>Wir kommen voll Erwartung</title>
+  <subtitle/>
+  <copyrightyear>2017</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>7096774</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22129" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-18" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-11" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-13" xlink:type="simple">
+    <verse>26-27</verse>
+  </bibleref>
+</song>

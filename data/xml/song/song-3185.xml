@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3185">
+  <title>Würdig, Lamm Gottes, bist Du</title>
+  <subtitle/>
+  <copyrightyear>1984</copyrightyear>
+  <right>Glaubenszentrum Bad Gandersheim.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4132" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1984</year>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-5" xlink:type="simple">
+    <verse>9-10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-15" xlink:type="simple">
+    <verse>3-4</verse>
+  </bibleref>
+</song>

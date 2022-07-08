@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2867">
+  <title>Herr, vor Deinen Thron</title>
+  <subtitle>Sehnsucht nach Dir</subtitle>
+  <author xlink:href="#artist-3573" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3587" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-3603" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+  </songbookref>
+</song>

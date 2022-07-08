@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23070">
+  <title>Zachäus, böser reicher Mann</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22156" xlink:type="simple"/>
+  <author xlink:href="#artist-12344" xlink:type="simple">
+    <part>Text</part>
+    <year>1968</year>
+  </author>
+  <author xlink:href="#artist-5007" xlink:type="simple">
+    <part>Music</part>
+    <year>1968</year>
+  </author>
+  <bibleref xlink:href="#biblechapter-luk-19" xlink:type="simple">
+    <verse>1-10</verse>
+  </bibleref>
+</song>

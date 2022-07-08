@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26329">
+  <title>Die Gnade unseres Herrn Jesu Christi</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: 2.Korinther 13,13
+</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4203" xlink:type="simple">
+    <part>Music</part>
+    <year>1763</year>
+  </author>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>570</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-2co-13" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

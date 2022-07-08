@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27477">
+  <title>Ram Adonáj raw lehoschia</title>
+  <subtitle/>
+  <copyrightyear>1982</copyrightyear>
+  <right>David Loden, Israel</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>he</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4129" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-4128" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1982</year>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

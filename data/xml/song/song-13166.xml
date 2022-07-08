@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13166">
+  <title>Herr Jesus, teures Gotteslamm!</title>
+  <subtitle/>
+  <text># O Jesu, teures Gotteslamm!
+Du wurdest an des Kreuzes Stamm
+Für unsre Sünd' geschlachtet.
+Für uns gingst Du in Not und Tod,
+Du opfertest Dich völlig Gott,
+Für uns wardst Du verachtet.
+Jetzt kann uns nichts verdammen mehr.
+O Jesu, Dir sei Dank und Ehr'!
+
+# Dein glücklich Volk, o Herr, erscheint
+An Deinem Tische hier vereint,
+Von Deiner Lieb' geladen.
+Durch diesen Kelch und dieses Brot
+Verkünden, Herr, wir Deinen Tod
+Und Deine reichen Gnaden.
+Nichts drücket das Gewissen mehr.
+O Jesu, Dir sei Dank und Ehr'!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <author xlink:href="#artist-4383" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#69" xlink:type="simple"/>
+</song>

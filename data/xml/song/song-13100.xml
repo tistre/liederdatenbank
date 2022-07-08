@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13100">
+  <title>Liebe, die für mich gelitten</title>
+  <subtitle/>
+  <text># Liebe, die für mich gelitten
+Und am Kreuze für mich starb,
+Liebe, die für mich gestritten,
+Fried' und Freude mir erwarb,
+Liebe, Dir sei Preis und Ruhm
+Hier und dort im Heiligtum!
+
+# Liebe, die Du Licht und Leben
+Und mein Weg zum Vater bist,
+Liebe, die Du mir gegeben,
+Was zum Heil mir nötig ist,
+Liebe, Dir sei Preis und Ruhm
+Hier und dort im Heiligtum!
+
+# Liebe, die mich schützt und schirmet,
+Die so freundlich und so mild
+Mich bewahrt, wenn Satan stürmet,
+Die mir reicht des Glaubens Schild,
+Liebe, Dir sei Preis und Ruhm
+Hier und dort im Heiligtum!
+
+# Liebe, die mich überkleidet
+Und entrücket dieser Zeit,
+Liebe, die mich droben weidet
+Und mich schmückt mit Herrlichkeit,
+Liebe, Dir sei Preis und Ruhm
+Hier und dort im Heiligtum!</text>
+  <copyrightyear/>
+  <right>Melodie: Str. 1, 2 u. 4 nach Johann Scheffler (1624-1677); Str. 3 Dichter unbekannt. - Melodie: Meiningen 1693.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4471" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/051_060.html#54" xlink:type="simple"/>
+</song>

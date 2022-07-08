@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9252">
+  <lastname>Haydn</lastname>
+  <firstname>Johann Michael</firstname>
+  <name/>
+  <born>1737</born>
+  <died>1806</died>
+  <comment>Geboren in Rohrau (Österreich),war der jüngere Bruder von Franz Josef Haydn, Kapellmeister in Großwardein (Ungarn), später Konzertmeister und Domorganist in Salzburg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Michael_Haydn" xlink:type="simple"/>
+</artist>

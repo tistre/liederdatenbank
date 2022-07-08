@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11391">
+  <title>Gehet hin in alle Welt</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Taufbefehl Matthäus 28,19 - Melodie: Ökumenische Fassung 1983 nach einem gregorischen Responsorium-breve-Modell.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen</comment>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>201</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4617" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-28" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3559">
+  <title>Wir sehn den Herrn, wir sehn den Herrn</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>One Way Verlag, Braunschweig.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "We See The Lord".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-6" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-6" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-4" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-amo-5" xlink:type="simple">
+    <verse>6</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-95" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-135" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-22" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-dan-3" xlink:type="simple">
+    <verse>33</verse>
+  </bibleref>
+</song>

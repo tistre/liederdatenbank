@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9295">
+  <lastname>Edelkötter</lastname>
+  <firstname>Ludger</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.ki-mu.de/" xlink:type="simple">
+    <title>KiMu Kinder Musik Verlag</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ludger_Edelkötter" xlink:type="simple">
+    <title>Ludger Edelkötter @ Wikipedia.de</title>
+  </url>
+</artist>

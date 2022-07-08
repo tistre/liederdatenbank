@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4579">
+  <firstname>Karl Gustav Arnold</firstname>
+  <lastname>Kuhlo</lastname>
+  <name/>
+  <born>1818</born>
+  <died>1909</died>
+  <comment/>
+  <url xlink:href="http://www.valdorf.org/index.php?option=com_content&amp;task=view&amp;id=157&amp;Itemid=65" xlink:type="simple">
+    <title>Pfarrer Karl Kuhlo @ valdorf.org</title>
+  </url>
+</artist>

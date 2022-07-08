@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11937">
+  <title>Ach wie flüchtig, ach wie nichtig</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodiefassung nach Johann Crüger 1661.</comment>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5212761</ccli_number>
+  <author xlink:href="#artist-11936" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1652</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>528</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+</song>

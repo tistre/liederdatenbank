@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-256">
+  <title>Ich habe nun den Grund gefunden</title>
+  <text># Ich habe nun den Grund gefunden,
+der meinen Anker ewig hält;
+wo anders als in Jesu Wunden?
+Da lag er vor der Zeit der Welt,
+der Grund, der unbeweglich steht,
+wenn Erd und Himmel untergeht.
+
+# Es ist das ewige Erbarmen,
+das alles Denken übersteigt;
+es sind die offnen Liebesarme
+des, der sich zu den Sündern neigt,
+dem allemal das Herze bricht,
+wir kommen oder kommen nicht.
+
+# Wir sollen nicht verloren werden,
+Gott will, uns soll geholfen sein;
+deswegen kam der Sohn auf Erden
+und nahm hernach den Himmel ein,
+deswegen klopft er für und für
+so stark an unsers Herzens Tür.
+
+# O Abgrund, welcher alle Sünden
+durch Christi Tod verschlungen hat!
+Das heißt die Wunde recht verbinden,
+da findet kein Verdammen statt,
+weil Christi Blut beständig schreit:
+Barmherzigkeit, Barmherzigkeit!
+
+# Darein will ich mich gläubig senken,
+dem will ich mich getrost vertraun
+und, wenn mich meine Sünden kränken,
+nur bald nach Gottes Herzen schaun;
+da findet sich zu aller Zeit
+unendliche Barmherzigkeit.
+
+# Wird alles andre weggerissen,
+was Seel und Leib erquicken kann,
+darf ich von keinem Troste wissen
+und scheine völlig ausgetan,
+ist die Errettung noch so weit:
+mir bleibet doch Barmherzigkeit.
+
+# Bei diesem Grunde will ich bleiben,
+solange mich die Erde trägt;
+das will ich denken, tun und treiben,
+solange sich ein Glied bewegt;
+so sing ich einstens höchst erfreut:
+o Abgrund der Barmherzigkeit!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/343" (EG 330).</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-11747" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1722) 1727</year>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <author xlink:href="#artist-8993" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>336</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>257</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>350</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>341</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>354</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>293</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

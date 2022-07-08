@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-10084">
+  <name>Jesu Name nie verklinget</name>
+  <icon xlink:href="#songbook-563-icon" xlink:type="simple"/>
+  <comment>Altes und neues erweckliches Lied
+Herausgegeben von Pfr. Dr. theol. http://www.liederdatenbank.de/artist/10129
+Verlag Friedrich Hänssler, Stuttgart-Plieningen
+
+Das Liederbuch wurde später ergänzt und als "http://www.liederdatenbank.de/songbook/563" neu herausgegeben. Es ist heute nicht mehr erhältlich.</comment>
+  <state>1</state>
+  <url xlink:href="http://www.haenssler.de/" xlink:type="simple">
+    <title>Hänssler-Verlag</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Jesu+Name+nie+verklinget" xlink:type="simple">
+    <title>Jesu Nema nie verklinget @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/Jesu-Name-nie-verklinget" xlink:type="simple">
+    <title>Jesu Name nie verklinget @ eBay.de</title>
+  </url>
+</songbook>

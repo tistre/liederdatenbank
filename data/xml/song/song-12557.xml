@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12557">
+  <title>An unsern Früchten soll die Welt erkennen</title>
+  <subtitle/>
+  <copyrightyear>1979</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-27615" xlink:type="simple"/>
+  <author xlink:href="#artist-452" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1979</year>
+  </author>
+  <songbookref xlink:href="#songbook-12542" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-gal-5" xlink:type="simple">
+    <verse>22-23</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-7" xlink:type="simple">
+    <verse>16-20</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1co-6" xlink:type="simple">
+    <verse>19-20</verse>
+  </bibleref>
+</song>

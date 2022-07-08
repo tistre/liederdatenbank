@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9041">
+  <title>Bis du kommst</title>
+  <subtitle>Deinen Tod, o Herr</subtitle>
+  <right>1996 Hänssler Verlag, Holzgerlingen, für Immanuel Music, Ravensburg</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-9018" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

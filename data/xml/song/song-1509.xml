@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1509">
+  <title>Nun bitten wir den Heiligen Geist</title>
+  <text># Nun bitten wir den Heiligen Geist 
+um den rechten Glauben allermeist, 
+dass er uns behüte an unserm Ende, 
+wenn wir heimfahrn aus diesem Elende. 
+Kyrieleis.
+
+# Du wertes Licht, gib uns deinen Schein, 
+lehr uns Jesus Christ kennen allein, 
+dass wir an ihm bleiben, dem treuen Heiland, 
+der uns bracht hat zum rechten Vaterland. 
+Kyrieleis.
+
+# Du heilge Lieb, schenk uns deine Gunst, 
+lass uns empfinden der Lieb Inbrunst, 
+dass wir uns von Herzen einander lieben 
+und im Frieden auf einem Sinn bleiben. 
+Kyrieleis.
+
+# Du höchster Tröster in aller Not, 
+hilf, dass wir nicht fürchten Schand noch Tod, 
+dass in uns die Sinne nicht verzagen, 
+wenn der Feind wird das Leben verklagen. 
+Kyrieleis.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: Str. 1 13. Jh. / Str. 2-4 Martin Luther 1524, Melodie: 13. Jh., Jistebnitz um 1420. Satz: http://www.liederdatenbank.de/artist/3704 1524.</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>250</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>281</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

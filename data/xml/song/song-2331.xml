@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2331">
+  <title>Sing ein neues Lied</title>
+  <author xlink:href="#artist-3732" xlink:type="simple">
+    <part>Text</part>
+    <year>1997</year>
+  </author>
+  <author xlink:href="#artist-3733" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

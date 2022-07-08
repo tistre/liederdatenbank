@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1042">
+  <title>Hark! the herald angels sing</title>
+  <subtitle/>
+  <text>#
+Hark! the herald angels sing: 
+„Glory to the newborn King! 
+Peace on earth, and mercy mild; 
+God and sinners reconciled.
+Joyful, all ye nations, rise; 
+join the triumph , of the skies; 
+with th'angelic hosts proclaim, 
+„Christ is born in Bethlehem."
+Hark! the herald angels sing, 
+„Glory to the newborn King".
+
+#
+Christ, by highest heav'n adored; 
+Christ, the everlasting Lord! 
+Long desired, behold, him come,
+finding here his humble home. 
+Veiled in flesh the Godhead see; 
+hail th'incar-nate Deity! 
+Pleased as man with men to dwell, 
+Jesus, our Immanuel!
+
+#
+Hail, the heav'n born 
+Prince of Peace! Hail, 
+the Sun of Righteousness! 
+Light and life to all he brings,
+ris'n with healing in his wings. 
+Let us then with angels sing: 
+„Glory to the newborn King! 
+Peace on earth, and mercy mild; 
+God and sinners reconciled." 
+Hark! the herald... Amen.</text>
+  <right>In "Ich will dir danken" (Notenausgabe) ist nur der deutsche Text enthalten.</right>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4262" xlink:type="simple">
+    <part>Text</part>
+    <year>1739</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0140</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <url xlink:href="http://en.wikipedia.org/wiki/Hark%2C_The_Herald_Angels_Sing" xlink:type="simple">
+    <title>Hark! The Herald Angels Sing - Wikipedia (englisch)</title>
+  </url>
+</song>

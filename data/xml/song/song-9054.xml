@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9054">
+  <title>Gottes Sohn ist kommen</title>
+  <subtitle/>
+  <text># Gottes Sohn ist kommen
+uns allen zu Frommen
+hier auf diese Erden
+in armen Gebärden,
+daß er uns von Sünde
+freie und entbinde.
+ 
+# Er kommt auch noch heute
+und lehret die Leute,
+wie sie sich von Sünden
+zur Buß sollen wenden,
+von Irrtum und Torheit
+treten zu der Wahrheit.
+ 
+# Die sich sein nicht schämen
+und sein' Dienst annehmen
+durch ein' rechten Glauben
+mit ganzem Vertrauen,
+denen wird er eben
+ihre Sünd vergeben.
+ 
+# Denn er tut ihn' schenken
+in den Sakramenten
+sich selber zur Speisen,
+sein Lieb zu beweisen,
+daß sie sein genießen
+in ihrem Gewissen.
+ 
+# Die also fest glauben
+und beständig bleiben,
+dem Herren in allem
+trachten zu gefallen,
+die werden mit Freuden
+auch von hinnen scheiden.
+ 
+# Denn bald und behende
+kommt ihr letztes Ende;
+da wird er vom Bösen
+ihre Seel erlösen
+und sie mit sich führen
+zu der Engel Chören.
+ 
+# Wird von dannen kommen,
+wie dann wird vernommen,
+wenn die Toten werden
+erstehn von der Erden
+und zu seinen Füßen
+sich darstellen müssen.
+ 
+# Da wird er sie scheiden:
+seines Reiches Freuden
+erben dann die Frommen;
+doch die Bösen kommen
+dahin, wo sie müssen
+ihr Untugend büßen.
+ 
+# Ei nun, Herre Jesu,
+richte unsre Herzen zu
+daß wir, alle Stunden
+recht gläubig erfunden,
+darinnen verscheiden
+zur ewigen Freuden.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Text</part>
+    <year>1544</year>
+  </author>
+  <author xlink:href="#artist-9055" xlink:type="simple">
+    <part>Music</part>
+    <year>1410</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1501 / 1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+</song>

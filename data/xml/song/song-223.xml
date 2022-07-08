@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-223">
+  <title>Gott wurde arm für uns</title>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <copyrightyear>1984</copyrightyear>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4329026</ccli_number>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-45" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>155</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10768" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>854</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1462</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17399" xlink:type="simple">
+    <cdnum>2</cdnum>
+    <numoncd>17</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-2co-8" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <url xlink:href="http://www.haenssler.de/downloads/detailansicht.html?tx_scmworkfile_pi1%5Bworkid%5D=63049&amp;tx_scmworkfile_pi3%5Bworkid%5D=63049&amp;tx_scmworkfile_pi6%5Bworkid%5D=63049&amp;cHash=d403c3f65d" xlink:type="simple">
+    <title>Noten-Download (kostenpflichtig) bei hänssler</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/downloads/detailansicht.html?tx_scmreview_pi1%5Bworkid%5D=63049&amp;tx_scmshopproduct_pi2%5Bworkid%5D=63049&amp;tx_scmworkfile_pi1%5Bworkid%5D=70872&amp;tx_scmworkfile_pi3%5Bworkid%5D=63049&amp;cHash=a104d41960" xlink:type="simple">
+    <title>MP3-Download (kostenpflichtig) bei hänssler</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/downloads/detailansicht.html?tx_scmreview_pi1%5Bworkid%5D=63049&amp;tx_scmshopproduct_pi2%5Bworkid%5D=63049&amp;tx_scmworkfile_pi1%5Bworkid%5D=63858&amp;tx_scmworkfile_pi3%5Bworkid%5D=63049&amp;cHash=462d5fa06c" xlink:type="simple">
+    <title>Text-Download (kostenpflichtig) bei hänssler</title>
+  </url>
+</song>

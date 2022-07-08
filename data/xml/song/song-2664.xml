@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2664">
+  <title>I receive</title>
+  <language>en</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>1508878</ccli_number>
+  <comment/>
+  <copyrightyear/>
+  <author xlink:href="#artist-3603" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1508878" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=72443398&amp;id=72443775&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

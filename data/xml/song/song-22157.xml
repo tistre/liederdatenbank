@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22157">
+  <title>Geh, trag den Ruf nach draußen</title>
+  <subtitle/>
+  <copyrightyear>1976</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Textfassung: http://www.liederdatenbank.de/song/20929, http://www.liederdatenbank.de/song/25615, http://www.liederdatenbank.de/song/297.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-16121" xlink:type="simple"/>
+  <originalsong xlink:href="#song-4512" xlink:type="simple"/>
+  <author xlink:href="#artist-685" xlink:type="simple">
+    <part>Text</part>
+    <year>1976</year>
+  </author>
+  <songbookref xlink:href="#songbook-22148" xlink:type="simple">
+    <numinsongbook>07</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1366">
+  <title>O Vater, sieh die Deinen</title>
+  <subtitle/>
+  <text># O Vater, sieh die Deinen
+Vor Dir sich hier vereinen
+Zu kindlichem Gebet.
+Du hörest gern ihr Flehen,
+Willst alles wohl versehen,
+Dein Herz uns allzeit offen steht.
+
+# Du sprichst Dein Ja und Amen,
+Wenn wir in Jesu Namen
+Dir, Vater, bittend nahn.
+Die Schätze Deiner Gnade
+Sind auf dem Pilgerpfade
+Den Deinen reichlich aufgetan.
+
+# Drum laß uns Dir vertrauen,
+Auf Deine Güte bauen,
+Die jeden Morgen neu.
+Dein Lieben ist ohn' Wanken,
+So lehr' uns bitten, danken
+In Kindeseinfalt, ohne Scheu.</text>
+  <copyrightyear/>
+  <right>Melodie aus dem 15. Jahrhundert, geistlich 1506</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13418", "http://www.liederdatenbank.de/song/1683", "http://www.liederdatenbank.de/song/1629", "http://www.liederdatenbank.de/song/338", "http://www.liederdatenbank.de/song/1651".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Music</part>
+    <year>1898</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#136" xlink:type="simple"/>
+</song>

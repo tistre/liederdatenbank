@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1985">
+  <title>Ich klopfe an zum heiligen Advent</title>
+  <subtitle/>
+  <text># Ich klopfe an zum heiligen Advent 
+und stehe vor der Tür.
+O selig, wer des Hirten Stimme kennt
+und eilt und öffnet mir!
+Ich werde Nachtmahl mit ihm halten,
+ihm Gnade spenden, Licht entfalten.
+Der ganze Himmel wird ihm aufgetan.
+Ich klopfe an.
+
+# Ich klopfe an und bringe nichts als Heil
+und Segen für und für.
+Zachäus' Glück, Marias gutes Teil
+beschert ich gern auch dir;
+wie ich den Jüngern einst beschieden
+in finstrer Nacht den tiefen Frieden,
+so möcht ich dir mit meinem Segen nah'n;
+ich klopfe an.
+
+# Ich klopfe an. Jetzt bin ich noch dein Gast
+und steh vor deiner Tür;
+einst, Seele, wenn du hier kein Haus mehr hast,
+dann klopfst du an bei mir.
+Wer hier getan nach meinem Worte,
+dem öffn' ich dort die Friedenspforte.
+Wer mich verstieß, dem wird nicht aufgetan.
+Ich klopfe an.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11696" xlink:type="simple">
+    <part>Text</part>
+    <year>1854</year>
+  </author>
+  <author xlink:href="#artist-11697" xlink:type="simple">
+    <part>Music</part>
+    <year>1898</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+</song>

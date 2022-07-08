@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3785">
+  <title>Gedanken des Friedens</title>
+  <subtitle>Denn ich weiß wohl, was Ich für Gedanken über euch habe</subtitle>
+  <author xlink:href="#artist-3884" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+  </songbookref>
+</song>

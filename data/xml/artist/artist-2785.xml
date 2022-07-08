@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2785">
+  <firstname>Robert</firstname>
+  <lastname>Lowry</lastname>
+  <name/>
+  <born>1826</born>
+  <died>1899</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Robert_Lowry_%28Kirchenliedkomponist%29" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-863">
+  <title>Called to a battle</title>
+  <subtitle>By the blood of the Lamb we shall overcome</subtitle>
+  <language>en</language>
+  <right>Universal Songs, Holland</right>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-2777" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-3719" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-17413" xlink:type="simple">
+    <cdnum/>
+    <numoncd>16</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=327191645&amp;id=327191120&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22807">
+  <title>Unser Gott rettet uns</title>
+  <subtitle/>
+  <copyrightyear>2007</copyrightyear>
+  <right>Thankyou Music / Integrity's Hosanna! Music / Leadworship Songs</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5774869</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LA</ccli_features>
+  <originalsong xlink:href="#song-22806" xlink:type="simple"/>
+  <author xlink:href="#artist-3566" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2990" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22808" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

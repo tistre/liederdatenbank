@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12480">
+  <title>Oh Lord You're Beautiful</title>
+  <subtitle/>
+  <copyrightyear>1980</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>14514</ccli_number>
+  <comment>In http://www.liederdatenbank.de/songbook/9168 sind nur die Verse abgedruckt ohne Refrain.</comment>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-12479" xlink:type="simple"/>
+  <author xlink:href="#artist-3865" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz 1980</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1799</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-27" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-27" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-9" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-2" xlink:type="simple">
+    <verse>4-5</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10532">
+  <title>O Mensch, bewein dein Sünde groß</title>
+  <subtitle/>
+  <text># O Mensch, bewein dein Sünde groß,
+darum Christus seins Vaters Schoß
+äußert und kam auf Erden;
+von einer Jungfrau rein und zart
+für uns er hier geboren ward,
+er wollt der Mittler werden.
+Den Toten er das Leben gab
+und tat dabei all Krankheit ab,
+bis sich die Zeit herdrange,
+dass er für uns geopfert würd,
+trüg unsrer Sünden schwere Bürd
+wohl an dem Kreuze lange.
+
+# So lasst uns nun ihm dankbar sein,
+dass er für uns litt solche Pein,
+nach seinem Willen leben.
+Auch lasst uns sein der Sünde feind,
+weil uns Gotts Wort so helle scheint,
+Tag, Nacht danach tun streben,
+die Lieb erzeigen jedermann,
+die Christus hat an uns getan
+mit seinem Leiden, Sterben.
+O Menschenkind, betracht das recht,
+wie Gottes Zorn die Sünde schlägt,
+tu dich davor bewahren!
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-10530" xlink:type="simple">
+    <part>Text</part>
+    <year>um 1530</year>
+  </author>
+  <author xlink:href="#artist-10531" xlink:type="simple">
+    <part>Music</part>
+    <year>1525</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>76</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

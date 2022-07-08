@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20048">
+  <title>Der Christbaum ist der schönste Baum</title>
+  <subtitle/>
+  <text># Der Christbaum ist der schönste Baum,
+den wir auf Erden kennen;
+im Garten klein, im engsten Raum,
+wie lieblich blüht der Wunderbaum,
+wenn seine Lichter brennen,
+wenn seine Lichter brennen, ja brennen!
+
+# Denn sieh, in dieser Wundernacht
+ist einst der Herr geboren,
+der Heiland, der uns selig macht;
+hätt er den Himmel nicht gebracht,
+wär alle Welt verloren,
+wär alle Welt verloren, verloren.
+
+# Doch nun ist Freud und Seligkeit,
+ist jede Nacht voll Kerzen.
+Auch dir, mein Kind, ist das bereit:
+Dein Jesus schenkt dir alles heut,
+gern wohnt er dir im Herzen,
+gern wohnt er dir im Herzen, im Herzen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-20046" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-20047" xlink:type="simple">
+    <part>Music</part>
+    <year>1842</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>172</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

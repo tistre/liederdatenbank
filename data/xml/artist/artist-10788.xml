@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10788">
+  <lastname>Simojoki</lastname>
+  <firstname>Pekka</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.pekkasimojoki.net/" xlink:type="simple"/>
+  <url xlink:href="http://fi.wikipedia.org/wiki/Pekka_Simojoki" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4884">
+  <title>Damit ich Leben hab</title>
+  <subtitle>Nichts soll mir so wichtig werden</subtitle>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+  </songbookref>
+  <right>Thankyou Music</right>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-232">
+  <title>Guten Abend, gut' Nacht</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-437" xlink:type="simple">
+    <part>Text</part>
+    <year>1849</year>
+  </author>
+  <author xlink:href="#artist-438" xlink:type="simple">
+    <part>Music</part>
+    <year>1868</year>
+  </author>
+  <cdref xlink:href="#cd-21960" xlink:type="simple">
+    <cdnum/>
+    <numoncd>13</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/de/album/guten-abend-gut-nacht/id326096062?i=326096102" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

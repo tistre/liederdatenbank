@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25520">
+  <title>Freue dich, Welt, der Herr ist nah!</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Übersetzungen: http://www.liederdatenbank.de/song/200, http://www.liederdatenbank.de/song/4375.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23337" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1032" xlink:type="simple"/>
+  <author xlink:href="#artist-25519" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4685" xlink:type="simple">
+    <part>Music</part>
+    <year>1742</year>
+  </author>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

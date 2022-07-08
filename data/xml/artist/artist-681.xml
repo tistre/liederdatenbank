@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-681">
+  <firstname>Dietrich</firstname>
+  <lastname>Bonhoeffer</lastname>
+  <name/>
+  <comment>Geboren in Breslau, Privatdozent in Berlin, 1935 Leitung eines illegalen Predigerseminars der &gt;Bekennenden Kirche&lt;, nach dessen Auflösung im Widerstand gegen das nationalsozialistische Regime tätig, 1943 verhaftet, 1945 im KZ Flossenbürg umgebracht.</comment>
+  <born>1906</born>
+  <died>1945</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Dietrich_Bonhoeffer" xlink:type="simple">
+    <title>Dietrich Bonhoeffer @ Wikipedia.org</title>
+  </url>
+</artist>

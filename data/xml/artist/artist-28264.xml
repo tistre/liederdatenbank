@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-28264">
+  <lastname>Lützel</lastname>
+  <firstname>Johann Heinrich</firstname>
+  <name/>
+  <born>1823</born>
+  <died>1899</died>
+  <comment>Geboren in Iggelheim, Kirchen- und Volksliederkomponist, Chorleiter, Volksschullehrer und Organist in Zweibrücken.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Jakob Heinrich Lützel" xlink:type="simple"/>
+</artist>

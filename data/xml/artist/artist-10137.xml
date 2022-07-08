@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10137">
+  <lastname>Scriver</lastname>
+  <firstname>Christian</firstname>
+  <name/>
+  <born>1629</born>
+  <died>1693</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Christian_Scriver" xlink:type="simple"/>
+</artist>

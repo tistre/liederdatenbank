@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13158">
+  <title>Du brachst des Todes Bande</title>
+  <subtitle/>
+  <text># Du brachst des Todes Bande,
+Allmächt'ger Heiland Du,
+Hast uns, die ferne standen,
+Gebracht zu Deiner Ruh'.
+
+# Dein Werk hast Du vollendet,
+Du hast's für uns erfüllt,
+Dein Leiden ist beendet,
+Und unser Herz gestillt.
+
+# In Dir ist uns gegeben
+Ein ewig sichres Heil,
+Du selbst bist unser Leben,
+Bist unser köstlich Teil.
+
+# Und durch den Geist geleitet,
+Ist hier Dein Joch nicht schwer.
+Du hast den Weg bereitet,
+Gehst selber vor uns her.
+
+# Wer fasset Deiner Gnade,
+Wer Deine Lieb' und Macht!
+Auf unserm Pilgerpfade
+Sei Dir stets Dank gebracht.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1479", "http://www.liederdatenbank.de/song/10224".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-10213" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#63" xlink:type="simple"/>
+</song>

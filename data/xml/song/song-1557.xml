@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1557">
+  <title>O Jesus, Name ohnegleichen</title>
+  <subtitle/>
+  <text># O Jesu, Name ohnegleichen,
+Voll Gnade, Trost und Lieblichkeit!
+Anbetend sich die Engel neigen,
+Bewundern Deine Herrlichkeit.
+Der Gottheit Fülle wohnt in Dir,
+In Dir sind auch vollendet wir.
+
+# Du bist uns alles: unsre Stärke,
+Erlösung, Weisheit, Licht und Kraft.
+Du bist die Quelle aller Werke,
+Die Deine Gnade in uns schafft.
+Ja, was wir haben, was wir sind,
+In Dir nur seinen Ursprung find't.
+
+# Und Deine Liebe unvergleichlich
+Erfüllet allen Mangel hier.
+Sie strömt in Kampf und Not so reichlich,
+So mild auf uns herab von Dir.
+Und weigerst Du uns je ein Teil,
+So ist es nur zu unserm Heil.
+
+# Drum mag hienieden alles weichen:
+In dieser Welt gibt nichts uns Ruh'.
+Was wär' auch Dir wohl zu vergleichen?
+Des Segens Fülle bist nur Du.
+O Reichtum, wir besitzen Dich,
+Du bleibest unser ewiglich!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1556", "http://www.liederdatenbank.de/song/1542", "http://www.liederdatenbank.de/song/1384".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <author xlink:href="#artist-10211" xlink:type="simple">
+    <part>Music</part>
+    <year>1812</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>312</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#15" xlink:type="simple"/>
+</song>

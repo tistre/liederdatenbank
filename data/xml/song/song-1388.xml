@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1388">
+  <title>O Jesu Christe, wahres Licht</title>
+  <subtitle/>
+  <text># O Jesu Christe, wahres Licht,
+erleuchte, die dich kennen nicht,
+und bringe sie zu deiner Herd,
+dass ihre Seel auch selig werd.
+
+# Erfülle mit dem Gnadenschein,
+die in Irrtum verführet sein,
+auch die, so heimlich ficht noch an
+in ihrem Sinn ein falscher Wahn;
+
+# und was sich sonst verlaufen hat
+von dir, das suche du mit Gnad
+und ihr verwund’t Gewissen heil,
+lass sie am Himmel haben teil.
+
+# Den Tauben öffne das Gehör,
+die Stummen richtig reden lehr,
+die nicht bekennen wollen frei,
+was ihres Herzens Glaube sei.
+
+# Erleuchte, die da sind verblend’t,
+bring her, die sich von uns getrennt,
+versammle, die zerstreuet gehn,
+mach feste, die im Zweifel stehn.
+
+# So werden sie mit uns zugleich
+auf Erden und im Himmelreich
+hier zeitlich und dort ewiglich
+für solche Gnade preisen dich.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4736" xlink:type="simple">
+    <part>Text</part>
+    <year>1630</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>99</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-joh-8" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

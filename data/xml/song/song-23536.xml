@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23536">
+  <title>Ein neues Herz</title>
+  <subtitle>Gott schenkt uns ein neues Herz</subtitle>
+  <copyrightyear>2016</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Lied zur Jahreslosung 2016</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23534" xlink:type="simple"/>
+  <author xlink:href="#artist-23010" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2016</year>
+  </author>
+  <author xlink:href="#artist-23535" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2016</year>
+  </author>
+  <bibleref xlink:href="#biblechapter-eze-36" xlink:type="simple">
+    <verse>26</verse>
+  </bibleref>
+  <url xlink:href="http://jahreslosung.net" xlink:type="simple">
+    <title>jahreslosung.net</title>
+  </url>
+</song>

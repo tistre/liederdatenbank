@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23623">
+  <title>Kommt ein Atem, geht ein Wind</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Strube Verlag München
+Musik für D, A, CH: Boosey&amp;Hawkes/Bote &amp; Bock, Berlin</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>nach dem engl. Original "There's a spirit in the air" von Brian Wren</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23622" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0158</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

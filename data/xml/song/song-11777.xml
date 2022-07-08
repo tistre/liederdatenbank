@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11777">
+  <title>Brich dem Hungrigen dein Brot</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23032" xlink:type="simple"/>
+  <author xlink:href="#artist-11775" xlink:type="simple">
+    <part>Text</part>
+    <year>1951</year>
+  </author>
+  <author xlink:href="#artist-11776" xlink:type="simple">
+    <part>Music</part>
+    <year>1953</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>418</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-58" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-6" xlink:type="simple">
+    <verse>35</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11962">
+  <title>Freiheit, die ich meine</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: http://www.liederdatenbank.de/song/1176.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11950" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4450" xlink:type="simple">
+    <part>Music</part>
+    <year>1817</year>
+  </author>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11059" xlink:type="simple"/>
+</song>

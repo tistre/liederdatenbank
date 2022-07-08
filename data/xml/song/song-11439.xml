@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11439">
+  <title>Herr, nun selbst den Wagen halt</title>
+  <subtitle/>
+  <text># Herr, nun selbst den Wagen halt!
+Bald abseit geht sonst die Fahrt;
+das brächt Freud dem Widerpart,
+der dich veracht so freventlich.
+
+# Gott, erhöh deins Namens Ehr;
+wehr und straf der Bösen Grimm;
+weck die Schaf mit deiner Stimm,
+die dich liebhaben inniglich.
+
+# Hilf, dass alle Bitterkeit
+scheid, o Herr, und alte Treu
+wiederkehr und werde neu,
+dass wir ewig lobsingen dir.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11438" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1536/37</year>
+  </author>
+  <author xlink:href="#artist-11413" xlink:type="simple">
+    <part>Text</part>
+    <year>1897</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>242</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

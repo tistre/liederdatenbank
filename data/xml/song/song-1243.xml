@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1243">
+  <title>Jesus nur alleine sei mein Losungswort</title>
+  <text># "Jesus nur alleine!" sei mein Losungswort! 
+Nein, von meinem Heiland geh ich nicht mehr fort. 
+
+# Er gab mir die Kindschaft, nahm mich auf und an: 
+o wie bin ich fröhlich, dass ich's glauben kann!
+
+# Mir ist's unbegreiflich und zu wunderbar; 
+nein, ich kann's nicht fassen, wie es möglich war.
+
+ Einen solchen Armen, welchem alles fehlt, 
+den hat er zum sel'gen Eigentum erwählt.
+
+# Den, der ihm bereitet manches Herzeleid, 
+hat er von dem ew'gen Untergang befreit.
+
+# Doch er hat's nun einmal so mit mir gemacht, 
+mich zum sel'gen Leben aus dem Tod gebracht.
+
+# Kann nun Abba rufen, kann nun freudig ruh'n 
+in des Heilands Armen: dabei bleibt es nun.
+
+# Dabei soll es bleiben, bis mein Auge bricht. 
+Amen. Halleluja! Jesus lässt mich nicht.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: Mohrungen um 1872.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-4539" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>385</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>395</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>472</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

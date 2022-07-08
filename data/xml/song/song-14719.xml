@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14719">
+  <title>Welchen Jubel, welche Freude</title>
+  <subtitle/>
+  <text># Welchen Jubel, welche Freude 
+bringt die liebe Weihnachtszeit !
+Fröhlich sieht man alle Leute
+in der ganzen Christenheit.
+
+* 1.-3. Ehr sei Gott, so lasst erschallen,
+und Fried auf Erden, Menschen Wohlgefallen!
+Euch ist ja der Heiland geboren,
+der Herr in der Davidsstadt!
+
+# Wieder strahlt im Glanz der Kerzen
+funkelnd uns der Weihnachtsbaum,
+und es fassen unsre Herzen
+all die Herrlichkeiten kaum.
+
+# Doch nur kurz sind solche Freuden,
+bald verlöscht der Kerzen Licht.
+Jesus kann allein bereiten 
+Freuden, die vergehen nicht.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4216" xlink:type="simple">
+    <part>Music</part>
+    <year>1875</year>
+  </author>
+  <songbookref xlink:href="#songbook-14342" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>129</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

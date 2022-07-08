@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11219">
+  <lastname>Arnold</lastname>
+  <firstname>Gottfried</firstname>
+  <name/>
+  <born>1666</born>
+  <died>1714</died>
+  <comment>Geboren in Annaberg (Erzgebirge). Theologiestudium in Wittenberg, 1689 Hauslehrer in Dresden, Begegnung mit Philipp Jakob Spener, 1693 Hauslehrer in Quedlinburg, 1697 Professor für Geschichte in Gießen; als radikaler, an der Urgemeinde orientierter Pietist gab er sein Amt auf und wandte sich zeitweilig von der Kirche ab; in seiner "Unparteiischen Kirchen- und Ketzer-Historie" 1699-1700 verteidigte er die von der Kirche Verfolgten; 1701 Pfarrer in Allstedt, 1703 in Werben bei Havelberg; 1707-1714 Superintendent in Perleberg, dort gestorben.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Gottfried_Arnold_(Theologe)" xlink:type="simple">
+    <title>Gottfried Arnold (Theologe) @ Wikipedia</title>
+  </url>
+</artist>

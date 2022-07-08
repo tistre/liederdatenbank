@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4940">
+  <title>Holy, holy, God Almighty</title>
+  <subtitle/>
+  <copyrightyear>2001</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>3233773</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11271" xlink:type="simple"/>
+  <author xlink:href="#artist-3566" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>64</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=268652817&amp;id=268652594&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download (Brenton Brown) beim iTunes Music Store</title>
+  </url>
+</song>

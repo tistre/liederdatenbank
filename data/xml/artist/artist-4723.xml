@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4723">
+  <firstname>Heinrich</firstname>
+  <lastname>Albert</lastname>
+  <name/>
+  <born>1604</born>
+  <died>1651</died>
+  <comment>Geboren in Lobenstein in Thüringen. 1622 Schüler seines Vetters Heinrich Schütz in Dresden, 1626 Student in Königsberg (Ostpreusen), 1630 dort Domorganist. Meister des deutschen Sololiedes und Mitglied des Dichterbundes um Simon Dach. Gestorben in Königsberg.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Heinrich Albert (Komponist)" xlink:type="simple"/>
+</artist>

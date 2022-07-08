@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1294">
+  <title>Gott wird dich tragen, drum sei nicht verzagt</title>
+  <text># Gott wird dich tragen, drum sei nicht verzagt,
+treu ist der Hüter, der über dich wacht.
+Stark ist der Arm, der dein Leben gelenkt,
+Gott ist ein Gott, der der Seinen gedenkt.
+
+* Gott wird dich tragen mit Händen so lind.
+Er hat dich lieb wie ein Vater sein Kind.
+Das steht dem Glauben wie Felsen so fest:
+Gott ist ein Gott, der uns nimmer verläßt.
+
+# Gott wird dich tragen, wenn einsam du gehst;
+Gott wird dich hören, wenn weinend du flehst.
+Glaub' es, wie bang dir der Morger auch graut,
+Gott ist ein Gott, dem man kühnlich vertraut.
+
+* Gott wird dich...
+
+# Gott wird dich tragen durch Tage der Not;
+Gott wird dir beistehn in Alter und Tod.
+Fest steht das Wort, ob auch alles zerstäubt,
+Gott ist ein Gott, der in Ewigkeit bleibt.
+
+* Gott wird dich...</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479. In http://www.liederdatenbank.de/songbook/4321 steht ein neuerer Text von http://www.liederdatenbank.de/artist/3974</comment>
+  <ccli_features>L</ccli_features>
+  <ccli_number/>
+  <author xlink:href="#artist-4259" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1890</year>
+  </author>
+  <author xlink:href="#artist-4392" xlink:type="simple">
+    <part>Music</part>
+    <year>1890</year>
+  </author>
+  <author xlink:href="#artist-25161" xlink:type="simple">
+    <part>Text</part>
+    <year>1890</year>
+  </author>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>443</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>505</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>434</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>303</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>480</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>539</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

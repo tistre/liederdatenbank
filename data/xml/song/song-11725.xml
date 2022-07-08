@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11725">
+  <title>Ich will zu meinem Vater gehn</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11724" xlink:type="simple">
+    <part>Text</part>
+    <year>1975</year>
+  </author>
+  <author xlink:href="#artist-5007" xlink:type="simple">
+    <part>Music</part>
+    <year>1976</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>315</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-luk-15" xlink:type="simple">
+    <verse>11-24</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-829">
+  <title>Bitchu baadonaj ade ad</title>
+  <author xlink:href="#artist-3993" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>he</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+  </songbookref>
+  <right>© Copyright by Israel Harel</right>
+</song>

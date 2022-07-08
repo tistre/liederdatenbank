@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28410">
+  <title>Sanctus, sanctus (Kanon)</title>
+  <subtitle/>
+  <text>1)
+# Sanc-
+# tus, sanc-
+# tus, san-
+# ---
+# -ctus, sanctus.
+
+2)
+# Hei-
+#lig, hei-
+# lig, hei-
+# ---
+# -lig, heilig.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Kanon für 5 Stimmen.</comment>
+  <language>la</language>
+  <ccli_features/>
+  <author xlink:href="#artist-28409" xlink:type="simple">
+    <part>Music</part>
+    <year>Mitte 16. Jh.</year>
+  </author>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1819</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

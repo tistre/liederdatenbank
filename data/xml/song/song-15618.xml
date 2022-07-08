@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15618">
+  <title>Days of Elijah</title>
+  <subtitle/>
+  <copyrightyear>1996</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>1537904</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-15608" xlink:type="simple"/>
+  <author xlink:href="#artist-3660" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-15605" xlink:type="simple">
+    <cdnum/>
+    <numoncd>11</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+</song>

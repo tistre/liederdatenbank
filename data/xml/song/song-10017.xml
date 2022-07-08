@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10017">
+  <title>Eine freudige Nachricht breitet sich aus</title>
+  <subtitle/>
+  <right>Christophorus-Verlag, Freiburg und Verlag Ernst Kaufmann, Lahr.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Zwischen Strophe und Kehrvers können jeweils gesprochene Nachrichten formuliert werden, z.B.: »Wir sind nicht allein«, »Keiner braucht sich mehr zu fürchten«.
+An Ostern kann man auch singen:
+Christ ist erstanden von der Marter alle.
+
+Weitere Möglichkeiten von »gesungenen Nachrichten«:
+EG Nr. 24,2 Euch ist ein Kindlein heut geborn
+EG Nr. 39,3 Sehet, was hat Gott gegeben
+EG Nr. 326,5 Der Herr ist noch und nimmer nicht von seinem Volk geschieden.
+</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9216" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1975</year>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>294</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>580</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

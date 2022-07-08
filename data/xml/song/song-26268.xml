@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26268">
+  <title>Meine Seel ist still zu Gott</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-30" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26267" xlink:type="simple">
+    <part>Music</part>
+    <year>1942</year>
+  </author>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-62" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+</song>

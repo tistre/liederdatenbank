@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3384">
+  <title>Celebrate the Lord of love</title>
+  <subtitle>Trade your heavy heart</subtitle>
+  <language>en</language>
+  <copyrightyear>1995</copyrightyear>
+  <right>D, A, CH: Hänssler-Verlag, Holzgerlingen.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-2990" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4123" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>198</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-31" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-96" xlink:type="simple">
+    <verse>11-13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-98" xlink:type="simple">
+    <verse>4-9</verse>
+  </bibleref>
+</song>

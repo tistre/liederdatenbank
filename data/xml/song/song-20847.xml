@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20847">
+  <title>Beim frühen Morgenlicht</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-20845" xlink:type="simple">
+    <part>Text</part>
+    <year>1828</year>
+  </author>
+  <author xlink:href="#artist-20846" xlink:type="simple">
+    <part>Music</part>
+    <year>1868</year>
+  </author>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

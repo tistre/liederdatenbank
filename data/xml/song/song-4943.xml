@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4943">
+  <title>Herr aller Hoffnung</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>2003</copyrightyear>
+  <right>GenX-Music (deutscher Text)</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4931706</ccli_number>
+  <comment>Originaltext und Melodie aus Irland überliefert.</comment>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-4944" xlink:type="simple"/>
+  <author xlink:href="#artist-2989" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22427" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-jos-13" xlink:type="simple">
+    <verse>33</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-pro-29" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1co-1" xlink:type="simple">
+    <verse>30</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-6" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-6" xlink:type="simple">
+    <verse>14</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=211876514&amp;id=211876421&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

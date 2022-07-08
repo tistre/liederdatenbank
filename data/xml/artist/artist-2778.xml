@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2778">
+  <firstname>Margret</firstname>
+  <lastname>Birkenfeld</lastname>
+  <name/>
+  <born>1926</born>
+  <died>2019</died>
+  <comment>Geboren in Bochum, Komponistin, Dirigentin, Produzentin im Verlag Hermann Schulte Wetzlar.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Margret_Birkenfeld" xlink:type="simple">
+    <title>Margret Birkenfeld @ Wikipedia.de</title>
+  </url>
+</artist>

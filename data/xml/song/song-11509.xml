@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11509">
+  <title>Komm zu dem Heiland, komme noch heut</title>
+  <subtitle/>
+  <text># Komm zu dem Heiland, komme noch heut!
+Folg seinem Wort, jetzt ist es noch Zeit!
+Er ist uns nah, zum Segnen bereit
+und ruft so freundlich: "Komm!"
+
+* 1.-3. Herrlich, herrlich wird es einmal sein,
+wenn wir zieh'n, von Sünde frei und rein,
+in das gelobte Kanaan ein! Jesus, sieh her, ich komm!
+
+# Komm, o mein Kind, und höre sein Wort!
+Gib ihm dein Herz und folg ihm sofort!
+Er ist ein sicherer ewiger Hort;
+drum mach dich auf und komm!
+
+# Glaube nur fest, der Herr nimmt dich an!
+O fühlst du ihn nicht jetzt dir schon nahn?
+Mit Lieb und Gnad will er dich umfahrn,
+komm nur, o Sünder, komm!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11508" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1873</year>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>226</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

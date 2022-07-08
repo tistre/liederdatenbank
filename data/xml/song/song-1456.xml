@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1456">
+  <title>Erfreue dich, Himmel</title>
+  <subtitle>Auf Erden hier unten</subtitle>
+  <copyrightyear>1963</copyrightyear>
+  <right>Strophe 2-5 Maria Luise Thurmair</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text und Melodie: Straßburger Gesangbuch 1697 / Bamberg 1691</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22156" xlink:type="simple"/>
+  <author xlink:href="#artist-19856" xlink:type="simple">
+    <part>Text</part>
+    <year>1697</year>
+  </author>
+  <author xlink:href="#artist-9031" xlink:type="simple">
+    <part>Text</part>
+    <year>1963</year>
+  </author>
+  <author xlink:href="#artist-9213" xlink:type="simple">
+    <part>Music</part>
+    <year>1669</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>184</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>259</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22148" xlink:type="simple">
+    <numinsongbook>05</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>011</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-148" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+</song>

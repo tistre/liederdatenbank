@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23844">
+  <title>Wär' ich, Herr, ein Schmetterling</title>
+  <subtitle>Kommt, wir preisen den Herrn</subtitle>
+  <copyrightyear>1974/1975</copyrightyear>
+  <right>Celebration Services / Kingway's Thankyou Music, Great Britain; für Europa: Thankyou Music, England.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Übersetzung: http://www.liederdatenbank.de/song/1959. </comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-25382" xlink:type="simple"/>
+  <author xlink:href="#artist-21891" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1974</year>
+  </author>
+  <author xlink:href="#artist-27875" xlink:type="simple">
+    <part>Text</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>236</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>287</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

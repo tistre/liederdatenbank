@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22906">
+  <title>Vom Sein</title>
+  <subtitle/>
+  <copyrightyear>2007</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5848142</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-23194" xlink:type="simple"/>
+  <author xlink:href="#artist-21986" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <url xlink:href="http://www.samuelharfst.de" xlink:type="simple">
+    <title>samuelharfst.de</title>
+  </url>
+</song>

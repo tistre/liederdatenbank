@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1576">
+  <title>Nun so will ich denn mein Leben</title>
+  <text># Nun so will ich denn mein Leben 
+völlig meinem Gott ergeben; 
+nun wohlan, es ist geschehn. Sünd, 
+ich will von dir nicht hören, 
+Welt, ich will mich von dir kehren, 
+ohne je zurückzusehn.
+
+# Hab ich sonst mein Herz geteilet, 
+hab ich hier und da verweilet, 
+endlich sei der Schluss gemacht, 
+meinen Willen ganz zu geben, 
+meinem Gott allein zu leben, 
+ihm zu dienen Tag und Nacht.
+
+# Herr, ich bin so ganz elendig; 
+soll mein Vorsatz sein beständig, 
+so musst du mein Helfer sein. 
+O Durchbrecher aller Banden, 
+lass mich werden nicht zuschanden, 
+denn ich trau in dich allein.
+
+# Dich allein will ich erwählen; 
+alle Kräfte meiner Seelen 
+nimm nur ganz in deine Macht. 
+Ja, ich will mich dir verschreiben; 
+lass es ewig feste bleiben, 
+was ich dir hab zugesagt.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1731</year>
+  </author>
+  <author xlink:href="#artist-4773" xlink:type="simple">
+    <part>Music</part>
+    <year>1856</year>
+  </author>
+  <author xlink:href="#artist-462" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>340</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>360</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>277</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

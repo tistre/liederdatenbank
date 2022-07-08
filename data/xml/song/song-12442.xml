@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12442">
+  <title>Die ganze Welt muß sich schuldig bekennen vor Gott</title>
+  <subtitle/>
+  <text>Die ganze Welt muß sich schuldig bekennen vor Gott.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>57.2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

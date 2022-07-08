@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9077">
+  <title>Vom Himmel kam der Engel Schar</title>
+  <subtitle/>
+  <text># Vom Himmel kam der Engel Schar,
+erschien den hirten offenbar;
+sie sagten ihn': "Ein Kindlein zart,
+das liegt dort in der Krippen hart.
+
+# zu Bethlehem, in Davids Stadt,
+wie Micha das verkündet hat,
+es ist der herre Jesus Christ,
+der euer aller Heiland ist.
+
+# Des sollt ihr alle fröhlich sein,
+daß Gott mit euch ist worden ein.
+Er ist geborn eu'r Fleisch und Blut,
+eu'r Bruder ist das ewig Gut.
+
+# Was kann euch tun die Sünd und Tod?
+Ihr habt mit euch den wahren Gott;
+laßt zürnen Teufel und die Höll,
+Gottes Sohn ist worden eu'r Gesell.
+
+# Er will und kann euch lassen nicht,
+setzt ihr auf ihn eu'r Zuversicht;
+es mögen euch viel fechten an:
+dem sei Trotz, der's nicht lassen kann.
+
+# Zuletzt müßt ihr doch haben recht,
+ihr seid nun worden Gotts Geschlecht.
+Des danket Gott in Ewigkeit,
+geduldig, fröhlich allezeit.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1543</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1535</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>8-20</verse>
+  </bibleref>
+</song>

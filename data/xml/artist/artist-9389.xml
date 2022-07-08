@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9389">
+  <lastname>Müller-Doll</lastname>
+  <firstname>Thea</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>Verwitwete Thea Eichholz-Müller (http://www.liederdatenbank.de/artist/3884 † 2003).</comment>
+  <url xlink:href="http://www.thea-eichholz.de/" xlink:type="simple">
+    <title>thea-eichholz.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/m/theaem.htm" xlink:type="simple">
+    <title>Thea Eichholz-Müller / Layna @ ccmrezis.de</title>
+  </url>
+</artist>

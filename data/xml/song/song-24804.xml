@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24804">
+  <title>Gottes Friede sei mit dir</title>
+  <subtitle>Er, dein Leben, deine Kraft</subtitle>
+  <copyrightyear>2017</copyrightyear>
+  <right>Hans-Joachim Eckstein Liederbuch ergänzend zu seinem ersten Liederbuch. Es enthält 9 neue Lieder. 2017Ecksteinproduction. ISBN 978-3-00-057419-1</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-24800" xlink:type="simple"/>
+  <author xlink:href="#artist-4219" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24802" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-24803" xlink:type="simple">
+    <cdnum/>
+    <numoncd>12</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-14," xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-5" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-4" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <url xlink:href="Hans-Joachim Eckstein@liederdatenbank, Ecksteinproduktion, Homepage von Hans-Joachim Eckstein, Hans-Joachim Eckstein@Wikipedia" xlink:type="simple">
+    <title>Wie ein Adler</title>
+  </url>
+</song>

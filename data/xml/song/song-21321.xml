@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21321">
+  <title>This is the day, that the Lord has made</title>
+  <subtitle/>
+  <copyrightyear>1967/1980</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>32754</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-14643" xlink:type="simple"/>
+  <author xlink:href="#artist-4480" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-118" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-159">
+  <title>Dir, dir, o Höchster, will ich singen</title>
+  <text># Dir, dir, o Höchster, will ich singen,
+denn wo ist doch ein solcher Gott wie du?
+Dir will ich meine Lieder bringen;
+ach gib mir deines Geistes Kraft dazu,
+daß ich es tu im Namen Jesu Christ,
+so wie es dir durch ihn gefällig ist.
+
+# Zieh mich, o Vater, zu dem Sohne,
+damit dein Sohn mich wieder zieh zu dir;
+dein Geist in meinem Herzen wohne
+und meine Sinne und Verstand regier,
+daß ich den Frieden Gottes schmeck und fühl
+und dir darob im Herzen sing und spiel.
+
+# Verleih mir, Höchster, solche Güte,
+so wird gewiß mein Singen recht getan;
+so klingt es schön in meinem Liede,
+und ich bet dich im Geist und Wahrheit an;
+so hebt dein Geist mein Herz zu dir empor,
+daß ich dir Psalmen sing im höhern Chor.
+
+# Denn der kann mich bei dir vertreten
+mit Seufzern, die ganz unaussprechlich sind;
+der lehret mich recht gläubig beten,
+gibt Zeugnis meinem Geist, daß ich dein Kind
+und ein Miterbe Jesu Christi sei,
+daher ich »Abba, lieber Vater!« schrei.
+
+# Was mich dein Geist selbst bitten lehret,
+das ist nach deinem Willen eingericht'
+und wird gewiß von dir erhöret,
+weil es im Namen deines Sohns geschicht,
+durch welchen ich dein Kind und Erbe bin
+und nehme von dir Gnad um Gnade hin.
+
+# Wohl mir, daß ich dies Zeugnis habe!
+Drum bin ich voller Trost und Freudigkeit
+und weiß, daß alle gute Gabe,
+die ich von dir verlanget jederzeit,
+die gibst du und tust überschwenglich mehr,
+als ich verstehe, bitte und begehr.
+
+# Wohl mir, ich bitt in Jesu Namen,
+der mich zu deiner Rechten selbst vertritt,
+in ihm ist alles Ja und Amen,
+was ich von dir im Geist und Glauben bitt.
+Wohl mir, Lob dir jetzt und in Ewigkeit,
+daß du mir schenkest solche Seligkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Unter dem Titel: "http://www.liederdatenbank.de/song/11083" in http://www.liederdatenbank.de/songbook/9160. Gleiche Melodie: "http://www.liederdatenbank.de/song/387", "http://www.liederdatenbank.de/song/13402".</comment>
+  <copyrightyear/>
+  <ccli_number>4817624</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-8248" xlink:type="simple">
+    <part>Text</part>
+    <year>1695</year>
+  </author>
+  <author xlink:href="#artist-25321" xlink:type="simple">
+    <part>Music</part>
+    <year>1690</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>227</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>328</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

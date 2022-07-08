@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13065">
+  <title>Wer kann die Sorgfalt nennen</title>
+  <subtitle/>
+  <text># Wer kann die Sorgfalt nennen,
+Die Du, o Vater, übst,
+Und wer die Liebe kennen,
+Womit Du stets uns liebst?
+Du pflegst uns ohn' Ermüden
+Und trägst uns ohne Rast.
+Du schenkst uns Deinen Frieden,
+Erleichterst jede Last.
+
+# Wir sind Dir anvertrauet
+Von Jesu, unserm Herrn.
+Der Glaube stets Dich schauet,
+Du bist uns nimmer fern,
+Und wirst uns hier bewahren
+In dieser argen Welt,
+Wir werden stets erfahren,
+Daß Vatertreu' uns hält.
+
+# Dein Tun ist stets gesegnet,
+Selbst wenn es hart uns scheint.
+Dein Blick voll Trost begegnet
+Dem, der gebeugt hier weint.
+O wohl uns, daß wir stehen
+In Deiner Vaterhut!
+Wir können freudig gehen,
+Du machst es immer gut.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

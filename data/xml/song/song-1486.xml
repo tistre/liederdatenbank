@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1486">
+  <title>Anbetung dir, dem Lamme</title>
+  <subtitle/>
+  <text># Anbetung Dir, dem Lamme,
+Das unsre Sünden trug.
+Dort an des Kreuzes Stamme
+Wardst Du für uns ein Fluch!
+Preis Dir, daß Du gegeben
+In heißer Liebesglut
+Für uns Dein teures Leben
+Und Dein Versöhnungsblut!
+
+# Wer könnte je ergründen
+Die Tiefen und die Höhn,
+Und wer Verständnis finden
+Von dem, was dort geschehn!
+Du, alles Lebens Quelle,
+Des ew'gen Gottes Sohn,
+Du hast an unsrer Stelle
+Geschmeckt der Sünde Lohn!
+
+# Preis und Anbetung bringen
+Wir Dir, o Herr, dafür!
+Von Deiner Liebe singen
+In Schwachheit wir schon hier.
+Was wird es sein, wenn droben,
+In Deiner Herrlichkeit,
+Dich jeder Mund wird loben,
+O Lamm, in Ewigkeit!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13424", "http://www.liederdatenbank.de/song/13433", "http://www.liederdatenbank.de/song/13530", "http://www.liederdatenbank.de/song/1578", "http://www.liederdatenbank.de/song/13920".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-2779" xlink:type="simple">
+    <part>Text</part>
+    <year>1898</year>
+  </author>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#128" xlink:type="simple"/>
+</song>

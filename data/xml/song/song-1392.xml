@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1392">
+  <title>Dein Wort, o Herr, bringt uns zusammen</title>
+  <text># Dein Wort, o Herr, bringt uns zusammen, dass wir in der Gemeinschaft stehn;
+es lässt an uns die heilgen Flammen des Glaubens und der Liebe sehn.
+Wir werden durch das Wort der Gnaden auch zur Gemeinschaft jener Schar,
+die bei dem Herrn beständig war, gelockt und kräftig eingeladen.
+
+# Nur Menschen, die von Gott geboren, die unter einem Haupte stehn,
+die hat der Herr sich auserkoren, die lässt er Wunderliebe sehn.
+Gemeinschaft mit dem Vater haben und mit dem Sohn im Heilgen Geist:
+Das ist, was ihre Seele speist, nur das kann sie vollkommen laben.
+
+# Der Glaubensgrund, auf dem wir stehen, ist Christus und sein teures Blut;
+das einge Ziel, darauf wir sehen, ist Christus, unser höchstes Gut; 
+sein Wort die Regel, die wir kennen, nicht dieser oder jener Ort; 
+das ist, was wir mit einem Wort die heilige Gemeinde nennen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Melodie: Halle 1704.</right>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-3717" xlink:type="simple">
+    <part>Text</part>
+    <year>1744</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>587</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

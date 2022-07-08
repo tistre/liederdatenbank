@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9075">
+  <title>Nun sei uns willkommen, Herre Christ</title>
+  <subtitle/>
+  <text>Nun sei uns willkommen, Herre Christ,
+der du unser aller Herre bist,
+willkommen auf Erden.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: Aachen 13./14. Jh.
+Kanon für 4 Stimmen.
+Die Melodie-Fassungen differieren leicht.</comment>
+  <language>de</language>
+  <ccli_number/>
+  <copyrightyear/>
+  <author xlink:href="#artist-9074" xlink:type="simple">
+    <part>Music</part>
+    <year>1934</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12154" xlink:type="simple">
+    <numinsongbook>936.1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

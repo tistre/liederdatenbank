@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3492">
+  <title>Höre, Israel! (Agape-Gemeinschaft München e.V.)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Deutsch: Agape-Gemeinschaft, München.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Das israelische Glaubensbekenntnis, 5. Mose 6, 4-5.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9185" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24525" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>111</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-deu-6" xlink:type="simple">
+    <verse>4-5</verse>
+  </bibleref>
+</song>

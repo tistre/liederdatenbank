@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1603">
+  <title>Weicht, ihr Berge, fallt, ihr Hügel</title>
+  <text># Weicht, ihr Berge, fallt, ihr Hügel, 
+Gottes Gnade weicht mir nicht; 
+und der Friede hat dies Siegel, 
+dass Gott seinen Bund nicht bricht. 
+Dieses macht mich unverzagt, 
+weil es mein Erbarmer sagt.
+
+# Das sind Worte für die Schwachen, 
+die sind wohl des Glaubens wert; 
+das heißt Herzen freudig machen, 
+das ist Trost, wie man begehrt. 
+Gottes Gnade weicht dir nicht, 
+weil es dein Erbarmer spricht.
+
+# Hier ist Kraft für alle Müden, 
+die so manches Elend beugt; 
+man find't Gnade, man hat Frieden, 
+welcher alles übersteigt. 
+Mein Erbarmer, sprich mir du 
+dies in allen Nöten zu.
+
+# Wenn mich meine Sünden schmerzen 
+und der Strafen lange Pein, 
+ach so rede meinem Herzen 
+deinen Trost und Frieden ein, 
+dass du mir in Jesus Christ 
+ewig ein Erbarmer bist.
+
+# Gib mir einen starken Glauben, 
+der dein Wort mit Freuden fasst; 
+so kann mir der Tod nicht rauben, 
+was du mir geschenket hast. 
+Auch die Hölle nimmt mir nicht, 
+was mir mein Erbarmer spricht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: http://www.liederdatenbank.de/song/1299 und http://www.liederdatenbank.de/song/373</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year>1767</year>
+  </author>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>Music</part>
+    <year>1680</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>373</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>487</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>342</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>385</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>646</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-54" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

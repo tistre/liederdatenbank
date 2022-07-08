@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1621">
+  <title>Wenn Christus heute Menschen sucht</title>
+  <author xlink:href="#artist-4638" xlink:type="simple">
+    <part>Text</part>
+    <year>1969</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>407</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>548</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+  </songbookref>
+  <right>Christlicher Liederverlag Gisela Hoppe</right>
+</song>

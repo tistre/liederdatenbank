@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11564">
+  <title>Ach Gott, vom Himmel sieh darein</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5225370</ccli_number>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>273</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-12" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3788">
+  <title>Gott greift ein</title>
+  <subtitle>Es herrschten schlimme Zeiten</subtitle>
+  <author xlink:href="#artist-53" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-54" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+  </songbookref>
+</song>

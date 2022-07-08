@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-304">
+  <title>Kommt und lasst uns Christus ehren</title>
+  <text># Kommt und lasst uns Christus ehren,
+Herz und Sinnen zu ihm kehren;
+singet fröhlich, laßt euch hören,
+wertes Volk der Christenheit.
+
+# Sünd und Hölle mag sich grämen,
+Tod und Teufel mag sich schämen;
+wir, die unser Heil annehmen,
+werfen allen Kummer hin.
+
+# Sehet, was hat Gott gegeben:
+seinen Sohn zum ewgen Leben.
+Dieser kann und will uns heben
+aus dem Leid ins Himmels Freud.
+
+# Seine Seel ist uns gewogen,
+Lieb und Gunst hat ihn gezogen,
+uns, die Satan hat betrogen,
+zu besuchen aus der Höh.
+
+# Jakobs Stern ist aufgegangen,
+stillt das sehnliche Verlangen,
+bricht den Kopf der alten Schlangen
+und zerstört der Höllen Reich.
+
+# O du hochgesegnete Stunde,
+da wir das von Herzensgrunde
+glauben und mit unserm Munde
+danken dir, o Jesulein.
+
+# Schönstes Kindlein in dem Stalle,
+sei uns freundlich, bring uns alle
+dahin, da mit süßem Schalle
+dich der Engel Heer erhöht.
+
+
+
+# Schönstes Kindlein in dem Stalle,
+sei uns freundlich, bring uns alle
+dahin, da mit süßem Schalle
+dich der Engel Heer erhöht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Melodie: 14. Jahrhundert / Breslau 1555</right>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1667</year>
+  </author>
+  <author xlink:href="#artist-24326" xlink:type="simple">
+    <part>Music</part>
+    <year>1555</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>210</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>442</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

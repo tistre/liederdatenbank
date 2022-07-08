@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13413">
+  <title>Ewig soll er mir vor Augen stehen</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1523", "http://www.liederdatenbank.de/song/1408", "http://www.liederdatenbank.de/song/14098".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9107" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1864</year>
+  </author>
+  <author xlink:href="#artist-25595" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1755</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>159</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

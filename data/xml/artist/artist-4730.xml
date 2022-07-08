@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4730">
+  <firstname>Eugen</firstname>
+  <lastname>Eckert</lastname>
+  <name/>
+  <born>1954</born>
+  <died/>
+  <comment>Geboren in Frankfurt/Main, dort Pfarrer, Studentenpfarrer.</comment>
+</artist>

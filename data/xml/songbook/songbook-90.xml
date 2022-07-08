@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-90">
+  <name>Du bist Herr 2</name>
+  <state>1</state>
+  <icon xlink:href="#songbook-90-icon" xlink:type="simple"/>
+  <comment>Du bist Herr. Anbetungslieder, Band 2.
+Herausgegeben von Martha u. Helmut Trömel,
+ISBN 3-7751-1591-9, Hänssler-Verlag, Neuhausen-Stuttgart, 1991.
+ISBN 3-925352-36-8, Projektion J Verlag GmbH, 1991.
+
+http://www.liederdatenbank.de/songbook/3430
+http://www.liederdatenbank.de/songbook/90
+http://www.liederdatenbank.de/songbook/91
+http://www.liederdatenbank.de/songbook/562
+http://www.liederdatenbank.de/songbook/9081
+</comment>
+  <url xlink:href="http://www.amazon.de/dp/3925352368" xlink:type="simple">
+    <title>Du bist Herr 2 @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=4" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+</songbook>

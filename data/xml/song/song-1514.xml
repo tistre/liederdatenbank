@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1514">
+  <title>Jauchz, Erd, und Himmel, juble hell</title>
+  <subtitle/>
+  <text># Jauchz, Erd, und Himmel, juble hell,
+die Wunder Gotts mit Freud erzähl,
+die er heut hat begangen
+an seim trostlosen Häuflein klein,
+das saß in friedsamer Gemein
+und betet mit Verlangen,
+dass es mit Geist getaufet werd.
+Der kam mit Feuers Glut zur Erd,
+mit starkem Sturmestoben;
+das Haus erfüllt er überall,
+zerteilt man Zungen sah im Saal,
+und all den Herren loben.
+
+# Auf tat sich ganz des Himmels Schrein;
+man wähnt, sie wären voller Wein,
+all Welt sich drüber wundert.
+In fremden Zungen reden sie,
+bezeugen Gottes Großtat hie,
+von seinem Geist ermuntert.
+So machen sie sich auf den Plan,
+Christus zu lehren fangn sie an,
+dass er der Herr sei worden
+und dass man lasse von der Sünd
+und durch die Tauf werd Gottes Kind:
+das sei der christlich Orden.
+
+# Ach Herr, nun gib, dass uns auch find
+in Fried und Flehn dein sel’ger Wind;
+weh rein vom Sündenstaube
+ganz das Gemüt und füll das Haus
+deiner Gemeind, dein Werk richt aus,
+dass aufgeh rechter Glaube
+und unsre Zung ganz Feuer werd,
+nichts rede als dein Lob auf Erd
+und was den Nächsten bauet.
+Brenn rein die sündige Natur,
+mach uns zur neuen Kreatur,
+ob’s unserm Fleisch auch grauet.
+
+# Komm, Feuer Gottes, Heilger Geist,
+erfüll die Herzen allermeist
+mit deiner Liebe Brennen.
+Von dir allein muss sein gelehrt,
+wer sich durch Buß zu Gott bekehrt;
+gib himmlisches Erkennen.
+Der fleischlich Mensch sich nicht versteht
+auf göttlich Ding und irregeht;
+in Wahrheit wollst uns leiten
+und uns erinnern aller Lehr,
+die uns gab Christus, unser Herr,
+dass wir sein Reich ausbreiten.
+
+# Wie mit dem Vater und dem Sohn
+du eins bist in des Himmels Thron
+im ewgen Liebesbunde,
+also mach uns auch alle eins,
+dass sich absondre unser keins,
+nimm weg der Trennung Sünde
+und halt zusammen Gottes Kind,
+die in der Welt zerstreuet sind
+durch falsche G’walt und Lehre,
+dass sie am Haupt fest halten an,
+loben Christus mit jedermann,
+suchen allein sein Ehre.
+
+# Durch dich besteht der neue Bund,
+ohn dich wird Gott niemandem kund,
+du neuerst unsre Herzen
+und rufst darin dem Vater zu,
+schaffst uns viel Fried und große Ruh
+und tröstest uns in Schmerzen,
+dass uns auch Leiden Ehre ist,
+da du durch Lieb gegossen bist
+in unser Herz ohn Klage.
+Du leitest uns auf ebnem Weg
+und führst uns hier den rechten Steg,
+weckst uns am Jüngsten Tage.
+
+# Du, der lebend’ge Brunnenquell,
+der Gottes Stadt durchfließet hell,
+erquickest das Gemüte.
+Durch dich besteht des Vaters Bau;
+du willst und gibst, dass man dir trau,
+du bist die Gottesgüte.
+Irden Geschirr sind wir und weich,
+brechen gar leicht von jedem Streich;
+du selbst wollst uns bewahren,
+uns brennen wohl in deiner Glut,
+dass uns der Feind nicht Schaden tut,
+wenn wir von hinnen fahren.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/10532" (EG 76).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11318" xlink:type="simple">
+    <part>Text</part>
+    <year>um 1533/34</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>255</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-act-2" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+</song>

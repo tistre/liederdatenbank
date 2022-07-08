@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27230">
+  <title>Deine Güte, o Herr</title>
+  <subtitle>Du holst meine Seele</subtitle>
+  <copyrightyear/>
+  <right>bei: Alain Bergèse, Frankreich. D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Seigneur, par des bontés". Satz: http://www.liederdatenbank.de/artist/12248.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11050" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-449" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9554" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1267</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-38" xlink:type="simple">
+    <verse>16-20</verse>
+  </bibleref>
+</song>

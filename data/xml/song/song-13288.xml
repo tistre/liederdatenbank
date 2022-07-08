@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13288">
+  <title>Bilde unsre Herzen</title>
+  <subtitle/>
+  <text># Bilde unsre Herzen durch den Geist der Liebe,
+Daß wir, Herr, Dich lieben inniglich,
+Daß wir alle stets mit sehnsuchtsvollem Triebe,
+Von der Welt getrennt, erwarten Dich.
+Auf Dich hofft man nicht vergebens,
+Deinem Wort vertrauen wir.
+Christe Jesu, Fürst des Lebens,
+Komm und nimm uns auf zu Dir!
+Wo, befreit von Schmerzen,
+Herr, an Deinem Herzen
+Alle Heil'gen ewig ruhn.
+
+# Komme bald, Herr Jesu! Sehnsuchtsvoller sehen
+Unsre Blicke auf zum Gnadenthron.
+Immer wächst das Rufen; wartend wir hier stehen,
+Bis Du kommst, o Jesu, Gottessohn.
+Geist und Braut, sie flehn nach oben,
+Wie einst Du im Pilgerkleid,
+Daß wir, dieser Welt enthoben,
+Bei Dir sei'n in Ewigkeit.
+Deinen Geist verstehst Du,
+Deine Braut erhörst Du;
+Jesu, komm! wir warten Dein.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13287" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#110" xlink:type="simple"/>
+</song>

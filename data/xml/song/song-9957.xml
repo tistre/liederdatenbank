@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9957">
+  <title>Empty Me</title>
+  <subtitle>Holy fire, burn away</subtitle>
+  <right>Thirsty Moon River Publishing (Admin. by EMI Christian Music Publishing)</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4067467</ccli_number>
+  <comment/>
+  <language>en</language>
+  <author xlink:href="#artist-9954" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <author xlink:href="#artist-9955" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

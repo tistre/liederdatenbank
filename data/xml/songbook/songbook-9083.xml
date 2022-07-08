@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9083">
+  <name>Die Fontäne</name>
+  <icon xlink:href="#file-9082" xlink:type="simple"/>
+  <comment>Ein Liederbuch für Leute unterwegs zum größeren Leben.
+Herausgegeben von Ortwin Schweitzer und Karl Häberle.
+Schriftenniederlage des Evangelischen Jugendwerks in Württemberg GmbH, Stuttgart 1982, 15. Auflage 1991.
+
+Der Nachfolgeband ist "http://www.liederdatenbank.de/songbook/9085".
+
+Das christliche Liedgut ist vollständig erfasst.</comment>
+  <state>1</state>
+  <url xlink:href="http://www.amazon.de/gp/product/3922813038" xlink:type="simple">
+    <title>Die Fontäne @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Die+Font%E4ne" xlink:type="simple">
+    <title>Die Fontäne @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/die-fontaene" xlink:type="simple">
+    <title>Die Fontäne @ eBay.de</title>
+  </url>
+</songbook>

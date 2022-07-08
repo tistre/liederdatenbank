@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28547">
+  <title>Herr, mach mich zum Werkzeug deines Friedens</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Haus Altenberg, 4000 Düsseldorf.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: aus der Normandie überliefert.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-23693" xlink:type="simple">
+    <part>Text</part>
+    <year>1913</year>
+  </author>
+  <author xlink:href="#artist-11363" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-14538" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

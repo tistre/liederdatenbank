@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-43">
+  <firstname>Johannes</firstname>
+  <lastname>Jourdan</lastname>
+  <name/>
+  <born>1923</born>
+  <died>2020</died>
+  <comment>Geboren in Kassel, 1952-1986 Pfarrer in Darmstadt-Arheiligen, Inhaber des Martinus-Verlages Darmstadt.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Jourdan" xlink:type="simple">
+    <title>Johannes Jourden @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://www.johannesjourdan.de/" xlink:type="simple">
+    <title>johannesjourdan.de</title>
+  </url>
+</artist>

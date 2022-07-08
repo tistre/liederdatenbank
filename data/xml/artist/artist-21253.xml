@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-21253">
+  <lastname>Grell</lastname>
+  <firstname>August Eduard</firstname>
+  <name/>
+  <born>1800</born>
+  <died>1886</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Eduard_Grell" xlink:type="simple">
+    <title>Eduard Grell @ Wikipedia.de</title>
+  </url>
+</artist>

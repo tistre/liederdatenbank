@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14064">
+  <title>Dem, der da vermag überschwenglich zu geben</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: 1. Str. nach Eph. 3 u. 1. Tim 1; Str. 2 nach Offb 5.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>528</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

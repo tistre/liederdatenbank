@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4432">
+  <firstname>Johann</firstname>
+  <lastname>Ulich</lastname>
+  <name/>
+  <born>1634</born>
+  <died>1712</died>
+  <comment>Organist in Torgau, später Kantor an der Stadtkirche in Wittenberg.</comment>
+</artist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3050">
+  <title>Ehre, Ehre, Ehre sei dem Lamm</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1983</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Glory To The Lamb".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-4241" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-27" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-5" xlink:type="simple">
+    <verse>11-13</verse>
+  </bibleref>
+</song>

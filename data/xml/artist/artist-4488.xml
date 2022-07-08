@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4488">
+  <firstname>Cyriakus</firstname>
+  <lastname>Günther</lastname>
+  <name/>
+  <born>1650</born>
+  <died>1704</died>
+  <comment>Geboren in Goldbach bei Gotha, Lehrer in Eisfeld bei Hildburghausen, später in Gotha.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Cyriakus_Günther" xlink:type="simple">
+    <title>Cyriakus Günther @ Wikipedia.org</title>
+  </url>
+</artist>

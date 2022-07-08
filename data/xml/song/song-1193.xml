@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1193">
+  <title>Du bist der Weg, und Du führst zur Wahrheit</title>
+  <author xlink:href="#artist-3693" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>319</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+  </songbookref>
+  <right>basileia music, CH-3000 Bern</right>
+</song>

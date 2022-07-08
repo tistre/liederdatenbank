@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13060">
+  <title>Dank dir, o Herr, daß Gold und Schätze</title>
+  <subtitle/>
+  <text># Dank Dir, o Herr, daß Gold und Schätze
+Und Pracht und Schönheit dieser Welt,
+Daß kein Ding je mich kann ergötzen,
+Das mir die Welt vor Augen stellt.
+
+# Mein Jesus, Du bist meine Freude,
+Mein Gold, mein Schatz, mein schönstes Bild.
+Nur Du bist meine Lust und Weide,
+Und was mein Herz für ewig stillt.
+
+# Du bist allein mein Licht und Leben,
+Die Wahrheit selbst, das ew'ge Wort.
+Du bist der Stamm unzähl'ger Reben,
+Bist meiner Seele Fels und Hort.
+
+# Dein Reichtum ist nicht zu ergründen,
+Und Deine Treue wanket nicht;
+Und alles, was in Dir zu finden,
+Erbleichet und veraltet nicht.
+
+# Du wirst mich bald zu Dir erheben,
+Mir zeigen Deine Herrlichkeit.
+Ich werde ewig mit Dir leben,
+Dein Antlitz schauen allezeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4471" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13059" xlink:type="simple">
+    <part>Music</part>
+    <year>1842</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>35</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/031_040.html#35" xlink:type="simple"/>
+</song>

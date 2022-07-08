@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1597">
+  <title>Was Gott tut, das ist wohlgetan</title>
+  <text># Was Gott tut, das ist wohlgetan,
+es bleibt gerecht sein Wille;
+wie er fängt seine Sachen an,
+will ich ihm halten stille.
+Er ist mein Gott, der in der Not
+mich wohl weiß zu erhalten;
+drum lass ich ihn nur walten.
+
+# Was Gott tut, das ist wohlgetan,
+er wird mich nicht betrügen;
+er führet mich auf rechter Bahn;
+so lass ich mir genügen
+an seiner Huld
+und hab Geduld,
+er wird mein Unglück wenden,
+es steht in seinen Händen.
+
+# Was Gott tut, das ist wohlgetan,
+er wird mich wohl bedenken;
+er als mein Arzt und Wundermann
+wird mir nicht Gift einschenken
+für Arzenei;
+Gott ist getreu,
+drum will ich auf ihn bauen
+und seiner Güte trauen.
+
+# Was Gott tut, das ist wohlgetan,
+er ist mein Licht und Leben,
+der mir nichts Böses gönnen kann;
+ich will mich ihm ergeben
+in Freud und Leid,
+es kommt die Zeit,
+da öffentlich erscheinet,
+wie treulich er es meinet.
+
+# Was Gott tut, das ist wohlgetan;
+muss ich den Kelch gleich schmecken,
+der bitter ist nach meinem Wahn,
+lass ich mich doch nicht schrecken,
+weil doch zuletzt
+ich werd ergötzt
+mit süßem Trost im Herzen;
+da weichen alle Schmerzen.
+
+# Was Gott tut, das ist wohlgetan,
+dabei will ich verbleiben.
+Es mag mich auf die raue Bahn
+Not, Tod und Elend treiben,
+so wird Gott mich
+ganz väterlich
+in seinen Armen halten;
+drum lass ich ihn nur walten.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Gemeinfrei (Public Domain)</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4940151</ccli_number>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/10189", "http://www.liederdatenbank.de/song/1223", "http://www.liederdatenbank.de/song/13105", "http://www.liederdatenbank.de/song/13169", "http://www.liederdatenbank.de/song/13438", "http://www.liederdatenbank.de/song/13533".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-4574" xlink:type="simple">
+    <part>Text</part>
+    <year>1675</year>
+  </author>
+  <author xlink:href="#artist-4522" xlink:type="simple">
+    <part>Music</part>
+    <year>(1675) 1679</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>365</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>512</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>394</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>372</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>334</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>302</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>180</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

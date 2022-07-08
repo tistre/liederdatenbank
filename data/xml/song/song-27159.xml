@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27159">
+  <title>Wo der Geist des Herrn ist, da ist Licht.</title>
+  <subtitle/>
+  <copyrightyear>1973</copyrightyear>
+  <right>Dimension Music/John T. Benson Comp. USA. D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Where The Spirit Of The Lord Is"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4841" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1192</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+</song>

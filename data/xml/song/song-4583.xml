@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4583">
+  <title>Du bist nicht allein</title>
+  <subtitle>Auch bei Krankheit und Kummer</subtitle>
+  <language>de</language>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <right/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>410</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-20997" xlink:type="simple">
+    <cdnum/>
+    <numoncd>3</numoncd>
+  </cdref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=63969" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965457&amp;id=270965449&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+  <ccli_features>L</ccli_features>
+</song>

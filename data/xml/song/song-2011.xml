@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2011">
+  <title>Um Gott ins Herz zu sehn</title>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+  </songbookref>
+</song>

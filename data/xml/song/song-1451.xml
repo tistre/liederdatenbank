@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1451">
+  <title>Gott sei Dank durch alle Welt</title>
+  <text># Gott sei Dank durch alle Welt, 
+der sein Wort beständig hält 
+und der Sünder Trost und Rat 
+zu uns hergesendet hat.
+
+# Was der alten Väter Schar 
+höchster Wunsch und Sehnen war 
+und was sie geprophezeit, 
+ist erfüllt in Herrlichkeit.
+
+# Zions Hilf und Abrams Lohn, 
+Jakobs Heil, der Jungfrau Sohn, 
+Wunderbar, Rat, Kraft und Held 
+hat sich treulich eingestellt.
+
+# Sei willkommen o mein Heil! 
+Hosianna, o mein Teil! 
+Richte du auch eine Bahn 
+dir in meinem Herzen an,
+
+# dass, wenn du, o Lebensfürst, 
+prächtig wiederkommen wirst, 
+ich dir mög entgegengehn 
+und gerecht vor dir bestehn.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Es gibt verschiedene Melodien; in http://www.liederdatenbank.de/songbook/88 sind zwei abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-4803" xlink:type="simple">
+    <part>Text</part>
+    <year>1658</year>
+  </author>
+  <author xlink:href="#artist-9051" xlink:type="simple">
+    <part>Music</part>
+    <year>12, Jh.</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <author xlink:href="#artist-9056" xlink:type="simple">
+    <part>Music</part>
+    <year>1659</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <author xlink:href="#artist-12528" xlink:type="simple">
+    <part>Music</part>
+    <year>1744</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>35</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-24" xlink:type="simple">
+    <verse>30</verse>
+  </bibleref>
+</song>

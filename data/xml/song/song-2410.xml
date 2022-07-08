@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2410">
+  <title>Come to the power</title>
+  <subtitle>A mighty fortress</subtitle>
+  <author xlink:href="#artist-3694" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+  </songbookref>
+</song>

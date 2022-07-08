@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3717">
+  <firstname>Johann Ludwig Konrad</firstname>
+  <lastname>Allendorf</lastname>
+  <name/>
+  <born>1693</born>
+  <died>1773</died>
+  <comment>Geboren in Josbach (Oberhessen). Student bei August Hermann Francke in Halle, Hauslehrer in Oderberg und Sagan, Erzieher in Sorau (Niederlausitz), 1724 lutherischer Hofprediger in Köthen, wo er 1736 die pietistischen "Cöthnischen Lieder" herausgab; 1750 Pfarrer an der Liebfrauenkirche und Konsistorialrat in Wernigerode, 1759 Pfarrer und Schulvorsteher in Halle. Seine Lieder gelten als treffender Ausdruck des jüngeren Halleschen Pietismus. Gestorben in Halle.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Ludwig_Konrad_Allendorf" xlink:type="simple"/>
+</artist>

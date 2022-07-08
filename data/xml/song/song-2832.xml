@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2832">
+  <title>Erhöhter und gekrönter Herr</title>
+  <author xlink:href="#artist-3999" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-4000" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+  </songbookref>
+</song>

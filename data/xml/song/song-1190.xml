@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1190">
+  <title>Work, for the night is coming</title>
+  <author xlink:href="#artist-4466" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4030" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>316</numinsongbook>
+  </songbookref>
+</song>

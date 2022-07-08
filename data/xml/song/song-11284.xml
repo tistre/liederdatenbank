@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11284">
+  <title>Heut triumphieret Gottes Sohn</title>
+  <subtitle/>
+  <text># Heut triumphieret Gottes Sohn,
+der von dem Tod erstanden schon,
+Halleluja, Halleluja,
+mit großer Pracht und Herrlichkeit,
+des dankn wir ihm in Ewigkeit.
+Halleluja, Halleluja.
+
+# Dem Teufel hat er sein Gewalt
+zerstört, verheert ihm all Gestalt,
+Halleluja, Halleluja,
+wie pflegt zu tun ein großer Held,
+der seinen Feind gewaltig fällt.
+Halleluja, Halleluja.
+
+# O süßer Herre Jesu Christ,
+der du der Sünder Heiland bist,
+Halleluja, Halleluja,
+führ uns durch dein Barmherzigkeit
+mit Freuden in dein Herrlichkeit.
+Halleluja, Halleluja.
+
+# Nun kann uns kein Feind schaden mehr,
+ob er gleich murrt, ist’s ohn Gefahr.
+Halleluja, Halleluja.
+Er liegt im Staub, der arge Feind,
+wir aber Gottes Kinder seind.
+Halleluja, Halleluja.
+
+# Dafür wir danken all zugleich
+und sehnen uns ins Himmelreich.
+Halleluja, Halleluja.
+Zum sel’gen End Gott helf uns alln,
+so singen wir mit großem Schalln:
+Halleluja, Halleluja.
+
+# Gott Vater in dem höchsten Thron
+samt seinem eingebornen Sohn,
+Halleluja, Halleluja,
+dem Heilgen Geist in gleicher Weis
+in Ewigkeit sei Lob und Preis!
+Halleluja, Halleluja.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11283" xlink:type="simple">
+    <part>Text</part>
+    <year>1591</year>
+  </author>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1601</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>83</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

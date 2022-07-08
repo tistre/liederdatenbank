@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5054">
+  <firstname>Claas P.</firstname>
+  <lastname>Jambor</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.claas-p-jambor.de/" xlink:type="simple">
+    <title>claas-p-jambor.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/j/cpj.htm" xlink:type="simple">
+    <title>Claas P. Jambor @ ccmrezis.de</title>
+  </url>
+</artist>

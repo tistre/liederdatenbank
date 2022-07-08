@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2821">
+  <title>Du bist mächtig, Du bist heilig</title>
+  <language>de</language>
+  <subtitle/>
+  <right>Projektion J Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <copyrightyear>1989</copyrightyear>
+  <ccli_number>5228456</ccli_number>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-9390" xlink:type="simple"/>
+  <author xlink:href="#artist-440" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-450" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

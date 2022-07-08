@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2990">
+  <firstname>Paul</firstname>
+  <lastname>Baloche</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>verheiratet mit http://www.liederdatenbank.de/artist/3718.</comment>
+  <url xlink:href="http://www.leadworship.com/paul/about.html" xlink:type="simple"/>
+</artist>

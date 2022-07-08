@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-22042">
+  <name>was bleibt</name>
+  <comment>Susanne Frankholz, München.
+
+Die CD kann direkt beim Autor per E-Mail angefordert oder beim CVJM München e.V., Landwehrstraße 13, 80336 München erworben werden.</comment>
+  <state>0</state>
+  <icon xlink:href="#file-22041" xlink:type="simple"/>
+  <url xlink:href="http://www.susannefrankholz.de/" xlink:type="simple"/>
+</cd>

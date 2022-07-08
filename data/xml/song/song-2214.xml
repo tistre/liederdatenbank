@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2214">
+  <title>Wach auf, wach auf, du deutsches Land</title>
+  <subtitle/>
+  <text># Wach auf, wach auf, du unser Land!
+Du hast genug geschlafen.
+Bedenk, was Gott an dich gewandt,
+wozu er dich erschaffen.
+Bedenk, was Gott dir hat gesandt
+und dir vertraut sein höchstes Pfand,
+drum magst du wohl aufwachen.
+
+# Gott hat dir Christus, seinen Sohn,
+die Wahrheit und das Leben,
+sein liebes Evangelium
+aus lauter Gnad gegeben;
+denn Christus ist allein der Mann,
+der für der Welt Sünd g’nug getan,
+kein Werk hilft sonst daneben.
+
+# Für solche Gnad und Güte groß
+sollst du dem Herren danken,
+nicht laufen aus seim Gnadenschoß,
+von seinem Wort nicht wanken,
+dich halten, wie sein Wort dich lehrt,
+dadurch wird Gottes Reich gemehrt,
+geholfen auch den Kranken.
+
+# Du solltest bringen gute Frucht,
+so du recht gläubig wärest,
+in Lieb und Treu, in Buß und Zucht,
+wie du solchs selbst begehrest,
+in Gottes Furcht dich halten fein
+und suchen Gottes Ehr allein,
+dass du niemand beschwerest.
+
+# Die Wahrheit wird jetzt unterdrückt,
+will niemand Wahrheit hören;
+die Lüge wird gar fein geschmückt,
+man hilft ihr oft mit Schwören;
+dadurch wird Gottes Wort veracht’,
+die Wahrheit höhnisch auch verlacht,
+die Lüge tut man ehren.
+
+# Gott warnet täglich für und für,
+das zeugen seine Zeichen,
+denn Gottes Straf ist vor der Tür,
+o Land, (Deutschland,) lass dich erweichen,
+tu rechte Buße in der Zeit,
+weil Gott dir noch sein Gnad anbeut
+und tut sein Hand dir reichen.
+
+# Das helfe Gott uns allen gleich,
+dass wir von Sünden lassen,
+und führe uns zu seinem Reich,
+dass wir das Unrecht hassen.
+Herr Jesu Christe, hilf uns nun
+und gib uns deinen Geist dazu,
+dass wir dein Warnung fassen.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3704" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1561 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>605</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>145</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>258</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+</song>

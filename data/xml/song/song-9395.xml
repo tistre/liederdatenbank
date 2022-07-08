@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9395">
+  <title>So glad</title>
+  <subtitle>I'm so glad that you are my savior</subtitle>
+  <right>Musikverlag Klaus Gerth</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <author xlink:href="#artist-9394" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+</song>

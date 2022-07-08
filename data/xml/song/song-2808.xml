@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2808">
+  <title>Der Herr segne dich, der Herr behüte dich</title>
+  <language>de</language>
+  <subtitle/>
+  <right>beim Verfasser</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-4059" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-num-6" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-121" xlink:type="simple">
+    <verse>7-8</verse>
+  </bibleref>
+</song>

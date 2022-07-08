@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1069">
+  <title>Seele, dein Heiland ist frei von den Banden</title>
+  <subtitle>Jesus, dein Heiland, ist Sieger und lebt</subtitle>
+  <text>#
+Seele, dein Heiland ist frei von den Banden, 
+glorreich und herrlich vom Tode erstanden. 
+Freue dich, Seele, die Hölle erbebt;
+
+* 1.-3. 
+Jesus, dein Heiland, ist Sieger und lebt! 
+Jesus, dein Heiland, ist Sieger und lebt!
+
+#
+Freue dich, Seele, der Hölle Macht lieget; 
+Sünde und Satan und Tod sind besieget 
+Der im Triumphe im Grab sich erhebt,
+
+#
+Fasse dich, Seele, sei tapfer im Streite; 
+Jesus ist mit dir und kämpft dir zur Seite. 
+Zage nicht, wenn auch der Tod dich umschwebt:</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Der Text-Urheber ist unklar. Im http://www.liederdatenbank.de/songbook/87, http://www.liederdatenbank.de/songbook/10115 und http://www.liederdatenbank.de/songbook/88 wird http://www.liederdatenbank.de/artist/11531 als Autor angegeben, im http://www.liederdatenbank.de/songbook/89, http://www.liederdatenbank.de/songbook/563, http://www.liederdatenbank.de/songbook/13183 und http://www.liederdatenbank.de/songbook/11685 wird http://www.liederdatenbank.de/artist/11738 als Autor aufgeführt.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11531" xlink:type="simple">
+    <part>Text</part>
+    <year>1783</year>
+  </author>
+  <author xlink:href="#artist-11532" xlink:type="simple">
+    <part>Music</part>
+    <year>1863</year>
+  </author>
+  <author xlink:href="#artist-11738" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>240</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>458</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>272</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

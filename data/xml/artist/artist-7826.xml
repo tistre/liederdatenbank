@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-7826">
+  <lastname>Claudius</lastname>
+  <firstname>Matthias</firstname>
+  <name/>
+  <comment>Geboren in Reinfeld bei Lübeck, Schriftsteller und Bankrevisor in Wandsbek, gestorben in Hamburg.</comment>
+  <born>1740</born>
+  <died>1815</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Matthias_Claudius" xlink:type="simple"/>
+</artist>

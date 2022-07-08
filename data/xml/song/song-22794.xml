@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22794">
+  <title>Er kommt</title>
+  <subtitle>Auf den Flügeln des Windes</subtitle>
+  <copyrightyear>2010</copyrightyear>
+  <right>Verwaltet von Gerth Medien Musikverlag</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5914629</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22681" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-2" xlink:type="simple">
+    <verse>14</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-1" xlink:type="simple">
+    <verse>10-11</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-3" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+</song>

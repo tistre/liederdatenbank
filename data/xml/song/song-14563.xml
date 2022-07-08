@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14563">
+  <title>Oh Kneel Me Down Again </title>
+  <subtitle>Humble King</subtitle>
+  <copyrightyear>1999</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>2650388</ccli_number>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-11271" xlink:type="simple"/>
+  <author xlink:href="#artist-3566" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1999</year>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>219</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

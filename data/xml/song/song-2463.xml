@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2463">
+  <title>O Lord, hear my prayer</title>
+  <author xlink:href="#artist-3669" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>en</language>
+  <keyword xlink:href="#keyword-3668" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>178</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4605">
+  <firstname>John</firstname>
+  <lastname>Ellerton</lastname>
+  <name/>
+  <born>1826</born>
+  <died>1893</died>
+  <comment>Geboren in London, Pfarrer in Mittelengland, Hymnologe, gestorben in Torquay.</comment>
+</artist>

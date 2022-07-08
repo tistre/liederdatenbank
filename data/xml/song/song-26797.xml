@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26797">
+  <title>Meinen Frieden geb ich euch</title>
+  <subtitle/>
+  <copyrightyear>1934</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Thou Wilt Keep Him In Perfect Peace"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21655" xlink:type="simple"/>
+  <author xlink:href="#artist-20743" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1030</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-14" xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-16" xlink:type="simple">
+    <verse>33</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4824">
+  <firstname>Seth</firstname>
+  <lastname>Calvisius</lastname>
+  <name/>
+  <born>1556</born>
+  <died>1615</died>
+  <comment>Geboren in Gorsleben bei Heldrungen, Kantor in Leipzig und Schulpforta, Thomaskantor in Leipzig.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Sethus Calvisius" xlink:type="simple"/>
+</artist>

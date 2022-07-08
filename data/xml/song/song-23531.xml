@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23531">
+  <title>Freude, Freude</title>
+  <subtitle>Jesus, der Heiland der Welt ist da.</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Aus dem Kinder-Weihnachtsmusical “Freude Freude”</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-23530" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24589">
+  <title>Gott ist die Liebe (Melodie: Dania König)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: 1999 Deutsche Bibelgesellschaft, Stuttgart.
+Melodie: 2015 SCM Hänssler, Holzgerlingen.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: 1. Johannes 4,16b (Lutherbibel 1984).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22801" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1jo-4" xlink:type="simple">
+    <verse>16b</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1co-13" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

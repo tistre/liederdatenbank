@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10637">
+  <title>Alles geb' ich dir</title>
+  <subtitle>Alles will ich Jesus weihen</subtitle>
+  <right>Kingsway's Thankyou Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: Dietrich Georg. Andere Übersetzung: "http://www.liederdatenbank.de/song/25914".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-10638" xlink:type="simple"/>
+  <author xlink:href="#artist-10635" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1949</year>
+  </author>
+  <author xlink:href="#artist-10636" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25913" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>437</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

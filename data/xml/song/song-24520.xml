@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24520">
+  <title>König</title>
+  <subtitle>Wer erschuf die Himmel? Wer versetzt die Berge?</subtitle>
+  <copyrightyear>2016</copyrightyear>
+  <right>ICF Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Integrity's Praise! Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24518" xlink:type="simple"/>
+  <author xlink:href="#artist-24516" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24517" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24519" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24497" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24521" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-11" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1jo-4" xlink:type="simple">
+    <verse>16-19</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3995">
+  <firstname>Bartholomäus</firstname>
+  <lastname>Gesius</lastname>
+  <name/>
+  <born>um 1560</born>
+  <died>1613</died>
+  <comment>Geboren in Müncheberg, dort 1582 Kantor, 1593 Frankfurt/Oder.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Bartholom%C3%A4us_Gesius" xlink:type="simple"/>
+</artist>

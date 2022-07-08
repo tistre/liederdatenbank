@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2495">
+  <title>Ich dank Dir für das Kreuz</title>
+  <author xlink:href="#artist-82" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3648" xlink:type="simple">
+    <part>Music</part>
+    <year>1999</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>205</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

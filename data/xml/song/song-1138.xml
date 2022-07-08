@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1138">
+  <title>Jésus Christ, fils de Dieu</title>
+  <subtitle>Merci notre Père</subtitle>
+  <author xlink:href="#artist-68" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>fr</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>258</numinsongbook>
+  </songbookref>
+  <right>Rudolf Slezak Musikverlag GmbH</right>
+</song>

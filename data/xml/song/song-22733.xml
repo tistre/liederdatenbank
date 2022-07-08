@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22733">
+  <title>Mit allem was ich bin</title>
+  <subtitle/>
+  <copyrightyear>2010</copyrightyear>
+  <right>adm. by Gerth Medien, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5905810</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-22731" xlink:type="simple"/>
+  <author xlink:href="#artist-22732" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-100" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-108" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2ti-2" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+</song>

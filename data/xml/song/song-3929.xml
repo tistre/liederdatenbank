@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3929">
+  <title>Gnade und Wahrheit</title>
+  <subtitle>Wir schauen der Wahrheit ins Auge</subtitle>
+  <language>de</language>
+  <right>D&amp;D Medien, Grünkraut</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_number>4686044</ccli_number>
+  <copyrightyear>2001</copyrightyear>
+  <ccli_features>LAN</ccli_features>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>118</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>116</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9081" xlink:type="simple">
+    <numinsongbook>192</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21943" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17300" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23422" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25021" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>921</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14400" xlink:type="simple">
+    <cdnum/>
+    <numoncd>2</numoncd>
+  </cdref>
+  <cdref xlink:href="#cd-21945" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>4</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-4" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=65439" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+  <url xlink:href="https://music.apple.com/de/album/gnade-und-wahrheit/913663605?i=913666235" xlink:type="simple">
+    <title>MP3-Download im iTunes Store</title>
+  </url>
+  <url xlink:href="https://www.youtube.com/watch?v=rHQBQCtvaQg" xlink:type="simple">
+    <title>“Gnade und Wahrheit” – Feiert Jesus! – Thema bei YouTube</title>
+  </url>
+</song>

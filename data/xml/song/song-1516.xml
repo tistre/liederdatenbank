@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1516">
+  <title>Herr, sende Deinen Geist, belebe uns erneut</title>
+  <author xlink:href="#artist-5014" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-5015" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>258</numinsongbook>
+  </songbookref>
+</song>

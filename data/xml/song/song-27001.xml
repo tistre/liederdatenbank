@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27001">
+  <title>Ihr Hirten, erwacht! Erhellt ist die Nacht</title>
+  <subtitle/>
+  <text># Ihr Hirten, erwacht! Erhellt ist die Nacht.
+Wie strahlts aus der Ferne, wie schwinden die Sterne!
+Es naht sich, es naht sich die leuchtende Pracht!
+Der Herr ist zugegen mit himmlischer Macht!
+
+# O fürchtet euch nicht vor göttlichem Licht!
+So tröstet in Freude auf Bethlehems Weide
+ein Engel des Herren die Hirten im Feld,
+ein Bote des Friedens der sündigen Welt.
+
+# Nicht länger verweilt, nach Bethlehem eilt;
+da lieget im Stalle das Heil für euch alle,
+ein Kindlein, geboren in Armut und Not,
+um siegreich zu wenden die Sünd und den Tod.
+
+# Die Hirten geschwind hineilen zum Kind,
+froh singen die Chöre der himmlischen Heere.
+Im Stalle die Hirten dem Kinde sich nahn,
+erkennen die Gottheit und beten es an.
+
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3753" xlink:type="simple">
+    <part>Text</part>
+    <year>1847</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1852</year>
+  </author>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

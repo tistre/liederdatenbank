@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11395">
+  <lastname>Freder</lastname>
+  <firstname>Johannes</firstname>
+  <name/>
+  <born>1510</born>
+  <died>1562</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Freder" xlink:type="simple">
+    <title>Johannes Freder @ Wikipedia.org</title>
+  </url>
+</artist>

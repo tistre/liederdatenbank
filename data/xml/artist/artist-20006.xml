@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-20006">
+  <lastname>Verspoell</lastname>
+  <firstname>Christoph Bernhard</firstname>
+  <name/>
+  <born>1743</born>
+  <died>1818</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Christoph_Bernhard_Verspoell" xlink:type="simple"/>
+</artist>

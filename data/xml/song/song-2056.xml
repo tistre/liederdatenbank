@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2056">
+  <title>Dein Leben sei ein Lied</title>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>225</numinsongbook>
+  </songbookref>
+</song>

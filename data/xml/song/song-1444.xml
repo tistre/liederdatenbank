@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1444">
+  <title>Nun jauchzet, all ihr Frommen</title>
+  <text># Nun jauchzet, all ihr Frommen, 
+zu dieser Gnadenzeit, 
+weil unser Heil ist kommen, 
+der Herr der Herrlichkeit, 
+zwar ohne stolze Pracht, 
+doch mächtig, zu verheeren 
+und gänzlich zu zerstören 
+des Teufels Reich und Macht.
+
+# Er kommt zu uns geritten
+auf einem Eselein
+und stellt sich in die Mitten
+für uns zum Opfer ein.
+Er bringt kein zeitlich Gut,
+er will allein erwerben
+durch seinen Tod und Sterben,
+was ewig währen tut.
+
+# Kein Zepter, keine Krone 
+sucht er auf dieser Welt; 
+im hohen Himmelsthrone 
+ist ihm sein Reich bestellt. 
+Er will hier seine Macht 
+und Majestät verhüllen, 
+bis er des Vaters Willen 
+im Leiden hat vollbracht.
+
+# Ihr Mächtigen auf Erden, 
+nehmt diesen König an, 
+wollt ihr beraten werden 
+und gehn die rechte Bahn, 
+die zu dem Himmel führt; 
+sonst, wo ihr ihn verachtet 
+und nur nach Hoheit trachtet, 
+des Höchsten Zorn euch rührt.
+
+# Ihr Armen und Elenden 
+zu dieser bösen Zeit, 
+die ihr an allen Enden 
+müsst haben Angst und Leid, 
+seid dennoch wohlgemut, 
+lasst eure Lieder klingen, 
+dem König Lob zu singen, 
+der ist eur höchstes Gut.
+
+# Er wird nun bald erscheinen 
+in seiner Herrlichkeit 
+und all eur Klag und Weinen 
+verwandeln ganz in Freud. 
+Er ists, der helfen kann; 
+halt eure Lampen fertig 
+und seid stets sein gewärtig, 
+er ist schon auf der Bahn.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5208036</ccli_number>
+  <author xlink:href="#artist-4842" xlink:type="simple">
+    <part>Text</part>
+    <year>1640</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1640</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>1-9</verse>
+  </bibleref>
+</song>

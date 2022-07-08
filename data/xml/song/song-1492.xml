@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1492">
+  <title>Erschienen ist der herrlich Tag</title>
+  <subtitle/>
+  <text># Erschienen ist der herrlich Tag
+Dran niemand g'nug sich freuen mag:
+Christ, unser Herr, heut triumphiert,
+Sein Feind er all gefangen führt. Halleluja.
+
+# Die alte Schlange, Sünd und Tod,
+Die Höll, all Jammer, Angst und Not
+Hat überwunden Jesus Christ,
+Der heut vom Tod erstanden ist. Halleluja.
+
+# Sein' Raub der Tod mußt geben her,
+Das Leben siegt und ward im Herr,
+Zerstöret ist nun all sein Macht.
+Christ hat das Leben wiederbracht. Halleluja.
+
+# Die Sonn, die Erd, all Kreatur,
+Alls, was betrübet war zuvor,
+Das freut sich heut an diesem Tag,
+Da der Welt Fürst darniederlag. Halleluja.
+
+# Drum wollen wir auch frühlich sein,
+Das Halleluja singen fein
+Und loben dich, Herr Jesu Christ;
+Zu Trost du uns erstanden bist.
+Halleluja.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1560</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>230</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>111</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>217</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>185</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

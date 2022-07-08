@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13292">
+  <title>Lieblich ist's, bei dir zu wohnen</title>
+  <subtitle/>
+  <text># Lieblich ist's, bei Dir zu wohnen,
+Herr, in Deines Vaters Haus,
+Wohin Du, im Glanz zu thronen,
+Einst den Deinen gingst voraus.
+Da, da sehen wir Dich wieder,
+Erstgeborner vieler Brüder.
+Welche Freude wird das sein!
+
+# Unsrer Seelen tiefstes Sehnen
+Geht zum Vaterhaus hinauf,
+Wo die Leiden und die Tränen
+Und die Klagen hören auf.
+Was kein Aug', kein Ohr vernommen,
+In kein Menschenherz gekommen,
+Wird den Deinen dort zuteil.
+
+# Wie der Vogel fern vom Neste,
+Wandeln auf der Erde wir,
+Doch die Wohnung ist uns feste,
+Denn Dein Geist bürgt uns dafür,
+Gräbt uns Brunnen in der Wüste,
+Zeigt uns schon von fern die Küste,
+Wo wir landen einst bei Dir.
+
+# Bald, Herr, kommst Du uns entgegen,
+Führst uns in die Heimat ein,
+Wo wir ruhn von harten Wegen,
+Ungetrübt uns ewig freun,
+Ewig Deiner Liebe singen,
+Preis, Anbetung, Dank Dir bringen,
+Ewig jauchzen Dir zur Ehr'.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch mit den Melodien "http://www.liederdatenbank.de/song/10226", "http://www.liederdatenbank.de/song/13168" oder "http://www.liederdatenbank.de/song/13248" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>113</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/111_120.html#113" xlink:type="simple"/>
+</song>

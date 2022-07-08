@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-951">
+  <title>When I saw the cleansing fountain</title>
+  <subtitle>I will praise Him</subtitle>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+  </songbookref>
+</song>

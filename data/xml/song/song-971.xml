@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-971">
+  <title>Halleluja, Halleluja! Singt und jubelt eurem Herrn</title>
+  <subtitle>Singt Halleluja</subtitle>
+  <text># Halleluja, Halleluja!
+Singt und jubelt eurem Herrn.
+Gottes Volk in der Zerstreuung
+singt ihm nah und fern.
+
+* 1.-4.
+Singt halleluja, singt halleluja,
+dass ihr des Höchsten Ruhm vermehrt.
+Singt halleluja mit Wort und Taten,
+dass die Welt es hört.
+
+# Die da kamen aus der Fremde, 
+folgten ihres Volkes Traum. 
+Wo nur Dorn und Disteln standen, 
+blüht der Mandelbaum. 
+
+# Weckt die Wüste aus dem Schlafe, 
+dass die Blumen fröhlich blühn. 
+Wasser breche aus der Wüste, 
+mach die Steppe grün.
+
+# Aus der Wurzel bricht das Leben. 
+Eine frische Rute sprießt 
+dort im Land, wo reich im Segen 
+Milch und Honig fließt.</text>
+  <language>de</language>
+  <right/>
+  <copyrightyear>1988</copyrightyear>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: nach einem israelischen Motiv.</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-78" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1588</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

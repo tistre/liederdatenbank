@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-321">
+  <title>Macht hoch die Tür</title>
+  <text># Macht hoch die Tür, die Tor macht weit;
+es kommt der Herr der Herrlichkeit,
+ein König aller Königreich,
+ein Heiland aller Welt zugleich,
+der Heil und Leben mit sich bringt;
+derhalben jauchzt, mit Freuden singt:
+Gelobet sei mein Gott,
+mein Schöpfer reich von Rat.
+
+# Er ist gerecht, ein Helfer wert;
+Sanftmütigkeit ist sein Gefährt,
+sein Königskron ist Heiligkeit,
+sein Zepter ist Barmherzigkeit;
+all unsre Not zum End er bringt,
+derhalben jauchzt, mit Freuden singt:
+Gelobet sei mein Gott,
+mein Heiland groß von Tat.
+
+# O wohl dem Land, o wohl der Stadt,
+so diesen König bei sich hat.
+Wohl allen Herzen insgemein,
+da dieser König ziehet ein.
+Er ist die rechte Freudensonn,
+bringt mit sich lauter Freud und Wonn.
+Gelobet sei mein Gott,
+mein Tröster früh und spat.
+
+# Macht hoch die Tür, die Tor macht weit,
+eu'r Herz zum Tempel zubereit'.
+Die Zweiglein der Gottseligkeit
+steckt auf mit Andacht, Lust und Freud;
+so kommt der König auch zu euch,
+ja, Heil und Leben mit zugleich.
+Gelobet sei mein Gott,
+voll Rat, voll Tat, voll Gnad.
+
+# Komm, o mein Heiland Jesu Christ,
+meins Herzens Tür dir offen ist.
+Ach zieh mit deiner Gnade ein;
+dein Freundlichkeit auch uns erschein.
+Dein Heilger Geist uns führ und leit
+den Weg zur ewgen Seligkeit.
+Dem Namen dein, o Herr,
+sei ewig Preis und Ehr.</text>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: Gesangbuch J. a. Freylinghausen.</comment>
+  <copyrightyear/>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>5588206</ccli_number>
+  <author xlink:href="#artist-4401" xlink:type="simple">
+    <part>Text</part>
+    <year>(1623) 1642</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>179</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>161</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>434</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>134</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>262</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>586</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-24" xlink:type="simple">
+    <verse>7-10</verse>
+  </bibleref>
+  <url xlink:href="http://www.kirche-reichenbach.de/show_song.php?Lied=-464" xlink:type="simple"/>
+</song>

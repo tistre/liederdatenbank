@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13176">
+  <title>Vater! Du, der Liebe Fülle</title>
+  <subtitle/>
+  <text># Vater! Du, der Liebe Fülle,
+Bleibest immer treu und gut.
+Selig ist das Herz und stille,
+Wenn's in Deiner Liebe ruht.
+Du gabst hin für unsre Schuld
+Deinen Sohn – o welche Huld!
+Solltest Du den Sohn uns schenken
+Und nicht liebend an uns denken?
+
+# Ja, Du sorgest ohn' Ermüden
+Für uns alle, Tag und Nacht.
+Nie sind wir verwaist hienieden,
+Vatertreu' uns stets bewacht.
+Deiner Liebe ist allein
+Nichts zu groß und nichts zu klein.
+Wo wir gehen, wo wir stehen,
+Läßt Du Deine Lieb' uns sehen.
+
+# Du erquickst und stärkst die Müden,
+Machst getrost der Schwachen Herz,
+Leitest sie in Deinem Frieden,
+Leitest sie durch Kampf und Schmerz.
+Dank, o Vater, Dank sei Dir,
+Preis, Anbetung für und für!
+O welch Vorrecht, Dich zu loben,
+Dich zu preisen hier und droben!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13837".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4640" xlink:type="simple">
+    <part>Music</part>
+    <year>1551</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#80" xlink:type="simple"/>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13396">
+  <title>Herr, lenke unsern Sinn empor</title>
+  <subtitle/>
+  <text># Herr, lenke unsern Sinn empor
+Und öffne gnädig jedes Ohr,
+Führ' durch den Geist ins Wort uns ein
+Und laß es unsre Speise sein!
+
+# Daß jedes Herz gesammelt sei,
+Mach' uns von Sorg' und Unruh' frei,
+Bewege Du des Herzens Grund
+Und tu' uns Deine Gnade kund!
+
+# An Lebenswassern, still und rein,
+Laß alle uns gelagert sein,
+Gib selbst das gute, rechte Wort,
+Du Leibes-Heiland, Hirt und Hort!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/10210" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13395" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13387" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>145</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#145" xlink:type="simple"/>
+</song>

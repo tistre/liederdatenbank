@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-404">
+  <title>Wie ein Strom von oben</title>
+  <text># Wie ein Strom von oben aus der Herrlichkeit
+fließt der Friede Gottes durch das Land der Zeit.
+Tiefer, reicher, klarer strömt er Tag und Nacht
+mit unwiderstehlich wunderbarer Macht.
+Friede meines Gottes, stille, tiefe Ruh',
+alle meine Sorgen, alles deckst Du zu.
+
+# Strömt der Friede Gottes über mich dahin,
+müssen alle finstern Mächte von mir fliehn.
+Seine Fluten tragen Hast und Sorgen fort,
+Friede meines Gottes, sel'ger Ruheort!
+Friede meines Gottes, stille, tiefe Ruh',
+alle meine Sorgen, alles deckst Du zu.
+
+# Wechselt auch hienieden Licht mit Schatten ab,
+strahlt doch meine Sonne warm auf mich herab.
+Wunderbar getragen von der Friedensflut
+sing ich froh dem Ew'gen: Herr, wie hab ich's gut!
+In Dir ist verborgen stille, tiefe Ruh',
+alle meine Sorgen, alles deckst  Du zu.
+</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Unterschiedliche Entstehungsdaten in den verschiedenen Büchern abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5379408</ccli_number>
+  <originalsong xlink:href="#song-1255" xlink:type="simple"/>
+  <author xlink:href="#artist-4388" xlink:type="simple">
+    <part>Text</part>
+    <year>1874</year>
+  </author>
+  <author xlink:href="#artist-4554" xlink:type="simple">
+    <part>Music</part>
+    <year>1895 und Satz</year>
+  </author>
+  <author xlink:href="#artist-10117" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>398</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>387</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>401</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>209</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>218</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>190</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>371</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-66" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

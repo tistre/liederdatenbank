@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4650">
+  <firstname>Carl</firstname>
+  <lastname>Brockhaus</lastname>
+  <name/>
+  <born>1822</born>
+  <died>1899</died>
+  <comment>Geboren in Himmelmert, Lehrer in Breckerfeld, Mitbegründer der Christlichen Versammlung, Verleger, gestorben in (Wuppertal-)Elberfeld. Bruder von http://www.liederdatenbank.de/artist/4651 (1819-1888).</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Carl_Brockhaus" xlink:type="simple"/>
+</artist>

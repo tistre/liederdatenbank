@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-24302">
+  <name>Feiert Jesus! 5</name>
+  <comment>248 neue und bekannte Lieder
+SCM-Hänssler, Holzgerlingen, Art.-Nr.: 395700000
+ISBN: 978-3-7751-5701-8 (Ringbuch); 978-3-7751-5700-1 (Paperback)
+September 2017
+inklusive Liturgien, Bibeltexten, Gebeten, Stichwortverzeichnis, Bibelstellenverzeichnis und Inhaltsverzeichnis</comment>
+  <state>1</state>
+  <icon xlink:href="#file-24303" xlink:type="simple"/>
+  <url xlink:href="https://www.scm-haenssler.de/aktuelles/themenwelten/feiert-jesus" xlink:type="simple">
+    <title>Feiert Jesus! 5 @ SCM Hänssler</title>
+  </url>
+  <url xlink:href="https://www.scm-shop.de/feiert-jesus-5-7486050.html" xlink:type="simple">
+    <title>Feiert Jesus! 5 @ SCM Shop</title>
+  </url>
+  <url xlink:href="https://de.wikipedia.org/wiki/Feiert_Jesus!" xlink:type="simple">
+    <title>Feiert Jesus! @ Wikipedia</title>
+  </url>
+</songbook>

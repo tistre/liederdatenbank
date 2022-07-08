@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1185">
+  <title>A mighty fortress is our God</title>
+  <text># A mighty fortress is our God, 
+a bulwark never failing; 
+our helper he, amid the flood 
+of mortal ills prevailing. 
+For still our ancient foe 
+doth seek to work us woe; 
+his craft and power are great, 
+and, armed with cruel hate, 
+on earth is not his equal.
+
+#  Did we in our own strength confide, 
+our striving would be losing, 
+were not the right man on our side, 
+the man of God's own choosing. 
+Dost ask who that may be? 
+Christ Jesus, it is he; 
+Lord Sabaoth, his name, 
+from age to age the same, 
+and he must win the battle.
+
+# And though this world, with devils filled, 
+should threaten to undo us, 
+we will not fear, for God hath willed 
+his truth to triumph through us. 
+The prince of darkness grim, 
+we tremble not for him. 
+His rage we can endure, 
+for, lo, his doom is sure; 
+one little word shall fell him.
+
+# That word above all earthly powers, 
+no thanks to them, abideth; 
+the Spirit and the gifts are ours 
+through him who with us sideth. 
+Let goods and kindred go, 
+this mortal life also. 
+The body they may kill; 
+God's truth abideth still. 
+His kingdom is forever.</text>
+  <language>en</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_number>1293554</ccli_number>
+  <copyrightyear/>
+  <right/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1184" xlink:type="simple"/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1528</year>
+  </author>
+  <author xlink:href="#artist-25346" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>311</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <url xlink:href="http://en.wikipedia.org/wiki/A_Mighty_Fortress_is_Our_God" xlink:type="simple">
+    <title>A Mighty Fortress is Our God - Wikipedia (englisch)</title>
+  </url>
+  <url xlink:href="http://www.vineyardmusic.com/dach/deutschland/scripts/showWords.asp?ccli=1293554" xlink:type="simple">
+    <title>Liedtext bei vineyardmusic.com</title>
+  </url>
+</song>

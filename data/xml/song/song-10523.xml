@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10523">
+  <title>Herr Christ, der einig Gotts Sohn</title>
+  <subtitle/>
+  <text># Herr Christ, der einig Gotts Sohn,
+Vaters in Ewigkeit,
+aus seim Herzen entsprossen,
+gleichwie geschrieben steht,
+er ist der Morgensterne,
+sein Glänzen streckt er ferne
+vor andern Sternen klar;
+
+# für uns ein Mensch geboren
+im letzten Teil der Zeit,
+dass wir nicht wärn verloren
+vor Gott in Ewigkeit,
+den Tod für uns zerbrochen,
+den Himmel aufgeschlossen,
+das Leben wiederbracht:
+
+# lass uns in deiner Liebe
+und Kenntnis nehmen zu,
+dass wir am Glauben bleiben,
+dir dienen im Geist so,
+dass wir hier mögen schmecken
+dein Süßigkeit im Herzen
+und dürsten stets nach dir.
+
+# Du Schöpfer aller Dinge,
+du väterliche Kraft,
+regierst von End zu Ende
+kräftig aus eigner Macht.
+Das Herz uns zu dir wende
+und kehr ab unsre Sinne,
+dass sie nicht irrn von dir.
+
+# Ertöt uns durch dein Güte,
+erweck uns durch dein Gnad.
+Den alten Menschen kränke,
+dass der neu’ leben mag
+und hier auf dieser Erden
+den Sinn und alls Begehren
+und G’danken hab zu dir.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-10522" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-joh-1" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-34" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-11" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-6" xlink:type="simple">
+    <verse>4-11</verse>
+  </bibleref>
+</song>

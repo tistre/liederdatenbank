@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12814">
+  <title>O Herr, mache mich zu einem Werkzeug deines Friedens</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Normandie um 1913, früher Franz von Assisi zugeschrieben</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-9137" xlink:type="simple">
+    <part>Music</part>
+    <year>1958</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>656</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

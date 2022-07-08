@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26310">
+  <title>Gott Vater, Herr, wir danken dir</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Lukas Osiander (?), Tübingen 1583;  
+Melodie: https://www.liederdatenbank.de/artist/44621529 »Wohl dem, der in Gottes Furcht steht« (zu Psalm 128);   
+Satz (EG Württemberg): https://www.liederdatenbank.de/artist/4818 1608;   
+Andere Melodie: https://www.liederdatenbank.de/song/1614 oder: https://www.liederdatenbank.de/song/11323</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-26309" xlink:type="simple">
+    <part>Text</part>
+    <year>1583</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>557</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

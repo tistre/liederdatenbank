@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1363">
+  <title>Wenn wir singen, wenn wir beten</title>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>1860</year>
+  </author>
+  <author xlink:href="#artist-4657" xlink:type="simple">
+    <part>Music</part>
+    <year>1853</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-461">
+  <firstname>Philipp Friedrich</firstname>
+  <lastname>Hiller</lastname>
+  <name/>
+  <born>1699</born>
+  <died>1769</died>
+  <comment>Geboren in Mühlhausen/Enz bei Vaihingen, Pfarrer in Neckargrönigen, Mühlhausen und Steinheim, seit 1751 durch Verlust seiner Stimme literarisch tätig, Dichter des schwäbischen Pietismus.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Philipp_Friedrich_Hiller" xlink:type="simple"/>
+</artist>

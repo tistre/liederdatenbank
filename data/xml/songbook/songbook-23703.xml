@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-23703">
+  <name>Einfach Spitze - 150 Knallersongs für Kinder</name>
+  <comment>cap-music (52 45670) / Gerth Medien (857449)
+cap-music, Haiterbach-Beihingen 2010 / Gerth Medien Musikverlag Asslar
+150 Lieder (Texte, Noten, Akkordbezeichnungen) und eine ausführliche Grifftabelle
+ISBN 978-3-86773-116-4 / 978-3-89615-449-1 (Notenausgabe)</comment>
+  <state>1</state>
+  <url xlink:href="http://www.cap-music.de/index.php?auswahl=produkt&amp;Nummer=5245670&amp;Sprachzeile=deutsch&amp;Portoland=&amp;agb=" xlink:type="simple">
+    <title>Einfach Spitze @ cap-music</title>
+  </url>
+  <url xlink:href="http://www.gerth.de/index.php?id=details&amp;sku=857449" xlink:type="simple">
+    <title>Einfach Spitze @ Gerth Medien</title>
+  </url>
+  <icon xlink:href="#file-24266" xlink:type="simple"/>
+</songbook>

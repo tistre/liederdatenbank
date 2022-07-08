@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1075">
+  <title>Der Herr fährt auf gen Himmel mit frohem Jubelschall</title>
+  <author xlink:href="#artist-4681" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4683" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+  </songbookref>
+</song>

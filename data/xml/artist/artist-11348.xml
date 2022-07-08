@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11348">
+  <lastname>Arends</lastname>
+  <firstname>Wilhelm Erasmus</firstname>
+  <name/>
+  <born>1677</born>
+  <died>1721</died>
+  <comment>Geboren in Langenstein bei Halberstadt. Student bei August Hermann Francke in Halle. Um 1700 Pfarrer in Krottorf bei Oschersleben, 1718 an St. Peter und Paul in Halberstadt. Gestorben in Halberstadt.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Wilhelm_Erasmus_Arends" xlink:type="simple"/>
+</artist>

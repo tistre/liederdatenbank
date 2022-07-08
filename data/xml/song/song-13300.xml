@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13300">
+  <title>Dir, dem hocherhob'nen Herrn</title>
+  <subtitle/>
+  <text># Dir, dem hocherhob'nen Herrn,
+Den der Engel Scharen loben,
+Dem sich alles, nah und fern,
+Beugen wird einst hier wie droben,
+Bringen Huldigung auch wir,
+Denn Du bist für uns gestorben,
+Hast uns durch Dein Blut erworben.
+Ehre, Preis und Ruhm sei Dir!
+
+# Dich zu schaun in Herrlichkeit,
+Gegenstand der höchsten Ehren,
+Ruhmgekrönt in Ewigkeit –
+Ist das Ziel, das wir begehren.
+Und wenn wir nach dieser Zeit
+Dort mit Dir verherrlicht stehen,
+Wird doch jeder in uns sehen,
+Herr, nur Deine Herrlichkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-2779" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>125</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#125" xlink:type="simple"/>
+</song>

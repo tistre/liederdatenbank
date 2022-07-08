@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4375">
+  <title>Freue dich, Welt, der Herr ist da</title>
+  <language>de</language>
+  <right>Deutscher Text: Verlag Singende Gemeinde</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Andere Übersetzung: "http://www.liederdatenbank.de/song/200", "http://www.liederdatenbank.de/song/25520".</comment>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number/>
+  <originalsong xlink:href="#song-1032" xlink:type="simple"/>
+  <author xlink:href="#artist-4794" xlink:type="simple">
+    <part>Text</part>
+    <year>1719</year>
+  </author>
+  <author xlink:href="#artist-25250" xlink:type="simple">
+    <part>Text</part>
+    <year>1985</year>
+  </author>
+  <author xlink:href="#artist-4685" xlink:type="simple">
+    <part>Music</part>
+    <year>1742 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>185</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0129</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

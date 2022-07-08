@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-16719">
+  <name>Wiedenester Jugendlieder 1993</name>
+  <comment>Wiedenester Jugendlieder 1993/94. Mit Hoffnung leben</comment>
+  <state>1</state>
+  <icon xlink:href="#file-16718" xlink:type="simple"/>
+  <url xlink:href="http://www.wiedenest.de/" xlink:type="simple">
+    <title>Missionshaus Bibelschule Wiedenest</title>
+  </url>
+</songbook>

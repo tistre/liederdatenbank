@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2902">
+  <title>Komm, Heilger Geist, leite mich</title>
+  <subtitle>Ich will Dich sehen</subtitle>
+  <author xlink:href="#artist-4174" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-4175" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+  </songbookref>
+</song>

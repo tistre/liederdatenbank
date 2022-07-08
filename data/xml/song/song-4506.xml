@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4506">
+  <title>Christus ist auferstanden! Freud ist in allen Landen</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Bärenreiter- Verlag, Kassel und Basel</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>»in cymbalis bene sonantibus« bedeutet: mit wohlklingenden Zimbeln (Ps 150,5);   
+Text: Strophe 1 Friedrich Spee 1623; Strophen 2-4 Arbeitsgemeinschaft für Ökumenisches Liedgut 1983. Oberstimme und Satz: http://www.liederdatenbank.de/artist/4322. 1965
+</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-4813" xlink:type="simple">
+    <part>Text</part>
+    <year>1. Str. 1623</year>
+  </author>
+  <author xlink:href="#artist-8989" xlink:type="simple">
+    <part>Music</part>
+    <year>1623</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>555</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>259</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>559</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>549</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-150" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-17300">
+  <name>S.O.N.G. (2. Auflage - blau)</name>
+  <comment>S.O.N.G. - Songs of a new Generation
+Herausgegeben vom Gemeindejugendwerk des Bundes der Evangelisch Freikirchlichen Gemeinden in Deutschland K.d.ö.R.
+J. G. Oncken Nachf. GmbH, überarbeitete 2. Auflage, Kassel 2006, 
+Notenausgabe (Spiralbindung): ISBN 3-87939-532-2 </comment>
+  <state>0</state>
+  <icon xlink:href="#file-17299" xlink:type="simple"/>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=62" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/dp/3879395322" xlink:type="simple">
+    <title>S.O.N.G. @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/produkt/titel/song-plus/103445/103445/103445.html" xlink:type="simple">
+    <title>S.O.N.G. @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.scm-shop.de/produkt/titel/song-plus/103445/103445/103445.html" xlink:type="simple">
+    <title>S.O.N.G. @ SCM-Shop.de</title>
+  </url>
+</songbook>

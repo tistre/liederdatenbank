@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-236">
+  <title>Herbei, o ihr Gläub'gen</title>
+  <text># Herbei, o ihr Gläub'gen, fröhlich triumphieret,
+o kommet, o kommet nach Bethlehem!
+Sehet das Kindlein, uns zum Heil geboren!
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!
+
+# Du König der Ehren, Herrscher der Heerscharen,
+verschmähst nicht zu ruhn in Marien Schoß,
+Gott, wahrer Gott von Ewigkeit geboren.
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!
+
+# Kommt, singet dem Herren, singt, ihr Engelchöre!
+Frohlocket, frohlocket, ihr Seligen:
+"Ehre sei Gott im Himmel und auf Erden!"
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!
+
+# Ja, dir, der du heute Mensch für uns geboren,
+Herr Jesu, sei Ehre und Preis und Ruhm,
+dir, fleischgewordnes Wort des ewgen Vaters!
+O lasset uns anbeten,
+o lasset uns anbeten,
+o lasset uns anbeten den König!</text>
+  <language>de</language>
+  <subtitle>Herbei, o ihr Gläubigen</subtitle>
+  <right>Nach dem lateinischen "Adeste fideles"</right>
+  <comment>Achtung - unterschiedliche Textfassungen in den verschiedenen Liederbüchern.</comment>
+  <textcopyright>free</textcopyright>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <ccli_number>4345691</ccli_number>
+  <originalsong xlink:href="#song-342" xlink:type="simple"/>
+  <author xlink:href="#artist-4833" xlink:type="simple">
+    <part>Text</part>
+    <year>1751</year>
+  </author>
+  <author xlink:href="#artist-9604" xlink:type="simple">
+    <part>Text</part>
+    <year>1790</year>
+  </author>
+  <author xlink:href="#artist-3903" xlink:type="simple">
+    <part>Text</part>
+    <year>(1823)1826</year>
+  </author>
+  <author xlink:href="#artist-21535" xlink:type="simple">
+    <part>Music</part>
+    <year>(1681)1782</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>153</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>212</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>443</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>196</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1153</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>131</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

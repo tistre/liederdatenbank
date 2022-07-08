@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1232">
+  <title>My hope is built on nothing less</title>
+  <subtitle>On Christ, the solid rock, I stand</subtitle>
+  <author xlink:href="#artist-4529" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4530" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>369</numinsongbook>
+  </songbookref>
+</song>

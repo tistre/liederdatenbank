@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26235">
+  <title>Wir glauben Gott im höchsten Thron (Melodie: Gerhard Saß)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: https://www.liederdatenbank.de/song/4520 (https://www.liederdatenbank.de/artist/4716)</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-30" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-26234" xlink:type="simple">
+    <part>Music</part>
+    <year>1939</year>
+  </author>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>24</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+</song>

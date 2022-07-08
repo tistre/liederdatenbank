@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22552">
+  <title>Auf, auf, ihr Christen alle</title>
+  <subtitle/>
+  <text># Auf, auf, ihr Christen alle, 
+ eur König kommt heran!
+ Empfanget ihn mit Schalle, 
+ den großen Wundermann.
+ Ihr Christen, geht herfür, 
+ laßt uns vor allen Dingen 
+ ihm Hosianna singen 
+ mit heiliger Begier.
+
+# Auf, ihr betrübten Herzen, 
+ der König ist gar nah;
+ hinweg all Angst und Schmerzen,
+ der Helfer ist schon da.
+ Seht, wie so mancher Ort
+ hochtröstlich ist zu nennen,
+ da wir ihn finden können 
+ im Nachtmahl, Tauf und Wort. 
+
+# Auf, auf, ihr Vielgeplagten, 
+ der König ist nicht fern;
+ seid fröhlich, ihr Verzagten, 
+ dort kommt der Morgenstern.
+ Der Herr will in der Not
+ mit reichem Trost euch speisen;
+ er will euch Hilf erweisen,
+ ja dämpfen gar den Tod. 
+
+# Frischauf in Gott, ihr Armen,
+ der König sorgt für euch;
+ er will durch sein Erbarmen 
+ euch machen groß und reich.
+ Der an das Tier gedacht,
+ der wird auch euch ernähren;
+ was Menschen nur begehren,
+ das steht in seiner Macht. 
+
+# Frischauf, ihr Hochbetrübten,
+ der König kommt mit Macht;
+ an uns, sein' Herzgeliebten,
+ hat er schon längst gedacht.
+ Nun wird kein Angst noch Pein
+ noch Zorn hinfort uns schaden,
+ dieweil uns Gott aus Gnaden 
+ läßt seine Kinder sein.
+
+# So lauft mit schnellen Schritten,
+ den König zu besehn,
+ dieweil er kommt geritten 
+ stark, herrlich, sanft und schön.
+ Nun tretet all heran,
+ den Heiland zu begrüßen, 
+ der alles Kreuz versüßen 
+ und uns erlösen kann.
+
+# Der König will bedenken 
+ die, welch' er herzlich liebt,
+ mit köstlichen Geschenken,
+ als der sich selbst uns gibt
+ durch seine Gnad und Wort.
+ Ja, König hoch erhoben,
+ wir alle wollen loben 
+ dich freudig hier und dort.
+
+# Nun, Herr, du gibst uns reichlich,
+ wirst selbst doch arm und schwach,
+ du liebest unvergleichlich,
+ du gehst den Sündern nach.
+ Drum wolln wir all in ein 
+ die Stimmen hoch erschwingen,
+ dir Hosianna singen 
+ und ewig dankbar sein.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9895" xlink:type="simple">
+    <part>Text</part>
+    <year>1651</year>
+  </author>
+  <author xlink:href="#artist-14690" xlink:type="simple">
+    <part>Music</part>
+    <year>1651</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>536</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>536</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-21" xlink:type="simple">
+    <verse>1-9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>26</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-zec-9" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

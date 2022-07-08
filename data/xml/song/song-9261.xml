@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9261">
+  <title>Send me, Lord</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-9260" xlink:type="simple"/>
+  <author xlink:href="#artist-20615" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

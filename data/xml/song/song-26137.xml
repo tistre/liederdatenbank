@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26137">
+  <title>Let us talents and tongues employ</title>
+  <subtitle>Jesus lives again, earth can breathe again</subtitle>
+  <copyrightyear/>
+  <right>nach einem Volkslied aus Jamaika</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24417" xlink:type="simple">
+    <part>Text</part>
+    <year>1975</year>
+  </author>
+  <author xlink:href="#artist-11419" xlink:type="simple">
+    <part>Music</part>
+    <year>1972</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>229</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

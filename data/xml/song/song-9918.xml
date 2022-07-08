@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9918">
+  <title>Das alte Jahr vergangen ist</title>
+  <subtitle/>
+  <text># Das alte Jahr vergangen ist;
+wir danken dir, Herr Jesu Christ,
+dass du uns in so großer G’fahr
+so gnädiglich behüt’ dies Jahr.
+
+# Wir bitten dich, ewigen Sohn
+des Vaters in dem höchsten Thron,
+du wollst dein arme Christenheit
+bewahren ferner allezeit.
+
+# Entzieh uns nicht dein heilsam Wort,
+das ist der Seelen Trost und Hort;
+vor falscher Lehr, Abgötterei
+behüt uns, Herr, und steh uns bei.
+
+# Hilf, dass wir fliehn der Sünde Bahn
+und fromm zu werden fangen an;
+der Sünd’ im alten Jahr nicht denk,
+ein gnadenreiches Jahr uns schenk,
+
+# christlich zu leben, seliglich
+zu sterben und hernach fröhlich
+am Jüngsten Tage aufzustehn,
+mit dir in’ Himmel einzugehn,
+
+# zu loben und zu preisen dich
+mit allen Engeln ewiglich.
+O Jesu, unsern Glauben mehr
+zu deines Namens Ruhm und Ehr.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9917" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1588</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <author xlink:href="#artist-9919" xlink:type="simple">
+    <part>Music</part>
+    <year>1687</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+</song>

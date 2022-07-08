@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3279">
+  <title>O preiset den Herrn, er ist gut</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1981</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-28063" xlink:type="simple"/>
+  <originalsong xlink:href="#song-3278" xlink:type="simple"/>
+  <author xlink:href="#artist-4086" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1981</year>
+  </author>
+  <author xlink:href="#artist-3992" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3991" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-136" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

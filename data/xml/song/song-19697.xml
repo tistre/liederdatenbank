@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19697">
+  <title>Nimm mein Leben dir</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Übersetzung: http://www.liederdatenbank.de/song/1814.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-1815" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+</song>

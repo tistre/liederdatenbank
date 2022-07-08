@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3948">
+  <firstname>Cornelia</firstname>
+  <lastname>Reusch</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.connyreusch.de/" xlink:type="simple">
+    <title>connyreusch.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/r/connyreusch.htm" xlink:type="simple">
+    <title>Conny Reusch @ ccmrezis.de</title>
+  </url>
+</artist>

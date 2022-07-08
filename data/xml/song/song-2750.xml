@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2750">
+  <title>Wenn es je an der Zeit war</title>
+  <subtitle>Dein Reich kommt mit Macht</subtitle>
+  <language>de</language>
+  <right/>
+  <copyrightyear>1996</copyrightyear>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4677754</ccli_number>
+  <comment/>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-11802" xlink:type="simple"/>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28582">
+  <title>Herr, i ha Dich gärn</title>
+  <subtitle/>
+  <copyrightyear>2000</copyrightyear>
+  <right>D,A,CH: Projektion Musikverlag, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Jesus, I Love You".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14547" xlink:type="simple"/>
+  <originalsong xlink:href="#song-28581" xlink:type="simple"/>
+  <author xlink:href="#artist-28580" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-19025" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-14338" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

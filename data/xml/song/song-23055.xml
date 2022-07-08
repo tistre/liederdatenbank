@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23055">
+  <title>Gott der Herr regiert</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Genf, 1562</comment>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year>1793</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>625</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

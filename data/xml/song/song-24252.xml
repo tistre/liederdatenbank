@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24252">
+  <title>Was uns bleibt von unserm Lebenstanz</title>
+  <subtitle>Die Liebe bleibt</subtitle>
+  <copyrightyear>1987</copyrightyear>
+  <right>Word Music, Für D/A/CH: CopyCare Deutschland, Holzgerlingen; MPCA Lehsem Music c/o The Bicycle Music Company, www.bicyclemusic.com; Print-Rechte: Hal Leonard Corporation, www.halleonard.com</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: When Love Comes Home</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24250" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24251" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-35" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>222</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

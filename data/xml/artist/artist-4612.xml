@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4612">
+  <firstname>Christian Fürchtegott</firstname>
+  <lastname>Gellert</lastname>
+  <name/>
+  <born>1715</born>
+  <died>1769</died>
+  <comment>Geboren in Hainichen bei Freiberg/Sachsen, Professor der Dichtkunst, Beredsamkeit und Moral in Leipzig, der klassische Dichter seiner Zeit.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Christian_F%C3%BCrchtegott_Gellert" xlink:type="simple"/>
+</artist>

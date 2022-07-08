@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-78">
+  <firstname>Klaus</firstname>
+  <lastname>Heizmann</lastname>
+  <name/>
+  <born>1944</born>
+  <died/>
+  <comment>Geboren in Haan, Musikproduzent und Herausgeber zahlreicher Liederbücher, lebt in Wiesbaden.</comment>
+  <url xlink:href="http://www.klaus-heizmann.de/" xlink:type="simple">
+    <title>klaus-heizmann.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/h/klausheizmann.htm" xlink:type="simple">
+    <title>Klaus Heizmann @ ccmrezis.de</title>
+  </url>
+</artist>

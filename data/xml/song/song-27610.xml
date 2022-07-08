@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27610">
+  <title>Kommt, lasst uns am Morgen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Mifalei Tarbuth Vechinuch, Israel / Used by permission of ACUM Ltd.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: aus dem jüdischen Gebetsbuch. Originaltitel: "Lecha dodi"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22523" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25933" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-694" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

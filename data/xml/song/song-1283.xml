@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1283">
+  <title>Lehre mich glauben, Herr, lehre mich flehn</title>
+  <text># Lehre mich glauben, Herr, lehre mich flehn! 
+Kindlich vertrauensvoll lehre mich flehn! 
+Segne, o Herr, dein Kind, dass es, von Lieb entzündt, 
+Seelen für dich gewinnt! Lehre mich flehn!
+
+# Lehre mich glauben, Herr, lehre mich flehn! 
+Zeig mir der Seelen Wert; lehre mich flehn! 
+Herr, o mein Heiland, gib Weisheit mir, Kraft und Lieb! 
+In deines Geistes Trieb lehre mich flehn!
+
+# Lehre mich glauben, Herr, lehre mich flehn! 
+Eilend die Zeit vergeht, lehre mich flehn! 
+Sieh meine Schwachheit an, nimm mir des Kleinmuts Bann, 
+dass ich obsiegen kann, lehre mich flehn!
+
+# Lehre mich glauben, Herr, lehre mich flehn! 
+Jesus, du kommst ja bald, lehre mich flehn! 
+O, dass du gnädig dann mein Werk kannst schauen an, 
+dass ich bestehen kann, lehre mich flehn!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Originltitel: "Teach Me To Pray, To God"</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-11956" xlink:type="simple">
+    <part>Text</part>
+    <year>1905</year>
+  </author>
+  <author xlink:href="#artist-4609" xlink:type="simple">
+    <part>Music</part>
+    <year>1905</year>
+  </author>
+  <author xlink:href="#artist-12873" xlink:type="simple">
+    <part>Text</part>
+    <year>1905</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>432</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>419</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>312</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>298</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>413</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>172</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4359">
+  <title>Meinen Frieden, meinen Frieden gebe Ich euch</title>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-4635" xlink:type="simple">
+    <part>Music</part>
+    <year>1982</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+  </songbookref>
+</song>

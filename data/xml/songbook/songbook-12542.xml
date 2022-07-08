@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-12542">
+  <name>Herr wir sind Brüder 2</name>
+  <comment>Herr wir sind Brüder 2. Lieder der Kreuzbruderschaft.
+Präsenz-Verlag der Jesus-Bruderschaft, Gnadenthal, Hünfelden, 1979.
+ISBN 3-87630-478-4. - 35 Lieder mit Akkordbezeichnungen.
+
+http://www.liederdatenbank.de/songbook/12677 - Lied 001 bis 035
+http://www.liederdatenbank.de/songbook/12542 - Lied 036 bis 070
+http://www.liederdatenbank.de/songbook/12544 - Lied 071 bis 105</comment>
+  <state>1</state>
+  <icon xlink:href="#file-12680" xlink:type="simple"/>
+  <url xlink:href="http://www.praesenz-verlag.de/" xlink:type="simple">
+    <title>Präsenz-Verlag in Gnadenthal</title>
+  </url>
+  <url xlink:href="http://www.jesus-bruderschaft.de/" xlink:type="simple">
+    <title>Jesus-Bruderschaft</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?sortOrder=titel&amp;titel=herr%2C+wir+sind+br%FCder" xlink:type="simple">
+    <title>Herr wir sind Brüder @ Booklooker.de</title>
+  </url>
+</songbook>

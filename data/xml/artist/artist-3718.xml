@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3718">
+  <firstname>Rita</firstname>
+  <lastname>Baloche</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment>verheiratet mit http://www.liederdatenbank.de/artist/2990.</comment>
+  <url xlink:href="http://www.leadworship.com/paul/rita.html" xlink:type="simple"/>
+</artist>

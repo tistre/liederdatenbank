@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-670">
+  <firstname>William Howard</firstname>
+  <lastname>Doane</lastname>
+  <name/>
+  <born>1832</born>
+  <died>1915</died>
+  <comment>Geboren in Preston (USA), Kaufmann und Kompinist, Herausgeber zahlreicher baptistischer Liederbücher, gestorben in South Orange.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/William_Howard_Doane" xlink:type="simple"/>
+</artist>

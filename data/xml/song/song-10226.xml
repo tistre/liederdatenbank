@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10226">
+  <title>Dank, o Vater, Deiner Gnade</title>
+  <subtitle/>
+  <text># Dank, o Vater, Deiner Gnade,
+Deiner Liebe, Deiner Macht,
+Daß Du von des Sünders Pfade
+Uns so nah zu Dir gebracht!
+"Abba, Vater!" stammeln Kinder,
+"Abba!" die erlösten Sünder.
+Dein Geist zeugt mit unserm Geist,
+Daß Du "Abba, Vater" heißt.
+
+# Fern von Dir, mit Fluch beladen,
+Lagen wir in Sündennacht.
+Christi Blut hat uns aus Gnaden
+Deinem Herzen nah gebracht.
+Du hast in dem Sohn gegeben
+Uns Erlösung, ew'ges Leben.
+O wir danken Dir dafür,
+Abba, Vater! Preis sei Dir!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10225" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#27" xlink:type="simple"/>
+</song>

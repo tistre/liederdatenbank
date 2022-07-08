@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3928">
+  <title>Erhebe Dich, Gott, erneure Dein Wirken</title>
+  <author xlink:href="#artist-57" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2001</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+  </songbookref>
+</song>

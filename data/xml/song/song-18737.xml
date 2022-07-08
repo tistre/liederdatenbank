@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-18737">
+  <title>Bolle reiste jüngst zu Pfingsten</title>
+  <subtitle/>
+  <text># Bolle reiste jüngst zu Pfingsten, 
+nach Pankow war sein Ziel,
+da verlor er seinen Jüngsten
+ganz plötzlich im Gewühl.
+'Ne volle halbe Stunde 
+hat er nach ihm gespürt,
+
+* 1.-4. |: aber dennoch hat sich Bolle
+ganz köstlich amüsiert. :|
+
+# Zu Pankow gab's kein Essen,
+zu Pankow gab's kein Bier,
+war alles aufgefressen
+von fremden Leuten hier.
+Nicht mal 'ne Butterstulle
+hat man ihm reserviert,
+
+# Auf der Schönholzer Heide,
+da gab's 'ne Keilerei.
+Und Bolle, gar nicht feige,
+war mittendrin dabei,
+hat's Messer 'rausgerissen
+und fünfe massakriert,
+
+# Es fing schon an zu tagen,
+als er sein Heim erblickt,
+das Hemd war ohne Kragen,
+das Nasenbein zerknickt,
+das linke Auge fehlte,
+das rechte marmoriert,
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9185" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

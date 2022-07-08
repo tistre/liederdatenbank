@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1677">
+  <title>Der Tag ist seiner Höhe nah</title>
+  <text># Der Tag ist seiner Höhe nah.
+Nun blick zum Höchsten auf,
+der schützend auf dich niedersah
+in jedes Tages Lauf.
+
+# Wie laut dich auch der Tag umgibt,
+jetzt halte lauschend still,
+weil er, der dich beschenkt und liebt,
+die Gabe segnen will.
+
+# Der Mittag kommt. So tritt zum Mahl;
+denk an den Tisch des Herrn.
+Er weiß die Beter überall
+und kommt zu Gaste gern.
+
+# Er segnet dich in Dorf und Stadt,
+in Keller, Kammer, Feld.
+Was dir der Herr gesegnet hat,
+bleibt fortan wohl bestellt.
+
+# Er segnet dir auch Korb und Krug
+und Truhe, Trog und Schrein.
+Ihm kann es keinen Tag genug
+an Segensfülle sein.
+
+# Er segnet deiner Bäume Frucht,
+dein Kind, dein Land, dein Vieh.
+Er segnet, was den Segen sucht.
+Die Gnade schlummert nie.
+
+# Er segnet, wenn du kommst und gehst;
+er segnet, was du planst.
+Er weiß auch, dass du’s nicht verstehst
+und oft nicht einmal ahnst.
+
+# Und dennoch bleibt er ohn Verdruss
+zum Segnen stets bereit,
+gibt auch des Regens milden Fluss,
+wenn Regen an der Zeit.
+
+# Sein guter Schatz ist aufgetan,
+des Himmels ewges Reich.
+Zu segnen hebt er täglich an
+und bleibt sich immer gleich.
+
+# Wer sich nach seinem Namen nennt,
+hat er zuvor erkannt.
+Er segnet, welche Schuld auch trennt,
+die Werke deiner Hand.
+
+# Die Hände, die zum Beten ruhn,
+die macht er stark zur Tat.
+Und was der Beter Hände tun,
+geschieht nach seinem Rat.
+
+# Der Tag ist seiner Höhe nah.
+Nun stärke Seel und Leib,
+dass, was an Segen er ersah,
+dir hier und dort verbleib.
+</text>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14692" xlink:type="simple"/>
+  <author xlink:href="#artist-3743" xlink:type="simple">
+    <part>Text</part>
+    <year>1938</year>
+  </author>
+  <author xlink:href="#artist-4380" xlink:type="simple">
+    <part>Music</part>
+    <year>1949</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>473</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>466</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>457</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-deu-28" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+</song>

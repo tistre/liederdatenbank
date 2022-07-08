@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-355">
+  <title>Sei still in der Gegenwart des Herrn</title>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-125" xlink:type="simple"/>
+  <author xlink:href="#artist-673" xlink:type="simple">
+    <part>Text</part>
+    <year>1995</year>
+  </author>
+  <author xlink:href="#artist-3582" xlink:type="simple">
+    <part>Music</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>197</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-exo-3" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+</song>

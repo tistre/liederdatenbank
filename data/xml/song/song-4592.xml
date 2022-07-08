@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4592">
+  <title>Noch ehe die Sonne am Himmel stand</title>
+  <subtitle>Du bist Gott, unser Gott</subtitle>
+  <author xlink:href="#artist-4730" xlink:type="simple">
+    <part>Text</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-4731" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>448</numinsongbook>
+  </songbookref>
+</song>

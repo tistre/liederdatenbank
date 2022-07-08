@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24427">
+  <title>Friedensstifter wolln wir sein, Christus lädt uns dazu ein</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text nach: 1552 Menno Simons "Vrede dragen in Gods naam"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24425" xlink:type="simple">
+    <part>Text</part>
+    <year>1552</year>
+  </author>
+  <author xlink:href="#artist-24426" xlink:type="simple">
+    <part>Text</part>
+    <year>2003</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1491">
+  <title>O Tod, wo ist dein Stachel nun</title>
+  <subtitle/>
+  <text># O Tod, wo ist dein Stachel nun?
+Wo ist dein Sieg, o Hölle?
+Was kann uns jetzt der Teufel tun,
+wie grausam er sich stelle?
+Gott sei gedankt, der uns den Sieg
+so herrlich hat nach diesem Krieg
+durch Jesus Christ gegeben!
+
+# Wie sträubte sich die alte Schlang,
+da Christus mit ihr kämpfte!
+Mit List und Macht sie auf ihn drang,
+und dennoch er sie dämpfte.
+Ob sie ihn in die Ferse sticht,
+so sieget sie doch darum nicht,
+der Kopf ist ihr zertreten.
+
+# Lebendig Christus kommt herfür,
+die Feind nimmt er gefangen,
+zerbricht der Hölle Schloss und Tür,
+trägt weg den Raub mit Prangen.
+Nichts ist, das in dem Siegeslauf
+den starken Held kann halten auf,
+alls liegt da überwunden.
+
+# Des Herren Rechte, die behält
+den Sieg und ist erhöhet;
+des Herren Rechte mächtig fällt,
+was ihr entgegenstehet.
+Tod, Teufel, Höll und alle Feind
+durch Christi Sieg bezwungen seind,
+ihr Zorn ist kraftlos worden.
+
+# Es war getötet Jesus Christ,
+und sieh, er lebet wieder.
+Weil nun das Haupt erstanden ist,
+stehn wir auch auf, die Glieder.
+So jemand Christi Worten glaubt,
+im Tod und Grabe der nicht bleibt;
+er lebt, ob er gleich stirbet.
+
+# Wer täglich hier durch wahre Reu
+mit Christus auferstehet,
+ist dort vom andern Tode frei,
+derselb ihn nicht angehet.
+Genommen ist dem Tod die Macht,
+Unschuld und Leben wiederbracht
+und unvergänglich Wesen.
+
+# Das ist die reiche Osterbeut,
+der wir teilhaftig werden:
+Fried, Freude, Heil, Gerechtigkeit
+im Himmel und auf Erden.
+Hier sind wir still und warten fort,
+bis unser Leib wird ähnlich dort
+Christi verklärtem Leibe.
+
+# O Tod, wo ist dein Stachel nun?
+Wo ist dein Sieg, o Hölle?
+Was kann uns jetzt der Teufel tun
+wie grausam er sich stelle?
+Gott sei gedankt, der uns den Sieg
+so herrlich hat in diesem Krieg
+durch Jesus Christ gegeben!
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11287" (EG 342). Andere Melodie: "http://www.liederdatenbank.de/song/1533" (EG 341.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4401" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1635) 1644</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>228</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>113</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1co-15" xlink:type="simple">
+    <verse>55</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1co-15" xlink:type="simple">
+    <verse>57</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-gen-3" xlink:type="simple">
+    <verse>15</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-118" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-11" xlink:type="simple">
+    <verse>25</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2ti-1" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

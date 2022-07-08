@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23556">
+  <title>Alle Menschen, höret</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Erentrud Kraft
+Musik: Verlag G. F. Callenbach, NL-Nijkerk</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>nach einem ndl. Originaltext von Simon Jelsma</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-23555" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11716" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>098</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

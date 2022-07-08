@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11394">
+  <title>Es wolle Gott uns gnädig sein</title>
+  <subtitle/>
+  <text># Es wolle Gott uns gnädig sein 
+und seinen Segen geben,
+sein Antlitz uns mit hellem Schein 
+erleucht zum ewgen Leben,
+daß wir erkennen seine Werk 
+und was ihm lieb auf Erden,
+und Jesus Christus, Heil und Stärk, 
+bekannt den Heiden werden
+und sie zu Gott bekehren.
+
+# So danken, Gott, und loben dich 
+die Heiden überalle,
+und alle Welt, die freue sich
+und singt mit großem Schalle,
+dass du auf Erden Richter bist
+und lässt die Sünd nicht walten;
+dein Wort die Hut und Weide ist,
+die alles Volk erhalten,
+in rechter Bahn zu wallen.
+
+# Es danke, Gott, und lobe dich
+das Volk in guten Taten;
+das Land bringt Frucht und bessert sich,
+dein Wort ist wohlgeraten.
+Uns segne Vater und der Sohn,
+uns segne Gott der Heilig Geist,
+dem alle Welt die Ehre tu,
+vor ihm sich fürchte allermeist.
+Nun sprecht von Herzen: Amen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <author xlink:href="#artist-11393" xlink:type="simple">
+    <part>Music</part>
+    <year>1522</year>
+  </author>
+  <author xlink:href="#artist-10531" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>280</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-67" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

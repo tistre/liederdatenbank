@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1683">
+  <title>Nun sich der Tag geendet</title>
+  <text># Nun sich der Tag geendet, 
+mein Herz zu dir sich wendet 
+und danket inniglich; 
+dein holdes Angesichte 
+zum Segen auf mich richte, 
+erleuchte und entzünde mich.
+
+# Die Zeit ist wie verschenket,
+drin man nicht dein gedenket,
+da hat man's nirgend gut;
+weil du uns Herz und Leben
+allein für dich gegeben,
+das Herz allein in dir auch ruht.
+
+# Ich schließe mich aufs Neue 
+in deine Vatertreue 
+und Schutz und Herze ein; 
+die irdischen Geschäfte 
+und alle finstern Kräfte 
+vertreibe durch dein Nahesein.
+
+# Dass du mich stets umgibest, 
+dass du mich herzlich liebest 
+und rufst zu dir hinein, 
+dass du vergnügst alleine 
+so wesentlich, so reine, 
+lass früh und spät mir wichtig sein.
+
+# Ein Tag, der sagt dem andern, 
+mein Leben sei ein Wandern 
+zur großen Ewigkeit. O Ewigkeit, so schöne, 
+mein Herz an dich gewöhne, 
+mein Heim ist nicht in dieser Zeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1366", "http://www.liederdatenbank.de/song/13418", "http://www.liederdatenbank.de/song/1629", "http://www.liederdatenbank.de/song/338", "http://www.liederdatenbank.de/song/1651".</comment>
+  <copyrightyear/>
+  <ccli_number>5210048</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1745</year>
+  </author>
+  <author xlink:href="#artist-4729" xlink:type="simple">
+    <part>Music</part>
+    <year>(um 1495) 1539</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>482</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>668</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>475</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>481</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>400</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>299</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>208</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

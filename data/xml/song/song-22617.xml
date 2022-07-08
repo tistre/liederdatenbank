@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22617">
+  <title>Jesus, Haupt und Herr der Deinen</title>
+  <subtitle/>
+  <text># Jesus, Haupt und Herr der Deinen, Sonne der Gerechtigkeit,
+Wandelnd unter den Gemeinden, die zu deinem Dienst bereit,
+Komm zu uns wir sind beisammen, gieße deines Geistes Flammen,
+Gieße Licht und Leben aus über dies dein Gotteshaus.
+
+# Komm, belebe alle Glieder, du der Kirche heilig Haupt,
+Treibe aus, was dir zuwider, was uns deinen Segen raubt.
+Komm, entdeck uns in der Klarheit Gottes Herz voll Gnad und Wahrheit;
+Laß uns fühlen allzugleich: Ich bin mitten unter euch!
+
+# Laß sich die Gemüter kehren zu dir, Glanz der Ewigkeit;
+Laß uns innigst nur begehren, was uns dein Erbarmen beut.
+Laß dein Licht und Leben fließen und in alle sich ergießen;
+Stärke deinen Gnadenbund, Herr in jedes Herzens Grund.
+
+# Komm, o Herr, in jede Seele, laß sie deine Wohnung sein,
+Daß dir einst nicht eine fehle in der Gotteskinder reihn.
+laß uns deines Geistes Gaben reichlich miteinander haben;
+Offenbare königlich, Haupt, in allen Gliedern dich.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10220" xlink:type="simple">
+    <part>Text</part>
+    <year>1822</year>
+  </author>
+  <author xlink:href="#artist-22616" xlink:type="simple">
+    <part>Music</part>
+    <year>1643</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>574</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

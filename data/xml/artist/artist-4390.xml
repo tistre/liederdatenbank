@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4390">
+  <firstname>Friedrich Wilhelm</firstname>
+  <lastname>Krummacher</lastname>
+  <name/>
+  <born>1796</born>
+  <died>1868</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Friedrich_Wilhelm_Krummacher" xlink:type="simple"/>
+</artist>

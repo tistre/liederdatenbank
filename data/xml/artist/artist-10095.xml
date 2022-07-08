@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10095">
+  <lastname>Witzgall</lastname>
+  <firstname>Markus</firstname>
+  <name/>
+  <born>1983</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.mwitzi.de/" xlink:type="simple"/>
+</artist>

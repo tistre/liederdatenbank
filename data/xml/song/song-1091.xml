@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1091">
+  <title>Ich möcht ein Segen sein mehr, als ich war</title>
+  <author xlink:href="#artist-4391" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4392" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>209</numinsongbook>
+  </songbookref>
+</song>

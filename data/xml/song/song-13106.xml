@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13106">
+  <title>Herr, du hast überwunden</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: J. A. von Posek in Anlehnung an B. Schmolck.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13061", "http://www.liederdatenbank.de/song/113", "http://www.liederdatenbank.de/song/12618".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>60</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

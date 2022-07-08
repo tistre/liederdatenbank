@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11706">
+  <title>Selig sind, die da geistlich arm sind</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Text: Seligpreisungen Matthäus 5,3-10 - Melodie: Kiew 17. Jh., - Satz: mündlich überliefert</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>307</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-5" xlink:type="simple">
+    <verse>3-10</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1382">
+  <title>Treuer Heiland, wir sind hier</title>
+  <subtitle/>
+  <text># Treuer Heiland, wir sind hier
+in der Andacht Stille;
+unsre Sinnen und Begier
+lenke sanft dein Wille.
+Deines Wortes heller Schein
+strahl in unser Herz hinein,
+uns mit Licht erfülle.
+
+# Kehr, o Jesu, bei uns ein,
+komm in unsre Mitte;
+wollest unser Lehrer sein,
+hör der Sehnsucht Bitte:
+Deines Wortes stille Kraft,
+sie, die neue Menschen schafft,
+bilde Herz und Sitte.
+
+# Von dir lernen möchten wir
+deiner Sanftmut Milde,
+möchten ähnlich werden dir,
+deinem Ebenbilde,
+deiner stillen Tätigkeit,
+deiner armen Niedrigkeit,
+deines Wohltuns Milde.
+
+# Zeige deines Wortes Kraft
+an uns armen Wesen;
+zeige, wie es neu uns schafft,
+Kranke macht genesen.
+Jesu, dein allmächtig Wort
+fahr in uns zu wirken fort,
+bis wir ganz genesen.
+
+# O wie selig ist es, dir
+kindlich zu vertrauen;
+unerschüttert können wir
+auf dich, Felsen, bauen.
+Herr, wir glauben in der Zeit,
+bis die sel’ge Ewigkeit
+uns erhebt zum Schauen.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11950" xlink:type="simple">
+    <part>Text</part>
+    <year>1837</year>
+  </author>
+  <author xlink:href="#artist-4666" xlink:type="simple">
+    <part>Music</part>
+    <year>1838/1844</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>561</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

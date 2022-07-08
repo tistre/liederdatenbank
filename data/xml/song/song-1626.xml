@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1626">
+  <title>O Herr, mach mich zu einem Werkzeug deines Friedens</title>
+  <subtitle/>
+  <text>O Herr, mach mich zu einem Werkzeug deines Friedens,
+daß ich Liebe übe, wo man sich haßt, 
+daß ich verzeihe, wo man sich beleidigt.
+daß ich verbinde da, wo Streit ist.
+daß ich die Wahrheit sage, wo der Irrtrum herrscht,
+daß ich den Glauben bringe, wo der Zweifel drückt,
+daß ich die Hoffnung wecke, wo Verzweiflung quält, 
+daß ich dein Licht anzünde, wo die Finsternis regiert,
+daß ich Freude mache, wo der Kummer wohnt.
+
+Herr, laß mich trachten: nicht daß ich getröstet werde, 
+sondern, daß ich andere tröste, 
+nicht daß ich verstanden werde, 
+sondern daß ich andere verstehe; 
+nicht daß ich geliebt werde, 
+sondern ich andere liebe.
+
+Denn wer da hingibt, der empfängt, 
+wer sich selbst vergißt, der findet; 
+wer verzeiht, dem wird verziehen; 
+und wer stirbt, erwacht zum ewigen Leben.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: aus der Normandie überliefert. Deutsche Fassung Leipzig 1945.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-23693" xlink:type="simple">
+    <part>Text</part>
+    <year>1913</year>
+  </author>
+  <author xlink:href="#artist-9248" xlink:type="simple">
+    <part>Music</part>
+    <year>1962</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>412</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>416</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19203" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+</song>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3593">
+  <firstname>Vicky</firstname>
+  <lastname>Beeching</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.vickybeeching.com/" xlink:type="simple">
+    <title>vickybeeching.com</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/b/vickybeeching.htm" xlink:type="simple">
+    <title>Vicky Beeching @ ccmrezis.de</title>
+  </url>
+</artist>

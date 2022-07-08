@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19886">
+  <title>Uns ist ein Kindlein heut geborn</title>
+  <subtitle/>
+  <text># Uns ist ein Kindlein heut geborn
+von einer Jungfrau auserkorn;
+des freuen sich die Engelein,
+sollten wir Menschen nicht fröhlich sein?
+
+* 1.-3.
+Lob, Preis und Dank sei Gott bereit
+für solche Gnad in Ewigkeit.
+
+# Er hat erlöset uns vom Tod
+und wiederbracht zu Gnad bei Gott.
+Er heilt der giftgen Schlange Biss,
+den wir bekamen im Paradies!
+
+# Drum preiset dieses Kindelein
+mit allen heilgen Engelein,
+das freundlich aus sein'm Windelein
+uns lachet an im Krippelein.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Text</part>
+    <year>1560</year>
+  </author>
+  <author xlink:href="#artist-4824" xlink:type="simple">
+    <part>Music</part>
+    <year>1594</year>
+  </author>
+  <author xlink:href="#artist-8993" xlink:type="simple">
+    <part>Music</part>
+    <year>Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1751</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

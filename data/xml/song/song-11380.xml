@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11380">
+  <title>Vater unser (gregorianisch)</title>
+  <subtitle/>
+  <text>Vater unser im Himmel.
+Geheiligt werde dein Name.
+Dein Reich komme.
+Dein Wille geschehe, 
+wie im Himmel, so auf Erden.
+Unser tägliches Brot gib uns heute.
+Und vergib uns unsere Schuld,
+wie auch wir vergeben unsern Schuldigern.
+Und führe uns nicht in Versuchung,
+sondern erlöse uns von dem Bösen.
+Denn dein ist das Reich und die Kraft
+und die Herrlichkeit in Ewigkeit.
+Amen.</text>
+  <copyrightyear/>
+  <right>Melodie: Ökumenische Fassung 1973 nach einem gregorianischen Vaterunser</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>186</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>9-13</verse>
+  </bibleref>
+</song>

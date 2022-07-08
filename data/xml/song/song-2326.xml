@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2326">
+  <title>Holy, holy, holy</title>
+  <subtitle>Praise Him! Praise Him and lift Him up</subtitle>
+  <author xlink:href="#artist-76" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1991</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>43</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+  </songbookref>
+  <right>CopyCare Deutschland</right>
+</song>

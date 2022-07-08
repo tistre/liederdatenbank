@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22228">
+  <title>Ich weiß, daß mein Erlöser lebt</title>
+  <subtitle/>
+  <text># Ich weiß, dass mein Erlöser lebt,
+das soll mir niemand nehmen.
+Er lebt und was ihm widerstrebt,
+das muss sich endlich schämen.
+Er lebt fürwahr, der starke Held;
+sein Arm, der alle Feinde fällt,
+hat auch den Tod bezwungen.
+
+# Mein Heiland lebt; ob ich nun werd
+in's Todes Staub mich strecken,
+so wird er mich doch aus der Erd
+hernachmals auferwecken;
+er wird mich reißen aus dem Grab
+und aus dem Lager, da ich hab
+ein Kleines ausgeschlafen.
+
+# Ich selber werd in seinem Licht
+ihn sehn und mich erquicken,
+mein Auge wird sein Angesicht
+mit großer Lust erblicken.
+Ich werd ihn sehen mir zur Freud
+und wer ihm dienen ohne Zeit,
+ich selber, und kein Fremder.
+
+# Trotz sei nun allem, was da will
+mein Herze schwach mir machen!
+Wär's noch so mächtig, groß und viel,
+kann ich doch fröhlich lachen.
+Man treib und spanne noch so hoch
+Sarg, Grab und Tod, so bleibet doch
+Gott, mein Erlöser, leben.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1667</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>038</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

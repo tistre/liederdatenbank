@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2747">
+  <title>I've found Jesus</title>
+  <subtitle>Well, I hear they're singing</subtitle>
+  <language>en</language>
+  <right>1994 Curious? Music UK (Admin. by EMI Christian Music Publishing)</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>2134550</ccli_number>
+  <comment/>
+  <author xlink:href="#artist-3571" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>154</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

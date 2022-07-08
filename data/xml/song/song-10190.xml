@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10190">
+  <title>Du, Herr, verläßt mich nicht</title>
+  <subtitle/>
+  <text># Du, Herr, verläßt mich nicht.
+Auf Dich mein Herz allein vertraut,
+Mein Auge glaubend auf Dich schaut.
+Du bist mein Heil, mein Licht,
+Mein Fels, mein sichrer Hort.
+Bin ich versucht, gibt's Not und Leid,
+Du bleibst mein Trost, mein Arm im Streit,
+Mein Licht am dunklen Ort.
+
+# Ich weiß, daß Du mich liebst.
+Bist mir in jeder Lage nah',
+Wohin ich gehe – Du bist da,
+Ja, Du mir alles gibst.
+Ich überlaß mich Dir;
+Denn Du, Herr, kennst mich ganz und gar
+Und führst mich sicher, wunderbar,
+Und bist selbst alles mir.
+
+# In dieser Wüste hier
+Find't nirgend meine Seele Ruh',
+Denn meine Ruh' bist, Jesu, Du.
+Wohl mir, ich geh' zu Dir!
+Bald werd' ich bei Dir sein,
+Bald mit den Deinen ewiglich
+Anbeten, loben, preisen Dich,
+Mich Deiner stets erfreun.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10191" xlink:type="simple">
+    <part>Music</part>
+    <year>1806</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#3" xlink:type="simple"/>
+</song>

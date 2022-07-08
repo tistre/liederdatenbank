@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9666">
+  <title>Ich bin der Weg</title>
+  <subtitle>Euer Herz sei nicht bestürzt</subtitle>
+  <right>Hänssler Verlag, D-71087 Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Text nach Johannes 14</comment>
+  <language>de</language>
+  <author xlink:href="#artist-9665" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

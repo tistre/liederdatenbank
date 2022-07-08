@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1187">
+  <title>Dass Jesus siegt, bleibt ewig ausgemacht</title>
+  <text># Dass Jesus siegt, bleibt ewig ausgemacht, 
+sein wird die ganze Welt. 
+Denn alles ist nach seines Todes Nacht 
+in seine Hand gestellt. 
+Nachdem am Kreuz er ausgerungen, 
+hat er zum Thron sich aufgeschwungen. 
+Ja, Jesus siegt, ja, Jesus siegt!
+
+# Ja, Jesus siegt! Sei's, dass die Finsternis
+im Trotzen wütend schnaubt,
+sei's, dass sie wähnt mit ihrem giftgen Biss
+hätt sie ihm viel geraubt;
+die Seinen lässt in Not und Grämen
+sich unser Held doch niemals nehmen.
+Ja, Jesus siegt, ja Jesus siegt!
+
+# Ja, Jesus siegt, obschon das Volk des Herrn 
+noch hart darniederliegt. 
+Wenn Satans Pfeil ihm auch von nah und fern 
+mit List entgegenfliegt, 
+löscht Jesu Arm die Feuerbrände; 
+das Feld behält der Herr am Ende. 
+Ja, Jesus siegt, ja, Jesus siegt!
+
+# Ja, Jesus siegt! Seufzt eine große Schar 
+noch unter Satans Joch, 
+die sehnend harrt auf das Erlösungsjahr, 
+das zögert immer noch, 
+so wird zuletzt aus allen Ketten 
+der Herr die Kreatur erretten. 
+Ja, Jesus siegt, ja, Jesus siegt!
+
+# Ja, Jesus siegt! Wir glauben es gewiss, 
+und glaubend kämpfen wir. 
+Wie du uns führst durch alle Finsternis, 
+wir folgen, Jesu, dir. 
+Denn alles muss vor dir sich beugen, 
+bis auch der letzte Feind wird schweigen. 
+Ja, Jesus siegt, ja, Jesus siegt!</text>
+  <language>de</language>
+  <right>Brunnen-Verlag</right>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Es existieren verschiedene Vertonungen.</comment>
+  <copyrightyear/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14692" xlink:type="simple"/>
+  <author xlink:href="#artist-4465" xlink:type="simple">
+    <part>Text</part>
+    <year>1852</year>
+  </author>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Music</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4350" xlink:type="simple">
+    <part>Music</part>
+    <year>1935</year>
+  </author>
+  <author xlink:href="#artist-653" xlink:type="simple">
+    <part>Music</part>
+    <year>1662</year>
+  </author>
+  <author xlink:href="#artist-11108" xlink:type="simple">
+    <part>Music</part>
+    <year>1938</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>313</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>716</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>292</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>266</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>217</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>375</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>352</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>234</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

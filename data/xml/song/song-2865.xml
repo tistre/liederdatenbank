@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2865">
+  <title>Herr Jesus Christus, komm mit Macht</title>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4155" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4156" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-28" xlink:type="simple">
+    <part>Music</part>
+    <year>1992</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26251">
+  <title>Auch dieser Tag geht still zu Ende</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479. Andere Textfassung und Melodie: http://www.liederdatenbank.de/song/1686, http://www.liederdatenbank.de/song/2235, http://www.liederdatenbank.de/song/26439.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-2236" xlink:type="simple"/>
+  <author xlink:href="#artist-4605" xlink:type="simple">
+    <part>Text</part>
+    <year>1870</year>
+  </author>
+  <author xlink:href="#artist-4700" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4606" xlink:type="simple">
+    <part>Music</part>
+    <year>1874</year>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1137</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+</song>

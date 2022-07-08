@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3836">
+  <title>Trag das Licht in die Welt</title>
+  <author xlink:href="#artist-3905" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>219</numinsongbook>
+  </songbookref>
+  <right>Born-Verlag, Kassel</right>
+</song>

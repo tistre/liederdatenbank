@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4616">
+  <firstname>Johann Balthasar</firstname>
+  <lastname>König</lastname>
+  <name/>
+  <born>1691</born>
+  <died>1758</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Balthasar_K%C3%B6nig" xlink:type="simple"/>
+</artist>

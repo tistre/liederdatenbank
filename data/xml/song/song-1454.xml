@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1454">
+  <title>Gelobet seist Du, Jesu Christ</title>
+  <text># Gelobet seist du, Jesu Christ, 
+dass du Mensch geboren bist 
+von einer Jungfrau, das ist wahr; 
+des freuet sich der Engel Schar. 
+Kyrieleis.
+
+# Des ewgen Vaters einig Kind 
+jetzt man in der Krippe findt; 
+in unser armes Fleisch und Blut 
+verkleidet sich das ewig Gut. 
+Kyrieleis.
+
+# Den aller Welt Kreis nie beschloss, 
+der liegt in Marien Schoß; 
+er ist ein Kindlein worden klein, 
+der alle Ding erhält allein. Kyrieleis.
+
+# Das ewig Licht geht da herein, 
+gibt der Welt ein neuen Schein; 
+es leucht wohl mitten in der Nacht 
+und uns des Lichtes Kinder macht. 
+Kyrieleis.
+
+# Der Sohn des Vaters, Gott von Art, 
+ein Gast in der Welt hier ward 
+und führt uns aus dem Jammertal, 
+macht uns zu Erben in seim Saal. 
+Kyrieleis.
+
+# Er ist auf Erden kommen arm, 
+dass er unser sich erbarm 
+und in dem Himmel mache reich 
+und seinen lieben Engeln gleich. 
+Kyrieleis.
+
+# Das hat er alles uns getan, 
+sein groß Lieb zu zeigen an. 
+Des freu sich alle Christenheit 
+und dank ihm des in Ewigkeit. 
+Kyrieleis.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5208263</ccli_number>
+  <author xlink:href="#artist-9076" xlink:type="simple">
+    <part>Text</part>
+    <year>1. Str. um 1380</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>2.-7. Str. 1524</year>
+  </author>
+  <author xlink:href="#artist-9076" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1460</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>205</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>178</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>38</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1756</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-1" xlink:type="simple">
+    <verse>23</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-12" xlink:type="simple">
+    <verse>36</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-3" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1jo-1" xlink:type="simple">
+    <verse>1-14</verse>
+  </bibleref>
+</song>

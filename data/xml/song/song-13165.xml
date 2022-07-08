@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13165">
+  <title>Weit vorgerückt ist schon die Nacht</title>
+  <subtitle/>
+  <text># Weit vorgerückt
+Ist schon die Nacht der Tränen.
+Der Morgen naht, er stillt mein heißes Sehnen,
+Wo, Herr, mein Auge Dich erblickt.
+
+# O sel'ge Stund',
+Voll Wonne und Entzücken,
+Wenn Deine Braut Dir wird entgegenrücken!
+"Er ist's!" frohlockt dann jeder Mund.
+
+# Wo ist die Nacht?
+Wo sind die Kummertränen,
+O Jesu, dann, wenn Du gestillt mein Sehnen,
+Und ich Dich schau' in Himmelspracht?
+
+# Ja, dann ist fern,
+Was hier mich je beschweret.
+Ich hab' genug – hab', was mein Herz begehret,
+Hab' Dich, o Jesu, meinen Herrn.
+
+# In Deiner Näh'
+Genieß' ich Wonn' und Frieden.
+Nie wird mein Mund in Deinem Lob ermüden.
+O Jesu, daß ich heut' Dich säh'!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#68" xlink:type="simple"/>
+</song>

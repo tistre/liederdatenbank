@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2888">
+  <title>In mir ist keine wahre Weisheit</title>
+  <subtitle>Hocherhaben ist Dein Thron</subtitle>
+  <author xlink:href="#artist-463" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4163" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+  </songbookref>
+</song>

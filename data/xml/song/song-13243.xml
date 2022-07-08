@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13243">
+  <title>Wo ist unsre Sünd' geblieben</title>
+  <subtitle/>
+  <text># Wo ist unsre Sünd' geblieben?
+Christus starb an unsrer Statt.
+Unsern Freibrief, lägst geschrieben,
+Christi Blut versiegelt hat.
+Ganz gereinigt, Ihm vereinigt,
+Der zur Rechten Gottes ist,
+Der den Weg zum Heiligtum
+Uns geweiht zu Seinem Ruhm.
+
+# Kann der Kläger noch bestehen,
+Da zur Rechten Gottes jetzt
+Er des Menschen Sohn muß sehen,
+Auf den Thron von Gott gesetzt?
+Alle Klagen, abgeschlagen,
+Sind dort außer Kraft gesetzt,
+Vor dem Lamm auf Gottes Thron
+Geht der Kläger stumm davon.
+
+# Er wird auch in Gnaden leiten
+Seine teu'r erkaufte Schar.
+Ja, an Seiner Hand wir schreiten,
+Ohne Zagen und Gefahr,
+Durch die Fremde, bis ans Ende,
+Seiner heil'gen Wohnung zu,
+Wo das Herz nichts mehr begehrt,
+Jeder Mund Ihn preist und ehrt.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13221" xlink:type="simple">
+    <part>Music</part>
+    <year>vor 1882</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/091_100.html#91" xlink:type="simple"/>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13391">
+  <title>Herr, wenn um dich allein</title>
+  <subtitle/>
+  <text># Herr, wenn um Dich allein
+Die Herzen sich bewegen,
+Dann fließt wie Himmelstau
+Herab Dein reicher Segen.
+Drum ziehe uns mit Macht
+Auch jetzt zu Dir empor,
+Gib Stille des Gemüts,
+Und heil'ge Mund und Ohr!
+
+# Verscheuche gnädiglich
+Des Feindes böse Mächte,
+Erfüll' mit Deinem Geist
+Die Seele Deiner Knechte!
+Ja, lege Deine Kraft
+In jedes Wort hinein,
+Und lasse Herz und Sinn
+Auf Dich gerichtet sein!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/336".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#141" xlink:type="simple"/>
+</song>

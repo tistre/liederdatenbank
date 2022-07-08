@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11223">
+  <title>Du schöner Lebensbaum des Paradieses</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: nach dem ungarischen "Paradicsomnak te szép élö fája" von Imre Pécseli Király vor 1641.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-5007" xlink:type="simple">
+    <part>Text</part>
+    <year>1974</year>
+  </author>
+  <author xlink:href="#artist-11222" xlink:type="simple">
+    <part>Text</part>
+    <year>1974</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

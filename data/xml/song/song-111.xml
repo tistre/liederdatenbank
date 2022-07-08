@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-111">
+  <title>Dich erkennen, Jesus</title>
+  <subtitle>Alles, was mir einst so wertvoll schien</subtitle>
+  <language>de</language>
+  <right>Make Way Music</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-110" xlink:type="simple"/>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+    <year>1995</year>
+  </author>
+  <author xlink:href="#artist-28" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>94</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4350">
+  <firstname>Johannes</firstname>
+  <lastname>Petzold</lastname>
+  <name/>
+  <born>1912</born>
+  <died>1985</died>
+  <comment/>
+  <url xlink:href="https://de.wikipedia.org/wiki/Johannes_Petzold" xlink:type="simple">
+    <title>Johannes Petzold @ wikipedia.de</title>
+  </url>
+</artist>

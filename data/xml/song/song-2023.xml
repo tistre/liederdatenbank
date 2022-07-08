@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2023">
+  <title>Christus ist König, jubelt laut</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: nach dem englischen "Christ is the king, o friends rejoice" von George Kennedy Allen Bell 1931.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: "http://www.liederdatenbank.de/song/209" (EG 103).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-5006" xlink:type="simple">
+    <part>Text</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-11562" xlink:type="simple">
+    <part>Music</part>
+    <year>(1975) 1978</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>125</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>269</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

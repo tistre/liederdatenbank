@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10547">
+  <lastname>Gramann</lastname>
+  <firstname>Johann</firstname>
+  <name/>
+  <born>1487</born>
+  <died>1541</died>
+  <comment>geb. 1487 in Neustadt an der Aisch, Rektor an der Thomasschule in Leipzig, dort 1519 Ecks Sekretär bei der Disputation mit Luther, dann Anhänger der Reformation, 1525 Pastor an der Altstädter Kirche zu Königsberg (Ostpreußen), Mitreformator des Ordenslandes Preußen, gest. 1541 in Königsberg.</comment>
+  <url xlink:href="http://www.bautz.de/bbkl/g/gramann_j.shtml" xlink:type="simple"/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Gramann" xlink:type="simple"/>
+</artist>

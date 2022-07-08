@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11373">
+  <title>Halleluja</title>
+  <subtitle>Suchet zuerst Gottes Reich in dieser Welt</subtitle>
+  <copyrightyear/>
+  <right>Text: Strophen 7-9 Mundorgel-Verlag, Köln </right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Strophen 1-6 mündlich überliefert nach http://www.liederdatenbank.de/song/1008; Strophen 7-9 http://www.liederdatenbank.de/artist/9998, 1975. Gleiche Melodie: http://www.liederdatenbank.de/song/1010, http://www.liederdatenbank.de/song/26513.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13852" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1008" xlink:type="simple"/>
+  <author xlink:href="#artist-48" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1972 und Satz</year>
+  </author>
+  <author xlink:href="#artist-9998" xlink:type="simple">
+    <part>Text</part>
+    <year>1975</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>527</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>217</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-6" xlink:type="simple">
+    <verse>32-34</verse>
+  </bibleref>
+</song>

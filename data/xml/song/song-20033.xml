@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20033">
+  <title>Am Weihnachtsbaum die Lichter brennen</title>
+  <subtitle/>
+  <text># Am Weihnachtsbaum die Lichter brennen,
+wie glänzt es festlich, lieb und mild,
+als spräch' er: "Wollt in mir erkennen
+getreuer Hoffnung, stilles Bild."
+
+# Die Kinder steh'n mit hellen Blicken,
+das Auge lacht, es lacht das Herz.
+O fröhlich, seliges Entzücken!
+Die Alten schauen himmelwärts.
+
+# Zwei Engel sind hereingetreten,
+kein Auge hat sie kommen seh'n,
+sie geh'n zum Weihnachtstisch und beten
+und wenden wieder sich und geh'n.
+
+# "Gesegnet seid ihr, alten Leute,
+gesegnet seist du, kleine Schar!
+Wir bringen Gottes Segen heute
+dem braunen, wie dem weißen Haar.
+
+# Zu guten Leuten, die sich lieben,
+schickt uns der Herr als Boten aus,
+und seid ihr treu und fromm geblieben,
+wir treten wieder in dies Haus."
+
+# Kein Ohr hat ihren Spruch vernommen,
+unsichtbar jedes Menschen Blick
+sind sie gegangen wie gekommen;
+doch Gottes Segen blieb zurück.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-20032" xlink:type="simple">
+    <part>Text</part>
+    <year>1841</year>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

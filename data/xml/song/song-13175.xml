@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13175">
+  <title>Himmelsheimat über Sternen</title>
+  <subtitle/>
+  <text># Himmelsheimat über Sternen droben,
+Ziel der Sehnsucht hier in Mesechs Land,
+Ruhplatz derer, die bald aufgehoben,
+Himmelsstadt, dem Glauben wohlbekannt.
+
+# O Jerusalem! zu deinen Toren
+Ziehen bald im Siegsgepränge ein
+Müde Pilger, die aus Gott geboren,
+Um sich deiner Ruhe zu erfreun.
+
+# Auch ich wend' im Glauben meine Blicke
+Oft zu deinen Perlentoren hin,
+Und mein Herz – es sehnt sich nicht zurücke,
+Möchte gern der Erde ganz entfliehn.
+
+# Möchte gern auf ewig droben leben
+Mit der auserwählten, sel'gen Schar,
+Ewig meines Heilands Ruhm erheben
+Und mich Seiner freuen immerdar.
+
+# Nicht zur Stadt mit ihren goldnen Gassen
+Geht des Herzens tiefste Sehnsucht hin,
+Ewig möchte Ihn ich nur umfassen,
+Dessen teures Eigentum ich bin.
+
+# O mein Jesus! stille bald das Sehnen
+Deiner Heil'gen, noch im Pilgerkleid,
+Trockne bald des Heimwehs heiße Tränen,
+Hol' sie heim in Deine Herrlichkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13174" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>79</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#79" xlink:type="simple"/>
+</song>

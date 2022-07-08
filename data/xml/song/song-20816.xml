@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20816">
+  <title>Gott lädt uns ein: Kommt her</title>
+  <subtitle/>
+  <copyrightyear>1993</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-11051" xlink:type="simple"/>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-20815" xlink:type="simple">
+    <part>Music</part>
+    <year>1623</year>
+  </author>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

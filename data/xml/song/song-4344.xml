@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4344">
+  <title>Mach mich still, mach mich still</title>
+  <author xlink:href="#artist-685" xlink:type="simple">
+    <part>Text</part>
+    <year>1984</year>
+  </author>
+  <author xlink:href="#artist-684" xlink:type="simple">
+    <part>Text</part>
+    <year>1984</year>
+  </author>
+  <author xlink:href="#artist-687" xlink:type="simple">
+    <part>Music</part>
+    <year>2002</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+  </songbookref>
+</song>

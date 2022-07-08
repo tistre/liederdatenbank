@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-3430">
+  <name>Du bist Herr 1</name>
+  <state>1</state>
+  <icon xlink:href="#songbook-3430-icon" xlink:type="simple"/>
+  <comment>Du bist Herr. Anbetungslieder
+Herausgegeben von Martha u. Helmut Trömel
+ISBN 3-925352-23-6, Projektion J Musikverlag, Asslar 1988.
+248 Lob- u. Anbetungslieder (mit Noten u. Akkordbezeichnungen)
+
+http://www.liederdatenbank.de/songbook/3430
+http://www.liederdatenbank.de/songbook/90
+http://www.liederdatenbank.de/songbook/91
+http://www.liederdatenbank.de/songbook/562
+http://www.liederdatenbank.de/songbook/9081
+</comment>
+  <url xlink:href="http://www.amazon.de/gp/product/3925352236" xlink:type="simple">
+    <title>Du bist Herr 1 @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?isbn=3925352236" xlink:type="simple">
+    <title>Du bist Herr 1 @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://www.gerth.de/?vp_id=www-Link&amp;fct=search&amp;nav_fct=search&amp;search_str=656023" xlink:type="simple">
+    <title>Du bist Herr 1 @ Gerth.de</title>
+  </url>
+  <url xlink:href="http://www.lobpreis-index.de/index.php?action=searchm&amp;n=3" xlink:type="simple">
+    <title>Lobpreis-Index</title>
+  </url>
+</songbook>

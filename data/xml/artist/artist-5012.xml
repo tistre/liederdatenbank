@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5012">
+  <firstname>Ernst Christoph</firstname>
+  <lastname>Homburg</lastname>
+  <name/>
+  <born>1605</born>
+  <died>1681</died>
+  <comment>Geboren in Mihla bei Eisenach. 1642 Rechtsanwalt in Naumburg, gefeierter weltlicher Dichter, durch schwere Krankheit 1659 zur geistlichen Dichtung geführt. Gestorben in Naumburg.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ernst_Christoph_Homburg" xlink:type="simple"/>
+  <url xlink:href="http://www.bautz.de/bbkl/h/homburg_e_c.shtml" xlink:type="simple"/>
+</artist>

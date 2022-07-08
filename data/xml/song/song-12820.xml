@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12820">
+  <title>Du starker Herrscher, wahrer Gott</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: nach dem Hymnus "Rector potens verax deus" des Aurelius Ambrosius 4. Jh.; Strophe 3 Friedrich Dörr 1978.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11811" (EG 453).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-9050" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12313" xlink:type="simple">
+    <part>Text</part>
+    <year>1978</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>663</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

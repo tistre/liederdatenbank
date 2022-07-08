@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2135">
+  <title>Lasset uns mit Jesus ziehen</title>
+  <subtitle/>
+  <text># Lasset uns mit Jesus ziehen,
+seinem Fürbild folgen nach,
+in der Welt der Welt entfliehen,
+auf der Bahn, die er uns brach,
+immer fort zum Himmel reisen,
+irdisch, doch schon himmlisch sein,
+glauben recht und leben fein,
+in der Lieb den Glauben weisen.
+Treuer Jesu! Bleib bei mir,
+gehe für, ich folge dir.
+
+# Lasset uns mit Jesus leiden,
+seinem Fürbild werden gleich.
+Nach dem Leide folgen Freuden,
+Armut hier macht dorten reich.
+Tränensaat, die erntet Lachen,
+Hoffnung tröstet mit Geduld,
+es kann leichtlich Gottes Huld
+aus dem Regen Sonne machen.
+Jesu! Hier leid ich mit dir,
+dort teil deine Freud mit mir.
+
+# Lasset uns mit Jesus sterben!
+Sein Tod uns vom andern Tod
+Rettet und vom Seelverderben
+Von der ewgen Höllennot.
+Lasst uns töten, weil wir leben,
+unser Fleisch ihm sterben ab,
+so wird er uns aus dem Grab
+in das ewge Leben heben.
+Jesu, sterb ich, sterb ich dir,
+dass ich lebe für und für.
+
+# Lasset uns mit Jesus leben,
+weil er auferstanden ist,
+muss das Grab uns wiedergeben.
+Jesu! Unser Haupt du bist,
+wir sind deines Leibesglieder
+wo du lebst, da leben wir,
+ach! erkenn uns für und für,
+treues Herz, für deine Brüder.
+Jesu, dir ich lebe hier,
+lass mich ewig sein bei dir!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1334" (EG 325).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4822" xlink:type="simple">
+    <part>Text</part>
+    <year>1653</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>428</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>384</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

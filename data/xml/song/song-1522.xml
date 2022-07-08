@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1522">
+  <title>Der Herr bricht ein um Mitternacht</title>
+  <subtitle/>
+  <text># Der Herr bricht ein um Mitternacht;
+jetzt ist noch alles still.
+Wohl dem, der sich nun fertig macht
+und ihm begegnen will.
+
+# Er hat es uns zuvor gesagt,
+und einen Tag bestellt.
+Er kommt, wenn niemand nach ihm fragt,
+noch es für möglich hält.
+
+# Wie liegt die Welt so blind und tot.
+Sie schläft in Sicherheit
+und meint des großen Tages Not
+sei noch so fern und weit.
+
+# Wer waltet wie ein kluger Knecht
+im Hause so getreu,
+dass, wenn der Herr kommt, er gerecht
+und nicht zu strafen sei?
+
+# Wer hält die Lampen rein und voll?
+Wem brennt sein Glaubenslicht,
+wenn nun der Aufbruch kommen soll,
+dass ihm kein Öl gebricht?
+
+# So wach denn auf, mein Geist und Sinn,
+und schlummre ja nicht mehr!
+Blick täglich auf sein Kommen hin,
+als ob es heute wär.
+
+# Der jüngste Tag, er nahet sich.
+Der Herr kommt zum Gericht.
+Du, meine Seele, schicke dich, 
+steh auf, verzage nicht.
+
+# Dein Teil und Heil ist schön und groß.
+Es steht in deiner Macht.
+Ergreif im Glauben du das Los,
+das Gott dir zugedacht.
+
+# O übergroße Seligkeit
+nach abgelegter Last!
+Wobei dich, Seele, nicht gereut,
+dass du gestritten hast.
+
+# Der Herr bricht ein um Mitternacht;
+jetzt ist noch alles still.
+Wohl dem, der nun sich fertig macht
+und ihm begegnen will.  </text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Melodien.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12619" xlink:type="simple">
+    <part>Text</part>
+    <year>1712</year>
+  </author>
+  <author xlink:href="#artist-11760" xlink:type="simple">
+    <part>Music</part>
+    <year>1656</year>
+  </author>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>264</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>705</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>344</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>289</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

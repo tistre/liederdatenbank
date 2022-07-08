@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21552">
+  <title>Gott, du bist die Hoffnung</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>EditionGL - Gregor Linßen, Neuss</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-21551" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-gen-26" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-1" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+</song>

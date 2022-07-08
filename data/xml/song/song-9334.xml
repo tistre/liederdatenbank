@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9334">
+  <title>By the waters of Babylon</title>
+  <subtitle/>
+  <text>By the waters, the waters of Babylon
+we sat down and wept and wept for Thee, Zion.
+We remember, we remember, we remember Thee, Zion!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: nach Psalm 137. - Kanon zu 3 Stimmen</comment>
+  <language>en</language>
+  <author xlink:href="#artist-9185" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>224</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4893">
+  <title>This is our song about healing</title>
+  <subtitle>Open skies</subtitle>
+  <language>en</language>
+  <right>bobmusic</right>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <author xlink:href="#artist-5054" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+  </songbookref>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+</song>

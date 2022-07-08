@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20037">
+  <title>O Tannenbaum</title>
+  <subtitle/>
+  <text># O Tannenbaum, o Tannenbaum, 
+wie grün sind deine Blätter!
+Du grünst nicht nur zur Sommerszeit,
+nein, auch im Winter, wenn es schneit.
+O Tannenbaum, o Tannenbaum,
+wie grün sind deine Blätter.
+
+# O Tannenbaum, o Tannenbaum,
+du kannst mir sehr gefallen.
+Wie oft hat nicht zur Weihnachtszeit
+ein Zweig von dir mich hoch erfreut.
+O Tannenbaum, o Tannenbaum,
+du kannst mir sehr gefallen.
+
+# O Tannenbaum, o Tannenbaum!
+dein Kleid will mich was lehren:
+Die Hoffnung und Beständigkeit
+gibt Trost und Kraft zu jeder Zeit.
+O Tannenbaum, o Tannenbaum,
+dein Kleid will mich was lehren.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-20035" xlink:type="simple">
+    <part>Text</part>
+    <year>1. Str. 1820</year>
+  </author>
+  <author xlink:href="#artist-20036" xlink:type="simple">
+    <part>Text</part>
+    <year>2.-3. Str. 1824</year>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year>1749</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>256</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

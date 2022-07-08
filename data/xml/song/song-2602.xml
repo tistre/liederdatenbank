@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2602">
+  <title>Die Menschen suchen einen Helden</title>
+  <subtitle>Champion dieser Welt</subtitle>
+  <language>de</language>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2601" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2777" xlink:type="simple">
+    <part>Music</part>
+    <year>1994</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+  </songbookref>
+</song>

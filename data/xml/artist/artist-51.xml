@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-51">
+  <firstname>Albert</firstname>
+  <lastname>Frey</lastname>
+  <name/>
+  <born>1964</born>
+  <died/>
+  <comment>Geboren in Stag bei Regensburg, Songwriter, Produzent, Toningenieur in Ravensburg. Verheiratet mit http://www.liederdatenbank.de/artist/7828.</comment>
+  <url xlink:href="http://www.albert-frey.de/" xlink:type="simple">
+    <title>albert-frey.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Albert_Frey_(Musiker)" xlink:type="simple">
+    <title>Albert Frey @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/f/albertfrey.htm" xlink:type="simple">
+    <title>Albert Frey @ ccmrezis.de</title>
+  </url>
+</artist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10219">
+  <title>Jesu, wahre Lebensquelle</title>
+  <subtitle/>
+  <text># Jesu, wahre Lebensquelle,
+Sonne aller Herrlichkeit!
+Gnad' und Fried', so reich und helle,
+Kommt von Dir uns allezeit.
+Weilst auch jetzt in unsrer Mitte
+Und erhörst der Deinen Bitte.
+Bist zum Segnen stets bereit,
+Nährst und pflegst mit Freundlichkeit.
+
+# O belebe alle Glieder,
+Heiland, Deines Leibes Du.
+Fried' und Freude ström' hernieder,
+Füll' das Herz mit sel'ger Ruh'.
+Und Dein Geist zeig' uns in Klarheit
+Gottes Herz voll Gnad' und Wahrheit,
+Bis sich Deine Gegenwart
+Sichtbarlich uns offenbart.
+
+# Gib, daß jedes Herz sich kehre
+Zu Dir, Glanz der Ewigkeit,
+Jede Seele nur begehre
+Dich und Deine Herrlichkeit.
+Dann wird Freude uns erfüllen,
+Und, ergeben Deinem Willen,
+Steiget auf aus tiefstem Grund
+Lob und Dank aus aller Mund.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10220" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10221" xlink:type="simple">
+    <part>Music</part>
+    <year>1643</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#22" xlink:type="simple"/>
+</song>

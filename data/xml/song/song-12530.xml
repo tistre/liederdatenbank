@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12530">
+  <title>Hilf, Helfer, hilf in Angst und Not</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1352" (EG 366).</comment>
+  <language>de</language>
+  <author xlink:href="#artist-3634" xlink:type="simple">
+    <part>Text</part>
+    <year>1565</year>
+  </author>
+  <author xlink:href="#artist-11319" xlink:type="simple">
+    <part>Text</part>
+    <year>1596</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>625</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

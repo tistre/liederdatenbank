@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-21649">
+  <name>Das Kindergesangbuch</name>
+  <comment>Das Kindergesangbuch. Herausgegeben von Andreas Ebert in Gemeinschaft mit Ulrike Aldebert, Johannes Blohm, Kirsten Fiedler, Werner Küstenmacher und Karl Mehl. Claudius Verlag, München 1998. ISBN 3-532-62220-3.</comment>
+  <state>0</state>
+  <icon xlink:href="#file-21648" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3532622203" xlink:type="simple">
+    <title>Das Kindergesangbuch @ Amazon.de</title>
+  </url>
+  <url xlink:href="https://shop.claudius.de/das-kindergesangbuch.html" xlink:type="simple">
+    <title>Das Kindergesangbuch @ Claudius Verlag</title>
+  </url>
+</songbook>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-21030">
+  <name>Loben</name>
+  <comment>Loben. Lieder der Hoffnung
+CLV Christliche Literatur-Verbreitung, Postfach 11 01 35, 33661 Bielefeld, 1. Auflage 2007, ISBN 978-3-89397-678-2.
+365 Lieder, teils mehrstimmig gesetzt, mit Akkorden</comment>
+  <state>0</state>
+  <icon xlink:href="#file-21029" xlink:type="simple"/>
+  <url xlink:href="http://www.clv.de/index.php?sid=x&amp;shp=oxbaseshop&amp;cl=details&amp;anid=12912" xlink:type="simple">
+    <title>Loben @ CLV.de</title>
+  </url>
+  <url xlink:href="http://www.scm-shop.de/produkt/titel/loben/102063/102063/102063.html" xlink:type="simple">
+    <title>Loben @ SCM-Shop</title>
+  </url>
+</songbook>

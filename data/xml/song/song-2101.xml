@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2101">
+  <title>Ich weiß von keinem andern Grunde</title>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>352</numinsongbook>
+  </songbookref>
+</song>

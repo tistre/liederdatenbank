@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-35">
+  <firstname>Manfred</firstname>
+  <lastname>Siebald</lastname>
+  <name/>
+  <born>1948</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.siebald.org/" xlink:type="simple">
+    <title>siebald.org</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Manfred_Siebald" xlink:type="simple">
+    <title>Manfred Siebald @ Wikipedia</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/s/msiebald.htm" xlink:type="simple">
+    <title>Manfred Siebald @ ccmrezis.de</title>
+  </url>
+</artist>

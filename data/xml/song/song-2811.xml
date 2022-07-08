@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2811">
+  <title>Die ganze Stadt wird singen</title>
+  <author xlink:href="#artist-3693" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4135" xlink:type="simple">
+    <part>Music</part>
+    <year>1967</year>
+  </author>
+  <author xlink:href="#artist-4136" xlink:type="simple">
+    <part>Music</part>
+    <year>1967</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+  </songbookref>
+</song>

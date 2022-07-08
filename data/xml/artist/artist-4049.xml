@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4049">
+  <firstname>Sarah</firstname>
+  <lastname>Brendel</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.sarahbrendel.de/" xlink:type="simple">
+    <title>sarahbrendel.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/b/sarahbrendel.htm" xlink:type="simple">
+    <title>Sarah Brendel @ ccmrezis.de</title>
+  </url>
+</artist>

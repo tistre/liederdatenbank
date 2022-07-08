@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1330">
+  <title>Lobt Gott den Herrn, ihr Heiden all</title>
+  <subtitle/>
+  <text># Lobt Gott den Herrn, ihr Heiden all, 
+lobt Gott von Herzensgrunde, 
+preist ihn, ihr Völker allzumal, 
+dankt ihm zu aller Stunde, 
+dass er euch auch erwählet hat 
+und mitgeteilet seine Gnad 
+in Christus, seinem Sohne.
+
+# Denn seine groß Barmherzigkeit 
+tut über uns stets walten, 
+sein Wahrheit, Gnad und Gütigkeit 
+erscheinet Jung und Alten 
+und währet bis in Ewigkeit, 
+schenkt uns aus Gnad die Seligkeit;
+drum singet Halleluja.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Textvariation: Lobt Gott, den Herrn, ihr Völker all</comment>
+  <language>de</language>
+  <author xlink:href="#artist-11575" xlink:type="simple">
+    <part>Text</part>
+    <year>1591</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>293</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-117" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

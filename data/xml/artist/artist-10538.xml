@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10538">
+  <lastname>Gesenius</lastname>
+  <firstname>Justus</firstname>
+  <name/>
+  <born>1601</born>
+  <died>1673</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Justus_Gesenius" xlink:type="simple">
+    <title>Justus Gesenius @ Wikipedia.org</title>
+  </url>
+</artist>

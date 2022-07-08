@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19980">
+  <title>Was soll das bedeuten</title>
+  <subtitle/>
+  <text># Was soll das bedeuten? Es taget ja schon.
+Ich weiß wohl, es geht erst um Mitternacht rum.
+Schaut nur daher, schaut nur daher,
+wie glänzen die Sternlein je länger, je mehr.
+
+# Welch ein Leuchten, welche ein Leuchten vom hohen Himmelszelt!
+Welch ein Singen, welch ein Singen auf Bethlehems Feld!
+Frieden auf Erd, Frieden auf Erd
+und den Menschen Wohlgefallen! Freude ist uns beschert.
+
+# Treibt zusammen, treibt zusammen die Schäflein fürbass.
+Treibt zusammen, treibt zusammen, dort zeig ich euch was.
+Dort in dem Stall, dort in dem Stall
+werdet Wunderding sehen, treibt zusammen einmal.
+
+# Lasst uns eilen, lasst uns eilen zum Stalle hinab!
+Lasst uns sehen, lasst uns sehen, was dort sich begab.
+Betet ihn an, betet ihn an,
+den König im Kripplein, o betet ihn an!
+
+# Ich hab nur ein wenig von Weitem geguckt,
+da hat mir mein Herz schon vor Freuden gehupft:
+Ein schönes Kind, ein schönes Kind
+liegt dort in der Krippe bei Esel und Rind.
+
+# Ein herziger Vater steht auch mit dabei;
+ein wunderschön Jungfrau kniet auch auf dem Heu.
+Um und um singt's, um und um klingt's,
+man sieht ja kein Lichtlein, so um und um brinnt's.
+
+# Das Kindlein, das zittert vor Kälte und Frost.
+Ich dacht mir: Wer hat es denn also verstoßt,
+dass man auch heut, dass man auch heut
+ihm sonst keine andere Herberg anbeut?
+
+# So gehet und nehmet ein Lämmlein vom Gras
+und bringet dem schönen Christkindlein etwas.
+Geht nur fein sacht, geht nur fein sacht,
+auf dass ihr dem Kindlein kein Unruh nicht macht!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Verse in den Liederbüchern.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-26611" xlink:type="simple"/>
+  <author xlink:href="#artist-15239" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1842</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>116</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19619" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Was_soll_das_bedeuten" xlink:type="simple">
+    <title>Was soll das bedeuten @ Wikipedia.de</title>
+  </url>
+</song>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10212">
+  <title>Es kennt der Herr die Seinen</title>
+  <subtitle/>
+  <text># Es kennt der Herr die Seinen / In jedem Volk und Land.
+Ob sie verlassen scheinen, / Sie sind von Ihm gekannt.
+Er läßt sie nicht verderben, / Er führt sie aus und ein,
+Im Leben und im Sterben / Sind sie und bleiben Sein.
+
+# Er kennet Seine Scharen, / Die glaubend auf Ihn schaun,
+Und Ihm, dem Unsichtbaren, / Als säh'n sie Ihn, vertraun.
+Die von dem Worte zeugen, / Dem Wort, das sie ernährt,
+Die vor dem Wort sich beugen, / Und die das Wort bewährt.
+
+# Er wird sie sicher leiten / Durch diese Wüstenei,
+Gibt Mut und Kraft zum Streiten, / Führt selbst den Sieg herbei.
+Und wenn ihr Lauf vollendet, / So ruhn sie mit Ihm aus,
+Wenn aller Kampf beendet, / Gehn sie ins Vaterhaus.</text>
+  <right>Text Strophe 3: unbekannter Autor</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Eine etwas andere Textfassung ist in anderen Liederbüchern abgedruckt: "http://www.liederdatenbank.de/song/1398".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#16" xlink:type="simple"/>
+</song>

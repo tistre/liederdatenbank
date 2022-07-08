@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-10221">
+  <lastname>Anton</lastname>
+  <firstname>Christoph</firstname>
+  <name/>
+  <born>1610</born>
+  <died>1658</died>
+  <comment>Getauft in Freiberg (Sachsen). 1633 Organist an der Jakobikirche, 1639 Nachfolger seines Freundes Andreas Hammerschmidt an der Petrikirche. Gestorben in Freiberg.</comment>
+</artist>

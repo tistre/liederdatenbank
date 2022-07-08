@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13219">
+  <title>Bereit, Herr Jesus, unsre Herzen</title>
+  <subtitle/>
+  <text># Bereit', o Jesu, unsre Herzen
+Durch Deinen Geist der Liebe zu,
+Daß unverweilt durch Kampf und Schmerzen
+Wir eilen hin zu Deiner Ruh'.
+Nur Liebe nähret das Verlangen
+Nach Deiner Ankunft sel'gen Freud'.
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!
+
+# Welch glücklich Los, daß wir Dich schauen
+In Deines Vaters Herrlichkeit,
+Mit Dir auf jenen Friedensauen,
+Für immer ruhn von allem Streit!
+Ja, selig sind, die Dir anhangen
+Und warten Dein in dieser Zeit.
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!
+
+# Ja, eile – rufen, Herr, die Deinen,
+Und ende unsern Pilgerlauf!
+Wie glücklich macht uns Dein Erscheinen!
+O führ' uns bald zu Dir hinauf!
+Ja, komm und stille das Verlangen,
+Erfülle unsre Seligkeit!
+O eile Du, uns zu empfangen,
+Dein Kommen endet alles Leid!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Die ältere Textfassung "o Jesus" wurde in "Herr Jesus" geändert. - Gleiche Melodie: "http://www.liederdatenbank.de/song/13250" , "http://www.liederdatenbank.de/song/1481".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#88" xlink:type="simple"/>
+</song>

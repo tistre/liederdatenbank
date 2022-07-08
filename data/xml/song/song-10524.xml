@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10524">
+  <title>O lieber Herre Jesu Christ</title>
+  <subtitle/>
+  <text># O lieber Herre Jesu Christ,
+der du unser Erlöser bist,
+nimm heut an unsre Danksagung
+aus Genaden.
+
+# Du hast gesehen unsre Not,
+da wir in Sünden waren tot,
+und bist vom Himmel gestiegen
+aus Genaden.
+
+# Hast in Marien Jungfrauschaft
+durch deines Heilgen Geistes Kraft
+angenommen unsre Menschheit
+aus Genaden.
+
+# Du lehrest uns die neu Geburta
+und zeigest an die enge Pfortb
+und den schmalen Steig zum Leben
+aus Genaden.
+
+# Danach erlittest du den Tod
+in viel Verachtung, Hohn und Spott
+für unsre Sünd und Missetat
+aus Genaden.
+
+# Du stiegest auf zum höchsten Thron
+zu Gottes Rechten als sein Sohn,
+uns ewiglich zu vertreten
+aus Genaden.
+
+# O Christe, versammle dein Heer,
+regiere es mit treuer Lehr
+deinem Namen zu Lob und Ehr
+aus Genaden.
+
+# Hilf durch dein Mühe und Arbeit,
+dass es erlang die Seligkeit,
+Lob zu singen in Ewigkeit
+deiner Gnaden.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9002" xlink:type="simple">
+    <part>Text</part>
+    <year>1531</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1501 / 1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>68</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

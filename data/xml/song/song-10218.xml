@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10218">
+  <title>Gott, Deiner Liebe Fülle</title>
+  <subtitle/>
+  <text># Gott, Deiner Liebe Fülle
+Macht uns getrost und stille,
+Wie steil der Weg auch ist.
+Will Not uns niederbeugen
+Und sich kein Ausweg zeigen –
+Genug, daß Du die Liebe bist!
+
+# Wir dürfen freudig sagen,
+Daß Du in allen Lagen
+Die Deinen nie vergißt.
+Will uns der Feind betören,
+Durch Zweifel gar uns stören –
+Genug, daß Du die Liebe bist!
+
+# Dein Lieben ist ohn' gleichen
+Und wird nie von uns weichen,
+Trotz Satans Macht und List.
+Wir dürfen aufwärts schauen
+Und rufen voll Vertrauen:
+Genug, daß Du die Liebe bist!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Music</part>
+    <year>1858</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/021_030.html#21" xlink:type="simple"/>
+</song>

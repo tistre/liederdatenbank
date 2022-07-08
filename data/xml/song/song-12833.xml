@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12833">
+  <title>Das Glaubensbekenntnis (Credo)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Das Apostolische Glaubensbekenntnis. - Melodie und Satz: Ostkirchlich, eingerichtet 1989 / 1994.</comment>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>705</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

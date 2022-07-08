@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2871">
+  <title>Hilf uns, o Gott, unser Erlöser</title>
+  <author xlink:href="#artist-672" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>Music</part>
+    <year>1991</year>
+  </author>
+  <author xlink:href="#artist-4069" xlink:type="simple">
+    <part>Music</part>
+    <year>1991</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+  </songbookref>
+</song>

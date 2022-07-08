@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2416">
+  <title>My life is in Your hands</title>
+  <subtitle>You don't have to worry</subtitle>
+  <author xlink:href="#artist-3690" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1997</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>128</numinsongbook>
+  </songbookref>
+  <right>Lilly Mack Music, USA</right>
+</song>

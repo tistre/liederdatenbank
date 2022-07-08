@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10201">
+  <title>Sel'ge Hoffnung! Du kommst wieder</title>
+  <subtitle/>
+  <text># Sel'ge Hoffnung! Du kommst wieder,
+Läßt die Glieder nicht zurück.
+Bald verkünden neue Lieder
+Droben unser ew'ges Glück.
+Dann ist jeder Wunsch erfüllt,
+Unser Sehnen ganz gestillt.
+
+# Ruhen werden dann die Glieder
+Ewig dort, vereint mit Dir.
+Keine Trübsal kehret wieder,
+Keine Träne fließt wie hier.
+Ewig fern ist alles Leid,
+Jedes Herz füllt Seligkeit.
+
+# Und anbetend wird dann singen
+Deine teu'r erkaufte Schar,
+Dir, dem Lamme, Ehre bringen,
+Gott erheben immerdar.
+Welch ein Glück, bei Dir zu sein!
+Komm, o Jesu, führ' uns ein!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie wie: "http://www.liederdatenbank.de/song/13058".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10191" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#8" xlink:type="simple"/>
+</song>

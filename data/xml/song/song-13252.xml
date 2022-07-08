@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13252">
+  <title>O welch ein Heiland, Herr, bist du!</title>
+  <subtitle/>
+  <text># O welch ein Heiland, Herr, bist Du!
+Der Sünder findet süße Ruh',
+Die niemand kann ergründen.
+Ein Abgrund der Barmherzigkeit
+Verschlingt ein Meer voll Herzeleid.
+Du starbst für unsre Sünden.
+Ja, Du, Jesu,
+Hast Dein Leben hingegeben, um von Sünden
+Uns auf ewig zu entbinden.
+
+# Holdsel'ger, treuer Friedefürst,
+Wie hat Dich nach dem Heil gedürst't,
+Dem Heil verlorner Sünder!
+Es floß Dein Blut am Kreuzesstamm,
+Es floß für uns, o Gotteslamm,
+Nun sind wir Gottes Kinder.
+Freude! Freude!
+Durch Dein Sterben sind wir Erben. Dort am Throne
+Gibst Du uns die Siegeskrone.
+
+# Herr, unsere Gerechtigkeit,
+Wie hoch wird dessen Geist erfreut,
+Der Dich im Glauben kennet!
+Du hast Dein großes Werk vollbracht,
+Hast alle Furcht zunicht' gemacht,
+Von Gott uns nichts mehr trennet.
+Laß uns ewig,
+Himmelssonne, Seelenwonne, Dich genießen
+Und in Deinem Lob zerfließen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1520", "http://www.liederdatenbank.de/song/2106", "http://www.liederdatenbank.de/song/13660", "http://www.liederdatenbank.de/song/1394".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-3717" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/091_100.html#100" xlink:type="simple"/>
+</song>

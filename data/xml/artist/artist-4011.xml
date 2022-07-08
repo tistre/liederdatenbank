@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4011">
+  <firstname>Martin</firstname>
+  <lastname>Buchholz-Fiebig</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.martinbuchholz.com/" xlink:type="simple">
+    <title>martinbuchholz.com</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/b/martinbuchholz.htm" xlink:type="simple">
+    <title>Martin Buchholz / Martin Moro / Quodlibet @ ccmrezis.de</title>
+  </url>
+</artist>

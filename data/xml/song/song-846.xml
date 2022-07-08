@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-846">
+  <title>Fürchte dich nicht, ich bin bei dir</title>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-74" xlink:type="simple">
+    <part>Music</part>
+    <year>1987</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

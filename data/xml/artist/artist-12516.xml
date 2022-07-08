@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-12516">
+  <lastname>Bach</lastname>
+  <firstname>Carl Philipp Emanuel</firstname>
+  <name/>
+  <born>1714</born>
+  <died>1788</died>
+  <comment>Geboren in Weimar. Er war der zweite überlebende Sohn von Johann Sebastian Bach. Dt. Komopnist und Kirchenmusiker. Gestorben in Hamburg.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Carl Philipp Emanuel Bach" xlink:type="simple"/>
+</artist>

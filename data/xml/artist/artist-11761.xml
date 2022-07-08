@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11761">
+  <lastname>Freystein</lastname>
+  <firstname>Johann Burchard</firstname>
+  <name/>
+  <born>1671</born>
+  <died>1718</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Burchard_Freystein" xlink:type="simple">
+    <title>Johann Burchard Freystein @ Wikipedia.org</title>
+  </url>
+</artist>

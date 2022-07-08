@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23678">
+  <title>Wir sagen danke für alles, was du gibst</title>
+  <subtitle>Halleluja, Halleluja, Halleluja, Halleluja, Halleluja!</subtitle>
+  <copyrightyear/>
+  <right>Verlag Ernst Kaufmann, Lahr; Kösel-Verlag, München</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4645" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24939" xlink:type="simple">
+    <part>Music</part>
+    <year>19. Jh.</year>
+  </author>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21066">
+  <title>Folge mir nach, folge mir nach</title>
+  <subtitle/>
+  <copyrightyear>1980</copyrightyear>
+  <right>Text: Oncken Verlag, Wuppertal / Musik: Lillenas Publishing Co. / Rechte für D, A, CH: CopyCare Deutschland, Holzgerlingen.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-21065" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1980</year>
+  </author>
+  <author xlink:href="#artist-3974" xlink:type="simple">
+    <part>Text</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-9927" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-4" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-11" xlink:type="simple">
+    <verse>28</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-5" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-11" xlink:type="simple">
+    <verse>29</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-8" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-6" xlink:type="simple">
+    <verse>35</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23581">
+  <title>Herr, segne uns und behüte uns</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Verlag Singende Gemeinde, Wuppertal</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0115</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-num-6" xlink:type="simple">
+    <verse>24-26</verse>
+  </bibleref>
+</song>

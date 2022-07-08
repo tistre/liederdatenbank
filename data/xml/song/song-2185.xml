@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2185">
+  <title>Wir sollen Deine Zeugen sein</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Titel auch "Wir wollen...".</comment>
+  <language>de</language>
+  <publisher xlink:href="#publisher-11049" xlink:type="simple"/>
+  <author xlink:href="#artist-4027" xlink:type="simple">
+    <part>Text</part>
+    <year>1961</year>
+  </author>
+  <author xlink:href="#artist-4777" xlink:type="simple">
+    <part>Music</part>
+    <year>1950</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>269</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>561</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

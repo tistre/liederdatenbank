@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1466">
+  <title>Du Kind, zu dieser heilgen Zeit</title>
+  <text># Du Kind, zu dieser heil'gen Zeit 
+gedenken wir auch an dein Leid, 
+das wir zu dieser späten Nacht 
+durch unsre Schuld auf dich gebracht. 
+Kyrieleison, Kyrieleison.
+
+# Die Welt ist heut voll Freudenhall. 
+Du aber liegst im armen Stall. 
+Dein Urteilsspruch ist längst gefällt, 
+das Kreuz ist dir schon aufgestellt.
+Kyrieleison, Kyrieleison.
+
+# Die Welt liegt heut im Freudenlicht. 
+Dein aber harret das Gericht. 
+Dein Elend wendet keiner ab. 
+Vor deiner Krippe gähnt das Grab. 
+Kyrieleison, Kyrieleison.
+
+# Die Welt ist heut an Liedern reich. 
+Dich aber bettet keiner weich 
+und singt dich ein zu lindem Schlaf. 
+Wir häuften auf dich unsre Straf.
+Kyrieleison, Kyrieleison.
+
+# Wenn wir mit dir einst auferstehn 
+und dich von Angesichte sehn, 
+dann erst ist ohne Bitterkeit 
+das Herz uns zum Gesange weit. 
+Hosianna, Hosianna.</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>In http://www.liederdatenbank.de/songbook/26205 ist die Melodie von http://www.liederdatenbank.de/artist/31. Im http://www.liederdatenbank.de/songbook/8984, http://www.liederdatenbank.de/songbook/25501, http://www.liederdatenbank.de/songbook/88,
+http://www.liederdatenbank.de/songbook/19854 ist die Melodie von http://www.liederdatenbank.de/artist/9905. Der Text kann auch auf die Melodie von "http://www.liederdatenbank.de/song/11423" gesungen werden.</comment>
+  <copyrightyear/>
+  <right/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-3743" xlink:type="simple">
+    <part>Text</part>
+    <year>1938</year>
+  </author>
+  <author xlink:href="#artist-31" xlink:type="simple">
+    <part>Music</part>
+    <year>1939</year>
+  </author>
+  <author xlink:href="#artist-9905" xlink:type="simple">
+    <part>Music</part>
+    <year>1970</year>
+  </author>
+  <author xlink:href="#artist-45" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz 1984</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>214</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>198</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>832</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19437" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1469</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>184</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21173" xlink:type="simple">
+    <cdnum/>
+    <numoncd>13</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270961324&amp;id=270961070&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

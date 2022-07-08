@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4651">
+  <firstname>Wilhelm</firstname>
+  <lastname>Brockhaus</lastname>
+  <name/>
+  <born>1819</born>
+  <died>1888</died>
+  <comment>Geboren in Himmelmert, Lehrer, in der Brüderbewegung tätig, u. a. in (Wuppertal-)Elberfeld, gestorben in Duisburg. Bruder von http://www.liederdatenbank.de/artist/4650 (1822-1899).</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Wilhelm Brockhaus (Schriftsteller)" xlink:type="simple"/>
+</artist>

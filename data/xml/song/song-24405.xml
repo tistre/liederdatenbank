@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24405">
+  <title>Zolang er mensen zijn op aarde</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-11718" xlink:type="simple">
+    <part>Text</part>
+    <year>1958</year>
+  </author>
+  <author xlink:href="#artist-9177" xlink:type="simple">
+    <part>Music</part>
+    <year>1960</year>
+  </author>
+</song>

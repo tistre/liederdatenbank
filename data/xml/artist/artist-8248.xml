@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-8248">
+  <lastname>Crasselius (Krasselt)</lastname>
+  <firstname>Bartholomäus</firstname>
+  <name/>
+  <born>1677</born>
+  <died>1724</died>
+  <comment>Geboren in Wernsdorf/Sachsen, Hallischer Pietist, Pfarrer in Nidda und Düsseldorf.</comment>
+  <url xlink:href="http://www.bautz.de/bbkl/c/crasselius_b.shtml" xlink:type="simple">
+    <title>CRASSELIUS (Crasselt), Bartholomäus @ Biographisch-Bibliographisches Kirchenlexikon</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Bartholomäus_Crasselius" xlink:type="simple">
+    <title>Bartholomäus Crasselius @ Wikipedia.org</title>
+  </url>
+</artist>

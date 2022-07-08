@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3702">
+  <firstname>Danny</firstname>
+  <lastname>Plett</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.danny-plett.de/" xlink:type="simple">
+    <title>danny-plett.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/p/dannyplett.htm" xlink:type="simple">
+    <title>Danny Plett @ ccmrezis.de</title>
+  </url>
+</artist>

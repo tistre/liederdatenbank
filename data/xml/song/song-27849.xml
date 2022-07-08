@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27849">
+  <title>Vöglein im hohen Baum</title>
+  <subtitle/>
+  <text># Vöglein im hohen Baum,
+klein ist's, ihr seht es kaum,
+singt doch so schön,
+dass wohl von nah und fern
+alle die Leute gern
+|: horchen und stehn,. :|
+
+# Blümlein im Wiesengrund
+blühen so lieb und bunt,
+tausend zugleich.
+Wenn ihr vorüber geht,
+wenn ihr die Farben seht,
+|: freuet ihr euch,. :|
+
+# Wässerlein fleißt so fort
+immer von Ort zu Ort,
+nieder ins Tal.
+Dürsten nun Mensch und Vieh,
+kommen zum Bächlein sie,
+|: trinken zumal,. :|
+
+# Habt ihr es auch bedacht,
+wer hat so schön gemacht
+alle die drei?
+Gott der Herr machte sie,
+dass sich nun spät und früh
+|: jedes dran freu,. :|</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11306" xlink:type="simple">
+    <part>Text</part>
+    <year>1837</year>
+  </author>
+  <author xlink:href="#artist-11752" xlink:type="simple">
+    <part>Music</part>
+    <year>1842</year>
+  </author>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

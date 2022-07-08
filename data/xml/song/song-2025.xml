@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2025">
+  <title>Freut euch, ihr Christen alle, Gott schenkt uns Seinen Sohn</title>
+  <subtitle/>
+  <text># Freut euch, ihr Christen alle,
+Gott schenkt uns seinen Sohn;
+lobt ihn mit großem Schalle,
+er sendet auch vom Thron
+des Himmels seinen Geist,
+der uns durchs Wort recht lehret,
+des Glaubens Licht vermehret
+und uns auf Christus weist.
+
+# Er lässet offenbaren
+als unser höchster Hort
+uns, die wir Toren waren,
+das himmlisch Gnadenwort.
+Wie groß ist seine Güt!
+Nun können wir ihn kennen
+und unsern Vater nennen,
+der uns allzeit behüt’.
+
+# Verleih, dass wir dich lieben,
+o Gott von großer Huld,
+durch Sünd dich nicht betrüben,
+vergib uns unsre Schuld,
+führ uns auf ebner Bahn,
+hilf, dass wir dein Wort hören
+und tun nach deinen Lehren:
+das ist recht wohlgetan.
+
+# Von oben her uns sende
+den Geist, den edlen Gast;
+der stärket uns behände,
+wenn uns drückt Kreuzeslast.
+Tröst uns in Todespein,
+mach auf die Himmelstüre,
+uns miteinander führe
+zu deinem Freudenschein!
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1507".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11321" xlink:type="simple">
+    <part>Text</part>
+    <year>1639</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1653</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>129</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

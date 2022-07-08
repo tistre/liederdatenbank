@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4205">
+  <firstname>Christian</firstname>
+  <lastname>David</lastname>
+  <name/>
+  <born>1692</born>
+  <died>1751</died>
+  <comment>Geboren in Senftleben, nach Übertritt von der katholischen zur evangelischen Kirche pietistischer Erweckungsprediger in Mähren, Mitbegründer der Siedlung Herrnhut, später Missionar der Brüdergemeine in Grönland und Nordamerika, gestorben in Herrnhut.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Christian David (Missionar)" xlink:type="simple"/>
+</artist>

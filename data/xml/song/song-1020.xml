@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1020">
+  <title>Es ist ein Born, draus heilges Blut</title>
+  <subtitle/>
+  <text>#
+Es ist ein Born, draus heiliges Blut 
+für arme Sünder quillt, 
+ein Born, der lauter Wunder tut 
+und jeden Kummer stillt.
+
+*
+Es quillt für mich dies teure Blut, 
+das glaub und fasse ich! 
+Es macht auch meinen Schaden gut, 
+denn Christus starb für mich!
+
+#
+Der Schacher fand den Wunderquell, 
+den Jesu Gnad ihm wies, 
+und dadurch ging er rein und hell 
+mit ihm ins Paradies.
+
+#
+O Gotteslamm, dein teures Blut 
+hat noch die gleiche Kraft! 
+Gieß aus des Geistes Feuerglut, 
+die neue Menschen schafft.
+
+#
+Auch ich war einst in Sündennot, 
+da half mir Jesu Blut; 
+drum jauchz ich auch bis in den Tod 
+ob dieser Gnadenflut.
+
+#
+Dies Blut sei all mein Leben lang 
+die Quelle meiner Lust! 
+Das bleib mein ewger Lobgesang 
+an meines Heilands Brust.
+</text>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>In "Jesu Name nie verklinget 1" gibt es 2 verschiedene Melodien</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <right/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <originalsong xlink:href="#song-15162" xlink:type="simple"/>
+  <author xlink:href="#artist-10148" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Music</part>
+    <year>1800</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>326</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>119</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>293</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>180</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>46a</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10361" xlink:type="simple"/>
+</song>

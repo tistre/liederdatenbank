@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1593">
+  <title>Auf meinen lieben Gott trau ich in Angst und Not</title>
+  <text># Auf meinen lieben Gott trau ich in Angst und Not; 
+der kann mich allzeit retten aus Trübsal, Angst und Nöten, 
+mein Unglück kann er wenden, steht alls in seinen Händen.
+
+# Ob mich mein Sünd anficht, will ich verzagen nicht; 
+auf Christus will ich bauen und ihm allein vertrauen; 
+ihm will ich mich ergeben im Tod und auch im Leben.
+
+# Ob mich der Tod nimmt hin, ist Sterben mein Gewinn, 
+denn Christus ist mein Leben, dem will ich mich ergeben; 
+ich sterb heut oder morgen in ihm bin ich geborgen.
+
+# O mein Herr Jesu Christ, der du geduldig bist 
+für mich am Kreuz gestorben, hast mir das Heil erworben, 
+uns allen auch gegeben in deinem Reich das Leben.
+
+# Amen zu aller Stund sprech ich aus Herzensgrund; 
+du wollest selbst uns leiten, Herr Christ, zu allen Zeiten, 
+auf dass wir deinen Namen ohn Ende preisen. Amen.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_features>L</ccli_features>
+  <ccli_number/>
+  <author xlink:href="#artist-27662" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1603</year>
+  </author>
+  <author xlink:href="#artist-13411" xlink:type="simple">
+    <part>Text</part>
+    <year>1607</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Text</part>
+    <year>1607</year>
+  </author>
+  <author xlink:href="#artist-4743" xlink:type="simple">
+    <part>Music</part>
+    <year>1574</year>
+  </author>
+  <author xlink:href="#artist-4770" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz 167</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>361</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>455</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>391</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>345</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

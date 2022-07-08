@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-14098">
+  <title>Wunderbar, daß du, der Sohn, gekommen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1523", "http://www.liederdatenbank.de/song/1408", "http://www.liederdatenbank.de/song/13413".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25595" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1755</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>530</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24278">
+  <title>Wir vertrauen Gott</title>
+  <subtitle>Unter Druck halte ich stand</subtitle>
+  <copyrightyear>2015</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>7052039</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <publisher xlink:href="#publisher-22689" xlink:type="simple"/>
+  <author xlink:href="#artist-22687" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22713" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3592" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23892" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <url xlink:href="https://www.youtube.com/watch?v=tRcoTj2bc1o" xlink:type="simple">
+    <title>Hillsong Worship - Wir vertrauen Gott @ YouTube.com</title>
+  </url>
+</song>

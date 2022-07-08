@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-879">
+  <title>Flieg auf den Flügeln der Freude</title>
+  <author xlink:href="#artist-685" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-684" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>204</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

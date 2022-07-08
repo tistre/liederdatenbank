@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2064">
+  <title>Lobt froh den Herrn, ihr jugendlichen Chöre!</title>
+  <subtitle/>
+  <text># Lobt froh den Herrn, ihr jugendlichen Chöre!
+Er höret gern ein Lied zu seiner Ehre:
+lobt froh den Herrn, lobt froh den Herrn!
+
+# Du sprachst, da war der Welten All gegründet,
+der Schöpfung Schar stets deinen Ruhm verkündet,
+lobt froh den Herrn, lobt froh den Herrn!
+
+# Du sorgst mit Treu für deiner Menschen Scharen,
+und täglich neu wird deine Huld erfahren.
+Lobt froh den Herrn, lobt froh den Herrn!
+
+# Weil wir verirrt, kamst du auf unsre Erde,
+als treuer Hirt zu retten deine Herde.
+Lobt froh den Herrn, lobt froh den Herrn!
+
+# Es schallt empor zu deinem Heiligtume
+aus unserm Chor ein Lied zu deinem Ruhme.
+Lobt froh den Herrn, lobt froh den Herrn!
+
+# Vom Preise voll lass unser Herz dir singen,
+das Loblied soll zu deinem Throne dringen.
+Lobt froh den Herrn, lobt froh den Herrn!
+
+# Einst kommt die Zeit, wo wir auf tausend Weisen,
+o Seligkeit, dich, unsern Vater, preisen
+von Ewigkeit zu Ewigkeit!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Die Textfassungen differieren ein wenig.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11742" xlink:type="simple">
+    <part>Text</part>
+    <year>1795</year>
+  </author>
+  <author xlink:href="#artist-4625" xlink:type="simple">
+    <part>Music</part>
+    <year>1815</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>332</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>601</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>244</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>218</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

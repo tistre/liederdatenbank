@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2413">
+  <title>Der Herr füllt unsern Mangel aus</title>
+  <author xlink:href="#artist-36" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-2997" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-3691" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-3692" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+  </songbookref>
+</song>

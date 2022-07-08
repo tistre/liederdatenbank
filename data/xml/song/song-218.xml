@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-218">
+  <title>Gott ist die Liebe</title>
+  <text># Gott ist die Liebe, lässt mich erlösen,
+Gott ist die Liebe, Er liebt auch mich.
+
+* 1.-10. Drum sag ich noch einmal: Gott ist die Liebe!
+Gott ist die Liebe, Er liebt auch mich.
+
+# Ich lag in Banden der bösen Sünde,
+ich lag in Banden und konnt nicht los.
+
+# Ich lag im Tode, des Teufels Schrecken,
+ich lag im Tode, der Sünde Sold.
+
+# Er sandte Jesus, den treuen Heiland,
+Er sandte Jesus und macht mich los.
+
+# Er ließ mich laden durchs Wort der Gnaden;
+er ließ mich laden durch seinen Geist.
+
+# Jesus, mein Heiland, gab sich zum Opfer,
+Jesus, mein Heiland, büßt meine Schuld.
+
+# Du heilst, o Liebe, all meinen Jammer,
+Du stillst, o Liebe, mein tiefstes Weh.
+
+# Du füllst mit Freuden die matte Seele,
+Du füllst mit Frieden mein armes Herz.
+
+# Du lässt mich erben die ewge Freude,
+Du lässt mich erben die ewge Ruh.
+
+# Dich will ich preisen, Du ewge Liebe,
+Dich will ich loben, solang ich bin.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4828833</ccli_number>
+  <author xlink:href="#artist-4830" xlink:type="simple">
+    <part>Text</part>
+    <year>1852</year>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25552" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1840</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>318</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>295</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>347</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>188</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>257</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

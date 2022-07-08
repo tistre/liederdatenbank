@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11299">
+  <title>Komm, Heiliger Geist, Herre Gott</title>
+  <subtitle/>
+  <text># Komm, Heiliger Geist, Herre Gott,
+erfüll mit deiner Gnaden Gut
+deiner Gläub’gen Herz, Mut und Sinn,
+dein brennend Lieb entzünd in ihn’.
+O Herr, durch deines Lichtes Glanz
+zum Glauben du versammelt hast
+das Volk aus aller Welt Zungen.
+Das sei dir, Herr, zu Lob gesungen.
+Halleluja, Halleluja.
+
+# Du heiliges Licht, edler Hort,
+lass leuchten uns des Lebens Wort
+und lehr uns Gott recht erkennen,
+von Herzen Vater ihn nennen.
+O Herr, behüt vor fremder Lehr,
+dass wir nicht Meister suchen mehr
+denn Jesus mit rechtem Glauben
+und ihm aus ganzer Macht vertrauen.
+Halleluja, Halleluja.
+
+# Du heilige Glut, süßer Trost,
+nun hilf uns, fröhlich und getrost
+in deim Dienst beständig bleiben,
+die Trübsal uns nicht wegtreiben.
+O Herr, durch dein Kraft uns bereit
+und wehr des Fleisches Ängstlichkeit,
+dass wir hier ritterlich ringen,
+durch Tod und Leben zu dir dringen.
+Halleluja, Halleluja.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>125</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

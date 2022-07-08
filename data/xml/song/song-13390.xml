@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13390">
+  <title>Herr, das Wort aus deinem Munde</title>
+  <subtitle/>
+  <text># Herr, das Wort aus Deinem Munde
+Ist so lieblich, süß und hold!
+Gute Botschaft, frohe Kunde,
+Besser als das reinste Gold!
+Deine ew'gen Heilsgedanken,
+Deine Liebe ohne Schranken,
+Dein Herz, das sich zu uns neigt,
+Hast Du völlig uns gezeigt.
+
+# Eins ist not - auf Dich zu hören,
+Auf Dein Wort voll Huld und Heil,
+Zu bewahren Deine Lehren,
+Ist das allerbeste Teil.
+Ja, das Wort, das Du gegeben,
+Es ist Wahrheit, Geist und Leben,
+Unsers Weges helles Licht,
+Wer ihm folgt, der irret nicht.
+
+# Vater, Dank für diese Quelle,
+Lebensmanna, Himmelsgab',
+Diese Leuchte unsrer Seele,
+Diesen guten Wanderstab!
+Dank für diese Kraft der Schwachen,
+Weisheit, Toren klug zu machen,
+Dank für dieses Schwert im Krieg,
+Dank für diesen Weg zum Sieg!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/10219" oder "http://www.liederdatenbank.de/song/13293" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13221" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1882</year>
+  </author>
+  <author xlink:href="#artist-5013" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#140" xlink:type="simple"/>
+</song>

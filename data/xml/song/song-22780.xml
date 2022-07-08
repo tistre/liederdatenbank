@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22780">
+  <title>Das was ich brauch bist du</title>
+  <subtitle/>
+  <copyrightyear>2006</copyrightyear>
+  <right>Dayspring Music, LLC / Verwaltet von CopyCare Deutschland</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6535296</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LAN</ccli_features>
+  <originalsong xlink:href="#song-22778" xlink:type="simple"/>
+  <author xlink:href="#artist-22779" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13264" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-23" xlink:type="simple">
+    <verse>1-99</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-14" xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>31-39</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13212">
+  <title>Jesus, Quelle unsrer Freuden</title>
+  <subtitle/>
+  <text># Jesu, Quelle unsrer Freuden,
+Unser Trost in allem Leid!
+Der Du selber gingst durch Leiden
+Ein zu Deiner Herrlichkeit.
+Hier von unserm Pilgerlauf
+Schauen wir zu Dir hinauf.
+Steh uns bei,
+Halt uns treu,
+Stärke uns im Glaubensstreit.
+
+# Du, das Haupt all Deiner Glieder,
+Bist zum Segnen stets bereit,
+Huldreich blickst Du auf uns nieder
+Dort aus Deiner Herrlichkeit.
+Sendest Trost ins bange Herz
+Bei Verfolgung, Kampf und Schmerz.
+Jeden Schlag,
+Spott und Schmach
+Fühlst Du als Dein eignes Leid.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#82" xlink:type="simple"/>
+</song>

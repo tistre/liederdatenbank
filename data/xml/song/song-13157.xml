@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13157">
+  <title>O Lebenswort! Wer dankt genug</title>
+  <subtitle/>
+  <text># O Lebenswort! wer dankt genug,
+Daß Du im Fleisch gekommen,
+Und nach der Liebe tiefstem Zug
+Das Knechtsbild angenommen!
+Du schämtest Dich der Sünder nicht,
+Gingst selber für sie ins Gericht
+Und starbst für ihre Sünden.
+
+# Kein Mensch dies Wunder fassen kann,
+Kein Engel kann's verstehen.
+Der Glaube schaut's und betet an,
+Bewundert, was geschehen.
+Drum sei Dir unser Lob geweiht,
+Denn Dir, dem Herrn der Herrlichkeit,
+Lob, Ehr' und Ruhm gebühret.</text>
+  <copyrightyear/>
+  <right>Melodie: 15. Jahrhundert; Wittenberg 1529.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#62" xlink:type="simple"/>
+</song>

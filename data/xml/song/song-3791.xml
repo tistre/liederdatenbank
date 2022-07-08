@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3791">
+  <title>Gott mag mich hundert-pro</title>
+  <author xlink:href="#artist-3653" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-3886" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>94</numinsongbook>
+  </songbookref>
+</song>

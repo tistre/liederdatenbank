@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2078">
+  <title>Der Himmel steht offen, Herz, weißt du, warum</title>
+  <text># Der Himmel steht offen; Herz, weißt du, warum?
+Weil Jesus gekämpft und geblutet: darum.
+
+# Auf Golgathas Hügel, da litt Er für dich,
+als Er für die Sünder am Kreuze erblich.
+
+# So komm doch, o Seele, komm her zu dem Herrn
+und klag deine Sünden; Er hilft ja so gern.
+
+# Wenngleich deine Sünden so rot sind wie Blut,
+es machen die Wunden des Heilands sie gut.
+
+# O Jesu, mein Heiland, mein Hort und mein Teil,
+in Dir nur ist Frieden, in Dir nur ist Heil.</text>
+  <language>de</language>
+  <right>(Melodie) Gnadauer Verlag, Dillenburg</right>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text: Basel 1875</comment>
+  <copyrightyear/>
+  <author xlink:href="#artist-5073" xlink:type="simple">
+    <part>Music</part>
+    <year>1948</year>
+  </author>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>289</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

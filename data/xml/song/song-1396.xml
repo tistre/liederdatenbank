@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1396">
+  <title>Ein einig Volk von Brüdern</title>
+  <text># Ein einig Volk von Brüdern, das ist das Volk des Herrn, 
+verzweigt in seinen Gliedern, doch eins in seinem Kern; 
+von oben her geboren, vom Heilgen Geist getränkt, 
+von Gott selbst auserkoren, der liebend sein gedenkt.
+
+# Durch Christi Blut gereinigt von aller Sündenschuld, 
+weiß es sich ganz vereinigt mit ihm in seiner Huld. 
+Noch eh die Welt gegründet, schloss er es in sein Herz. 
+Wer je dies Glück empfindet, den zieht es himmelwärts.
+
+# An seinem Gnadenthrone, da sammelt sich die Schar, 
+geheiligt in dem Sohne und mit ihm offenbar. 
+Ihr Leben, hier verborgen, oft dunkel wie die Nacht, 
+glänzt dort im lichten Morgen der Auferstehungspracht.
+
+# Dann ist es überwunden, was uns noch schmerztund drückt; 
+wir haben dann gefunden die Ruh, die uns erquickt; 
+wir sind bei ihm in Frieden, verkläret in sein Bild, 
+auf ewig ungeschieden und ganz von ihm erfüllt.
+
+# O Jesu, uns bescheine in deiner Liebe Glanz. 
+O Jesu, uns vereine mit dir und in dir ganz. 
+Ein einig Volk von Brüdern, das lass, o Herr, uns sein, 
+in allen seinen Gliedern auf ewig, ewig dein.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1869</year>
+  </author>
+  <author xlink:href="#artist-4706" xlink:type="simple">
+    <part>Music</part>
+    <year>1927</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>109</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+</song>

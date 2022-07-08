@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-8984">
+  <name>Ev. Gesangbuch</name>
+  <icon xlink:href="#file-8983" xlink:type="simple"/>
+  <comment>Evangelisches Gesangbuch der Evangelischen Kirche in Deutschland (EKD) und iher Gliedkirchen, der Evangelischen Kirche Augsburgischen und Helvetischen Bekenntnisses in Österreich sowie der Kirche Augsburgischer Konfession und der Reformierten Kirche im Elsass und in Lothringen (Frankreich).
+
+Nr. 001 bis 535 - Gemeinsamer Liedteil
+Nr. 536 bis 669 - Regionaler Liedteil
+Nr. 670 bis 802 - Gottesdienstteil
+Nr. 804 bis 908 - Textteil
+Nr. 909 bis 914 - Beigaben
+
+Die Regionalteile der einzelnen Landeskirchen unterscheiden sich und sind bzw. werden daher separat erfaßt:
+- http://www.liederdatenbank.de/songbook/12102 (Regionalteil Bayern u. Thüringen)
+- http://www.liederdatenbank.de/songbook/22550
+- http://www.liederdatenbank.de/songbook/25090
+
+2011 erschien der Ergänzungsband "http://www.liederdatenbank.de/songbook/22196".</comment>
+  <state>1</state>
+  <code/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Evangelisches_Gesangbuch" xlink:type="simple">
+    <title>Evangelisches Gesangbuch @ Wikipedia.de</title>
+  </url>
+</songbook>

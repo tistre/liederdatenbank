@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13162">
+  <title>Du bist, o Herr, gegangen</title>
+  <subtitle/>
+  <text># Du bist, o Herr, gegangen
+Schon ein ins Heiligtum,
+Du hast von Gott empfangen
+Ein ew'ges Priestertum.
+Der Vorhang ist zerrissen,
+Die Sünd' hinweggetan.
+Befreit ist das Gewissen,
+Anbetend wir jetzt nahn.
+
+# Wir nahn dem Thron mit Freuden
+Und mit Freimütigkeit.
+Von Dir kann uns nichts scheiden
+In dieser Prüfungszeit.
+Du hast uns Deine Liebe
+Ins bange Herz gesenkt,
+Wenn hier auch nichts uns bliebe,
+Bist Du uns doch geschenkt.
+
+# Jetzt weilst Du für uns droben,
+Vertrittst uns allezeit,
+Bis wir zu Dir erhoben,
+Zu Deiner Herrlichkeit.
+O seliges Vollenden,
+Bei Dir, dem Herrn, zu sein,
+Wo nie Dein Ruhm wird enden,
+Wo wir nur Lob Dir weihn!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: "http://www.liederdatenbank.de/song/13216"</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#66" xlink:type="simple"/>
+</song>

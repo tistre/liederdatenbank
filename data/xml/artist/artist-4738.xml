@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4738">
+  <firstname>Paul</firstname>
+  <lastname>Fleming</lastname>
+  <name/>
+  <born>1609</born>
+  <died>1640</died>
+  <comment>Geboren in Hartenstein, Arzt und Dichter, gestorben in Hamburg.</comment>
+</artist>

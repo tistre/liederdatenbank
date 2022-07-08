@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-10643">
+  <name>Unser Liederbuch</name>
+  <comment>Gestern - heute - morgen
+Herausgegeben von Klaus Heizmann, Gerth Medien Musikverlag, Asslar 2001, ISBN 3-89615-250-5</comment>
+  <icon xlink:href="#file-10644" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.gerth.de/?vp_id=www-Link&amp;fct=search&amp;nav_fct=search&amp;search_str=857250" xlink:type="simple">
+    <title>Unser Liederbuch @ Gerth.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/produkt/titel/unser-liederbuch-gestern-heute-morgen/56852/56852/56852.html" xlink:type="simple">
+    <title>Unser Liederbuch @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/gp/product/3896152505" xlink:type="simple">
+    <title>Unser Liederbuch @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Unser+Liederbuch%3A+gestern+-+heute+-+morgen" xlink:type="simple">
+    <title>Unser Liederbuch @ Booklooker.de</title>
+  </url>
+</songbook>

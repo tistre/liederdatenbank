@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28548">
+  <title>Jesus Christus ist in unsrer Mitte und spricht</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Haus Altenberg, 4000 Düsseldorf.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11363" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+</song>

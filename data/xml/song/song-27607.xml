@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27607">
+  <title>Das walte Gott, Vater, Sohn, Heiliger Geist</title>
+  <subtitle/>
+  <text>|: Das walte Gott, Vater, Sohn, Heiliger Geist. 
+Amen, Amen. :|
+
+Ich danke dir, mein himmlischer Vater,
+durch Jesus Christus, deinen lieben Sohn,
+dass du mich diese Nacht vor allem Schaden
+und Gefahr behütet hast, und bitte dich,
+du wollest mich diesen Tag auch behüten
+vor Sünden und vor allem Übel,
+|: dass dir all mein Tun und mein Leben gefällt, :|
+denn ich befehle mich,meinen Leib 
+und Seele und alles in deine Hände.
+Dein heiliger Engel sei mit mir,
+|: dass der böse Feind keine Macht an mir find,. :|
+</text>
+  <copyrightyear>1988</copyrightyear>
+  <right>Melodie: Musikverlag Klaus Gerth, Asslar.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-73" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

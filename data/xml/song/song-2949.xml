@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2949">
+  <title>Unser Herz begehrt zu sehn</title>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-463" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3734" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-3735" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>204</numinsongbook>
+  </songbookref>
+</song>

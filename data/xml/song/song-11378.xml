@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11378">
+  <title>Agios o Theos</title>
+  <subtitle/>
+  <text>Agios o Theos,
+agios ischiros,
+agios athanatos,
+eleison imas.
+
+Heiliger Herre Gott,
+heiliger starker Gott,
+heiliger unsterblicher Gott,
+erbarm dich über uns.
+</text>
+  <copyrightyear/>
+  <right>Text, Melodie und Satz: orthodoxe Liturgie aus Griechenland</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>185.4</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

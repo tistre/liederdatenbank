@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20866">
+  <title>Béni soit le Seigneur</title>
+  <subtitle/>
+  <copyrightyear>1984</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>englische Textfassung: http://www.liederdatenbank.de/song/4017.</comment>
+  <language>fr</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-19448" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

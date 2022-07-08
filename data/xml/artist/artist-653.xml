@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-653">
+  <firstname>Johann Rudolf</firstname>
+  <lastname>Ahle</lastname>
+  <name/>
+  <born>1625</born>
+  <died>1673</died>
+  <comment>Geboren in Mühlhausen (Thüringen). Theologiestudent und 1646 Kantor an St. Andreas in Erfurt. 1649 Musiker in Mühlhausen, 1654 Organist an der St. Blasiuskirche, seit 1655 Ratsherr und 1673 Bürgermeister. Angesehener Komponist, schrieb geistliche Konzerte und Kirchenlieder.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Johann Rudolf Ahle" xlink:type="simple"/>
+</artist>

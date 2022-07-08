@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9952">
+  <title>I Was Born To Worship You</title>
+  <subtitle>From an innersanctuary</subtitle>
+  <right>Old Dirt Road Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>4501954</ccli_number>
+  <comment/>
+  <language>en</language>
+  <author xlink:href="#artist-9951" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>168</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

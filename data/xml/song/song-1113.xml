@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1113">
+  <title>Dir fehlt wohl noch der Friede</title>
+  <subtitle>O daß du könntest glauben</subtitle>
+  <text># Dir fehlt wohl noch der Friede? 
+Dein Herz ist freudenleer, 
+dein Auge blickt so müde, 
+dein Gang ist matt und schwer.
+
+* 1.-5. O dass du könntest glauben! 
+Du würdest Wunder sehn, 
+es würde dir dein Jesus allzeit zur Seite stehn!
+
+# Ja, nur bei ihm ist Friede 
+und Trost in allem Schmerz 
+fürs arme, kranke, müde 
+und sorgenvolle Herz. 
+
+# Denn nur aus seinen Wunden 
+quillt für die Seele Heil; 
+wer ihn noch nicht gefunden, 
+dem fehlt das beste Teil. 
+
+# Du ringst mit deinen Sünden 
+und weißt nicht aus noch ein, 
+du kannst nicht Ruhe finden 
+in deiner Angst und Pein. 
+
+# Und fragst du: 
+"Was ist Wahrheit?", 
+weil du im Zweifel bist, 
+so bitte den um Klarheit, 
+der selbst die Wahrheit ist.</text>
+  <language>de</language>
+  <copyrightyear/>
+  <right>Melodie (von August Knabe): Gnadauer Verlag, Dillenburg, Satz: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4410" xlink:type="simple">
+    <part>Text</part>
+    <year>(um 1890) 1896</year>
+  </author>
+  <author xlink:href="#artist-11466" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <author xlink:href="#artist-25582" xlink:type="simple">
+    <part>Music</part>
+    <year>1925</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>299</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>341</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>42</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+</song>

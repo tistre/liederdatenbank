@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2239">
+  <title>Ich liege, Herr, in Deiner Hut</title>
+  <subtitle/>
+  <text># Ich liege, Herr, in deiner Hut
+und schlafe ganz mit Frieden.
+Dem, der in deinen Armen ruht,
+ist wahre Rast beschieden.
+
+# Du bist’s allein, Herr, der stets wacht,
+zu helfen und zu stillen,
+wenn mich die Schatten finstrer Nacht
+mit jäher Angst erfüllen.
+
+# Dein starker Arm ist ausgereckt,
+dass Unheil mich verschone
+und ich, was auch den Schlaf noch schreckt,
+beschirmt und sicher wohne.
+
+# So will ich, wenn der Abend sinkt,
+des Leides nicht gedenken,
+das mancher Erdentag noch bringt,
+und mich darein versenken,
+
+# wie du, wenn alles nichtig war,
+worauf die Menschen hoffen,
+zur Seite warst und wunderbar
+mir Plan und Rat getroffen.
+
+# Weil du der mächt’ge Helfer bist,
+will ich mich ganz bescheiden
+und, was bei dir verborgen ist,
+dir zu entreißen meiden.
+
+# Ich achte nicht der künft’gen Angst.
+Ich harre deiner Treue,
+der du nicht mehr von mir verlangst,
+als dass ich stets aufs Neue
+
+# zu kummerlosem, tiefem Schlaf
+in deine Huld mich bette,
+vor allem, was mich bitter traf,
+in deine Liebe rette.
+
+# Ich weiß, dass auch der Tag, der kommt,
+mir deine Nähe kündet
+und dass sich alles, was mir frommt,
+in deinen Ratschluss findet.
+
+# Sind nun die dunklen Stunden da,
+soll hell vor mir erstehen,
+was du, als ich den Weg nicht sah,
+zu meinem Heil ersehen.
+
+# Du hast die Lider mir berührt.
+Ich schlafe ohne Sorgen.
+Der mich in diese Nacht geführt,
+der leitet mich auch morgen.</text>
+  <right> (Text) Rechte:(Musik) Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>In http://www.liederdatenbank.de/songbook/9164 ist Melodie und Satz von http://www.liederdatenbank.de/artist/4400. In http://www.liederdatenbank.de/songbook/26205 ist die Melodie von http://www.liederdatenbank.de/artist/26953.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14692" xlink:type="simple"/>
+  <author xlink:href="#artist-3743" xlink:type="simple">
+    <part>Text</part>
+    <year>1938</year>
+  </author>
+  <author xlink:href="#artist-26953" xlink:type="simple">
+    <part>Music</part>
+    <year>1946</year>
+  </author>
+  <author xlink:href="#artist-4380" xlink:type="simple">
+    <part>Music</part>
+    <year>1951</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>662</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>343</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>486</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1135</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-26205" xlink:type="simple">
+    <numinsongbook>35</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-4" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

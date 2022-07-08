@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24344">
+  <title>Gott Abrahams sei Preis, des Herrschaft ewig ist</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Jüdischer Synagogengesang. Um 1765 Thomas Olivers "The God of Abraham"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-24342" xlink:type="simple">
+    <part>Text</part>
+    <year>12. Jh.</year>
+  </author>
+  <author xlink:href="#artist-24343" xlink:type="simple">
+    <part>Text</part>
+    <year>um 1400</year>
+  </author>
+  <author xlink:href="#artist-21629" xlink:type="simple">
+    <part>Text</part>
+    <year>2000</year>
+  </author>
+  <author xlink:href="#artist-22523" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24346" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>31</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

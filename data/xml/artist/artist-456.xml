@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-456">
+  <firstname>Giovanni Giacomo</firstname>
+  <lastname>Gastoldi</lastname>
+  <name/>
+  <born>um 1556</born>
+  <died>1622</died>
+  <comment>Geboren in Caravaggio, Kapellmeister in Mantua und Mailand.</comment>
+</artist>

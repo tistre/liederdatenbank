@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-87">
+  <name>Gemeindelieder</name>
+  <edition>6. Aufl. 1990</edition>
+  <state>1</state>
+  <icon xlink:href="#songbook-87-icon" xlink:type="simple"/>
+  <comment>Oncken Verlag (auch Bundes-Verlag, SCM Collection?)
+
+*** Alle Lieder dieses Liederbuches sind in der Liederdatenbank erfasst. ***</comment>
+  <url xlink:href="http://www.amazon.de/Gemeindelieder-Weinrot-Kunststoff-Taschenausgabe/dp/3789378127/ref=sr_1_7?ie=UTF8&amp;s=gateway&amp;qid=1202252774&amp;sr=8-7" xlink:type="simple">
+    <title>Gemeindelieder @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.portal-oncken.de/shop/shopindex.php?artikel=2163" xlink:type="simple">
+    <title>Gemeindelieder (Großdruck) @ Portal-Oncken.de</title>
+  </url>
+</songbook>

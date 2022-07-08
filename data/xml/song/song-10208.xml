@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10208">
+  <title>O Herr, mein Hirt</title>
+  <subtitle/>
+  <text># O Herr, mein Hirt!
+Im Schatten Deiner Güte
+Frohlockt mein Herz, singt jauchzend mein Gemüte
+Und dankt, weil mir nichts mangeln wird.
+
+# Du führest mich
+Auf fette, grüne Weiden.
+Hier blühen mir des Geistes reinste Freuden,
+Und meine Seele sättigt sich.
+
+# Du tränkest mich,
+Wenn Hitz' und Durst mich schwächen,
+Aus frischem Quell, aus klaren Lebensbächen,
+Und meine Seel' erschöpft sie nicht.
+
+# Wenn Du gebeutst,
+Muß aller Sturm sich legen.
+Du leitest treu mich Deines Namens wegen
+In Pfaden der Gerechtigkeit.
+
+# Mit Dir kann ich
+Durch finstre Täler wallen.
+Ich fürchte nichts, Du lässest mich nicht fallen,
+Ich tröste Deines Stabes mich.
+
+# Herr! Du bist mein,
+Und Dein ist meine Seele.
+Du salbst mein Haupt mit Deinem Freudenöle,
+Du schenkst den Becher voll mir ein.
+
+# Mir folgt Dein Heil.
+So lang ich auf der Erde
+Noch wallen soll und Dich verehren werde,
+Ist Deine Gotteshuld mein Teil.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4660" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#12" xlink:type="simple"/>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-8250">
+  <lastname>Decius</lastname>
+  <firstname>Nikolaus</firstname>
+  <name/>
+  <born>um 1485</born>
+  <died>nach 1546</died>
+  <comment>Geboren in Hof/Saale, Probst in Steterburg bei Wolfenbüttel, evangelisch geworden, Lehrer in Braunschweig, Pfarrer in Stettin, schließlich Kantor, zuletzt in Mühlhausen/Ostpreußen.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Nikolaus_Decius" xlink:type="simple">
+    <title>Nikolaus Decius @ Wikipedia.org</title>
+  </url>
+</artist>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1573">
+  <title>Herr, habe acht auf mich und reiß mich kräftiglich</title>
+  <subtitle/>
+  <text># Herr, habe acht auf mich und reiss mich kräftiglich von allen Dingen; 
+denn ein gefesselt Herz kann sich ja himmelwärts durchaus nicht schwingen.
+
+# Herr, habe acht auf mich! Schaff, dass mein Herze sich im Grund bekehre; 
+trifft vom verborgnen Bann dein Aug noch etwas an, Herr, das zerstöre.
+
+# Herr, habe acht auf mich! Der Teufel mühet sich, mit seinen Tücken
+ein Herz, das du befreit, von der Einfältigkeit bald zu verrücken.
+
+# Herr, habe acht auf mich! Hast du allmächtiglich den Strick zerrissen, 
+so lass, dem Feind zum Trutz, mich deinen starken Schutz nun stets genießen.
+
+# Herr, habe acht auf mich! Die Welt legt listiglich in solchen Dingen, 
+die sie unschuldig nennt, weil sie sich selbst nicht kennt, viel Netz und Schlingen.
+
+# Herr, habe acht auf mich! Töt in mir mächtiglich die Eigenliebe,
+Trägheit, Lust, Furcht und Neid, Menschengefälligkeit, unlautre Triebe!
+
+# Herr, habe acht auf mich und lass mich ritterlich den Kampf bestehen, 
+wenn Satan, Sünd und Welt mich stürmend überfällt, nicht untergehen.
+
+# Herr, habe acht auf mich! O zieh mich ganz in dich mit Leib und Seele. 
+Dein bin ich, du bist mein, du, den ich mir allein zum Hort erwähle.
+
+# Herr, habe acht auf mich beim letzten Kampf, wenn ich von hinnen scheide; 
+führ mich durch dein Geleit in deine Herrlichkeit, zur ewgen Freude.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-3717" xlink:type="simple">
+    <part>Text</part>
+    <year>1726</year>
+  </author>
+  <author xlink:href="#artist-11493" xlink:type="simple">
+    <part>Music</part>
+    <year>1855</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>337</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>441</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>255</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>286</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>180</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4573">
+  <firstname>Georg</firstname>
+  <lastname>Neumark</lastname>
+  <name/>
+  <born>1621</born>
+  <died>1681</died>
+  <comment>Student der Rechtswissenschaften in Königsberg (Ostpreußen), im Künstlerkreis um Simon Dach,
+später in Danzig und Thorn, nach vielen Reisen 1652 Bibliothekar in Weimar;
+gefeierter Hofdichter und tüchtiger Gambenspieler.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Georg_Neumark" xlink:type="simple"/>
+</artist>

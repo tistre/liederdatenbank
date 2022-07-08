@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1630">
+  <title>O Gott, du frommer Gott</title>
+  <text># O Gott, du frommer Gott, du Brunnquell guter Gaben, 
+ohn den nichts ist, was ist, von dem wir alles haben: 
+Gesunden Leib gib mir und dass in solchem Leib 
+ein unverletzte Seel und rein Gewissen bleib.
+
+# Gib, dass ich tu mit Fleiß, was mir zu tun gebühret, 
+wozu mich dein Befehl in meinem Stande führet. 
+Gib, dass ichs tue bald, zu der Zeit, da ich soll, 
+und wenn ichs tu, so gib, dass es gerate wohl.
+
+# Hilf, dass ich rede stets, womit ich kann bestehen; 
+lass kein unnützlich Wort aus meinem Munde gehen; 
+und wenn in meinem Amt ich reden soll und muss, 
+so gib den Worten Kraft und Nachdruck ohn Verdruss.
+
+# Findt sich Gefährlichkeit, so lass mich nicht verzagen, 
+gib einen Heldenmut, das Kreuz hilf selber tragen. 
+Gib, dass ich meinen Feind mit Sanftmut überwind 
+und, wenn ich Rat bedarf, auch guten Rat erfind.
+
+# Lass mich mit jedermann in Fried und Freundschaft leben, 
+soweit es christlich ist. Willst du mir etwas geben 
+an Reichtum, Gut und Geld, so gib auch dies dabei, 
+dass von unrechtem Gut nichts untermenget sei.
+
+# Soll ich auf dieser Welt mein Leben höher bringen, 
+durch manchen sauren Tritt hindurch ins Alter dringen, 
+so gib Geduld; vor Sünd und Schaden mich bewahr, 
+auf dass ich tragen mag mit Ehren graues Haar.
+
+# Lass mich an meinem End auf Christi Tod abscheiden;
+die Seele nimm zu dir hinauf zu deinen Freuden;
+dem Leib ein Räumlein gönn bei seiner Eltern Grab,
+auf dass er seine Ruh an ihrer Seite hab.
+
+# Wenn du die Toten wirst an jenem Tag erwecken,
+so tu auch deine Hand zu meinem Grab ausstrecken,
+lass hören deine Stimm und meinen Leib weck auf
+und führ ihn schön verklärt zum auserwählten Hauf. </text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Braunschweig 1648, Zweite Melodie: Regensburg 1675. Melodie: "http://www.liederdatenbank.de/song/336", Meiningen 1693.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4736" xlink:type="simple">
+    <part>Text</part>
+    <year>1630</year>
+  </author>
+  <author xlink:href="#artist-12796" xlink:type="simple">
+    <part>Music</part>
+    <year>1679</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>416</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>601</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>436</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>495</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>372</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1050</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+</song>

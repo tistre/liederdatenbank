@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1342">
+  <title>Das ist ein köstlich Ding, dem Herren danken</title>
+  <subtitle>Des Morgens deine Gnade</subtitle>
+  <text>* 1.-3. Das ist ein köstlich Ding, dem Herren danken und lobsingen deinem Namen.
+Das ist ein köstlich Ding, dem Herren danken und lobsingen deinem Namen, du Höchster.
+
+# Des Morgens deine Gnade und des Nachts deine Wahrheit verkündigen 
+auf den zehn Saiten und Psalter, mit Spielen auf der Harfe.
+
+# Du lässt uns fröhlich singen von den Werken, die, Herr, deine Hand gemacht.
+Wie tief sind deine Gedanken; du, Höchster, bleibest ewig.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: Ernst-Gerhard Fitsch</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-9248" xlink:type="simple">
+    <part>Music</part>
+    <year>1966</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>285</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19203" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19437" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>936</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-92" xlink:type="simple">
+    <verse>2-6</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-92" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

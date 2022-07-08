@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-156">
+  <title>Die Sach ist dein, Herr Jesu Christ</title>
+  <text># Die Sach ist Dein, Herr Jesu Christ,
+die Sach, an der wir stehn.
+Und weil es Deine Sache ist, kann sie nicht untergehn.
+Allein das Weizenkorn, bevor es fruchtbar sproßt zum Licht empor,
+wird sterbend in der Erde Schoß vorher vom eignen Wesen los;
+im Sterben los, vom eignen Wesen los.
+
+# Du gingst, o Jesu, unser Haupt, durch Leiden himmelan
+und führest jeden, der da glaubt, mit Dir die gleiche Bahn.
+Wohlan, so führ uns allzugleich zum Teil am Leiden und am Reich;
+führ uns durch Deines Todes Tor samt Deiner Sach zum Licht empor;
+zum Licht empor durch Deines Todes Tor.
+
+# Du starbest selbst als Weizenkorn und sankest in das Grab.
+Belebe denn, o Lebensborn, die Welt, die Gott Dir gab;
+send Boten aus in jedes Land,
+daß bald Dein Name werd bekannt, Dein Name voller Seligkeit.
+Auch wir stehn Dir zum Dienst bereit;
+zum Dienst bereit, zum Dienst in Kampf und Streit.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9250" xlink:type="simple">
+    <part>Text</part>
+    <year>1829</year>
+  </author>
+  <author xlink:href="#artist-9251" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1835) 1869</year>
+  </author>
+  <author xlink:href="#artist-25579" xlink:type="simple">
+    <part>Music</part>
+    <year>1777</year>
+  </author>
+  <author xlink:href="#artist-9252" xlink:type="simple">
+    <part>Music</part>
+    <year>(1795) 1800 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>162</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>396</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>318</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>535</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>196</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>226</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>194</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>102</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>88</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>348</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>593</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>126</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-12" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+</song>

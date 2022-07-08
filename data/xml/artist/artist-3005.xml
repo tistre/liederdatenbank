@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3005">
+  <firstname>Friedrich von</firstname>
+  <lastname>Bodelschwingh</lastname>
+  <name/>
+  <born>1877</born>
+  <died>1946</died>
+  <comment>Geboren in Bethel bei Bielefeld, Pfarrer, Nachfolger seines Vaters in der Leitung der Betheler Anstalten.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Friedrich_von_Bodelschwingh_der_Jüngere" xlink:type="simple">
+    <title>Friedrich von Bodelschwingh der Jüngere @ Wikipedia.org</title>
+  </url>
+</artist>

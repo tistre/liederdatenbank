@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-8993">
+  <lastname>Bach</lastname>
+  <firstname>Johann Sebastian</firstname>
+  <name/>
+  <born>1685</born>
+  <died>1750</died>
+  <comment>Geboren in Eisenach, Organist in Arnstadt, Mühlhausen und Weimar, Hofkapellmeister in Köthen, seit 1723 Thomaskantor in Leipzig.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Sebastian_Bach" xlink:type="simple"/>
+</artist>

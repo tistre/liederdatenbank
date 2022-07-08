@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1254">
+  <title>When peace like a river</title>
+  <subtitle>It is well with my soul</subtitle>
+  <text># When peace like a river attendeth my way, 
+when sorrows like sea billows roll, 
+whatever my lot, thou has taught me to say, 
+It is well, it is well with my soul".
+
+* It is well (it is well) with my soul (with my soul). 
+It is well it is well with my soul.
+
+# Though Satan should buffet, tho' trials should come, 
+let this blest assurance control, 
+that Christ hath regarded my helpless estate, 
+and hath shed his own blood for my soul.
+
+# My sin - oh, the bliss of this glorious tho't! 
+My sin - not in part, but the whole 
+is nailed to his cross and I bear it no more. 
+Praise the Lord, praise the Lord, o my soul!
+
+# And, Lord, haste the day when the faith shall be sight, 
+the clouds be rolled back as a scroll, 
+the trumpet shall sound and the Lord shall descend. 
+Even so" - it is well with my soul.</text>
+  <language>en</language>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>25376</ccli_number>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-4552" xlink:type="simple">
+    <part>Text</part>
+    <year>1876</year>
+  </author>
+  <author xlink:href="#artist-4553" xlink:type="simple">
+    <part>Music</part>
+    <year>1876</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>397</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14045" xlink:type="simple">
+    <cdnum/>
+    <numoncd>11</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-66" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=108852588&amp;s=143443&amp;i=108851939" xlink:type="simple">
+    <title>MP3-Download (2nd Chapter of Acts) beim iTunes Music Store</title>
+  </url>
+</song>

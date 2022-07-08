@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3887">
+  <firstname>Clemens</firstname>
+  <lastname>Bittlinger</lastname>
+  <name/>
+  <born>1959</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.clemens-bittlinger.de/" xlink:type="simple">
+    <title>clemens-bittlinger.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/b/cbittlinger.htm" xlink:type="simple">
+    <title>Clemens Bittlinger @ ccmrezis.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Clemens_Bittlinger" xlink:type="simple">
+    <title>Clemens Bittlinger @ Wikipedia.org</title>
+  </url>
+</artist>

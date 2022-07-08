@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1107">
+  <title>Fröhlich zieh ich meine Straße hier durch dieses Pilgertal</title>
+  <text># Fröhlich zieh ich meine Straße hier durch dieses Pilgertal; 
+meinen Herrn ich nimmer lasse, er beschirmt mich überall. 
+Mag manch wilder Sturm auch toben, der mich zu verderben droht, 
+gläubig blicke ich nach oben, bin getrost in Not und Tod.
+
+# Jesus starb am Kreuzes-stamme, trug dort alle Sünden Schuld. 
+Ach wie glüht in heiiger Flamme doch sein Herz voll Lieb und Huld! 
+Drum hab' ich mich ihm ergeben, in ihm sich mein Herze freut, 
+ohne ihn könnt ich nicht leben, ich bin sein in Ewigkeit.
+
+# Heil fand ich in Jesu Wunden, bin von Sund gewaschen rein; 
+Fried und Ruh hab ich gefunden, drum kann ich so fröhlich sein. 
+Mag die Welt mich gleich auch hassen, willig trag ich Christi Schmach; 
+bis ich werd im Tod er-blassen, folg ich meinem Heiland nach.
+
+# Willst auch du so glück-lich werden, armes, friede-leeres Herz? 
+Lass die Treber dieser Erden, die dir bringen Leid und Schmerz! 
+Jesus nur kann recht beglücken, füllt dein Herz mit sel'ger Lust, 
+will dich laben und erquicken, o so komm an seine Brust!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Melodie: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleicher Titel, aber anderer Text und andere Melodie: "http://www.liederdatenbank.de/song/11093".</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4409" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1901</year>
+  </author>
+  <author xlink:href="#artist-12015" xlink:type="simple">
+    <part>Music</part>
+    <year>1901</year>
+  </author>
+  <author xlink:href="#artist-5073" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>225</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>517</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>206</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>371</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>149</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

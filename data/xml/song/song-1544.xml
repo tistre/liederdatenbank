@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1544">
+  <title>Der für mich starb, der um mich warb</title>
+  <author xlink:href="#artist-4771" xlink:type="simple">
+    <part>Text</part>
+    <year>1848</year>
+  </author>
+  <author xlink:href="#artist-4579" xlink:type="simple">
+    <part>Music</part>
+    <year>1877</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>297</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>367</numinsongbook>
+  </songbookref>
+</song>

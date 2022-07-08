@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3790">
+  <title>Gott macht sich zu uns auf</title>
+  <subtitle>Lobt den, der da zu uns kommt</subtitle>
+  <language>de</language>
+  <right>Hänssler-Verlag, Neuhausen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Text: nach Joh 12, 12-19; Psalm 118, 25.26</comment>
+  <author xlink:href="#artist-53" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-54" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

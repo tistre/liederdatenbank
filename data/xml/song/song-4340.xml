@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4340">
+  <title>Gib Frieden, Herr, gib Frieden</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/827" (EG 361).
+Text nach: 1963 Jan Nooter "Geef vrede, Heer, geef vrede" (niederländisch).</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4656" xlink:type="simple">
+    <part>Text</part>
+    <year>1963</year>
+  </author>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1603</year>
+  </author>
+  <author xlink:href="#artist-9068" xlink:type="simple">
+    <part>Text</part>
+    <year>(1980) 1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>72</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>430</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

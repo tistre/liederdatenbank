@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25665">
+  <title>Wieder neu</title>
+  <subtitle>Wieder neu wolln wir Gott suchen</subtitle>
+  <copyrightyear>2005</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-18922" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-25500" xlink:type="simple">
+    <numinsongbook>961</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-php-3" xlink:type="simple">
+    <verse>13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-5" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

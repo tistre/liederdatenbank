@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4629">
+  <firstname>Hermann Heinrich</firstname>
+  <lastname>Grafe</lastname>
+  <name/>
+  <born>1818</born>
+  <died>1869</died>
+  <comment>Geboren in Palsterkamp bei Bad Rothenfelde, Fabrikant in Elberfeld, 1850 Mitbegründer des ev. Brüdervereins, 1854 der ersten FeG in Deutschland (Elberfeld-Barmen).</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Hermann_Heinrich_Grafe" xlink:type="simple"/>
+</artist>

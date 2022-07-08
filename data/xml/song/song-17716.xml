@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-17716">
+  <title>Halleluja, for the lord</title>
+  <subtitle/>
+  <copyrightyear>1972</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-14643" xlink:type="simple"/>
+  <author xlink:href="#artist-3429" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1972</year>
+  </author>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

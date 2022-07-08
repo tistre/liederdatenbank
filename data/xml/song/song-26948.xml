@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26948">
+  <title>Geht hin im Frieden Gottes</title>
+  <subtitle/>
+  <copyrightyear>1972/1974</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Go In Peace"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-17557" xlink:type="simple"/>
+  <author xlink:href="#artist-19495" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-4748" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1129</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-26133" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-13" xlink:type="simple">
+    <verse>34</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>4-5</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-28" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-16" xlink:type="simple">
+    <verse>33</verse>
+  </bibleref>
+</song>

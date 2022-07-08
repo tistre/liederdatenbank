@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27359">
+  <title>Wenn Gott regiert</title>
+  <subtitle>Ich glaube schon so manches Jahr</subtitle>
+  <copyrightyear/>
+  <right>dt. Text und Satz: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Lied aus China. Satz: http://www.liederdatenbank.de/artist/4016.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-23852" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-27358" xlink:type="simple">
+    <part>Music</part>
+    <year>1934</year>
+  </author>
+  <author xlink:href="#artist-10818" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1399</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-27344" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+</song>

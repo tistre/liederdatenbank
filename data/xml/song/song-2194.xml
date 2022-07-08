@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2194">
+  <title>Reich des Herrn, Reich des Herrn</title>
+  <subtitle/>
+  <text># Reich des Herrn, Reich des Herrn, 
+brich hervor in vollem Tag!
+Deiner Strahlen Macht erhelle, 
+was in Todesschatten lag;
+Wolk und Zweifelsnebel fälle, 
+sende Licht und Wärme nah und fern,
+Reich des Herrn, Reich des Herrn!
+
+# Siege bald, siege bald!
+Komm, das kalte Reich der Nacht
+aller Enden zu zerstören!
+Sieh, es sammelt seine Macht;
+doch wer kann den Sieg dir wehren?
+Denn die Sonne der Gerechtigkeit
+führt den Streit, führt den Streit.
+
+# Überall, überall
+lass bis an der Welten Rand,
+lass durch jeden Kreis der Erden
+deinen Namen hell erkannt,
+deine Kraft verherrlicht werden,
+bis du als der Völker Friedefürst
+herrschen wirst, herrschen wirst.
+
+# Welch ein Herr, welch ein Herr!
+Ihm zu dienen, welch ein Stand!
+Wenn wir seines Dienstes pflegen,
+lohnt er unsrer schwachen Hand
+armes Werk mit reichem Segen;
+gehen wir, so geht sein Friede mit
+Schritt vor Schritt, Schritt vor Schritt.
+
+# Kommt herbei, kommt herbei,
+frohe Zeiten, säumet nicht,
+dass der Herr sich offenbare
+als der Völker Recht und Licht.
+Kommt, dass alle Welt erfahre,
+wie die Menschenherd' ihr großer Hirt
+weiden wird, weiden wird.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: Halle 1704.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4741" xlink:type="simple">
+    <part>Text</part>
+    <year>(1818) 1825</year>
+  </author>
+  <author xlink:href="#artist-4782" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>358</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>572</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>602</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+</song>

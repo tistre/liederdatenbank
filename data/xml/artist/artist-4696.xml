@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4696">
+  <firstname>Johannes Evangelista</firstname>
+  <lastname>Goßner</lastname>
+  <name/>
+  <born>1773</born>
+  <died>1858</died>
+  <comment>Geboren in Hausen bei Günzburg, kath. Priester, im Verlauf der bayrischen Erweckungsbewegung vertrieben, Religionslehrer in Düsseldorf, Pfarrer in Petersburg, 1826 in Königshain bei Görlitz zur ev. Kirche übergetreten, 1829 Pfarrer in Berlin, Gründer der Goßnerschen Mission.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Evangelista_Goßner" xlink:type="simple">
+    <title>Johannes Evangelista Goßner @ Wikipedia.org</title>
+  </url>
+</artist>

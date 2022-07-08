@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26339">
+  <title>Wo die Liebe wohnt (1977)</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: St. Gallen 8. Jh.
+Melodie und Satz: Jacques Berhier, Taizé 1977.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-26338" xlink:type="simple"/>
+  <author xlink:href="#artist-3669" xlink:type="simple">
+    <part>Music</part>
+    <year>1977</year>
+  </author>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>571.2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

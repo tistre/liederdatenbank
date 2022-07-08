@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25543">
+  <title>Nun singet und seid froh (Kanon)</title>
+  <subtitle/>
+  <text># Nun singet und seid froh:
+# Du bist A und O,
+# A und  O!</text>
+  <copyrightyear/>
+  <right>Melodie: Strube Verlag, München-Berlin</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Kanon zu 3 Stimmen, Nach http://www.liederdatenbank.de/song/11000</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9218" xlink:type="simple">
+    <part>Music</part>
+    <year>1959</year>
+  </author>
+  <author xlink:href="#artist-8990" xlink:type="simple">
+    <part>Text</part>
+    <year>1646</year>
+  </author>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

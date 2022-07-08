@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1517">
+  <title>Geist des Glaubens, Geist der Stärke</title>
+  <text># Geist des Glaubens, Geist der Stärke, 
+des Gehorsams und der Zucht, 
+Schöpfer aller Gotteswerke, 
+Träger aller Himmelsfrucht, 
+Geist, der einst der heilgen Männer, 
+Kön'ge und Prophetenschar, 
+der Apostel und Bekenner 
+Trieb und Kraft und Zeugnis war:
+
+# Rüste du mit deinen Gaben 
+auch uns schwache Kinder aus, 
+Kraft und Glaubensmut zu haben, 
+Eifer für des Herren Haus; 
+eine Welt mit ihren Schätzen, 
+Menschengunst und gute Zeit, 
+Leib und Leben dranzusetzen 
+in dem großen, heilgen Streit.
+
+# Gib uns Abrahams gewisse,
+feste Glaubenszuversicht,
+die durch alle Hindernisse,
+alle Zweifel siegend bricht;
+die nicht bloß dem Gnadenbunde
+trauet froh und unbewegt,
+auch das Liebste jede Stunde
+Gott zu Füßen niederlegt.
+
+# Gib uns Moses Flehn und Beten
+um Erbarmen und Geduld,
+wenn durch freches Übertreten
+unser Volk häuft Schuld auf Schuld.
+Lass uns nicht mit kaltem Herzen
+unter den Verdorbnen stehn,
+nein, mit Moses heilgen Schmerzen
+für sie seufzen, weinen, flehn.
+
+# Gib uns Davids Mut, zu streiten
+mit den Feinden Israels,
+sein Vertraun in Leidenszeiten
+auf den Herren, seinen Fels;
+Feindeslieb und Freundestreue,
+seinen königlichen Geist
+und ein Herz, das voller Reue
+Gottes Gnade sucht und preist.
+
+# Gib Elias heilge Strenge,
+wenn den Götzen dieser Zeit
+die verführte blinde Menge
+Tempel und Altäre weiht,
+dass wir nie vor ihnen beugen
+Haupt und Knie, auch nicht zum Schein,
+sondern fest als deine Zeugen
+dastehn; wenn auch ganz allein!
+
+# Gib uns der Apostel hohen, 
+ungebeugten Zeugenmut, 
+aller Welt trotz Spott und Drohen 
+zu verkünden Christi Blut. 
+Lass die Wahrheit uns bekennen, 
+die uns froh und frei gemacht; 
+gib, dass wir's nicht lassen können, 
+habe du die Übermacht.
+
+# Schenk gleich Stephanus uns Frieden 
+mitten in der Angst der Welt, 
+wenn das Los, das uns beschieden, 
+in den schwersten Kampf uns stellt. 
+In dem rasenden Getümmel 
+schenk uns Glaubensheiterkeit, 
+öffn im Sterben uns den Himmel, 
+zeig uns Jesu Herrlichkeit.
+
+# Geist des Glaubens, Geist der Stärke, 
+des Gehorsams und der Zucht, 
+Schöpfer aller Gotteswerke, 
+Träger aller Himmelsfrucht, 
+Geist, du Geist der heilgen Männer, 
+Kön'ge und Prophetenschar, 
+der Apostel und Bekenner: 
+auch bei uns werd offenbar!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>gleiche Melodie: "http://www.liederdatenbank.de/song/4602", "http://www.liederdatenbank.de/song/2141".</comment>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year>1833</year>
+  </author>
+  <author xlink:href="#artist-9010" xlink:type="simple">
+    <part>Music</part>
+    <year>1704</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>282</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>259</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-109" xlink:type="simple"/>
+</song>

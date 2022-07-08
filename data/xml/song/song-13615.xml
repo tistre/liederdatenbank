@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13615">
+  <title>Die Gemeinde ist gegründet</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Etwas andere Textfassung: "http://www.liederdatenbank.de/song/1260". - Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/248" gesungen werden.</comment>
+  <language>de</language>
+  <originalsong xlink:href="#song-1261" xlink:type="simple"/>
+  <author xlink:href="#artist-4556" xlink:type="simple">
+    <part>Text</part>
+    <year>1866</year>
+  </author>
+  <author xlink:href="#artist-11515" xlink:type="simple">
+    <part>Text</part>
+    <year>1898</year>
+  </author>
+  <author xlink:href="#artist-3643" xlink:type="simple">
+    <part>Music</part>
+    <year>1864</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>304</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

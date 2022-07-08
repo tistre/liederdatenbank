@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28614">
+  <title>Krempelt er die Ärmel hoch</title>
+  <subtitle>Mächtiger Gott</subtitle>
+  <copyrightyear>1988</copyrightyear>
+  <right>D,A,CH: CopyCare, D-71087 Holzgerlingen.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-20690" xlink:type="simple"/>
+  <originalsong xlink:href="#song-730" xlink:type="simple"/>
+  <author xlink:href="#artist-4020" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-3659" xlink:type="simple">
+    <part>Text</part>
+    <year>Strophen</year>
+  </author>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year>Stropen</year>
+  </author>
+  <author xlink:href="#artist-689" xlink:type="simple">
+    <part>Text</part>
+    <year>Refrain</year>
+  </author>
+  <author xlink:href="#artist-3754" xlink:type="simple">
+    <part>Text</part>
+    <year>Refrain</year>
+  </author>
+  <songbookref xlink:href="#songbook-14338" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

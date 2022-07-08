@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-348">
+  <title>Peace like a river</title>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+  </songbookref>
+</song>

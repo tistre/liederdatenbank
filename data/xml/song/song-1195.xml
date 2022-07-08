@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1195">
+  <title>Wir schämen uns der Botschaft nicht</title>
+  <author xlink:href="#artist-4469" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4470" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>322</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>560</numinsongbook>
+  </songbookref>
+</song>

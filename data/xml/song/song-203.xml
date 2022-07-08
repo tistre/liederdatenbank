@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-203">
+  <title>Friede wie ein Strom</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1989</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5373693</ccli_number>
+  <comment>Originaltitel: "Peace Like A River".</comment>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-79" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-66" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

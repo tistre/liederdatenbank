@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13164">
+  <title>Diese Welt ist eine Wüste</title>
+  <subtitle/>
+  <text># Diese Welt ist eine Wüste,
+Wo ich nichts zu wählen wüßte,
+Wo ich nichts zu suchen hab'.
+Habe nichts hier zu betrauern,
+Zu verlieren, zu bedauern,
+Brauche nichts als einen Wanderstab.
+
+# Scharf bezeichnet, klar zu sehen
+Ist der Weg, den ich zu gehen,
+Weil mein Jesus ging voran.
+Ja, so sicher wie Sein Lieben
+Ist Sein Weg, der hier geblieben,
+Furchtlos schreit' ich fort auf Seiner Bahn.
+
+# In der Wüste, wo wir gehen,
+Ist ein Fußpfad nur zu sehen:
+Seiner Füße Spur im Sand.
+Und ich folge, ja, ich eile,
+Daß ich bald die Sitze teile,
+Wo Er siegreich Seine Krone fand.
+
+# Du, mein Jesus in der Höhe,
+Bist's, auf den ich wartend sehe,
+Bis Du kommst entgegen mir;
+Dem die Heimat Du bereitet,
+Den Dein Auge hat geleitet
+Durch die öde, weite Wüste hier.
+
+# Bis dahin, auf allen Tritten,
+Ist der Pfad, den Du geschritten,
+Stets mein Trost und meine Freud'.
+Bin mit Deinem Stab zufrieden,
+Bis, von diesem Staub geschieden,
+Ich Dich droben schau' in Herrlichkeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13163" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#67" xlink:type="simple"/>
+</song>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9435">
+  <name>Gotteslob</name>
+  <comment>Herausgegeben von den Bischöfen Deutschlands und Österreichs
+und der Bistümer Bozen-Brixen, Lüttich und Luxemburg.
+
+Nr. 1 - 800: Allgemeiner Teil
+
+Die Regionalteile der einzelnen Diözesen werden separat erfaßt.
+- http://www.liederdatenbank.de/songbook/12154
+
+*** Dieses Liederbuch ist noch nicht vollständig in der Liederdatenbank erfaßt. ***</comment>
+  <icon xlink:href="#file-9437" xlink:type="simple"/>
+  <state>0</state>
+  <url xlink:href="http://www.amazon.de/dp/3920821513" xlink:type="simple">
+    <title>Gotteslob @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Gotteslob" xlink:type="simple">
+    <title>Gotteslob @ Wikipedia.de</title>
+  </url>
+</songbook>

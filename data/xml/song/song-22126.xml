@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22126">
+  <title>Ein kleiner Matrose</title>
+  <subtitle/>
+  <text>Ein kleiner Matrose umsegelte die Welt.
+Er liebte ein Mädchen, das hatte gar kein Geld.
+Das Mädchen musste sterben, und wer war schuld daran?
+Ein kleiner Matrose in seinem Liebeswahn.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>So wird's gemacht:
+Dieses Lied lässt sich prima pantomimisch darstellen, denn fast zu jedem Wort gibt es eine Bewegung. Irgendwann, wenn du genug geübt hast, dann kannst die Pantomime zu diesem Lied auch ohne Lied vorspielen. Deine Freunde müssen raten, wer oder was das ist, was du da gerade vorführst....
+
+- Ein: Daumen zeigt eine Eins
+- kleiner Matrose: Daumen und Zeigefinger zeigen eine kleine Strecke
+- umsegelte: beide Hände machen Wellenbewegungen
+- die Welt: mit beiden Händen eine große Weltkugel darstellen
+- Er liebte: sich selber umarmen
+- ein: Daumen zeigt eine Eins
+- Mädchen: einen Mädchenkörper mit den Händen formen
+- das hatte gar kein: den Kopf schütteln
+- Geld: Geld zählen
+- Das Mädchen: wieder einen Mädchenkörper formen
+- musste sterben: Kehle durchschneiden
+- und wer war schuld daran: Schulter zucken
+- Ein: eine Eins zeigen
+- kleiner Matrose: kleine Strecke zeigen
+- in seinem Liebes-: sich selber umarmen
+- wahn: an den Kopf tippen.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-9185" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

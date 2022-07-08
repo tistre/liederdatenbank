@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1231">
+  <title>Mein Glaube fest sich bauen kann</title>
+  <subtitle>Wer diesem Felsen fest vertraut</subtitle>
+  <author xlink:href="#artist-4529" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4530" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>369</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

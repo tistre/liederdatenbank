@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19860">
+  <title>Christum wir sollen loben schon</title>
+  <subtitle/>
+  <text># Christum wir sollen loben schon,
+Der reinen Magd Marien Sohn,
+Soweit die liebe Sonne leucht't
+Und an aller Welt Ende reicht. 
+
+# Der selig' Schöpfer aller Ding'
+Zog an ein's Knechtes Leib gering,
+Daß er das Fleisch durchs Fleisch erwürb'
+Und sein Geschöpf nicht all's verdürb'. 
+
+# Die edle Mutter hat gebor'n
+Den Gabriel verhieß zuvorn,
+Den Sankt Johann's mit Springen zeigt',
+Da er noch lag im Mutterleib. 
+
+# Er lag im Heu mit Armut groß,
+Die Krippe hart ihn nicht verdroß;
+Es ward ein' kleine Milch sein' Speis',
+Der nie kein Vöglein hungern ließ. 
+
+# Des Himmels Chör' sich freuen drob,
+Und die Engel singen Gott Lob;
+Den armen Hirten wird vermeld't
+Der Hirt und Schöpfer aller Welt.
+
+# Lob, Ehr' und Dank sei dir gesagt,
+Christ, gebor'n von der reinen Magd,
+Mit Vater und dem Heil'gen Geist
+Von nun an bis in Ewigkeit!</text>
+  <copyrightyear/>
+  <right>Nach dem Hymnus "A solis ortus cardine" um 430 / Melodie: 5. Jahrhundert.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>539</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

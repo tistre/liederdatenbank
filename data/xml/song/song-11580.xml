@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11580">
+  <title>Wo Gott der Herr nicht bei uns hält</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Melodie: Wittenberg 1529.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-11581" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>297</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-124" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

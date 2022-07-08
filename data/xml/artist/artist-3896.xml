@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3896">
+  <name>Christus-Treff Marburg</name>
+  <firstname/>
+  <lastname/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.christus-treff.org/" xlink:type="simple">
+    <title>christus-treff.org</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/c/ctm.htm" xlink:type="simple">
+    <title>Christus-Treff Marburg / 'worshipworld' @ ccmrezis.de</title>
+  </url>
+</artist>

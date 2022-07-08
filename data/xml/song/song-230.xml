@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-230">
+  <title>Großer Gott, wir loben dich</title>
+  <text># Großer Gott, wir loben dich, 
+Herr, wir preisen deine Stärke.
+Vor dir neigt die Erde sich
+und bewundert deine Werke.
+Wie du warst vor aller Zeit, 
+so bleibst du in Ewigkeit.
+
+# Alles, was dich preisen kann, 
+Cherubim und Seraphinen,
+stimmen dir ein Loblied an, 
+alle Engel, die dir dienen,
+rufen dir stets ohne Ruh: 
+"Heilig, heilig, heilig!" zu.
+
+# Heilig, Herr Gott Zebaoth! 
+Heilig, Herr der Himmelsheere!
+Starker Helfer in der Not! 
+Himmel, Erde, Luft und Meere
+sind erfüllt von deinem Ruhm; 
+alles ist dein Eigentum.
+
+# Der Apostel heilger Chor, 
+der Propheten hehre Menge
+schickt zu deinem Thron empor 
+neue Lob- und Dankgesänge;
+der Blutzeugen lichte Schar 
+lobt und preist dich immerdar.
+
+# Dich, Gott Vater auf dem Thron, 
+loben Große, loben Kleine.
+Deinem eingebornen Sohn 
+singt die heilige Gemeinde,
+und sie ehrt den Heilgen Geist, 
+der uns seinen Trost erweist.
+
+(Textvariante:)
+Auf dem ganzen Erdenkreis 
+loben Große und auch Kleine
+Dich, Gott Vater. Dir zum Preis 
+singt die heilige Gemeinde;
+sie verehrt auf seinem Thron 
+deinen eingebornen Sohn.
+
+# Du, des Vaters ewger Sohn, 
+hast die Menschheit angenommen,
+bist vom hohen Himmelsthron 
+zu uns auf die Welt gekommen,
+hast uns Gottes Gnad gebracht, 
+von der Sünd uns frei gemacht.
+
+# Durch dich steht das Himmelstor 
+allen, welche glauben, offen;
+du stellst uns dem Vater vor, 
+wenn wir kindlich auf dich hoffen;
+du wirst kommen zum Gericht, 
+wenn der letzte Tag anbricht.
+
+# Herr, steh deinen Dienern bei, 
+welche dich in Demut bitten.
+Kauftest durch dein Blut uns frei, 
+hast den Tod für uns gelitten;
+nimm uns nach vollbrachtem Lauf 
+zu dir in den Himmel auf.
+
+# Sieh dein Volk in Gnaden an. 
+Hilf uns, segne, Herr, dein Erbe;
+leit es auf der rechten Bahn, 
+dass der Feind es nicht verderbe.
+Führe es durch diese Zeit, 
+nimm es auf in Ewigkeit.
+
+# Alle Tage wollen wir 
+dich und deinen Namen preisen
+und zu allen Zeiten dir 
+Ehre, Lob und Dank erweisen.
+Rett aus Sünden, rett aus Tod, 
+sei uns gnädig, Herre Gott!
+
+# Herr, erbarm, erbarme dich. 
+Lass uns deine Güte schauen;
+deine Treue zeige sich, 
+wie wir fest auf dich vertrauen.
+Auf dich hoffen wir allein: 
+lass uns nicht verloren sein.
+
+(Textvariante:)
+Herr, erbarm, erbarme dich!
+Auf uns komme, Herr, dein Segen!
+Deine Güte zeige sich
+Allen der Verheißung wegen.
+Auf dich hoffen wir allein;
+Laß uns nicht verloren sein!</text>
+  <language>de</language>
+  <comment>Text: 4. Jh. "Te Deum Laudamus". In den Liederbüchern http://www.liederdatenbank.de/songbook/4321 und http://www.liederdatenbank.de/songbook/89
+sind nicht alle Strophen enthalten, abweichende Nummerierung.
+
+http://www.liederdatenbank.de/songbook/87:
+Nur Strophen 1, 2, 3, 5 (Textvariante), 9, 10, 11.
+http://www.liederdatenbank.de/songbook/8844 nur 6 Strophen, andere Aufteilung
+In http://www.liederdatenbank.de/songbook/9174: deutsch, englisch, französich (je Str. 1-5).
+In http://www.liederdatenbank.de/songbook/21259 nur die Strophen 1,2,9,11</comment>
+  <subtitle/>
+  <right> </right>
+  <textcopyright>free</textcopyright>
+  <copyrightyear/>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4334482</ccli_number>
+  <author xlink:href="#artist-9050" xlink:type="simple">
+    <part>Text</part>
+    <year>(340-397)</year>
+  </author>
+  <author xlink:href="#artist-3752" xlink:type="simple">
+    <part>Text</part>
+    <year>1768</year>
+  </author>
+  <author xlink:href="#artist-24337" xlink:type="simple">
+    <part>Music</part>
+    <year>1668</year>
+  </author>
+  <author xlink:href="#artist-9127" xlink:type="simple">
+    <part>Music</part>
+    <year>1776</year>
+  </author>
+  <author xlink:href="#artist-11292" xlink:type="simple">
+    <part>Music</part>
+    <year>1819</year>
+  </author>
+  <author xlink:href="#artist-3753" xlink:type="simple">
+    <part>Music</part>
+    <year>1852</year>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>5</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>78</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>331</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>272</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>50</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9498" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10905" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>257</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19619" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21246" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>198</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21601" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>87</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23473" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>106b</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-34" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+</song>

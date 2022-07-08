@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11340">
+  <lastname>Gottschick</lastname>
+  <firstname>Anna Martina</firstname>
+  <name/>
+  <born>1914</born>
+  <died>1995</died>
+  <comment>Geboren in Dresden, Redakteurin in Kassel.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Anna_Martina_Gottschick" xlink:type="simple">
+    <title>Anna Martina Gottschick @ Wikipedia.org</title>
+  </url>
+</artist>

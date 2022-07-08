@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-21773">
+  <name>Gedankenstrich</name>
+  <comment>EAN 4013887272503</comment>
+  <state>0</state>
+  <url xlink:href="http://shop.erf.de/products/00/26245" xlink:type="simple">
+    <title>Gedankenstrich</title>
+  </url>
+  <icon xlink:href="#file-21772" xlink:type="simple"/>
+</cd>

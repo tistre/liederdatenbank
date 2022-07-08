@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24245">
+  <title>Hope Of The World</title>
+  <subtitle>For the love poured out, for the price of freedom</subtitle>
+  <copyrightyear>2011</copyrightyear>
+  <right>Hillsong Music Publishing (APRA). Sony ATV/Timber/West Main Music/Windsor Hill Music (SESAC). All rights on behalf of Sony ATV/Timber, West Main Music and Windsor Hill Music admin. by Sony ATV &amp; Sony ATV Cross Keys Publishing and Songs From The Science Lab (ASCAP). All rights reserved.
+Für D,A,CH: CopyCare Deutschland, Holzgerlingen.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3592" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22776" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11858" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-23988" xlink:type="simple">
+    <numinsongbook>218</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2897">
+  <title>Jesus, unsre starke Festung</title>
+  <author xlink:href="#artist-667" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4172" xlink:type="simple">
+    <part>Music</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-2782" xlink:type="simple">
+    <part>Music</part>
+    <year>1994</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+  </songbookref>
+</song>

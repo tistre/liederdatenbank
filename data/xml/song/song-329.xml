@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-329">
+  <title>Mir ist Erbarmung widerfahren</title>
+  <text># 
+Mir ist Erbarmung widerfahren, 
+Erbarmung, deren ich nicht wert;
+das zähl ich zu dem Wunderbaren, 
+mein stolzes Herz hat's nie begehrt.
+Nun weiß ich das und bin erfreut 
+und rühme die Barmherzigkeit.
+
+# 
+Ich hatte nichts als Zorn verdienet 
+und soll bei Gott in Gnaden sein;
+Gott hat mich mit sich selbst versühnet 
+und macht durchs Blut des Sohns mich rein.
+Wo kam dies her, warum geschieht's? 
+Erbarmung ist's und weiter nichts.
+
+# 
+Das muss ich dir, mein Gott, bekennen, 
+das rühm ich, wenn ein Mensch mich fragt;
+ich kann es nur Erbarmung nennen, 
+so ist mein ganzes Herz gesagt.
+Ich beuge mich und bin erfreut 
+und rühme die Barmherzigkeit.
+
+# 
+Dies lass ich kein Geschöpf mir rauben, 
+dies soll mein einzig Rühmen sein;
+auf dies Erbarmen will ich glauben, 
+auf dieses bet ich auch allein,
+auf dieses duld ich in der Not, 
+auf dieses hoff ich noch im Tod.
+
+# 
+Gott, der du reich bist an Erbarmen, 
+reiß dein Erbarmen nicht von mir
+und führe durch den Tod mich Armen 
+durch meines Heilands Tod zu dir;
+da bin ich ewig recht erfreut 
+und rühme die Barmherzigkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>4939083</ccli_number>
+  <comment>Unterschiedliche Vertonungen. - Melodie: "http://www.liederdatenbank.de/song/1595" (EG 369). - Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/13393" gesungen werden. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/1019".</comment>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-461" xlink:type="simple">
+    <part>Text</part>
+    <year>1767</year>
+  </author>
+  <author xlink:href="#artist-4573" xlink:type="simple">
+    <part>Music</part>
+    <year>(1641) 1657</year>
+  </author>
+  <author xlink:href="#artist-4616" xlink:type="simple">
+    <part>Music</part>
+    <year>1738</year>
+  </author>
+  <author xlink:href="#artist-11980" xlink:type="simple">
+    <part>Music</part>
+    <year>1790</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>355</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>319</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>314</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>165</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>254</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>297</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>171</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>292</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>242</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>246</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+</song>

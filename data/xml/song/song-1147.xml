@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1147">
+  <title>Näher, noch näher</title>
+  <text># Näher, noch näher, fest an dein Herz 
+ziehe mich, Jesu, durch Freude und Schmerz! 
+Birg mich aus Gnaden in deinem Zelt, 
+schirme und schütze mich, Heiland der Welt, 
+schirme und schütze mich, Heiland der Welt.
+
+# Näher, noch näher! Nichts hab ich hier, 
+nichts was als Opfer, Herr, tauget vor dir; 
+ach, nur ein sündges Herze ist mein, 
+Jesus, mein König, o wasche mich rein! 
+Jesus, mein König, o wasche mich rein!
+
+# Näher, noch näher! Ganz in den Tod 
+gebe ich willig, mein Heiland und Gott, 
+was deinen Segen hemmte in mir: 
+weltliche Freuden und irdische Zier, 
+weltliche Freuden und irdische Zier.
+
+# Näher, noch näher, völliger frei, 
+bis alles eigene Ringen vorbei, 
+bis all mein Leben dein Abglanz ist 
+und du, Herr Jesu, mein alles mir bist! 
+Und du, Herr Jesu, mein alles mir bist!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-1148" xlink:type="simple"/>
+  <author xlink:href="#artist-4434" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1898</year>
+  </author>
+  <author xlink:href="#artist-4546" xlink:type="simple">
+    <part>Text</part>
+    <year>1904</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>268</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>399</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>209</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>334</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25736" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+</song>

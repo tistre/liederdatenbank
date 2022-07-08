@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13250">
+  <title>Wo nichts ich seh' als eine Wüste</title>
+  <subtitle/>
+  <text># Wo nichts ich seh' als eine Wüste,
+Ein ödes Land, wo Dürre wohnt,
+Ein Meer von Sand, wo keine Küste,
+Nicht Frucht noch Quell den Pilger lohnt,
+Will Gott aus frischem Quell mich laben
+Mit Lebenswasser, hell und klar.
+Aus den Fluten, die kein Ende haben,
+Reicht Er mir stets Erquickung dar.
+
+# Gott selbst will mir den Weg bezeichnen,
+Sein Licht umstrahlt die Schritte mir.
+Er kann sich selber nicht verleugnen,
+Ich geh' mit Ihm – Er geht mit mir.
+Sein reicher Segen fließt verborgen,
+Und nimmer geh' ich kärglich aus,
+Er leitet mich zu ew'gem Morgen,
+Er führt mich heim ins Vaterhaus.
+
+# Zu Kana'ns heißersehnter Wohnung
+Führt Gottes Liebe meinen Fuß,
+Dort zu der sicheren Belohnung,
+Wo auf Entbehrung folgt Genuß,
+Wo im Triumphgesang von allen,
+Die einst getragen Christi Schmach,
+In Zion heil'ge Lieder schallen,
+Von Kummer fern und Weh und Ach.
+
+# Dort, in den Höfen voller Segen,
+Wo aus der Fremd' ich kehre ein,
+Kommt mir kein fremder Gott entgegen,
+Denn Er ist Gott und Vater mein.
+Die Liebe, die mich dort begrüßet,
+Die mich umgibt mit Herrlichkeit,
+Hat mir die Wüste schon versüßet,
+Hat mich erquickt in dieser Zeit.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13219".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13163" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/091_100.html#98" xlink:type="simple"/>
+</song>

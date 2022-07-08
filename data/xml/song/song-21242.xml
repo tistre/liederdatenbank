@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21242">
+  <title>Ich danke meinem Gott</title>
+  <subtitle>von ganzem Herzen</subtitle>
+  <copyrightyear>1976</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Fassung: "http://www.liederdatenbank.de/song/258"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21241" xlink:type="simple"/>
+  <originalsong xlink:href="#song-4336" xlink:type="simple"/>
+  <author xlink:href="#artist-449" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1976</year>
+  </author>
+  <author xlink:href="#artist-78" xlink:type="simple">
+    <part>Text</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21257" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>586</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1268</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-9" xlink:type="simple">
+    <verse>2-3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-9" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

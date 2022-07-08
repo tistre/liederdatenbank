@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11409">
+  <lastname>Blarer</lastname>
+  <firstname>Thomas</firstname>
+  <name/>
+  <born>1499</born>
+  <died>1567</died>
+  <comment>geboren in Konstanz, Bruder von Ambrosius Blarer, Jurist, Schüler Luthers und dessen Begleiter zum Reichstag nach Worms, Ratsmitglied in Konstanz, seit 1536 Bürgermeister; 1548 musste er wie sein Bruder die Stadt verlassen; gestorben in Neu-Giersberg (Thugau):</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Thomas_Blarer" xlink:type="simple">
+    <title>Thomas Blarer @ Wikipedia.de</title>
+  </url>
+</artist>

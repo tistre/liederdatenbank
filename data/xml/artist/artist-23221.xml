@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-23221">
+  <lastname>Carter</lastname>
+  <firstname>Sydney</firstname>
+  <name/>
+  <born>1915</born>
+  <died>2004</died>
+  <comment/>
+  <url xlink:href="https://en.wikipedia.org/wiki/Sydney_Carter" xlink:type="simple">
+    <title>Sydney Carter @ Wikipedia (en)</title>
+  </url>
+</artist>

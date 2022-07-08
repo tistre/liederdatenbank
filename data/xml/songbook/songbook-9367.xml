@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9367">
+  <name>Come to Worship 1+2</name>
+  <comment>Gerth Medien GmbH, Asslar 2001,
+200 Lobpreis- u. Anbetungslieder in Deutsch u. Englisch.
+ISBN 9-7298-8248-7.
+
+Lied 001 bis 100 - Come to Worship 1
+Lied 101 bis 200 - Come to Worship 2</comment>
+  <icon xlink:href="#file-9366" xlink:type="simple"/>
+  <state>1</state>
+  <url xlink:href="http://www.haenssler.de/show.sxp/haenssler_de.html?art_id=70956" xlink:type="simple">
+    <title>Come to Worship 1 @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/show.sxp/haenssler_de.html?art_id=70957" xlink:type="simple">
+    <title>Come to Worship 2 @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.haenssler.de/show.sxp/haenssler_de.html?art_id=70958" xlink:type="simple">
+    <title>Come to Worship 1+2 @ Haenssler.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Come+to+Worship" xlink:type="simple">
+    <title>Come to Worship @ booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/come-to-worship" xlink:type="simple">
+    <title>Come to Worship @ eBay.de</title>
+  </url>
+</songbook>

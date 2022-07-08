@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25483">
+  <title>Geh nun, Moses</title>
+  <subtitle>Viel leiden muss in Ägyptenland</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Textfassung: http://www.liederdatenbank.de/song/1854</comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-401" xlink:type="simple"/>
+  <author xlink:href="#artist-9153" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9137" xlink:type="simple">
+    <part>Text</part>
+    <year>1959 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>270</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10160" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-exo-5" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1480">
+  <title>Jesu, meines Lebens Leben</title>
+  <text># 
+Jesu, meines Lebens Leben, 
+Jesu, meines Todes Tod, 
+der du dich für mich gegeben 
+in die tiefste Seelennot, 
+in das äußerste Verderben, 
+nur dass ich nicht möchte sterben: 
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Du, ach du hast ausgestanden 
+Lästerreden, Spott und Hohn, 
+Speichel, Schläge, Strick und Banden, 
+du gerechter Gottessohn, 
+nur mich Armen zu erretten 
+von des Teufels Sündenketten. 
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Du hast lassen Wunden schlagen,
+dich erbärmlich richten zu,
+um zu heilen meine Plagen, 
+um zu setzen mich in Ruh;
+ach du hast zu meinen Segen 
+lassen dich mit Fluch belegen.
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Man hat dich sehr hart verhöhnet, 
+dich mit großem Schimpf belegt,
+gar mit Dornen dich gekrönet: 
+was hat dich dazu bewegt?
+Dass du möchtest mich ergötzen, 
+mir die Ehrenkron aufsetzen.
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Du hast wollen sein geschlagen, 
+zu befreien mich von Pein,
+fälschlich lassen dich anklagen, 
+dass ich könnte sicher sein;
+dass ich möge Trost erlangen, 
+hast du ohne Trost gehangen.
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Du hast dich in Not gestecket, 
+hast gelitten mit Geduld,
+gar den herben Tod geschmecket, 
+um zu büßen meine Schuld;
+dass ich würde losgezählet, 
+hast du wollen sein gequälet.
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Deine Demut hat gebüßet 
+meinen Stolz und Übermut, 
+dein Tod meinen Tod versüßet; 
+es kommt alles mir zugut. 
+Dein Verspotten, dein Verspeien 
+muss zu Ehren mir gedeihen. 
+Tausend-, tausendmal sei dir, 
+liebster Jesu, Dank dafür.
+
+# 
+Nun, ich danke dir von Herzen, 
+Herr, für die gesamte Not: 
+für die Wunden, für die Schmerzen, 
+für den herben, bittern Tod; 
+für dein Zittern, für dein Zagen, 
+für dein tausendfaches Plagen, 
+für dein Angst und tiefe Pein 
+will ich ewig dankbar sein.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number>5222964</ccli_number>
+  <comment>Im "Gemeindelieder" sind nur die Strophen 1, 2, 7, 8 abgedruckt.</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-5012" xlink:type="simple">
+    <part>Text</part>
+    <year>1659</year>
+  </author>
+  <author xlink:href="#artist-5013" xlink:type="simple">
+    <part>Music</part>
+    <year>1661</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>86</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>215</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>94</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>76</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>507</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

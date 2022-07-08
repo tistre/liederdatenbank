@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10216">
+  <title>Jesu Du, Jesu Du</title>
+  <subtitle/>
+  <text># Jesu Du, Jesu Du!
+Du bist meiner Seele Ruh'!
+Bist mein Trost auf meiner Reise,
+Meine Kraft und meine Speise;
+Führst dem Vaterhaus mich zu.
+
+# Inniglich, inniglich
+Sehnet meine Seele sich!
+O wann werd' ich zu Dir kommen,
+Wo ich, dieser Welt entnommen,
+Schaue, o mein Jesu, Dich?
+
+# Nicht mehr lang, nicht mehr lang,
+O welch himmlisch froher Klang!
+Bald werd' ich Dich schauend loben,
+Herr, mit allen Heil'gen droben.
+Dann tönt ew'ger Lobgesang.
+
+# Was wird's sein, was wird's sein,
+Führest Du mich droben ein!
+Wo nicht Sünd' und Welt mehr störet,
+Nie ein Seufzer wird gehöret, –
+Ewig werd' ich bei Dir sein!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#19" xlink:type="simple"/>
+</song>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2970">
+  <title>Wir erheben Dich, ... den König auf dem Thron</title>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4013" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-4014" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-3424" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-3425" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>229</numinsongbook>
+  </songbookref>
+</song>

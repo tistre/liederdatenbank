@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3123">
+  <title>Lobpreisopfer bringen wir</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1981</copyrightyear>
+  <right>Stamps Baxter Music. D/A/CH: Rudolf Slezak Musikverlag, Hamburg.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "We Bring The Sacrifice Of Praise". Text nach Psalm 116,17+19.</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4013" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1981</year>
+  </author>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-116" xlink:type="simple">
+    <verse>17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-116" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+</song>

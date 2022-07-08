@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-44">
+  <firstname>Siegfried</firstname>
+  <lastname>Fietz</lastname>
+  <name/>
+  <born>1946</born>
+  <died/>
+  <comment>Geboren in Aue-Wingeshausen, Komponist, Liedermacher, lebt in Greifenstein.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Siegfried_Fietz" xlink:type="simple">
+    <title>Siegfried Fietz @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/f/siegfriedfietz.htm" xlink:type="simple">
+    <title>Siegfried Fietz @ ccmrezis.de</title>
+  </url>
+  <url xlink:href="http://www.abakus-musik.de/" xlink:type="simple">
+    <title>Musikverlag ABAKUS MUSIK</title>
+  </url>
+</artist>

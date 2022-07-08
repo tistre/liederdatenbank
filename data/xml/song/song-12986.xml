@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12986">
+  <title>Gottes Auserwählte</title>
+  <subtitle>Ihr seid Gottes Auserwählte</subtitle>
+  <copyrightyear>1982</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-12125" xlink:type="simple"/>
+  <author xlink:href="#artist-3421" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1979</year>
+  </author>
+  <songbookref xlink:href="#songbook-12948" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-1pe-2" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+</song>

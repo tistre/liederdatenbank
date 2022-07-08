@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4810">
+  <firstname>James</firstname>
+  <lastname>Ellor</lastname>
+  <name/>
+  <born>1819</born>
+  <died>1899</died>
+  <comment>Geboren in Droylsden (England), Hutmacher, Chorleiter bei den Methodisten, gestorben in Newburgh (USA).</comment>
+</artist>

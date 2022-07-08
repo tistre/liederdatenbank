@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3561">
+  <title>Zion, o Zion, du Gottesstadt</title>
+  <subtitle/>
+  <copyrightyear>1974/1978</copyrightyear>
+  <right>New Jerusalem Music, USA. D/A/CH/L: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "City, O City, O City Of God".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <author xlink:href="#artist-4702" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1974</year>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>241</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-87" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-87" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

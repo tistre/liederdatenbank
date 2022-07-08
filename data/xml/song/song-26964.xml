@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26964">
+  <title>Dort von den Bergen vernehm ich den Ruf</title>
+  <subtitle/>
+  <copyrightyear>1976</copyrightyear>
+  <right>Mobile, Alabama, USA</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "I Hear A Sound"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12206" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1976</year>
+  </author>
+  <author xlink:href="#artist-43" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1145</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-40" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-3" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-3" xlink:type="simple">
+    <verse>2-6</verse>
+  </bibleref>
+</song>

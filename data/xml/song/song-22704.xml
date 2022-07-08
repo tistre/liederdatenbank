@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22704">
+  <title>Zehntausend Gründe</title>
+  <subtitle>Komm und lobe den Herrn</subtitle>
+  <copyrightyear>2011</copyrightyear>
+  <right>Said And Done Music / sixsteps Music / SHOUT! Music Publishing / worshiptogether.com songs</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>6271093</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <originalsong xlink:href="#song-22706" xlink:type="simple"/>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-8875" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22705" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9358" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>3</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-psa-103" xlink:type="simple">
+    <verse>1-2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-6" xlink:type="simple">
+    <verse>1-7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-19" xlink:type="simple">
+    <verse>38</verse>
+  </bibleref>
+  <url xlink:href="https://www.youtube.com/watch?v=4TXFigcT27A" xlink:type="simple">
+    <title>Zehntausend Gründe - Outbreakband @ YouTube.com</title>
+  </url>
+</song>

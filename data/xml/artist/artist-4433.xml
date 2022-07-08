@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4433">
+  <firstname>Phoebe</firstname>
+  <lastname>Knapp</lastname>
+  <name/>
+  <born>1839</born>
+  <died>1908</died>
+  <comment/>
+  <url xlink:href="http://en.wikipedia.org/wiki/Phoebe_Knapp" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11396">
+  <title>Ach lieber Herre Jesu Christ, der du ein Kindlein worden bist</title>
+  <subtitle/>
+  <text># Ach lieber Herre Jesu Christ,
+der du ein Kindlein worden bist,
+von einer Jungfrau rein geborn,
+dass wir nicht möchten sein verlorn,
+
+# du hast die Kinder nicht veracht’,
+da sie sind worden zu dir bracht,
+du hast dein Händ auf sie gelegt,
+sie schön umfangen und gesagt:
+
+# »Die Kinder lasset kommen her
+zu mir, ihn’ niemand solches wehr,
+denn solcher ist das Himmelreich,
+die man mir bringt, beid, arm und reich.«
+
+# Ich bitt, lass dir befohlen sein,
+ach lieber Herr, dies Kindelein,
+behüte es vor allem Leid
+und alle in der Christenheit.
+
+# Durch deine Engel es bewahr
+vor Unfall, Schaden und Gefahr;
+erbarm dich seiner gnädiglich,
+gib deinen Segen mildiglich.
+
+# Gib Gnad, dass es gerate wohl
+zu deinen Ehrn und Wohlgefalln,
+auf dass es hier gottseliglich,
+hernach auch lebe ewiglich.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <language>de</language>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5209437</ccli_number>
+  <author xlink:href="#artist-11395" xlink:type="simple">
+    <part>Text</part>
+    <year>(um 1555) 1565</year>
+  </author>
+  <author xlink:href="#artist-5018" xlink:type="simple">
+    <part>Music</part>
+    <year>1597</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

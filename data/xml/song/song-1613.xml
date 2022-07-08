@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1613">
+  <title>Das Wort geht von dem Vater aus</title>
+  <subtitle/>
+  <text># Das Wort geht von dem Vater aus
+und bleibt doch ewiglich zu Haus,
+geht zu der Welten Abendzeit,
+das Werk zu tun, das uns befreit.
+
+# Da von dem eignen Jünger gar
+der Herr zum Tod verraten war,
+gab er als neues Testament
+den Seinen sich im Sakrament,
+
+# gab zwiefach sich in Wein und Brot;
+sein Fleisch und Blut, getrennt im Tod,
+macht durch des Mahles doppelt Teil
+den ganzen Menschen satt und heil.
+
+# Der sich als Bruder zu uns stellt,
+gibt sich als Brot zum Heil der Welt,
+bezahlt im Tod das Lösegeld,
+geht heim zum Thron als Siegesheld.
+
+# Der du am Kreuz das Heil vollbracht,
+des Himmels Tür uns aufgemacht:
+gib deiner Schar im Kampf und Krieg
+Mut, Kraft und Hilf aus deinem Sieg.
+
+# Dir, Herr, der drei in Einigkeit,
+sei ewig alle Herrlichkeit.
+Führ uns nach Haus mit starker Hand
+zum Leben in das Vaterland.
+</text>
+  <copyrightyear/>
+  <right>nach dem Hymnus "Verbum supernum prodiens" des Thomas von Aquin 1264.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach dem Hymnus "Verbum supernum prodiens" des Thomas von Aquin 1264. - Melodie: "http://www.liederdatenbank.de/song/1483" (EG 79).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9225" xlink:type="simple">
+    <part>Text</part>
+    <year>1932/1934</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>390</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>223</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

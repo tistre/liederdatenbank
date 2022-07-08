@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1709">
+  <title>Die Freude am Herrn ist meine Kraft</title>
+  <language>de</language>
+  <subtitle/>
+  <right>D/A/CH: Rich &amp; Slezak Musik, Hamburg</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Es gibt unterschiedliche Verse in den Liederbüchern.</comment>
+  <copyrightyear>1979</copyrightyear>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-19794" xlink:type="simple"/>
+  <originalsong xlink:href="#song-25337" xlink:type="simple"/>
+  <author xlink:href="#artist-4218" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1979</year>
+  </author>
+  <author xlink:href="#artist-3428" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21427" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-neh-8" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

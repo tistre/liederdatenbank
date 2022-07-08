@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2882">
+  <title>Ich singe ein Lied meinem König und Gott</title>
+  <subtitle>Ich bete an</subtitle>
+  <author xlink:href="#artist-2984" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-33" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4162" xlink:type="simple">
+    <part>Music</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-4145" xlink:type="simple">
+    <part>Music</part>
+    <year>1982</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+  </songbookref>
+</song>

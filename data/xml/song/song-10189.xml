@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10189">
+  <title>Wo ist ein solcher Gott wie du</title>
+  <subtitle/>
+  <text># Wo ist ein solcher Gott wie Du,
+Voll Langmut, Macht und Gnade!
+Führst Sünder ein in Deine Ruh'
+Von des Verderbens Pfade.
+Durchdrangst mit Macht
+Der Sünde Nacht,
+Gabst hin den Eingebornen
+Zur Rettung der Verlornen.
+
+# Wo ist ein solcher Gott wie Du,
+Wer kann Dein Lieben fassen!
+Für Deine Feinde ließest Du
+Den Sohn im Tod erblassen.
+Gerechtigkeit
+Ward unser Kleid;
+Errettung, Licht und Leben
+Ward uns im Sohn gegeben.
+
+# Wo ist ein solcher Gott wie Du,
+So treu in jeder Lage!
+Wer hilft in Not, wer sorgt wie Du
+Ohn' Rast von Tag zu Tage!
+O treuer Hort,
+Laß hier wie dort
+Von Deiner Lieb' uns singen,
+Lob, Ehr' und Dank Dir bringen!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1223", "http://www.liederdatenbank.de/song/13105", "http://www.liederdatenbank.de/song/13169", "http://www.liederdatenbank.de/song/13438", "http://www.liederdatenbank.de/song/1597", "http://www.liederdatenbank.de/song/13533".</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4522" xlink:type="simple">
+    <part>Music</part>
+    <year>1675</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#2" xlink:type="simple"/>
+</song>

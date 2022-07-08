@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13328">
+  <title>Herr, Du schaust in Gnaden nieder</title>
+  <subtitle/>
+  <text># Herr, Du schaust in Gnaden nieder
+Auf die Deinen allezeit,
+Breitest segnend Deine Hände
+Über sie in Kampf und Leid.
+Seelenspeise für die Reise
+Reichst Du unermüdlich dar,
+Schenkest auch zur Pilgerschaft
+Licht und Weisheit, Mut und Kraft.
+
+# All die Schäflein Deiner Herde
+Leitest Du in Lieb' und Huld,
+Lagerst sie auf grüner Weide,
+Hebst und trägst sie mit Geduld.
+Segnest immer, läßt sie nimmer,
+Schirmest sie vor Satans List,
+Bleibst ihr fester, starker Hort,
+Lehrst sie durch Dein teures Wort.
+
+# Lenke auch in dieser Stunde
+Unsre Herzen, Herr, zu Dir!
+Tröste, lehre, nähre, pflege,
+Gib, was not ist, jedem hier!
+Und in Frieden sei beschieden
+Uns auch jetzt das gute Teil.
+Laß uns wie Maria tun,
+Still zu Deinen Füßen ruhn!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-13221" xlink:type="simple">
+    <part>Music</part>
+    <year>vor 1882</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>135</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/131_140.html#135" xlink:type="simple"/>
+</song>

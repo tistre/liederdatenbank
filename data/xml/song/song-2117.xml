@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2117">
+  <title>Gott wohnt in einem Lichte</title>
+  <subtitle/>
+  <text># Gott wohnt in einem Lichte, dem keiner nahen kann.
+Von seinem Angesichte trennt uns der Sünde Bann.
+Unsterblich und gewalig ist unser Gott allein,
+will König tausendfaltig, Herr aller Herren sein.
+
+# Und doch bleibt er nicht ferne, ist jedem von uns nah.
+Ob er gleich Mond und Sterne und Sonnen werden sah,
+mag er dich doch nicht missen in der Geschöpfe Schar,
+will stündlich von dir wissen und zählt dir Tag und Jahr.
+
+# Auch deines Hauptes Haare sind wohl von ihm gezählt.
+Er bleibt der Wunderbare, dem kein Geringstes fehlt.
+Den keine Meere fassen und keiner Berge Grat,
+hat selbst sein Reich verlassen, ist dir als Mensch genaht.
+
+# Er macht die Völker bangen vor Welt- und Endgericht
+und trägt nach dir Verlangen, lässt auch den Ärmsten nicht.
+Aus seinem Glanz und Lichte tritt er in deine Nacht:
+Und alles wird zunichte, was dir so bang gemacht.
+
+# Nun darfst du in ihm leben und bist nie mehr allein,
+darfst in ihm atmen, weben und immer bei ihm sein.
+Den keiner je gesehen noch künftig sehen kann,
+will dir zur Seite gehen und führt dich himmelan.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: "http://www.liederdatenbank.de/song/827" (EG 361).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-3743" xlink:type="simple">
+    <part>Text</part>
+    <year>1938</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1542</year>
+  </author>
+  <author xlink:href="#artist-19856" xlink:type="simple">
+    <part>Music</part>
+    <year>1539</year>
+  </author>
+  <author xlink:href="#artist-4322" xlink:type="simple">
+    <part>Music</part>
+    <year>1967</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>387</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>379</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>75</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1ti-6" xlink:type="simple">
+    <verse>16</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-17" xlink:type="simple">
+    <verse>27</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-10" xlink:type="simple">
+    <verse>30</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-act-17" xlink:type="simple">
+    <verse>28</verse>
+  </bibleref>
+</song>

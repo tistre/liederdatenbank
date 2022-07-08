@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23074">
+  <title>Ich singe Dir mit Herz und Mund (Kanon)</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>nach http://www.liederdatenbank.de/song/260</comment>
+  <language/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21361" xlink:type="simple"/>
+  <author xlink:href="#artist-9218" xlink:type="simple">
+    <part>Music</part>
+    <year>1963</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>643</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

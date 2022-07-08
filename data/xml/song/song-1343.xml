@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1343">
+  <title>Auf und macht die Herzen weit</title>
+  <subtitle/>
+  <text>1.
+Auf und macht die Herzen weit, 
+euern Mund zum Lob bereit!
+
+* 1.-7. 
+Gottes Güte, Gottes Treu 
+sind an jedem Morgen neu.
+
+2.
+Gottes Wort erschafft die Welt, 
+hat die Finsternis erhellt. 
+
+3.
+Gottes Macht schützt, was er schuf, 
+den Geplagten gilt sein Ruf. 
+
+4.
+Gottes Liebe deckt die Schuld, 
+trägt die Sünder in Geduld. 
+
+5.
+Gottes Weisheit hilft der Welt,
+rückt zurecht, was wir entstellt.
+
+6.
+Gottes Wort ruft Freund und Feind, 
+die sein Geist versöhnt und eint.
+
+7.
+Darum macht die Herzen weit, 
+euren Mund zum Lob bereit!
+</text>
+  <right>(Text): Strophe 1, 2, 7: Gustav Bosse Verlag, Regensburg,
+Strophe 3-6: Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4322. In http://www.liederdatenbank.de/songbook/9444 und http://www.liederdatenbank.de/songbook/21595 haben die 2.-4. Str. einen anderen Text.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-15918" xlink:type="simple"/>
+  <author xlink:href="#artist-9092" xlink:type="simple">
+    <part>Text</part>
+    <year>1623</year>
+  </author>
+  <author xlink:href="#artist-9090" xlink:type="simple">
+    <part>Text</part>
+    <year>(1950) 1969</year>
+  </author>
+  <author xlink:href="#artist-9091" xlink:type="simple">
+    <part>Text</part>
+    <year>1972</year>
+  </author>
+  <author xlink:href="#artist-25526" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>219</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>454</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19437" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>295</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>408</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-136" xlink:type="simple">
+    <verse>1-26</verse>
+  </bibleref>
+</song>

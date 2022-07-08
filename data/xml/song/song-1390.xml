@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1390">
+  <title>Lob Gott getrost mit Singen</title>
+  <text># Lob Gott getrost mit Singen, frohlock, du christlich Schar!
+Dir soll es nicht misslingen, Gott hilft dir immerdar.
+Ob du gleich hier musst tragen viel Widerwärtigkeit,
+noch sollst du nicht verzagen; er hilft aus allem Leid.
+
+# Dich hat er sich erkoren, durch sein Wort auferbaut,
+mit seinem Eid geschworen, weil du ihm bist vertraut,
+dass er sich lässet finden in aller Angst und Not;
+er wird auch überwinden, die dich noch schmähn mit Spott.
+
+# Kann und mag auch verlassen ein Mutter je ihr Kind
+und also gar verstoßen, dass es kein Gnad mehr findt?
+Und ob sich's möcht begeben, dass sie so sehr abfiel:
+Gott schwört bei seinem Leben, er dich nicht lassen will.
+
+# Darum lass dich nicht schrecken, o du christgläubge Schar!
+Gott wird dir Hilf erwecken und dein selbst nehmen wahr.
+Hat er dich doch gezeichnet, gegraben in sein Händ:
+dein Nam stets vor ihm leuchtet, dass er dir Hilfe send.
+
+# Es tut ihn nicht gereuen, was er vorlängst gedeut',
+sein Kirche zu erneuen in dieser fährlich Zeit.
+Er wird herzlich anschauen dein Jammer und Elend,
+dich herzlich auferbauen durch Wort und Sakrament.
+
+# Gott solln wir fröhlich loben, der sich aus großer Gnad
+durch seine guten Gaben uns kundgegeben hat.
+Er wird uns auch erhalten in Lieb und Einigkeit 
+und unser freundlich walten hier und in Ewigkeit.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4435824</ccli_number>
+  <author xlink:href="#artist-13411" xlink:type="simple">
+    <part>Music</part>
+    <year>1535</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1544</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1662</year>
+  </author>
+  <author xlink:href="#artist-9225" xlink:type="simple">
+    <part>Music</part>
+    <year>1932</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>570</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>127</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>243</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10905" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>121</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-106" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-23988">
+  <name>Das Liederbuch. Glauben - Leben - Lieben - Hoffen</name>
+  <comment>Gottfried Heinzmann, Hans-Joachim Eißler (Hg.)
+(c) buch+musik, ejw-service gmbh, Stuttgart, 2014
+ISBN 978-3-86687-079-6 / 978-3-86687-087-1</comment>
+  <state>1</state>
+  <url xlink:href="http://www.ejw-buch.de/shop/das-liederbuch.html" xlink:type="simple">
+    <title>@ ejw-buch.de</title>
+  </url>
+  <icon xlink:href="#file-24267" xlink:type="simple"/>
+</songbook>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26561">
+  <title>Was ist Wahrheit, wo ist Leben</title>
+  <subtitle>Einsamkeit trotz Menschenmassen</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Musik-Team der Finnlandfreizeit 1976, aufgezeichnet von Hilde-Luise Dietrich. Satz: Denise Heap.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>970</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-14" xlink:type="simple">
+    <verse>6</verse>
+  </bibleref>
+</song>

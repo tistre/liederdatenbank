@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4387">
+  <firstname>Sadhu Sundar</firstname>
+  <lastname>Singh</lastname>
+  <name/>
+  <born>1889</born>
+  <died>1929</died>
+  <comment/>
+  <url xlink:href="http://en.wikipedia.org/wiki/Sadhu_Sundar_Singh" xlink:type="simple"/>
+</artist>

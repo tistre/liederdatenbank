@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1467">
+  <title>Hilf, Herr Jesu, laß gelingen</title>
+  <subtitle/>
+  <text># Hilf, Herr Jesu, lass gelingen,
+hilf, das neue Jahr geht an;
+lass es neue Kräfte bringen,
+dass aufs neu ich wandeln kann.
+Neues Glück und neues Leben
+wollest du aus Gnaden geben.
+
+# Was ich sinne, was ich mache,
+das gescheh in dir allein;
+wenn ich schlafe, wenn ich wache,
+wollest du, Herr, bei mir sein;
+geh ich aus, wollst du mich leiten;
+komm ich heim, steh mir zur Seiten.
+
+# Lass dies sein ein Jahr der Gnaden,
+lass mich büßen meine Sünd’,
+hilf, dass sie mir nimmer schaden
+und ich bald Verzeihung find,
+Herr, in dir; denn du, mein Leben,
+kannst die Sünd’ allein vergeben.
+
+# Herr, du wollest Gnade geben,
+dass dies Jahr mir heilig sei
+und ich christlich könne leben
+ohne Trug und Heuchelei,
+dass ich noch allhier auf Erden
+fromm und selig möge werden.
+
+# Jesus richte mein Beginnen,
+Jesus bleibe stets bei mir,
+Jesus zäume mir die Sinnen,
+Jesus sei nur mein Begier,
+Jesus sei mir in Gedanken,
+Jesus lasse nie mich wanken!
+
+# Jesu, lass mich fröhlich enden
+dieses angefangne Jahr.
+Trage stets mich auf den Händen,
+stehe bei mir in Gefahr.
+Freudig will ich dich umfassen,
+wenn ich soll die Welt verlassen.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Unterschiedliche Vertonungen. - Andere Melodie: "http://www.liederdatenbank.de/song/373" (EG 166).</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9895" xlink:type="simple">
+    <part>Text</part>
+    <year>1642</year>
+  </author>
+  <author xlink:href="#artist-4383" xlink:type="simple">
+    <part>Music</part>
+    <year>1642</year>
+  </author>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>199</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>681</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>66</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>467</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-118" xlink:type="simple">
+    <verse>25</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1th-5" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-4" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-91" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-296">
+  <title>Komm in unsre stolze Welt</title>
+  <language>de</language>
+  <subtitle/>
+  <right>Text: Bärenreiter-Verlag, Kassel.
+Melodie 1: Deutscher Verlag für Musik, Leipzig. Melodie 2: Evangelischer Sängerbund, Wuppertal. Melodie 3: Hänssler-Verlag, Holzgerlingen
+</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Es existieren zwei verschiedene Melodien. In http://www.liederdatenbank.de/songbook/88 sind beide abgedruckt. In http://www.liederdatenbank/songbook/4321  gibt es eine dritte Melodie.</comment>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9994" xlink:type="simple">
+    <part>Text</part>
+    <year>1968</year>
+  </author>
+  <author xlink:href="#artist-9278" xlink:type="simple">
+    <part>Music</part>
+    <year>1982</year>
+  </author>
+  <author xlink:href="#artist-25532" xlink:type="simple">
+    <part>Music</part>
+    <year>1985</year>
+  </author>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Music</part>
+    <year>2002</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>264</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>428</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21173" xlink:type="simple">
+    <cdnum/>
+    <numoncd>3</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270961118&amp;id=270961070&amp;s=143443" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

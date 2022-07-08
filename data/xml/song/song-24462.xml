@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24462">
+  <title>Hier am Kreuz geb ich mich dir ganz hin (Liebe floss blutrot)</title>
+  <subtitle>Welch ein Ort, wo Gnade herrscht und nie vergeht</subtitle>
+  <copyrightyear>2014</copyrightyear>
+  <right>Atlas Mountain Songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Countless Wonder Publishing -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Fots Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / McKittrick Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / S.D.G. Publishing -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Said And Done Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / sixsteps Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Sixsteps Songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Thankyou Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Universal Music - Brentwood Benson Songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Universal Music - SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Brentwood Benson Tundes -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / Worship Together Music -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing / worshiptogether.com songs -- SCM Hänssler, Holzgerlingen, für Capitol CMG Publishing</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-24460" xlink:type="simple"/>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2771" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-8875" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-14607" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24461" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24447" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-1" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-27" xlink:type="simple">
+    <verse>54</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>1-11</verse>
+  </bibleref>
+</song>

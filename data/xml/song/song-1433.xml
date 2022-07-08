@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1433">
+  <title>Segne und behüte uns durch Deine Güte</title>
+  <text># Segne und behüte 
+uns durch Deine Güte,
+Herr, erheb Dein Angesicht 
+über uns und gib uns Licht!
+
+# Schenk uns Deinen Frieden 
+alle Tag hienieden, 
+gib uns Deinen guten Geist,
+der uns stets zu Christus weist.
+
+# Amen, Amen, Amen! 
+Ehre sei dem Namen
+Jesu Christi, unsers Herrn,
+denn Er segnet uns so gern.</text>
+  <language>de</language>
+  <comment>Satz: Neumünster 1931. 3. Strophe fehlt in den meisten Büchern.</comment>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4834250</ccli_number>
+  <author xlink:href="#artist-4696" xlink:type="simple">
+    <part>Text</part>
+    <year>1825</year>
+  </author>
+  <author xlink:href="#artist-4697" xlink:type="simple">
+    <part>Music</part>
+    <year>1755</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>150</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>735</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>404</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>151</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>575</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>0113</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-num-6" xlink:type="simple">
+    <verse>24-26</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2535">
+  <title>Dein Leben gabst Du</title>
+  <subtitle>Jesus, mein Herr</subtitle>
+  <author xlink:href="#artist-673" xlink:type="simple">
+    <part>Text</part>
+    <year>1994</year>
+  </author>
+  <author xlink:href="#artist-3633" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>231</numinsongbook>
+  </songbookref>
+  <right>CopyCare Deutschland</right>
+</song>

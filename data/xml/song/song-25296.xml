@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25296">
+  <title>Hilf uns, Herr, deine Wege täglich neu</title>
+  <subtitle>Du hast mit uns Geduld</subtitle>
+  <copyrightyear>1956</copyrightyear>
+  <right>Orien Johnson, ass. to Sacred Song/Word Inc. USA / Hänssler-Verlag, Neuhausen-Stuttgart</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: His Sheep Am I</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25295" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz</year>
+  </author>
+  <author xlink:href="#artist-683" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>874</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+</song>

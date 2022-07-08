@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3891">
+  <firstname>Albrecht</firstname>
+  <lastname>Gralle</lastname>
+  <name/>
+  <born>1949</born>
+  <died/>
+  <comment>Geboren in Stuttgart, Pastor des BEFG in Großhansdorf, in Sierra Leone, in Northeim, jetzt Schriftsteller.</comment>
+  <url xlink:href="Albrecht Gralle Wikipedia.org" xlink:type="simple"/>
+</artist>

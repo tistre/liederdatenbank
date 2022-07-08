@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9143">
+  <lastname>Willms</lastname>
+  <firstname>Wilhelm</firstname>
+  <name/>
+  <born>1930</born>
+  <died>2002</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Wilhelm_Willms" xlink:type="simple"/>
+</artist>

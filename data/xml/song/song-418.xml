@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-418">
+  <title>Wohl denen, die da wandeln</title>
+  <text># Wohl denen, die da wandeln
+vor Gott in Heiligkeit,
+nach seinem Worte handeln
+und leben allezeit;
+die recht von Herzen suchen Gott
+und seine Zeugniss' halten,
+sind stets bei ihm in Gnad.
+
+# Von Herzensgrund ich spreche:
+dir sei Dank allezeit,
+weil du mich lehrst die Rechte
+deiner Gerechtigkeit.
+Die Gnad auch ferner mir gewähr;
+ich will dein Rechte halten,
+verlaß mich nimmermehr.
+
+# Mein Herz hängt treu und feste
+an dem, was dein Wort lehrt.
+Herr, tu bei mir das Beste,
+sonst ich zuschanden werd.
+Wenn du mich leitest, treuer Gott,
+so kann ich richtig laufen
+den Weg deiner Gebot.
+
+# Dein Wort, Herr, nicht vergehet,
+es bleibet ewiglich,
+so weit der Himmel gehet,
+der stets beweget sich;
+dein Wahrheit bleibt zu aller Zeit
+gleichwie der Grund der Erden,
+durch deine Hand bereit'.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4834119</ccli_number>
+  <author xlink:href="#artist-3649" xlink:type="simple">
+    <part>Text</part>
+    <year>1602</year>
+  </author>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1661</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>383</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>452</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>204</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>295</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>182</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>106</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>580</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>335</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>556</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>108</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12084" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21709" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>1-20</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>88-92</verse>
+  </bibleref>
+</song>

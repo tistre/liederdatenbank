@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1015">
+  <title>Wir wollen Deinen Tod verkünden</title>
+  <text># Wir wollen deinen Tod verkünden; 
+Herr Jesu, lass es recht geschehn! 
+Wir wollen statt auf unsre Sünden 
+auf dein vollbrachtes Opfer sehn, 
+wie du auf ewig uns vollendet, 
+uns Gnad und Frieden reich gespendet.
+
+# Das Brot, das wir zusammen brechen, 
+ist die Gemeinschaft, Herr, mit dir. 
+Wie kannst du innger zu uns sprechen? 
+Was du uns bist, wir sehens hier: 
+Du willst mit deinem Leib uns nähren, 
+uns deines Lebens Kraft gewähren.
+
+# Ein Brot ist es, so sind wir 
+Viele ein Leib in dir, 
+Herr Jesu Christ. Schon sind 
+wirs hier, wie einst am Ziele,
+ wo du in uns verkläret bist. 
+Wie wir von einem Brot empfingen, 
+gib Einigkeit in allen Dingen.
+
+# Der Kelch des Dankes, den wir segnen, 
+ist die Gemeinschaft deines Bluts; 
+im Glauben wir uns da begegnen 
+als Erben jenes selgen Guts, 
+das du den Deinen hast erworben, 
+da du für sie am Kreuz gestorben.
+
+# Lass deine Liebe uns regieren 
+und durch des Heilgen Geistes Kraft 
+in uns das Himmelsfeuer schüren 
+zu wahrer, echter Bruderschaft. 
+Erbau uns als lebendge Steine 
+zu einer heiligen Gemeinde!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/959", "http://www.liederdatenbank.de/song/13156", "http://www.liederdatenbank.de/song/13275".</comment>
+  <copyrightyear/>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>1863</year>
+  </author>
+  <author xlink:href="#artist-9079" xlink:type="simple">
+    <part>Music</part>
+    <year>1822</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>516</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>141</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2577" xlink:type="simple"/>
+</song>

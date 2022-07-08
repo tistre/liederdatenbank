@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12446">
+  <title>O Gott, nimm an die Gaben</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Mainz 1947 / EGB 1972.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>468</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

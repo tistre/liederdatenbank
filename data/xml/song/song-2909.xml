@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2909">
+  <title>Lehre mich, Herr, Deine Wege</title>
+  <subtitle>Heilige mein Herz</subtitle>
+  <author xlink:href="#artist-3706" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3000" xlink:type="simple">
+    <part>Music</part>
+    <year>1990</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+  </songbookref>
+</song>

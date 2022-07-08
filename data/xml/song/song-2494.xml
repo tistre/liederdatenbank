@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2494">
+  <title>Immer bist Du, Herr, bei mir</title>
+  <subtitle>Herr, Du durchschaust und kennst mich</subtitle>
+  <author xlink:href="#artist-3651" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3652" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>203</numinsongbook>
+  </songbookref>
+  <right>Celmar Music</right>
+</song>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-301">
+  <title>Kommt, stimmet alle jubelnd ein</title>
+  <text># Kommt, stimmet alle jubelnd ein: 
+Gott hat uns lieb!
+Freut euch in Seinem Gnadenschein:
+Gott hat uns lieb!
+Die ihr in Sünden schlaft, erwacht!
+Suchet, was euch nun selig macht!
+Hin ist die bange Todesnacht!
+Gott hat uns lieb!
+
+* 1.-3. Gott hat uns lieb!
+Gott hat uns lieb!
+Kommt, stimmet alle jubelnd ein:
+Gott hat uns lieb!
+
+# Kündigt's den Sündern überall:
+Gott hat uns lieb!
+Er kam vom Thron ins Erdental;
+Gott hat uns lieb!
+Sehet, der Heiland ist nun da,
+der für uns starb auf Golgatha!
+Wir sind erlöst, Halleluja!
+Gott hat uns lieb!
+
+# Jubelt, die ihr euch Ihm geweiht:
+Gott hat uns lieb!
+Schmeckt Seine Güt und Freundlichkeit;
+Gott hat uns lieb!
+Er ist der Seinen Sonn und Schild
+und unsrer Lieb und Hoffnung Bild,
+Er ist's, der allen Kummer stillt!
+Gott hat uns lieb!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Come Let Us All Unite To Sing: God Is Love"</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-4563" xlink:type="simple">
+    <part>Text</part>
+    <year>1870</year>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1884</year>
+  </author>
+  <author xlink:href="#artist-540" xlink:type="simple">
+    <part>Music</part>
+    <year>1876</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>236</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>23</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>320</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14342" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>91</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19708" xlink:type="simple">
+    <numinsongbook>95</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>115</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-9174">
+  <name>Lebenslieder</name>
+  <icon xlink:href="#file-9173" xlink:type="simple"/>
+  <comment>Herausgegeben vom CVJM-Gesamtverband in Deutschland e.V. durch Ulrich Parzany
+Mundorgel Verlag Köln / Waldbröl und Schriftenniederlage des ejw, Stuttgart 1991. ISBN 3-87571-039-8.
+
+Die "Lebenslieder" lösen 1991 offiziell das Liederbuch http://www.liederdatenbank.de/songbook/9172 ab.
+Der Nachfolge- bzw. Ergänzungsband ist "http://www.liederdatenbank.de/songbook/10768".
+
+*** Dieses Liederbuch ist nicht vollständig in der Liederdatenbank erfaßt. Die Lieder 348 - 392 zählen nicht zum christlichen Liedgut und sind daher nicht erfaßt. ***</comment>
+  <state>1</state>
+  <url xlink:href="http://www.cvjm.de/" xlink:type="simple">
+    <title>CVJM-Gesamtverband in Deutschland e.V., Kassel</title>
+  </url>
+  <url xlink:href="http://www.mundorgel-verlag.de/Programm/039-8.htm" xlink:type="simple">
+    <title>Lebenslieder @ Mundorgel Verlag</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/gp/product/3875710398" xlink:type="simple">
+    <title>Lebenslieder @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Lebenslieder&amp;isbn=3875710398" xlink:type="simple">
+    <title>Lebenslieder @ Booklooker.de</title>
+  </url>
+  <url xlink:href="http://search.ebay.de/lebenslieder" xlink:type="simple">
+    <title>Lebenslieder @ eBay.de</title>
+  </url>
+</songbook>

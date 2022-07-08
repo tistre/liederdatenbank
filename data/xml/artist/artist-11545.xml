@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11545">
+  <lastname>Ackley</lastname>
+  <firstname>Alfred Henry</firstname>
+  <name/>
+  <born>1887</born>
+  <died>1960</died>
+  <comment/>
+  <url xlink:href="http://www.cyberhymnal.org/bio/a/c/ackley_ah.htm" xlink:type="simple">
+    <title>Alfred Henry Ackley @ cyberhymnal.org</title>
+  </url>
+</artist>

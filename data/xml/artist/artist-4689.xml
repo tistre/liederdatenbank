@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4689">
+  <firstname>Matthäus </firstname>
+  <lastname>Apelles von Löwenstern</lastname>
+  <name/>
+  <born>1594</born>
+  <died>1648</died>
+  <comment>Geboren als Matthäus Apelt in Neustadt (Oberschlesien). 1613 Lehrer und Kantor in Leobschütz, 1625 Hofkapellmeister und herzoglicher Kammerdirektor in Oels-Bernstadt (Schlesien), seit 1639 geadelt und Kaiserlicher Rat in Breslau. Begabter Dichter in antiken Versmaßen und Musiker des italienischen konzertanten Stils, befreundet mit David Behme. Gestorben in Breslau.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Matth%C3%A4us_Apelles_von_Löwenstern" xlink:type="simple"/>
+</artist>

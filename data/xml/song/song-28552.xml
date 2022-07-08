@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28552">
+  <title>Ich hab euch auf dem Marktplatz</title>
+  <subtitle>Goldenen Wein</subtitle>
+  <copyrightyear/>
+  <right>Otto Müller Verlag, A- 5021 Salzburg.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Aus: "P. Aimé Duval S.J., Chansons 1.u.2."</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25627" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+</song>

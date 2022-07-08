@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1275">
+  <title>Unser Herr sagt uns in Seinem Wort</title>
+  <subtitle>Wenn wir fest mit Ihm verbunden sind</subtitle>
+  <language>de</language>
+  <right>D/A/CH: SCM Hänssler, Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <comment>Originaltitel: "Vinträdet (The Vine).</comment>
+  <copyrightyear/>
+  <ccli_number>4350181</ccli_number>
+  <ccli_features>LANH</ccli_features>
+  <publisher xlink:href="#publisher-14642" xlink:type="simple"/>
+  <author xlink:href="#artist-4291" xlink:type="simple">
+    <part>Text</part>
+    <year>1980</year>
+  </author>
+  <author xlink:href="#artist-482" xlink:type="simple">
+    <part>Music</part>
+    <year>1980 und Satz</year>
+  </author>
+  <author xlink:href="#artist-65" xlink:type="simple">
+    <part>Text</part>
+    <year>1983</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>423</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>365</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-17154" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16719" xlink:type="simple">
+    <numinsongbook>130</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>136</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>216</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21003" xlink:type="simple">
+    <cdnum/>
+    <numoncd>7</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+  <url xlink:href="http://itunes.apple.com/de/album/unser-herr-sagt-uns-in-seinem/id361760762?i=361760823" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12326">
+  <title>Wer leben will wie Gott auf dieser Erde</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach dem Originaltitel "Wie als een god wil leven" von Huub Oosterhuis 1965.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-11718" xlink:type="simple">
+    <part>Text</part>
+    <year>1965</year>
+  </author>
+  <author xlink:href="#artist-12324" xlink:type="simple">
+    <part>Text</part>
+    <year>1969</year>
+  </author>
+  <author xlink:href="#artist-12325" xlink:type="simple">
+    <part>Music</part>
+    <year>1856</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>553</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

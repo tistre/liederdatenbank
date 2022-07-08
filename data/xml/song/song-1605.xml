@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1605">
+  <title>Stark ist meines Jesu Hand</title>
+  <text># Stark ist meines Jesu Hand, und er wird mich ewig fassen, 
+hat zu viel an mich gewandt, um mich wieder loszulassen. 
+Mein Erbarmer lässt mich nicht; das ist meine Zuversicht.
+
+# Sieht mein Kleinmut auch Gefahr, fürcht ich auch zu unterliegen: 
+Christus reicht den Arm mir dar, Christus hilft der Ohnmacht siegen. 
+Dass mich Gottes Held verficht, das ist meine Zuversicht.
+
+# Würd es Nacht vor meinem Schritt, dass ich keinen Ausgang wüsste 
+und mit ungewissem Tritt ohne Licht verzagen müsste, 
+Christus ist mein Stab und Licht; das ist meine Zuversicht.
+
+# Will mein Herr durch strenge Zucht mich nach seinem Bild gestalten, 
+o so will ich ohne Flucht seiner Hand nur stillehalten. 
+Dann erschreckt mich kein Gericht; das ist meine Zuversicht.
+
+# Seiner Hand entreißt mich nichts; sollt ich ihn mit Kleinmut schmähen? 
+Mein Erbarmer selbst  versprichts; sollt ich ihm sein Wort verdrehen? 
+Nein, er lässt mich ewig nicht, das ist meine Zuversicht.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>unterschiedliche Vertonungen!</comment>
+  <author xlink:href="#artist-4741" xlink:type="simple">
+    <part>Text</part>
+    <year>1825</year>
+  </author>
+  <author xlink:href="#artist-4742" xlink:type="simple">
+    <part>Music</part>
+    <year>1941</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>376</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>402</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>398</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>175</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/031_040.html#37" xlink:type="simple"/>
+</song>

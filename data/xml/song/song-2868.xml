@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2868">
+  <title>Herr, wir warten auf Dein Reden</title>
+  <subtitle>Der Tag bricht an</subtitle>
+  <author xlink:href="#artist-4157" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1994</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+  </songbookref>
+</song>

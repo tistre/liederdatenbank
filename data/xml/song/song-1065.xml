@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1065">
+  <title>Low in the grave He lay</title>
+  <subtitle>Up from the grave He arose</subtitle>
+  <text>#
+Low in the grave he lay, 
+Jesus, my Saviour! 
+Waiting the coming day, 
+Jesus, my Lord!
+
+*
+Up from the grave he arose, 
+with a mighty triumph o'er his foes. 
+He arose a Victor from the dark domain, 
+and he lives forever with his saints to reign. 
+He arose! He arose! Hallelujah! Christ arose!
+
+#
+Vainly they watch his bed, 
+Jesus, my Saviour! 
+Vainly they seal the dead, 
+]esusf my Lord!
+
+#
+Death cannot keep his preyf 
+Jesus, my Saviour! 
+He tore the bars away, 
+Jesusf my Lord!</text>
+  <copyrightyear/>
+  <right>Satz: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: http://www.liederdatenbank.de/artist/3986</comment>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-2785" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

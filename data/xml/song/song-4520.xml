@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4520">
+  <title>Wir glauben Gott im höchsten Thron</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Melodie: https://www.liederdatenbank.de/song/26235</comment>
+  <ccli_features/>
+  <author xlink:href="#artist-30" xlink:type="simple">
+    <part>Text</part>
+    <year>1937</year>
+  </author>
+  <author xlink:href="#artist-4716" xlink:type="simple">
+    <part>Music</part>
+    <year>(vor 1945) 1948</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>338</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>184</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

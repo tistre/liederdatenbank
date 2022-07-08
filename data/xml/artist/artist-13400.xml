@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-13400">
+  <lastname>Warns</lastname>
+  <firstname>Johannes</firstname>
+  <name/>
+  <born>1874</born>
+  <died>1937</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johannes_Warns" xlink:type="simple"/>
+</artist>

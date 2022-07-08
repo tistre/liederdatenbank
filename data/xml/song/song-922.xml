@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-922">
+  <title>Heilig, heilig, heilig, Gott, Du bist heilig</title>
+  <language>de</language>
+  <right>D/A/CH: Rudolf Slezak Musikverlag GmbH, Hamburg</right>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment>andere Übersetzung: "http://www.liederdatenbank.de/song/25603", http://www.liederdatenbank.de/song/26360, http://www.liederdatenbank.de/song/4327, http://www.liederdatenbank.de/song/27480, http://www.liederdatenbank.de/song/27481.</comment>
+  <copyrightyear>1986</copyrightyear>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4335467</ccli_number>
+  <publisher xlink:href="#publisher-17557" xlink:type="simple"/>
+  <originalsong xlink:href="#song-923" xlink:type="simple"/>
+  <author xlink:href="#artist-4467" xlink:type="simple">
+    <part>Text</part>
+    <year>1826</year>
+  </author>
+  <author xlink:href="#artist-4131" xlink:type="simple">
+    <part>Music</part>
+    <year>1861</year>
+  </author>
+  <author xlink:href="#artist-4256" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>30</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>1</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>19</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2895">
+  <title>Jesus ist mein Herr und Erlöser</title>
+  <subtitle>Du lebst in Ewigkeit</subtitle>
+  <author xlink:href="#artist-3754" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4170" xlink:type="simple">
+    <part>Music</part>
+    <year>1984</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>138</numinsongbook>
+  </songbookref>
+</song>

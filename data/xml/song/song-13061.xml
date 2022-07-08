@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13061">
+  <title>Bis unser Lauf zu Ende</title>
+  <subtitle/>
+  <text># Bis unser Lauf zu Ende,
+Hebst Du, Herr Jesus Christ,
+Für uns die Segenshände
+Zum Vater, wo Du bist.
+
+# Läßt je ein Haupt die Glieder,
+Ein Hirte wohl sein Lamm?
+Ein Bruder seine Brüder?
+Die Braut der Bräutigam?
+
+# Und Du, Du solltest lassen,
+Was zu Dir seufzet hier?
+Nein, nie sind wir verlassen,
+Drum folgen freudig wir.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13106", "http://www.liederdatenbank.de/song/113", "http://www.liederdatenbank.de/song/12618".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>36</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/031_040.html#36" xlink:type="simple"/>
+</song>

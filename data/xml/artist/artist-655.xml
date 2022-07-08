@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-655">
+  <firstname>Paul</firstname>
+  <lastname>Gerhardt</lastname>
+  <name/>
+  <comment>Geboren in Gräfenhainichen bei Wittenberg, nach Theologiestudium Lehrer und Erzieher in Wittenberg und Berlin, 1651 Probst in Mittenwalde/Mark, 1657 Pfarrer an der Nicolaikirche in Berlin, schied 1667 wegen eines Konfliktes zwischen dem reformierten Großen Kurfürsten und den lutherischen Pfarrern Belins aus dem Amt, 1669 Archidiakonus in Lübben. Nach Luther der volkstümlichste Liederdichter der ev. Kirche.</comment>
+  <born>1607</born>
+  <died>1676</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Paul_Gerhardt" xlink:type="simple">
+    <title>Paul Gerhardt @ Wikipedia.de</title>
+  </url>
+  <url xlink:href="http://www.gesangbuch.org/hymns/gerhardt.html" xlink:type="simple"/>
+  <url xlink:href="http://www.sermon-online.com/search.pl?lang=en&amp;id=0&amp;searchstring=&amp;author=342&amp;language=24&amp;category=0&amp;mediatype=0&amp;x=31&amp;y=22" xlink:type="simple">
+    <title>Paul Gerhardt @ Sermon-Online.com</title>
+  </url>
+  <url xlink:href="http://www.paul-gerhardt-jahr.de/" xlink:type="simple"/>
+  <url xlink:href="http://www.kirchehoechstenbach.de/html/paul_gerhardt_gb.html" xlink:type="simple">
+    <title>Paul Gerhard Gesangbuch</title>
+  </url>
+  <url xlink:href="http://www.paul-gerhardt.de/Links" xlink:type="simple"/>
+  <url xlink:href="http://www.bautz.de/bbkl/g/gerhardt_p.shtml" xlink:type="simple"/>
+  <url xlink:href="http://www.glaubensstimme.de/liederdichter/gerhardt/index.html" xlink:type="simple"/>
+</artist>

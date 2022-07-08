@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-15771">
+  <title>O süßer Herre Jesu Christ</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Nach dem lateinischen "Jesu, salvator optime" des Jojann Hus (um 1370 - 1415) von Michael Weiße 1531</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1501</year>
+  </author>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-eph-2" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-php-2" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-3" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-7" xlink:type="simple">
+    <verse>13-14</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rom-8" xlink:type="simple">
+    <verse>34</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-43" xlink:type="simple">
+    <verse>24</verse>
+  </bibleref>
+</song>

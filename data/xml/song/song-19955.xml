@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-19955">
+  <title>Meine Seele preist die Größe des Herrn</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Lukas 1, 46-55 (Magnificat, Ökumenische Übersetzung 1970), Melodie: Psalmodie am Tonus peregrinus.</comment>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>94</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-luk-1" xlink:type="simple">
+    <verse>46-55</verse>
+  </bibleref>
+</song>

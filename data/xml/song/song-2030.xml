@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2030">
+  <title>Jesu, Seelenfreund der Deinen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: Johann Michael Hahn (vor 1819) 1822, bearbeitet von Albert Knapp 1837 und Stuttgart 1841;   
+Melodie: Christoph Anton 1643; geistlich Weimar 1681, bei Wolfgang Carl Briegel 1687 »Alle Menschen müssen sterben«
+</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-10220" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1819) 1822</year>
+  </author>
+  <author xlink:href="#artist-9107" xlink:type="simple">
+    <part>Text</part>
+    <year>1837</year>
+  </author>
+  <author xlink:href="#artist-26313" xlink:type="simple">
+    <part>Text</part>
+    <year>1841</year>
+  </author>
+  <author xlink:href="#artist-10221" xlink:type="simple">
+    <part>Music</part>
+    <year>1643</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>153</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>560</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mat-18" xlink:type="simple">
+    <verse>20</verse>
+  </bibleref>
+</song>

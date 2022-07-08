@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1661">
+  <title>Jerusalem, du hochgebaute Stadt</title>
+  <subtitle/>
+  <text># Jerusalem,
+du hochgebaute Stadt,
+wollt Gott, ich wär in dir.
+Mein sehnend Herz
+so groß Verlangen hat
+und ist nicht mehr bei mir.
+Weit über Berg und Tale,
+weit über Flur und Feld
+schwingt es sich über alle
+und eilt aus dieser Welt.
+
+# O schöner Tag
+und noch viel schönre Stund,
+wann wirst du kommen schier,
+da ich mit Lust,
+mit freiem Freudenmund
+die Seele geb von mir
+in Gottes treue Hände
+zum auserwählten Pfand,
+dass sie mit Heil anlände
+in jenem Vaterland?
+
+# O Ehrenburg,
+nun sei gegrüßet mir,
+tu auf der Gnaden Pfort!
+Wie große Zeit
+hat mich verlangt nach dir,
+eh ich bin kommen fort
+aus jenem bösen Leben,
+aus jener Nichtigkeit
+und mir Gott hat gegeben
+das Erb der Ewigkeit.
+
+# Was für ein Volk,
+was für ein edle Schar
+kommt dort gezogen schon?
+Was in der Welt
+an Auserwählten war,
+seh ich: sie sind die Kron,
+die Jesus mir, der Herre,
+entgegen hat gesandt,
+da ich noch war so ferne
+in meinem Tränenland.
+
+# Propheten groß
+und Patriarchen hoch,
+auch Christen insgemein,
+alle, die einst
+trugen des Kreuzes Joch
+und der Tyrannen Pein,
+schau ich in Ehren schweben,
+in Freiheit überall,
+mit Klarheit hell umgeben,
+mit sonnenlichtem Strahl.
+
+# Wenn dann zuletzt
+ich angelanget bin
+im schönen Paradeis,
+von höchster Freud
+erfüllet wird der Sinn,
+der Mund von Lob und Preis.
+Das Halleluja reine
+man spielt in Heiligkeit,
+das Hosianna feine
+ohn End in Ewigkeit
+
+# mit Jubelklang,
+mit Instrumenten schön,
+in Chören ohne Zahl,
+dass von dem Schall
+und von dem süßen Ton
+sich regt der Freudensaal,
+mit hunderttausend Zungen,
+mit Stimmen noch viel mehr,
+wie von Anfang gesungen
+das große Himmelsheer.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11333" xlink:type="simple">
+    <part>Text</part>
+    <year>1626</year>
+  </author>
+  <author xlink:href="#artist-10206" xlink:type="simple">
+    <part>Music</part>
+    <year>1663</year>
+  </author>
+  <author xlink:href="#artist-10207" xlink:type="simple">
+    <part>Music</part>
+    <year>1698</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>451</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>718</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>150</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>150</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>347</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>225</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>10</verse>
+  </bibleref>
+</song>

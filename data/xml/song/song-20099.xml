@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20099">
+  <title>Sende deinen Segen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-14405" xlink:type="simple"/>
+  <author xlink:href="#artist-20092" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-44" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-14404" xlink:type="simple">
+    <cdnum/>
+    <numoncd>9</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-101" xlink:type="simple"/>
+</song>

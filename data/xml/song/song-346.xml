@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-346">
+  <title>O lasst uns mit Jauchzen erheben</title>
+  <text># O lasst uns mit Jauchzen erheben / den Schöpfer und Herrscher der Welt,
+den Herrn, von des Güte wir leben, / des Allmacht uns trägt und erhält.
+
+* 1.-6. Gelobt sei Gott, / gelobt sei der Herr, unser Heil,
+wir traun auf Ihn, / Er ist unser Gut, unser Teil!
+
+# Ihm, Ihm gehört Himmel und Erde; / ja, Ihm ist kein anderer gleich.
+Und wir sind das Volk Seiner Herde, / berufen, zu erben Sein Reich.
+
+# Voll Liebe hat stets Er gewaltet / und über uns freundlich gewacht,
+hat gnädig das Los uns gestaltet / und hier schon uns glücklich gemacht.
+
+# Und hat Seine Hand uns geschlagen, / so hatte Er dennoch uns lieb;
+und gab es auch Lasten zu tragen, / die Hoffnung der Herrlichkeit blieb.
+
+# Ihm, der uns mit Jesus versöhnte, / der uns aus dem Staube erhob
+und uns mit Barmherzigkeit krönte, / nur Ihm gebührt Ehre und Lob!
+
+# O lasst uns mit jubelnden Chören / Ihm stets unser Loblied erneun;
+preist Ihn! Alle Welt soll es hören, / daß wir unsres Gottes uns freun!</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <ccli_number/>
+  <copyrightyear/>
+  <right/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-25720" xlink:type="simple">
+    <part>Text</part>
+    <year>(um 1875) 1881</year>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year>vor 1921</year>
+  </author>
+  <author xlink:href="#artist-4381" xlink:type="simple">
+    <part>Music</part>
+    <year>1881</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>110</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>250</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>16</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-92" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>32</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>594</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10905" xlink:type="simple">
+    <numinsongbook>25</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9530" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>189</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

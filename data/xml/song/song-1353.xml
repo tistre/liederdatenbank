@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1353">
+  <title>Brunn alles Heils, dich ehren wir</title>
+  <text># Brunn alles Heils dich ehren wir 
+und öffnen unsern Mund vor dir; 
+aus deiner Gottheit Heiligtum 
+dein hoher Segen auf uns komm.
+
+# Der Herr, der Schöpfer, bei uns bleib, 
+er segne uns nach Seel und Leib, 
+und uns behüte seine Macht 
+vor allem Übel Tag und Nacht.
+
+# Der Herr, der Heiland, unser Licht, 
+uns leuchten lass sein Angesicht, 
+dass wir ihn schaun und glauben frei, 
+dass er uns ewig gnädig sei.
+
+# Der Herr, der Tröster, ob uns schweb, 
+sein Antlitz über uns erheb, 
+dass uns sein Bild wird eingedrückt, 
+und geb uns Frieden unverrückt.
+
+# Gott Vater, Sohn und Heilger Geist, 
+o Segensbrunn, der ewig fleußt: 
+durchfließ Herz, Sinn und Wandel wohl, 
+mach uns deins Lobs und Segens voll!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1614" (EG 300).</comment>
+  <copyrightyear/>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1745</year>
+  </author>
+  <author xlink:href="#artist-4640" xlink:type="simple">
+    <part>Music</part>
+    <year>1551</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>58</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=67368" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+  <ccli_features>L</ccli_features>
+</song>

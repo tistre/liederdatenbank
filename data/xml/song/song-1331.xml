@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1331">
+  <title>Nun danket all und bringet Ehr</title>
+  <text># Nun danket all und bringet Ehr, 
+ihr Menschen in der Welt, 
+dem, dessen Lob der Engel Heer 
+im Himmel stets vermeldt.
+
+# Ermuntert euch und singt mit Schall 
+Gott, unserm höchsten Gut, 
+der seine Wunder überall 
+und große Dinge tut;
+
+# der uns von Muterleibe an 
+frisch und gesund erhält, 
+und, wo kein Mensch nicht helfen kann, 
+sich selbst zum Helfer stellt;
+
+# der, ob wir ihn gleich hoch betrübt, 
+doch bleibet guten Muts, 
+die Straf erlässt, die Schuld vergibt 
+und tut uns alles Guts.
+
+# Er gebe uns ein fröhlich Herz, 
+erfrische Geist und Sinn 
+und werf all Angst, Furcht, Sorg und Schmerz 
+ins Meeres Tiefe hin.
+
+# Er lasse seinen Frieden ruhn 
+auf unserm Volk und Land; 
+er gebe Glück zu unserm Tun 
+und Heil zu allem Stand.
+
+# Er lasse seine Lieb und Güt
+um, bei und mit uns gehen,
+was aber ängstet und bemüht,
+gar ferne von uns stehn.
+
+# Solange dieses Leben währt,
+sei er stets unser Heil,
+und wenn wir scheiden von der Erd,
+verbleib er unser Teil.
+
+# Er drücke, wenn das Herze bricht,
+uns unsre Augen zu
+und zeig uns drauf sein Angesicht
+dort in der ewgen Ruh.
+
+# Solange dieses Leben währt, 
+sei er stets unser Heil, 
+und wenn wir scheiden von der Erd, 
+verbleib er unser Teil.
+
+#Er drücke, wenn das Herze bricht,
+uns unsre Augen zu
+und zeig uns drauf sein Angesicht
+dort in der ewgen Ruh.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Text: Nachdichtung von Jesus Sirach 50, 24-26. - Gleiche Melodie: "http://www.liederdatenbank.de/song/335", "http://www.liederdatenbank.de/song/260".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4823412</ccli_number>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1647</year>
+  </author>
+  <author xlink:href="#artist-9122" xlink:type="simple">
+    <part>Music</part>
+    <year>1652</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1653 nach</year>
+  </author>
+  <author xlink:href="#artist-11569" xlink:type="simple">
+    <part>Music</part>
+    <year>1562</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>322</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>53</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>29</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9435" xlink:type="simple">
+    <numinsongbook>267</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>245</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>15</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

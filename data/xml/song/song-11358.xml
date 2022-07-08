@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11358">
+  <title>Kyrie, Gott Vater in Ewigkeit</title>
+  <subtitle/>
+  <text>(Chor:)
+Kyrie, Gott Vater in Ewigkeit,
+groß ist dein Barmherzigkeit,
+aller Ding ein Schöpfer und Regierer:
+
+(Alle:)
+eleison.
+
+
+
+(Chor:)
+Christe, aller Welt Trost,
+uns Sünder allein hast erlöst.
+O Jesu, Gottes Sohn,
+unser Mittler bist in dem höchsten Thron,
+zu dir schreien wir aus Herzensbegier:
+
+(Alle:)
+eleison.
+
+
+
+(Chor:)
+Kyrie, Gott Heiliger Geist,
+tröst, stärk uns im Glauben allermeist,
+dass wir am letzten End
+fröhlich abscheiden aus diesem Elend:
+
+(Alle:)
+eleison.
+</text>
+  <copyrightyear/>
+  <right>Text und Melodie: Naumburg 1537/38 nach dem "Kyrie fons bonitatis" um 950.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>178.04</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

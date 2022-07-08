@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1440">
+  <title>Der Morgenstern ist aufgedrungen</title>
+  <text># Der Morgenstern ist aufgedrungen, 
+erleucht't daher zu dieser Stunde 
+hoch über Berg und tiefe Tal, 
+vor Freud singt uns der lieben Engel Schar.
+
+# "Wacht auf", singt uns der Wächter Stimme 
+vor Freuden auf der hohen Zinne: 
+"Wacht auf zu dieser Freudenzeit! 
+Der Bräut'gam kommt, nun machet euch bereit!"
+
+# Christus im Himmel wohl bedachte, 
+wie er uns reich und selig machte 
+und wieder brächt ins Paradies, 
+darum er Gottes Himmel gar verließ.
+
+# O heilger Morgenstern, wir preisen 
+dich heute hoch mit frohen Weisen; 
+du leuchtest vielen nah und fern, 
+so leucht auch uns, Herr Christ, du Morgenstern!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4839" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1587</year>
+  </author>
+  <author xlink:href="#artist-9225" xlink:type="simple">
+    <part>Text</part>
+    <year>1932</year>
+  </author>
+  <author xlink:href="#artist-4721" xlink:type="simple">
+    <part>Music</part>
+    <year>1609 und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>69</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>158</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>188</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>22</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>47</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>62</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-52" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-25" xlink:type="simple">
+    <verse>1-13</verse>
+  </bibleref>
+</song>

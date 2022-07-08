@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4879">
+  <title>Come, hold me</title>
+  <subtitle>Like an eagle</subtitle>
+  <author xlink:href="#artist-3610" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+  </songbookref>
+  <right>beim Urheber</right>
+</song>

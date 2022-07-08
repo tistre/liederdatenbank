@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3942">
+  <title>Schönster Herr Jesu, Herrscher aller Herren</title>
+  <language>de</language>
+  <subtitle/>
+  <text/>
+  <copyrightyear>2001</copyrightyear>
+  <right>Text und Melodie: Münster 1677.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>siehe auch: "http://www.liederdatenbank.de/song/353" und "http://www.liederdatenbank.de/song/1040".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-12211" xlink:type="simple"/>
+  <author xlink:href="#artist-51" xlink:type="simple">
+    <part>Music</part>
+    <year>2001</year>
+  </author>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

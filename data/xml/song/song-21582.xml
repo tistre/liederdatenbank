@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21582">
+  <title>Lass mich nicht zweifeln</title>
+  <subtitle>Ich suche täglich nach einem Wesen, das mich liebt</subtitle>
+  <copyrightyear/>
+  <right>Gothic Musikverlag GmbH / Dianond and Hammer, Rolf Budde Musikverlag GmbH, Berlin, Universal Music Publ. GmbH, Berlin</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-21581" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

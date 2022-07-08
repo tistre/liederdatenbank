@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4640">
+  <firstname>Loys</firstname>
+  <lastname>Bourgeois</lastname>
+  <name/>
+  <born>um 1510</born>
+  <died>nach 1561</died>
+  <comment>Um 1538 Musiker in Paris, 1545 Nachfolger von Guillaume Franc als Kantor an St. Pierre in Genf, schuf als Mitarbeiter Calvins die Melodien zu den 1551 neu erschienenen Genfer Psalmen, erfand 1546 die Nummerntafeln, 1552 Musiker in Lyon. Als Komponist und Bearbeiter der Melodien zu den franz. Psalmen Marots und Bezas gab er für sie auch mehrstimmige Kompositionen heraus.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Loys_Bourgeois" xlink:type="simple"/>
+</artist>

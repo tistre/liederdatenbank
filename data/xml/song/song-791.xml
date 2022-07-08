@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-791">
+  <title>Heiliges Gotteslamm, Du trägst die Schuld</title>
+  <author xlink:href="#artist-60" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3568" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+  </songbookref>
+  <right>© Grrr Music Musik-Edition Discoton GmbH, München</right>
+</song>

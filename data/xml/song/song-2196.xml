@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2196">
+  <title>Zieh an die Macht, du Arm des Herrn </title>
+  <subtitle>Zeuch an die Macht</subtitle>
+  <text># Zieh an die Macht, du Arm des Herrn,
+wohlauf und hilf uns streiten.
+Noch hilfst du deinem Volke gern,
+wie du getan vorzeiten.
+Wir sind im Kampfe Tag und Nacht,
+o Herr, nimm gnädig uns in acht
+und steh uns an der Seiten.
+
+# Mit dir, du starker Heiland du,
+muss uns der Sieg gelingen;
+wohl gilt's zu streiten immerzu,
+bis einst wir dir lobsingen.
+Nur Mut, die Stund ist nimmer weit,
+das wir nach allem Kampf und Streit
+die Lebenskron erringen.
+
+# Drängt uns der Feind auch um und um,
+wir lassen uns nicht grauen;
+du wirst aus deinem Heiligtum
+schon unsre Not erschauen.
+Fort streiten wir in deiner Hut
+und widerstehen bis aufs Blut
+und wollen dir nur trauen.
+
+# Herr, du bist Gott! In deine Hand
+o lass getrost uns fallen.
+Wie du geholfen unserm Land,
+so hilfst du fort noch allen,
+die dir vertraun und deinem Bund
+und freudig dir von Herzensgrund
+ihr Loblied lassen schallen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1330" (EG 293). - Andere Melodie: "http://www.liederdatenbank.de/song/1236".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11464" xlink:type="simple">
+    <part>Text</part>
+    <year>1865</year>
+  </author>
+  <author xlink:href="#artist-4715" xlink:type="simple">
+    <part>Music</part>
+    <year>1609</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>574</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>377</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>282</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>166</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>132</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-108" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

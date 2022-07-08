@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1446">
+  <title>Hosianna! Davids Sohn kommt in Zion eingezogen</title>
+  <text># Hosianna! Davids Sohn kommt in Zion eingezogen.
+Auf, bereitet ihm den Thron, setzt ihm tausend Ehrenbogen;
+streuet Palmen, machet Bahn, dass er Einzug halten kann.
+
+# Hosianna! Sei gegrüßt! Komm, wir gehen dir entgegen. 
+Unser Herz ist schon gerüst, will sich dir zu Füßen legen. 
+Zieh zu unsern Toren ein, du sollst uns willkommen sein.
+
+# Hosianna! Friedefürst, Ehrenkönig, Held im Streite, 
+alles, was du schaffen wirst, das ist unsre Siegesbeute. 
+Deine Rechte bleibt erhöht, und dein Reich allein besteht.
+
+# Hosianna! Lieber Gast, wir sind deine Reichsgenossen, 
+die du dir erwählet hast. Ach, so lass uns unverdrossen 
+deinem Zepter dienstbar sein, herrsche du in uns allein.
+  
+# Hosianna! Steh uns bei, o Herr, hilf, lass wohl gelingen, 
+dass wir ohne Heuchelei dir das Herz zum Opfer bringen. 
+Du nimmst keinen Jünger an, der dir nicht gehorchen kann.
+
+# Hosianna nah und fern! Eile, bei uns einzugehen. 
+Du Gesegneter des Herrn, warum willst du draußen stehen? 
+Hosianna! Bist du da? Ja, du kommst, Halleluja!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4432" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+</song>

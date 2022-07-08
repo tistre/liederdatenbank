@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27427">
+  <title>Die Tore der Gottesstadt</title>
+  <subtitle>Das Ziel, das wir sehen</subtitle>
+  <copyrightyear>1977/1979</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Oh, City Eternal". Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21741" xlink:type="simple"/>
+  <author xlink:href="#artist-17456" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25585" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9166" xlink:type="simple">
+    <numinsongbook>1488</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+</song>

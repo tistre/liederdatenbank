@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-667">
+  <firstname>Daniel</firstname>
+  <lastname>Jacobi</lastname>
+  <name/>
+  <born>1967</born>
+  <died/>
+  <comment>Geboren in Frankfurt/Main, Songwriter, Sänger und Musiker in Bempflingen.</comment>
+  <url xlink:href="http://www.genx-music.de/" xlink:type="simple">
+    <title>genx-music.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/j/danieljacobi.htm" xlink:type="simple">
+    <title>Daniel Jacobi @ ccmrezis.de</title>
+  </url>
+</artist>

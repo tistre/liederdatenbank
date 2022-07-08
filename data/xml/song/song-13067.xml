@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13067">
+  <title>Nichts, Herr Jesus, finde ich hienieden</title>
+  <subtitle/>
+  <text># Nichts, o Jesu, finde ich hienieden,
+Nichts, was meiner Seele Freude gibt,
+Doch mein Herz ist glücklich und zufrieden,
+Da ich weiß, daß ich von Dir geliebt.
+
+# Du, Herr, gabst für mich Dein teures Leben,
+Ja, am Kreuze floß Dein Blut für mich.
+Sollt' ich nicht den Kot der Erde geben
+Für des Himmels Kleinod, Jesu, Dich?
+
+# Was soll auf der Erd' ich noch verlangen,
+Da ich Deiner Liebe Gegenstand,
+Da mich Deine Gnade reich umfangen
+Und Dein Geist mir bleibt ein sichres Pfand?
+
+# Teurer Heiland! Deine Hände tragen
+Mich zur Ruh' aus stetem Kampfe hier.
+O wie sollt' ich trauern noch und zagen,
+Da ich auf der Reise bin zu Dir?
+
+# Freudig geh' ich meines Weges weiter,
+Walle durch die Wüste, Herr, mit Dir,
+Sel'ge Hoffnung macht mich stark und heiter,
+Und der Glaube zeigt den Ruhort mir.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>43</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/041_050.html#43" xlink:type="simple"/>
+</song>

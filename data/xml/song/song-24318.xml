@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24318">
+  <title>Du bist das Brot, das den Hunger stillt</title>
+  <subtitle>du bist das Leben, du bist das Leben, du bist das Leben, Gott.</subtitle>
+  <copyrightyear/>
+  <right>Str. 1: Thomas Laubach; Str. 2-8: Winfried Pilz</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-21575" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-22194" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-24319" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-21576" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

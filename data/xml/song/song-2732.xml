@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2732">
+  <title>Deep inside I'm crying out</title>
+  <subtitle>Release me</subtitle>
+  <author xlink:href="#artist-2985" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+  </songbookref>
+</song>

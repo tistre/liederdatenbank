@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27553">
+  <title>Das Volk des Herrn war viele Jahre schon</title>
+  <subtitle/>
+  <copyrightyear>1976/1981</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Walkin' Sinai".</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21741" xlink:type="simple"/>
+  <author xlink:href="#artist-25529" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-78" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>144</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-num-14" xlink:type="simple">
+    <verse>27-34</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-deu-2" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

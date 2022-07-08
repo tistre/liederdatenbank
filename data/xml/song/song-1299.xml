@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1299">
+  <title>Amen! Amen! lauter Amen</title>
+  <text>#
+1. Amen! Amen! lauter Amen 
+2. hat des treuen Gottes Mund. 
+3. Ewig führet er den Namen, 
+4. dass er aller Wahrheit Grund. 
+5. Was er sagt, trifft alles ein; 
+es muss Ja und Amen sein, 
+es muss Ja und Amen sein.
+
+# Die Verheißung kann verziehen; 
+kommt nicht bald was er verspricht, 
+muss man doch den Zweifel fliehen, 
+weil sein Wort er niemals bricht. 
+Ist die rechte Zeit nur da, 
+so wird alles lauter Ja, 
+so wird alles lauter Ja.
+
+# Hat er es doch so gehalten 
+von dem Anbeginn der Welt; 
+seine Wahrheit wird auch walten, 
+bis die Welt in Asche fällt, 
+- weil er, wie er nie getan, 
+sich nicht selbst verleugnen kann, 
+sich nicht selbst verleugnen kann.
+
+# Wohl, mein Herz, du sollst ihm trauen! 
+Was er dir verheißen hat, 
+wirst du auch erfüllet schauen. 
+Kommt es auch nicht gleich zur Tat, 
+spart er's auch oft weit hinaus, 
+es wird doch ein Amen draus, 
+es wird doch ein Amen draus.
+
+# Amen! Herr, du willst erfüllen, 
+was dein treuer Mund verspricht; 
+das erwart ich nun im stillen, 
+bis sich's offenbart im Licht, 
+dass du die Erfüllung gehst. 
+Amen! Ja, so wahr du lebst. 
+Amen! Ja, so wahr du lebst.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Bearbeitung: http://www.liederdatenbank.de/artist/8981. Unterschiedliche Vertonungen. - In http://www.liederdatenbank.de/songbook/9160 als Kanon zu 5 Stimmen. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/13694", "http://www.liederdatenbank.de/song/13695".</comment>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-677" xlink:type="simple">
+    <part>Text</part>
+    <year>1723</year>
+  </author>
+  <author xlink:href="#artist-4670" xlink:type="simple">
+    <part>Music</part>
+    <year>1863</year>
+  </author>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>450</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>454</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>307</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>383</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

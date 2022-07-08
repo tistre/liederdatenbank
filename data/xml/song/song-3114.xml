@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3114">
+  <title>Komm, o komm, erfülle diesen Tempel</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1979</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Come, O Come And Fill This Temple".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-28063" xlink:type="simple"/>
+  <author xlink:href="#artist-4985" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1979</year>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>164</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-act-2" xlink:type="simple">
+    <verse>1-4</verse>
+  </bibleref>
+</song>

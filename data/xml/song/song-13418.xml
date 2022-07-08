@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13418">
+  <title>O Mensch, sieh hier das Leben</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>Str. 1-3 Paul Gerhardt; Str. 4 u. 5 Dichter unbekannt. - Melodie: 15. Jahrhundert; giestlich 1506.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1366", "http://www.liederdatenbank.de/song/1683", "http://www.liederdatenbank.de/song/1629", "http://www.liederdatenbank.de/song/338", "http://www.liederdatenbank.de/song/1651".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>167</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

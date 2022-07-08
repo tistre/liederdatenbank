@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11281">
+  <title>Wir danken dir, Herr Jesu Christ, dass du vom Tod erstanden bist</title>
+  <subtitle/>
+  <text># Wir danken dir, Herr Jesu Christ,
+dass du vom Tod erstanden bist
+und hast dem Tod zerstört sein Macht
+und uns zum Leben wiederbracht.
+Halleluja.
+
+# Wir bitten dich durch deine Gnad:
+nimm von uns unsre Missetat
+und hilf uns durch die Güte dein,
+dass wir dein treuen Diener sein.
+Halleluja.
+
+# Gott Vater in dem höchsten Thron
+samt seinem eingebornen Sohn,
+dem Heilgen Geist in gleicher Weis
+in Ewigkeit sei Lob und Preis!
+Halleluja.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: wie EG 106 (http://www.liederdatenbank.de/song/1492).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4714" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1560</year>
+  </author>
+  <author xlink:href="#artist-11280" xlink:type="simple">
+    <part>Text</part>
+    <year>1604</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>84</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

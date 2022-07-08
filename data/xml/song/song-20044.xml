@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20044">
+  <title>Süßer die Glocken nie klingen</title>
+  <subtitle/>
+  <text># Süßer die Glocken nie klingen
+als zu der Weihnachtszeit:
+S'ist als ob Engelein singen
+wieder von Frieden und Freud!
+|: Wie sie gesungen in seliger Nacht, :|
+Glocken mit heiligem Klang,
+klinget die Erde entlang!
+
+# O, wenn die Glocken erklingen,
+schnell sie das Christkindlein hört:
+Tut sich vom Himmel dann schwingen
+eilig hernieder zur Erd'.
+|: Segnet den Vater, die Mutter, das Kind, :|
+Glocken mit heiligem Klang,
+klinget die Erde entlang!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Volksweise aus Thüringen.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-26981" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1174">
+  <title>Brüder, noch gilt es zu retten</title>
+  <subtitle>Auf Brüder, glauben heißt siegen</subtitle>
+  <text># Brüder, noch gilt es zu retten manch ein umnachtetes Herz! 
+Wer mag zur Ruhe sich betten mitten in Sünde und Schmerz?
+
+* 1.-5. Auf Brüder, glauben heißt siegen! Auf, Brüder, auf! Auf, es ist Zeit! 
+Keiner von uns darf erliegen, Gott hält uns Kronen bereit!
+
+# Lasst uns mit heil'gem Vertrauen Saaten der Liebe hier streu'n! 
+Erst heißt es glauben, dann schauen und seiner Ernte sich freu'n.
+
+# Hier gilt es, Treue zu zeigen; laßt uns die Eifrigsten sein! 
+Nicht als die Trägen und Feigen flieh'n aus der Kämpf enden Reih'n! 
+
+# Lasst, wo wir Seelen auf Erden hilflos und todeswund seh'n, 
+lasst Samariter uns werden, anstatt vorüberzugeh'n! 
+
+# Fort mit dem trägen Besinnen, fort mit der müßigen Ruh'! 
+Lasst uns in Liebe beginnen, Gott gibt die Kraft uns dazu!</text>
+  <language>de</language>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <ccli_number/>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4452" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>302</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>89</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>230</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19621" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-26133" xlink:type="simple"/>
+</song>

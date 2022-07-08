@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-813">
+  <title>Great is the darkness that covers the earth</title>
+  <subtitle>Come, Lord Jesus, come</subtitle>
+  <author xlink:href="#artist-2777" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <author xlink:href="#artist-3748" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1992</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-86" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

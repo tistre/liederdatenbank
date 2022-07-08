@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2740">
+  <title>Vater des Lebens</title>
+  <language>de</language>
+  <subtitle>Vater des Lebens, zieh mich zu dir</subtitle>
+  <copyrightyear>2002</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5204092</ccli_number>
+  <comment/>
+  <ccli_features>LAN</ccli_features>
+  <publisher xlink:href="#publisher-22675" xlink:type="simple"/>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-666" xlink:type="simple">
+    <part>Music</part>
+    <year>1996</year>
+  </author>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>145</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-14573" xlink:type="simple">
+    <cdnum>1</cdnum>
+    <numoncd>8</numoncd>
+  </cdref>
+</song>

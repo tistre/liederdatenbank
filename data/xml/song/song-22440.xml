@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22440">
+  <title>Princes qu'en mains tenez</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text nach dem Gedicht "Les brunettes des princes" von Jehan Meschinot (1422-1891). 
+Der Text beklagt das Elend der Bevölkerung an, die Gewalt, das Unrecht und die Korruption der Mächtigen. Meschinot war der Haushofmeister des Herzogs Francois II und seiner Tochter Anne.</comment>
+  <language>fr</language>
+  <ccli_features/>
+  <author xlink:href="#artist-22439" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>193</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

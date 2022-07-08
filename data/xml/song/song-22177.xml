@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22177">
+  <title>I will praise you, oh my redeemer</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>unbekannt</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-22143" xlink:type="simple">
+    <numinsongbook>114</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

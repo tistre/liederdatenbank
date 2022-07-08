@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9219">
+  <name>CVJM München</name>
+  <firstname/>
+  <lastname/>
+  <born/>
+  <died/>
+  <comment>Christlicher Verein Junger Menschen (CVJM) München e.V.
+Landwehrstraße 13, 80336 München, Tel. (089) 55 21 41-0.</comment>
+  <url xlink:href="http://www.cvjm-muenchen.org/" xlink:type="simple">
+    <title>CVJM München e.V. - Homepage</title>
+  </url>
+</artist>

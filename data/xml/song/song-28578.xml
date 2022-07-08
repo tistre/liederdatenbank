@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-28578">
+  <title>Jesus</title>
+  <subtitle>Im Namen Jesu</subtitle>
+  <copyrightyear>1993</copyrightyear>
+  <right>D,A: Musikverlag Klaus Gerth, Asslar.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-28571" xlink:type="simple"/>
+  <originalsong xlink:href="#song-28577" xlink:type="simple"/>
+  <author xlink:href="#artist-17641" xlink:type="simple">
+    <part>Text</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-23708" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <author xlink:href="#artist-19272" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-19274" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-14338" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

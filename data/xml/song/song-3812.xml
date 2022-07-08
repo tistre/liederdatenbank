@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3812">
+  <title>Jesus, Du bist Herr. Jesus, Du bist heilig</title>
+  <author xlink:href="#artist-673" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3896" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-443" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3745" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22001">
+  <title>Christ fuhr gen Himmel</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right>12 Jahrhundert, Leipzig 1345</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>90</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21628" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-15" xlink:type="simple">
+    <verse>26</verse>
+  </bibleref>
+</song>

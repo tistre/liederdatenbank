@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1494">
+  <title>Auf, auf, mein Herz, mit Freuden</title>
+  <text># Auf, auf, mein Herz, 
+mit Freuden nimm wahr, 
+was heut geschieht; 
+wie kommt nach großem Leiden 
+nun ein so großes Licht! 
+Mein Heiland war gelegt 
+da, wo man uns hinträgt, 
+wenn von uns unser Geist 
+gen Himmel ist gereist.
+
+# Er war ins Grab gesenket, 
+der Feind trieb groß Geschrei; 
+eh ers vermeint und denket, 
+ist Christus wieder frei 
+und ruft Viktoria, 
+schwingt fröhlich hier und da 
+sein Fähnlein als ein Held, 
+der Feld und Mut behält.
+
+# Das ist mir anzuschauen 
+ein rechtes Freudenspiel; 
+nun soll mir nicht mehr grauen 
+vor allem, was mir will 
+entnehmen meinen Mut 
+zusamt dem edlen Gut, 
+so mir durch Jesus Christ 
+aus Lieb erworben ist.
+
+# Die Welt ist mir ein Lachen 
+mit ihrem großen Zorn; 
+sie zürnt und kann nichts 
+machen, all Arbeit ist verlorn. 
+Die Trübsal trübt mir nicht 
+mein Herz und Angesicht; 
+das Unglück ist mein Glück, 
+die Nacht mein Sonnenblick.
+
+# Ich hang und bleib auch hangen 
+an Christus als ein Glied; 
+wo mein Haupt durch ist gangen, 
+da nimmt er mich auch mit. 
+Er reißet durch den Tod, 
+durch Welt, durch Sünd, durch Not, 
+er reißet durch die Höll; 
+ich bin stets sein Gesell.
+
+# Er dringt zum Saal der Ehren, 
+ich folg ihm immer nach 
+und darf mich gar nicht kehren 
+an einzig Ungemach. 
+Es tobe, was da kann, 
+mein Haupt nimmt sich mein an, 
+mein Heiland ist mein Schild, 
+der alles Toben stillt.
+
+# Er bringt mich an die Pforten, 
+die in den Himmel führt, 
+daran mit güldnen Worten 
+der Reim gelesen wird: 
+Wer dort wird mit verhöhnt, 
+wird hier auch mit gekrönt; 
+wer dort mit sterben geht, 
+wird hier auch mit erhöht.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5209578</ccli_number>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year>1647</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1647</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>233</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>256</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>112</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>80</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>86</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>214</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-2ti-2" xlink:type="simple">
+    <verse>11-12</verse>
+  </bibleref>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=67355" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+</song>

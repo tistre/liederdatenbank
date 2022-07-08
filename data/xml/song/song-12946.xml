@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12946">
+  <title>Denn für uns ist ein Kind geboren</title>
+  <subtitle/>
+  <copyrightyear>2976</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-12125" xlink:type="simple"/>
+  <songbookref xlink:href="#songbook-12915" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-9" xlink:type="simple">
+    <verse>5</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10930">
+  <title>Send the rain, Lord</title>
+  <subtitle/>
+  <copyrightyear>1988</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <publisher xlink:href="#publisher-10931" xlink:type="simple"/>
+  <author xlink:href="#artist-10929" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <url xlink:href="http://www.ccli.com/songselect/skins/visitor/song_detail.cfm?id=377835" xlink:type="simple"/>
+</song>

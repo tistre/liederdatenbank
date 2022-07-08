@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1692">
+  <title>Himmel, Erde, Luft und Meer zeugen von des Schöpfers Ehr</title>
+  <text># Himmel, Erde, Luft und Meer 
+zeugen von des Schöpfers Ehr; 
+meine Seele singe du, 
+bring auch jetzt dein Lob herzu.
+
+# Seht das große Sonnenlicht, 
+wie es durch die Wolken bricht; 
+auch der Mond, der Sterne Pracht 
+jauchzen Gott bei stiller Nacht.
+
+# Seht, wie Gott der Erde Ball 
+hat gezieret überall. 
+Wälder, Felder, jedes Tier 
+zeigen Gottes Finger hier.
+
+# Seht, wie fliegt der Vögel 
+Schar in den Lüften Paar bei Paar. 
+Blitz und Donner, Hagel, 
+Wind seines Willens Diener sind.
+
+# Seht, der Wasserwellen Lauf, 
+wie sie steigen ab und auf; 
+von der Quelle bis zum Meer 
+rauschen sie des Schöpfers Ehr.
+
+# Ach mein Gott, wie wunderbar 
+stellst du dich der Seele dar. 
+Drücke stets in meinen Sinn, 
+was du bist und was ich bin.</text>
+  <language>de</language>
+  <subtitle/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <right/>
+  <ccli_number/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-84" xlink:type="simple">
+    <part>Text</part>
+    <year>1680</year>
+  </author>
+  <author xlink:href="#artist-4710" xlink:type="simple">
+    <part>Music</part>
+    <year>1691</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>496</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>614</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>491</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>504</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-14519" xlink:type="simple"/>
+</song>

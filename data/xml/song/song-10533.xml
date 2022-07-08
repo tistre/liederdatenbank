@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10533">
+  <title>Christus, der uns selig macht</title>
+  <subtitle/>
+  <text># Christus, der uns selig macht,
+kein Bös’ hat begangen,
+ward für uns zur Mitternacht
+wie ein Dieb gefangen,
+eilend zum Verhör gebracht
+und fälschlich verklaget,
+verhöhnt, verspeit und verlacht,
+wie denn die Schrift saget.
+
+# In der ersten Stund am Tag,
+da er sollte leiden,
+bracht man ihn mit harter Klag
+Pilatus dem Heiden,
+der ihn unschuldig befand,
+ohn Ursach des Todes,
+ihn derhalben von sich sandt
+zum König Herodes.
+
+# Um Drei hat der Gottessohn
+Geißeln fühlen müssen;
+sein Haupt ward mit einer Kron
+von Dornen zerrissen;
+gekleidet zu Hohn und Spott
+ward er sehr geschlagen,
+und das Kreuz zu seinem Tod
+musst er selber tragen.
+
+# Um Sechs ward er nackt und bloß
+an das Kreuz geschlagen,
+an dem er sein Blut vergoss,
+betet mit Wehklagen;
+die Zuschauer spott’ten sein,
+auch die bei ihm hingen,
+bis die Sonne ihren Schein
+entzog solchen Dingen.
+
+# Jesus schrie zur neunten Stund,
+großer Qual verfallen,
+ihm ward dargereicht zum Mund
+Essigtrank mit Gallen;
+da gab er auf seinen Geist,
+und die Erd erzittert,
+des Tempels Vorhang zerreißt,
+und manch Fels zersplittert.
+
+# Da man hatt’ zur Vesperzeit
+die Schächer zerbrochen,
+ward Jesus in seine Seit
+mit dem Speer gestochen;
+daraus Blut und Wasser rann,
+die Schrift zu erfüllen,
+wie Johannes zeiget an,
+nur um unsertwillen.
+
+# Da der Tag sein Ende nahm,
+der Abend war kommen,
+ward Jesus vom Kreuzesstamm
+durch Joseph genommen,
+herrlich, nach der Väter Art,
+in ein Grab geleget,
+allda mit Hütern verwahrt,
+wie Matthäus zeiget.
+
+# O hilf, Christe, Gottes Sohn,
+durch dein bitter Leiden,
+dass wir dir stets untertan
+Sünd und Unrecht meiden,
+deinen Tod und sein Ursach
+fruchtbar nun bedenken,
+dafür, wiewohl arm und schwach,
+dir Dankopfer schenken.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9002" xlink:type="simple">
+    <part>Text</part>
+    <year>1531</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1501 / 1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>56</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-19" xlink:type="simple">
+    <verse>31-37</verse>
+  </bibleref>
+</song>

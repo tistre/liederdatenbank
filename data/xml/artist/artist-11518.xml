@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-11518">
+  <lastname>Ackley</lastname>
+  <firstname>Bentley DeForest</firstname>
+  <name/>
+  <born>1872</born>
+  <died>1958</died>
+  <comment/>
+  <url xlink:href="http://www.cyberhymnal.org/bio/a/c/ackley_bd.htm" xlink:type="simple">
+    <title>Bentley DeForest Ackley @ cyberhymnal.org</title>
+  </url>
+  <url xlink:href="http://en.wikipedia.org/wiki/B._D._Ackley" xlink:type="simple">
+    <title>B. D. Ackley @ wikipedia.org</title>
+  </url>
+</artist>

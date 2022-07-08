@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4779">
+  <firstname>Ernst Moritz</firstname>
+  <lastname>Arndt</lastname>
+  <name/>
+  <born>1769</born>
+  <died>1860</died>
+  <comment>Geboren in Groß-Schoritz auf Rügen. Studium der Theologie in Greifswald und Jena. 1801 Dozent und später Professor für Geschichte in Greifswald, während der Freiheitskriege patriotischer Schriftsteller; 1818 Professor in Bonn. Durch seine Schrift "Von dem Wort und dem Kirchenliede" 1819 Anreger der Gesangbuchreform nach der Aufklärung; seit 1820 wegen seiner demokratischen Gesinnung amtsenthoben, 1840 wiedereingesetzt, 1848 Abgeordneter der Nationalversammlung in der Frankfurter Paulskirche; Presbyter der ev. Gemeinde in Bonn. Gestorben in Bonn.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Ernst_Moritz_Arndt" xlink:type="simple">
+    <title>Ernst Moritz Arndt @ Wikipedia</title>
+  </url>
+</artist>

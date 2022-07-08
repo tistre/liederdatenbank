@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9948">
+  <title>Wir leben, um für ihn zu leben</title>
+  <subtitle>Wie auf vielen tausend Wegen</subtitle>
+  <right>Hänssler Verlag, D-71087 Holzgerlingen</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text nach Römer 14, 7-9</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-2989" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>165</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

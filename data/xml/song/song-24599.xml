@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24599">
+  <title>Meer</title>
+  <subtitle>Du rufst mich raus aufs weite Wasser</subtitle>
+  <copyrightyear>2012</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-22689" xlink:type="simple"/>
+  <originalsong xlink:href="#song-24597" xlink:type="simple"/>
+  <author xlink:href="#artist-3957" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23130" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24598" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23892" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>108</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-isa-43" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-14" xlink:type="simple">
+    <verse>22-33</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-1" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+</song>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2977">
+  <title>Wir stehen hier, erlöst in Dir</title>
+  <subtitle>Aus Nord und Süd</subtitle>
+  <author xlink:href="#artist-34" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1995</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>237</numinsongbook>
+  </songbookref>
+</song>

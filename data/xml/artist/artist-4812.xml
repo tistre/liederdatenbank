@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4812">
+  <firstname>Samuel</firstname>
+  <lastname>Arnold</lastname>
+  <name/>
+  <born>1740</born>
+  <died>1802</died>
+  <comment>Geboren in London, Komponist, Organist der Westminster Abbey.</comment>
+  <url xlink:href="https://de.wikipedia.org/wiki/Samuel Arnold (Komponist)" xlink:type="simple"/>
+</artist>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1496">
+  <title>Er ist wahrhaftig auferstanden, der für uns litt</title>
+  <text># Er ist wahrhaftig auferstanden, 
+der für uns litt und für uns starb, 
+der uns erlöst aus Todesbanden u
+nd ewges Leben uns erwarb, 
+der uns dereinst lebendig 
+macht zu seiner Herrlichkeit und Pracht.
+
+# Er ist wahrhaftig auferstanden! 
+O Seele, was verzagst du noch? 
+Für dich ist alles nun vorhanden, 
+was dich beglückt; so glaub es doch! 
+Komm, nimm aus seiner Fülle heut 
+den Reichtum, den sein Leben beut.
+
+# Er ist wahrhaftig auferstanden! 
+Mein Herz erfährts, in dem er lebt. 
+Was alle Gläubigen empfanden, d
+ie Freude, die auch mich durchbebt, 
+gibt Zeugnis mir durch seinen Geist, 
+dass mich sein Leben tränkt und speist.</text>
+  <language>de</language>
+  <right>Melodie: Landenöls 1742 / bei Johann Sebastian Bach, veröffentlicht 1769. Satz: (nach J. S. Bach): Henning Worreschk 2002 bzw. auch Herbert Beuerle.</right>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1401". - Das Lied kann auch auf die Melodie: "http://www.liederdatenbank.de/song/1557", "http://www.liederdatenbank.de/song/10277", "http://www.liederdatenbank.de/song/1415" oder "http://www.liederdatenbank.de/song/13393" gesungen werden.</comment>
+  <publisher xlink:href="#publisher-11049" xlink:type="simple"/>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>1859</year>
+  </author>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>257</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>300</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

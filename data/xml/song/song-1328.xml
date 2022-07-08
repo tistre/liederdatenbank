@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1328">
+  <title>Nun laßt uns Gott dem Herren Dank sagen und Ihn ehren</title>
+  <text># Nun lasst uns Gott dem Herren / Dank sagen und ihn ehren
+für alle seine Gaben, / die wir empfangen haben.
+
+# Den Leib, die Seel, das Leben / hat er allein uns geben;
+dieselben zu bewahren, / tut er nie etwas sparen.
+
+# Nahrung gibt er dem Leibe; / die Seele muss auch bleiben,
+wiewohl tödliche Wunden / sind kommen von der Sünden.
+
+# Ein Arzt ist uns gegeben, / der selber ist das Leben;
+Christus, für uns gestorben, / der hat das Heil erworben.
+
+# Sein Wort, sein Tauf, sein Nachtmahl, / dient wider allen Unfall;
+der Heilig Geist im Glauben / lehrt uns darauf vertrauen.
+
+# Durch ihn ist uns vergeben / die Sünd, geschenkt das Leben.
+Im Himmel solln wir haben, / o Gott, wie große Gaben!
+
+# Wir bitten deine Güte, / wollst uns hinfort behüten,
+uns Große mit den Kleinen; / du kannst's nicht böse meinen.
+
+# Erhalt uns in der Wahrheit, / gib ewigliche Freiheit,
+zu preisen deinen Namen / durch Jesus Christus. Amen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Satz: http://www.liederdatenbank.de/artist/8993. Gleiche Melodie: "http://www.liederdatenbank.de/song/1666", "http://www.liederdatenbank.de/song/1470".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>4822176</ccli_number>
+  <author xlink:href="#artist-4648" xlink:type="simple">
+    <part>Text</part>
+    <year>1575</year>
+  </author>
+  <author xlink:href="#artist-3634" xlink:type="simple">
+    <part>Music</part>
+    <year>1587</year>
+  </author>
+  <author xlink:href="#artist-656" xlink:type="simple">
+    <part>Music</part>
+    <year>1649</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>320</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>26</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22378" xlink:type="simple">
+    <numinsongbook>54</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>253</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>63</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>668</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>14</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25658" xlink:type="simple"/>
+</song>

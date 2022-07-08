@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1481">
+  <title>O Gottes Lamm, wer kann verkünden</title>
+  <subtitle/>
+  <text># O Gottes Lamm! wer kann verkünden
+Den Reichtum Deiner Lieb' und Huld?
+Wer Deiner Leiden Maß ergründen,
+Die Du ertrugst so voll Geduld?
+Wie Schafe stumm zur Schlachtbank gehen,
+Gingst Du hinauf nach Golgatha,
+Wo Schrecken, Angst und Todeswehen
+Allein Dein Auge vor sich sah.
+
+# Von finstern Mächten ganz umgeben,
+Bliebst Du doch völlig Gott geweiht,
+Gabst willig hin Dein teures Leben
+Zu Gottes Ehr' und Herrlichkeit.
+Hast Deine Lieb' am Kreuz enthüllet,
+So wie der Mensch den tiefsten Haß,
+Hast Gottes Willen ganz erfüllet,
+Und ach! der Mensch sein Sündenmaß.
+
+# Und Du – o Liebe ohnegleichen! –
+Du gabst Dich selber für uns hin,
+Daß kein Gericht uns kann erreichen,
+Daß selbst der Tod für uns Gewinn.
+Du hast für uns den Fluch getragen,
+Als Du am Kreuz zur Sünd' gemacht.
+Auf Dir all unsre Sünden lagen,
+Als Du das Sühnungswerk vollbracht.
+
+# O Gottes Lamm! anbetend bringen,
+Wenn schwach auch, wir Dir Preis und Ehr'.
+Wir werden völlig dort besingen
+Dein Lob mit allem Himmelsheer.
+O Lamm! Du wardst für uns geschlachtet,
+Hast Gott erkauft uns durch Dein Blut,
+Hast uns zu herrschen wert geachtet
+Und stets zu warten Deiner Hut.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>unterschiedliche Vertonungen in den Liederbüchern. - In "http://www.liederdatenbank.de/songbook/10115" gleiche Melodie wie "http://www.liederdatenbank.de/song/13219", "http://www.liederdatenbank.de/song/13250".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>216</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>121</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/121_130.html#121" xlink:type="simple"/>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25315">
+  <title>Mein Gott, welch ein Morgen</title>
+  <subtitle>Trompeten hört ihr dann</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>andere Textfassung: http://www.liederdatenbank.de/song/1730,   http://www.liederdatenbank.de/song/18052, http://www.liederdatenbank.de/song/27540.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-16130" xlink:type="simple"/>
+  <originalsong xlink:href="#song-10051" xlink:type="simple"/>
+  <author xlink:href="#artist-9153" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-23692" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>267</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+</song>

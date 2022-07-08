@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3975">
+  <firstname>Lutz</firstname>
+  <lastname>Scheufler</lastname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.lutz-scheufler.de/" xlink:type="simple">
+    <title>lutz-scheufler.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/s/lutzscheufler.htm" xlink:type="simple">
+    <title>Lutz Scheufler @ ccmrezis.de</title>
+  </url>
+</artist>

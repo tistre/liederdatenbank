@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1527">
+  <title>Gott rufet noch. Sollt ich nicht endlich hören</title>
+  <subtitle/>
+  <text># Gott rufet noch. Sollt ich nicht endlich hören?
+Wie lass ich mich bezaubern und betören!
+Die kurze Freud, die kurze Zeit vergeht,
+und meine Seel noch so gefährlich steht.
+
+# Gott rufet noch. Sollt ich nicht endlich kommen?
+Ich hab so lang die treue Stimm vernommen.
+Ich wusst es wohl: ich war nicht, wie ich sollt.
+Er winkte mir, ich habe nicht gewollt.
+
+# Gott rufet noch. Wie, dass ich mich nicht gebe!
+Ich fürcht sein Joch und doch in Banden lebe.
+Ich halte Gott und meine Seele auf.
+Er ziehet mich; mein armes Herze, lauf!
+
+# Gott rufet noch. Ob ich mein Ohr verstopfet,
+er stehet noch an meiner Tür und klopfet.
+Er ist bereit, dass er mich noch empfang.
+Er wartet noch auf mich; wer weiß, wie lang?
+
+# Gib dich, mein Herz, gib dich nun ganz gefangen.
+Wo willst du Trost, wo willst du Ruh erlangen?
+Lass los, lass los; brich alle Band entzwei!
+Dein Geist wird sonst in Ewigkeit nicht frei.
+
+# Gott locket mich; nun länger nicht verweilet!
+Gott will mich ganz, nun länger nicht geteilet!
+Fleisch, Welt, Vernunft, sag immer, was du willst,
+meins Gottes Stimm mir mehr als deine gilt.
+
+# Ich folge Gott, ich will ihm ganz genügen.
+Die Gnade soll im Herzen endlich siegen.
+Ich gebe mich; Gott soll hinfort allein
+und unbedingt mein Herr und Meister sein.
+
+# Ach nimm mich hin, du Langmut ohne Maße;
+ergreif mich wohl, dass ich dich nie verlasse.
+Herr, rede nur, ich geb begierig acht;
+führ, wie du willst, ich bin in deiner Macht.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11345" (EG 271).</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1735</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1542</year>
+  </author>
+  <author xlink:href="#artist-4640" xlink:type="simple">
+    <part>Music</part>
+    <year>1551</year>
+  </author>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>271</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>301</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>392</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10323" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-103" xlink:type="simple"/>
+</song>

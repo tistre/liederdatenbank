@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-656">
+  <firstname>Johann</firstname>
+  <lastname>Crüger</lastname>
+  <name/>
+  <born>1598</born>
+  <died>1663</died>
+  <comment>Geboren in Groß Breesen bei Guben, 1622 Organist an der Nicolaikirche in Berlin, Freund Paul Gerhardts.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Cr%C3%BCger" xlink:type="simple">
+    <title>Johann Crüger @ Wikipedia.de</title>
+  </url>
+</artist>

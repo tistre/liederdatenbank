@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4791">
+  <firstname>Wolfgang</firstname>
+  <lastname>Dachstein</lastname>
+  <name/>
+  <born>um 1487</born>
+  <died>1553</died>
+  <comment>Geboren in Offenburg, 1520 Mönch und Organist in Straßburg,
+1524 evangelisch, seit 1550 wieder im Dienst der kath. Kirche.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Wolfgang_Dachstein" xlink:type="simple"/>
+</artist>

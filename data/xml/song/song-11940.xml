@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11940">
+  <title>Noch kann ich es nicht fassen</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Text: Siebenbürgen vor 1898. - Melodie: "http://www.liederdatenbank.de/song/1053" (EG 85).</comment>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>531</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-100" xlink:type="simple"/>
+</song>

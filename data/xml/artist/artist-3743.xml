@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3743">
+  <firstname>Jochen</firstname>
+  <lastname>Klepper</lastname>
+  <name/>
+  <born>1903</born>
+  <died>1942</died>
+  <comment>Geboren in Beuthen/Oder, Dichter und Schriftsteller in Breslau und Berlin.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Jochen_Klepper" xlink:type="simple">
+    <title>Jochen Klepper @ Wikipedia.de</title>
+  </url>
+</artist>

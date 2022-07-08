@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13103">
+  <title>Halleluja, welche Höhen</title>
+  <subtitle/>
+  <text># Halleluja, welche Höhen, / Welche Tiefen ew'ger Huld,
+Dich, o Herr, am Kreuz zu sehen, / Im Gericht für unsre Schuld!
+Und Du gingst zum Vater wieder, / Führst auch uns bald droben ein.
+Erstgeborner vieler Brüder, / Du bist unser, wir sind Dein.
+
+# In noch wenig Augenblicken / Werden wir Dich kommen sehn,
+Wird mit freudigem Entzücken / Dir die Braut entgegen gehn.
+Sel'ge Hoffnung, süße Wonne! / Nacht entflieht, der Morgen graut,
+Wo Dich, lichte Siegessonne, / Unser Aug' verherrlicht schaut.</text>
+  <copyrightyear/>
+  <right>Text: Str. 1 nach Nikolaus Ludwig Graf von Zinzendorf (1700-1760); Str. 2 wahrscheinlich Carl Brockhaus (1822-1899). - Melodie: 1688, geistlich Bamberg 1732 und Herrenhut nach 1735.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/248", "http://www.liederdatenbank.de/song/13213", "http://www.liederdatenbank.de/song/1418", "http://www.liederdatenbank.de/song/13408".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-225" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>57</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/051_060.html#57" xlink:type="simple"/>
+</song>

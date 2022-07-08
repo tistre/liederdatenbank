@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11398">
+  <title>Herr Christ, dein bin ich eigen</title>
+  <subtitle/>
+  <text># Herr Christ, dein bin ich Eigen
+von Anbeginn der Welt,
+dein Güte zu erzeigen,
+hast du mich auserwählt
+und mich auch lassen nennen
+nach deinem Namen wert;
+den will ich auch bekennen
+forthin auf dieser Erd.
+
+# Herr Christ, dein bin ich Eigen
+durch dein Allmächtigkeit,
+dein Güte zu erzeigen,
+beschirmst du mich allzeit.
+In meinen jungen Jahren
+hast du mich, Herr, ernährt,
+lass mir’s auch widerfahren,
+wenn ich nun älter werd.
+
+# Herr Christ, dein bin ich Eigen
+den Glauben schenkst du mir,
+dein Güte zu erzeigen,
+dass ich halt fest an dir.
+Den Teufel, Welt und Sünden,
+weil sie sind wider mich,
+hilf du mir überwinden,
+das bitt ich inniglich.
+
+# Herr Christ, dein bin ich Eigen
+im Leben und im Tod;
+wirst mir dein Güt erzeigen
+auch in des Todes Not,
+dass sanft und still abscheide
+die Seel von meinem Leib
+zu dir ins Himmels Freude
+und bei dir ewig bleib.
+</text>
+  <copyrightyear/>
+  <right>Melodie: Augsburg 1621.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11397" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1625) 1644</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>204</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4617" xlink:type="simple"/>
+</song>

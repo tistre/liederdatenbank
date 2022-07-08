@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2442">
+  <title>Fang mit mir von vorne an</title>
+  <author xlink:href="#artist-3623" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1996</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+  </songbookref>
+  <right>1996 Hänssler Verlag</right>
+</song>

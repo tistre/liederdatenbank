@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3536">
+  <title>Sieh, Ich komm bald</title>
+  <subtitle>Ich das Alpha</subtitle>
+  <copyrightyear/>
+  <right>Dt. Text: beim Urheber.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Venid a alabad". Dt. Text: Brüder Jesu im Hl. Geist, Graz.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-26491" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>198</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-107" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>6</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-21" xlink:type="simple">
+    <verse>23</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>12-13</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>16-17</verse>
+  </bibleref>
+</song>

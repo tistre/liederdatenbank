@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2022">
+  <title>Mit Freuden zart zu dieser Fahrt</title>
+  <subtitle/>
+  <text># Mit Freuden zart
+zu dieser Fahrt
+lasst uns zugleich fröhlich singen,
+beid, Groß und Klein,
+von Herzen rein
+mit hellem Ton frei erklingen.
+Das ewig Heil
+wird uns zuteil,
+denn Jesus Christ
+erstanden ist,
+welchs er lässt reichlich verkünden.
+
+# Er ist der Erst,
+der stark und fest
+all unsre Feind hat bezwungen
+und durch den Tod
+als wahrer Gott
+zum neuen Leben gedrungen,
+auch seiner Schar
+verheißen klar
+durch sein rein Wort,
+zur Himmelspfort
+desgleichen Sieg zu erlangen.
+
+# Singt Lob und Dank
+mit freiem Klang
+unserm Herrn zu allen Zeiten
+und tut sein Ehr
+je mehr und mehr
+mit Wort und Tat weit ausbreiten:
+So wird es uns
+aus Lieb und Gunst
+nach unserm Tod,
+frei aller Not
+zur ewigen Freud geleiten.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11282" xlink:type="simple">
+    <part>Text</part>
+    <year>1566</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1566</year>
+  </author>
+  <author xlink:href="#artist-4379" xlink:type="simple">
+    <part>Music</part>
+    <year>1543</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>108</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-138" xlink:type="simple">
+    <verse>1-8</verse>
+  </bibleref>
+  <url xlink:href="https://de.wikipedia.org/wiki/Mit_Freuden_zart_zu_dieser_Fahrt" xlink:type="simple">
+    <title>Mit Freuden zart zu dieser Fahrt @ Wikipedia.de</title>
+  </url>
+</song>

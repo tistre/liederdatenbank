@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13282">
+  <title>Unser Herz und Mund lobsinge</title>
+  <subtitle/>
+  <text># Unser Herz und Mund lobsinge
+Dir, unserm Gott, der große Dinge
+An allen Seinen Kindern tut.
+O wie viele Lieb'sbeweise
+Ermuntern uns zu Deinem Preise,
+Wie meinst Du's doch mit uns so gut!
+In Deiner Lieb' und Macht
+Führst Du uns Tag und Nacht
+Durch die Wüste,
+Die nichts uns beut,
+Als Kampf und Leid,
+Führst uns in Deine Herrlichkeit.
+
+# Ja, wir preisen Deine Güte
+Mit kindlich dankbaren Gemüte,
+Wie viel hast Du an uns getan!
+Des Erbarmens niemals müde,
+Blickt uns Dein Angesicht voll Friede
+Zu jeder Zeit gleich liebreich an.
+Anbetung, Preis und Ruhm
+Sei Dir im Heiligtum
+Von uns allen
+Durch Jesum Christ!
+Wie köstlich ist,
+Daß Du durch Ihn jetzt unser bist!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/10214", "http://www.liederdatenbank.de/song/13399", "http://www.liederdatenbank.de/song/1437", "http://www.liederdatenbank.de/song/1616", "http://www.liederdatenbank.de/song/13833".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13283" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>Music</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>107</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#107" xlink:type="simple"/>
+</song>

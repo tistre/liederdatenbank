@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-21550">
+  <name>Alive</name>
+  <comment>Alive. Das ökumenische Jugendliederbuch für Schule und Gemeinde.
+Herausgegeben von Herbert Kolb und Norbert Weidinger im Auftrag der beiden Religionspädagogischen Zentren Heilsbronn (evang.) und München (kath.)
+Claudius Verlag München 2008, ISBN 978-3-532-71169-9.
+267 Lieder mit Akkorden zur Gitarrenbegleitung</comment>
+  <state>0</state>
+  <icon xlink:href="#file-21549" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3532711699" xlink:type="simple">
+    <title>Alive @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.theologische-buchhandlung.de/alive.htm" xlink:type="simple">
+    <title>Inhaltsübersicht</title>
+  </url>
+</songbook>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9472">
+  <lastname>Frankholz</lastname>
+  <firstname>Susanne</firstname>
+  <name/>
+  <born>1962</born>
+  <died/>
+  <comment>CVJM München e.V.</comment>
+  <url xlink:href="http://www.susannefrankholz.de/" xlink:type="simple"/>
+</artist>

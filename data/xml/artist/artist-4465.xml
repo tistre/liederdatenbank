@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4465">
+  <firstname>Johann Christoph</firstname>
+  <lastname>Blumhardt (der Ältere)</lastname>
+  <name/>
+  <born>1805</born>
+  <died>1880</died>
+  <comment>Geboren in Stuttgart, 1830 theologischer Lehrer am Missionshaus in Basel, 1838 als Nachfolger Christian Gottlob Barths Pfarrer in Möttlingen (Württ.), wo es durch sein Wirken zu einer Erweckung kam; seit 1852 übte er als Leiter von Bad Boll eine weitreichende Seelsorgetätigkeit aus; Grundlage für seine Gespräche, Andachten und Lieder war eine lebendige Reich-Gottes-Hoffnung; gestorben in Bad Boll.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Christoph_Blumhardt" xlink:type="simple">
+    <title>Johann Christoph Blumhardt @ Wikipedia.org</title>
+  </url>
+</artist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23068">
+  <title>Halleluja Gott zu loben</title>
+  <subtitle/>
+  <text/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-4548" xlink:type="simple">
+    <part>Text</part>
+    <year>1793</year>
+  </author>
+  <author xlink:href="#artist-11569" xlink:type="simple">
+    <part>Music</part>
+    <year>1562</year>
+  </author>
+  <author xlink:href="#artist-10191" xlink:type="simple">
+    <part>Music</part>
+    <year>1806</year>
+  </author>
+</song>

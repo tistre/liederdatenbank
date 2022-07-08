@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2337">
+  <title>Erhebet Gott, den Herrn, jubelt laut vor Ihm</title>
+  <language>de</language>
+  <right>Universal Songs, Holland</right>
+  <subtitle/>
+  <textcopyright>reserved</textcopyright>
+  <comment/>
+  <originalsong xlink:href="#song-2338" xlink:type="simple"/>
+  <author xlink:href="#artist-2991" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3728" xlink:type="simple">
+    <part>Music</part>
+    <year>1986</year>
+  </author>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

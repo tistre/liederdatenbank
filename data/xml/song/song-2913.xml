@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2913">
+  <title>Majestät, König der Ewigkeit</title>
+  <author xlink:href="#artist-38" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4176" xlink:type="simple">
+    <part>Music</part>
+    <year>1993</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>163</numinsongbook>
+  </songbookref>
+</song>

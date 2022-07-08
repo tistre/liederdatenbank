@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3560">
+  <title>Würdig, ja würdig ist der Herr</title>
+  <subtitle/>
+  <copyrightyear>1976/1980</copyrightyear>
+  <right>The Word of God, Michigan, USA. Dt. Text: 1982 Gebetsgruppe Erding. Arr.: 1982 Jugend mit einer Mission.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Worthy, O Worthy Is The Lord". Im Anschluß an dieses Lied wird meist direkt das Lied "http://www.liederdatenbank.de/song/12985" gesungen und ist in "http://www.liederdatenbank.de/songbook/3430" sogar unter einer Liednummer abgedruckt.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12983" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1967</year>
+  </author>
+  <songbookref xlink:href="#songbook-3430" xlink:type="simple">
+    <numinsongbook>240a</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-12948" xlink:type="simple">
+    <numinsongbook>20</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9168" xlink:type="simple">
+    <numinsongbook>1589</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-4" xlink:type="simple">
+    <verse>11</verse>
+  </bibleref>
+</song>

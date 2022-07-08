@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-24307">
+  <name>Durch Hohes und Tiefes</name>
+  <comment>Gesangbuch der Evangelischen Studierendengemeinden in Deutschland
+Herausgegeben von Eugen Eckert, Friedrich Kramer und Uwe-Karsten Plisch
+Strube-Verlag (Edition 6502), München 2008
+ISBN: 978-3-89912-120-9
+444 neue geistliche Lieder.</comment>
+  <state>0</state>
+  <url xlink:href="https://www.bundes-esg.de/bundes-esg/publikationen/hohesundtiefes/" xlink:type="simple">
+    <title>Durch Hohes und Tiefes @ Bundes-ESG</title>
+  </url>
+  <url xlink:href="https://www.bundes-esg.de/bundes-esg/publikationen/hohesundtiefes/durch-hohes-und-tiefes/" xlink:type="simple">
+    <title>Durch Hohes und Tiefes: Alle Lieder zum Anhören @ Bundes-ESG</title>
+  </url>
+  <url xlink:href="http://www.strube.de/index.php?id=17&amp;tx_eshop[action]=sview&amp;tx_eshop[produktlinie]=1&amp;tx_eshop[produktUid]=1881&amp;no_cache=1" xlink:type="simple">
+    <title>Durch Hohes und Tiefes @ Strube Verlag</title>
+  </url>
+  <icon xlink:href="#file-24308" xlink:type="simple"/>
+</songbook>

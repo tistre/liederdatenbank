@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12312">
+  <title>Gott Lob, ein neues Kirchenjahr</title>
+  <subtitle/>
+  <text># Gott Lob, ein neues Kirchenjahr
+macht uns die große Treue
+des ewgen Gottes offenbar;
+und nun will er aufs neue
+den alten hochbeschwornen Bund,
+den einzig festen Glaubensgrund,
+durch seinen Geist uns lehren.
+
+# Auf, Zion, Preis und Ehr und Ruhm
+dem höchsten Herrn zu singen!
+Dein königliches Priestertum
+muss Dank zum Opfer bringen.
+Gelobt sei Gott, der durch sein Wort
+die Christenheit und diesen Ort
+zu seinem Tempel weihet.
+
+# Ach Herr, gib uns den neuen Geist
+und mach uns durch die Güte,
+die sich an uns aufs neu erweist,
+erneuert im Gemüte.
+Den neuen Menschen zieh uns an,
+der dir allein gefallen kann
+in seinem ganzen Leben.
+
+# Dazu erhalt uns, Herr, dein Wort
+samt Tauf und Abendmahle,
+so wandern wir mit Freuden fort
+in diesem finstern Tale.
+Herr, segne dieses Kirchenjahr,
+lass Kirche, Schul, Tauf und Altar
+uns deine Wege zeigen.
+
+# Gib deinen Hirten Kraft und Geist
+zu reiner Lehr und Leben,
+dein Wort, das Gottes Weide heißt,
+der Herde rein zu geben;
+lass alle Hörer Täter sein,
+damit kein heuchlerischer Schein
+des Glaubens Kraft verleugne.
+
+# So halten und vollenden wir
+das Kirchenjahr auf Erden;
+dabei befehlen wir es dir,
+wie wir es enden werden.
+Hier bleibt die Kirche noch im Streit;
+kommt aber einst die Ewigkeit,
+dann wird sie triumphieren.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/1533" (EG 341).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12311" xlink:type="simple">
+    <part>Text</part>
+    <year>1730</year>
+  </author>
+  <songbookref xlink:href="#songbook-12102" xlink:type="simple">
+    <numinsongbook>537</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4835" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1pe-2" xlink:type="simple">
+    <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-4" xlink:type="simple">
+    <verse>23-24</verse>
+  </bibleref>
+</song>

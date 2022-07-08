@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11374">
+  <title>Wir glauben all an einen Gott</title>
+  <subtitle/>
+  <text># Wir glauben all an einen Gott,
+Schöpfer Himmels und der Erden,
+der sich zum Vater geben hat,
+dass wir seine Kinder werden.
+Er will uns allzeit ernähren,
+Leib und Seel auch wohl bewahren;
+allem Unfall will er wehren,
+kein Leid soll uns widerfahren.
+Er sorget für uns, hüt’ und wacht;
+es steht alles in seiner Macht.
+
+# Wir glauben auch an Jesus Christ,
+seinen Sohn und unsern Herren,
+der ewig bei dem Vater ist,
+gleicher Gott von Macht und Ehren,
+von Maria, der Jungfrauen,
+ist ein wahrer Mensch geboren
+durch den Heilgen Geist im Glauben;
+für uns, die wir warn verloren,
+am Kreuz gestorben und vom Tod
+wieder auferstanden durch Gott.
+
+# Wir glauben an den Heilgen Geist,
+Gott mit Vater und dem Sohne,
+der aller Schwachen Tröster heißt
+und mit Gaben zieret schöne,
+die ganz Christenheit auf Erden
+hält in einem Sinn gar eben;
+hier all Sünd vergeben werden;
+das Fleisch soll auch wieder leben.
+Nach diesem Elend ist bereit’
+uns ein Leben in Ewigkeit.
+</text>
+  <copyrightyear/>
+  <right>Text: nach einer lateinischen und deutschen Strophe Breslau 1417 und Zwickau um 1500. - Melodie: 15. Jh., Wittenberg 1524.</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4462" xlink:type="simple">
+    <part>Text</part>
+    <year>1524</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>183</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10151" xlink:type="simple"/>
+</song>

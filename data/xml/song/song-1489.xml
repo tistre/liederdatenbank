@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1489">
+  <title>Wir wollen alle fröhlich sein in dieser österlichen Zeit</title>
+  <text># Wir wollen alle fröhlich sein 
+in dieser österlichen Zeit, 
+denn unser Heil hat Gott bereit'. 
+Halleluja, Halleluja, Halleluja, Halleluja. 
+Gelobt sei Christus, Marien Sohn.
+
+# Es ist erstanden Jesus Christ, 
+der an dem Kreuz gestorben ist; 
+ihm sei Lob, Ehr zu aller Frist  
+Halleluja, Halleluja, Halleluja, Halleluja. 
+Gelobt sei Christus, Marien Sohn.
+
+# Er hat zerstört der Höllen Pfort, 
+die Seinen all herausgeführt 
+und uns erlöst vom ewgen Tod.
+Halleluja, Halleluja, Halleluja, Halleluja. 
+Gelobt sei Christus, Marien Sohn.
+
+# Es singt der ganze Erdenkreis 
+dem Gottessohne Lob und Preis, 
+der uns erkauft das Paradeis.
+Halleluja, Halleluja, Halleluja, Halleluja. 
+Gelobt sei Christus, Marien Sohn.
+
+# Des freu sich alle Christenheit 
+und lobe die Dreifaltigkeit 
+von nun an bis in Ewigkeit.
+Halleluja, Halleluja, Halleluja, Halleluja. 
+Gelobt sei Christus, Marien Sohn.</text>
+  <language>de</language>
+  <subtitle/>
+  <right>Text: Kloster Medingen 1380 nach dem "Resurrexit Domunus" (12. Jahrhundert) - Strophen 2-5 bei Cyriakus Spangenberg.</right>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number>5212730</ccli_number>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-9076" xlink:type="simple">
+    <part>Text</part>
+    <year>Str. 1 1380</year>
+  </author>
+  <author xlink:href="#artist-11899" xlink:type="simple">
+    <part>Text</part>
+    <year>und Satz 1568</year>
+  </author>
+  <author xlink:href="#artist-9055" xlink:type="simple">
+    <part>Music</part>
+    <year>1410</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1544</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1573</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>100</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>266</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>225</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>124</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>299</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>82</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9496" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>221</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+</song>

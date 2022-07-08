@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-9208">
+  <lastname>Converse</lastname>
+  <firstname>Charles Crozat</firstname>
+  <name/>
+  <born>1832</born>
+  <died>1918</died>
+  <comment>Geboren in Warren (USA), Rechtsanwalt, nach Musikstudium in Deutschland Komponist, gestorben in Highwood.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Charles_Crozat_Converse" xlink:type="simple"/>
+</artist>

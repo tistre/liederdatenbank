@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1395">
+  <title>Erbaut auf einem Grunde</title>
+  <text># Erbaut auf einem Grunde / stehn wir in einem Geist,
+und wie aus einem Munde / dich unsre Seele preist.
+Der du dich uns gegeben / zum ewgen Eigentum,
+dich freudig zu erheben, / ist unser höchster Ruhm.
+
+# Wir baun auf deine Gnade, / die du uns frei geschenkt
+auf unsrem Lebenspfade / so reich und unbeschränkt:
+sie lässt für alle Sünden / in deinem Opferblut
+uns stets Vergebung finden, / verleiht uns Trost und Mut.
+
+# Wir flehn in deinem Geiste / um deine Gotteskraft,
+dass sie uns Hilfe leiste / zur Glaubensritterschaft;
+dass du in ihr uns spendest / des Lebens Licht und Stärk
+und herrlich auch vollendest / das angefangne Werk.
+
+# O lass uns dich umfassen, / Herr Jesu, unser Heil,
+und nimmermehr dich lassen, / du auserkornes Teil!
+Der du dich uns gegeben / zum ewgen Eigentum,
+dich freudig zu erheben, / sei unser höchster Ruhm!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auf die Melodie "http://www.liederdatenbank.de/song/1578" (Teschner) oder "http://www.liederdatenbank.de/song/1552" (Schütz) gesungen werden.</comment>
+  <author xlink:href="#artist-4629" xlink:type="simple">
+    <part>Text</part>
+    <year>1863</year>
+  </author>
+  <author xlink:href="#artist-3635" xlink:type="simple">
+    <part>Music</part>
+    <year>1613</year>
+  </author>
+  <author xlink:href="#artist-3650" xlink:type="simple">
+    <part>Music</part>
+    <year>1628</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>108</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>349</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

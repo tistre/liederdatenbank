@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-19903">
+  <name>In dieser Nacht</name>
+  <comment>In dieser Nacht. Lieder zum Thema Weihnachten
+Herausgegeben von Oskar Gottlieb Blarr, Uwe Seidel, Diethard Zils
+Gustav Bosse Verlag, Regensburg 1972. BE 808.</comment>
+  <state>1</state>
+  <icon xlink:href="#file-19902" xlink:type="simple"/>
+  <url xlink:href="http://www.baerenreiter.com/cgi-bin/his-webshop.pl?f=NR&amp;c=M-2011-0808-7&amp;t=temartic" xlink:type="simple">
+    <title>In dieser Nacht @ Bärenreiter Verlag</title>
+  </url>
+</songbook>

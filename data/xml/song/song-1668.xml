@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1668">
+  <title>Gott des Himmels und der Erden</title>
+  <text># Gott des Himmels und der Erden, 
+Vater, Sohn und Heilger Geist, 
+der es Tag und Nacht lässt werden, 
+Sonn und Mond uns scheinen heißt, 
+dessen starke Hand die Welt 
+und was drinnen ist, erhält:
+
+# Gott, ich danke dir von Herzen, 
+dass du mich in dieser Nacht vor Gefahr, 
+Angst, Not und Schmerzen 
+hast behütet und bewacht, 
+dass des bösen Feindes List 
+mein nicht mächtig worden ist.
+
+# Hilf, dass ich mit diesem Morgen 
+geistlich auferstehen mag 
+und für meine Seele sorgen, 
+dass, wenn nun dein großer Tag 
+uns erscheint und dein Gericht, 
+ich davor erschrecke nicht.
+
+# Führe mich, o Herr, und leite 
+meinen Gang nach deinem Wort; 
+sei und bleibe du auch heute 
+mein Beschützer und mein Hort. 
+Nirgends als bei dir allein 
+kann ich recht bewahret sein.
+
+# Meinen Leib und meine Seele 
+samt den Sinnen und Verstand, 
+großer Gott, ich dir befehle 
+unter deine starke Hand. Herr, 
+mein Schild, mein Ehr und Ruhm, 
+nimm mich auf, dein Eigentum.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Nachdichtung des Morgensegens von Martin Luther</comment>
+  <copyrightyear/>
+  <author xlink:href="#artist-4723" xlink:type="simple">
+    <part>Music</part>
+    <year>1642</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>461</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>635</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>458</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>310</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>7</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>445</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>376</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

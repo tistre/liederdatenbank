@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10355">
+  <title>I love You, Lord</title>
+  <subtitle/>
+  <right>House of Mercy / Maranatha Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>25266</ccli_number>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-4317" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1978</year>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>46</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.christianitytoday.com/tc/2004/005/8.14.html" xlink:type="simple"/>
+  <url xlink:href="http://www.ccli.com/WorshipResources/SongStories.cfm?itemID=7" xlink:type="simple"/>
+</song>

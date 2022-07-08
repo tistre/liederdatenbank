@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-3637">
+  <firstname>Andraé Edward</firstname>
+  <lastname>Crouch</lastname>
+  <name/>
+  <born>1942</born>
+  <died>2015</died>
+  <comment>Geboren in Los Angeles, Gospelsänger und Liedermacher, gestorben in Los Angeles.</comment>
+  <url xlink:href="http://en.wikipedia.org/wiki/Andrae_Crouch" xlink:type="simple">
+    <title>Andrae Crouch @ Wikipedia.org</title>
+  </url>
+  <url xlink:href="http://www.andraecrouch.com/" xlink:type="simple">
+    <title>andraecrouch.com</title>
+  </url>
+</artist>

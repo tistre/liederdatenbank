@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13156">
+  <title>Mein Heiland, welche Huld</title>
+  <subtitle/>
+  <text># Mein Heiland, welche Huld und Liebe
+Und welch Erbarmen wohnt in Dir!
+Wer fasset Deine Hirtentriebe,
+Womit Du pflegst die Deinen hier,
+Für welche Du Dein teures Leben
+Aus freier Liebe hingegeben!
+
+# Wenn ich ermüde, wenn ich leide,
+Dann bleibest meine Zuflucht Du,
+Du führest mich auf grüne Weide
+Und leitest mich zur ew'gen Ruh'.
+Und dürst' ich – Du bist meine Quelle,
+Du labst und stärkest meine Seele.
+
+# Ja, Du bist's, der mich reichlich segnet,
+Du bist und bleibst mein höchstes Gut,
+Du bist's, der freundlich mir begegnet,
+Bei Dir mein Herz stets sicher ruht.
+Wohin ich gehe, ich Dich finde,
+Und Deine Lieb' ich nie ergründe.
+
+# Von dieser Liebe will ich singen,
+Die mich so reich, so glücklich macht,
+Anbetung Deiner Treue bringen,
+Die mich beschützet Tag und Nacht.
+O daß sich stets mein Herz erfreue
+An Deiner Lieb' und Hirtentreue!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/959", "http://www.liederdatenbank.de/song/13275", "http://www.liederdatenbank.de/song/1015".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-10199" xlink:type="simple">
+    <part>Text</part>
+    <year>1858</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/061_070.html#61" xlink:type="simple"/>
+</song>

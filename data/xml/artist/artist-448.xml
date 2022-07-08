@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-448">
+  <firstname>Dieter</firstname>
+  <lastname>Falk</lastname>
+  <name/>
+  <born>1959</born>
+  <died/>
+  <comment>Geboren in Siegen, Musiker, Komponist, Produzent, lebt in Leonberg.</comment>
+  <url xlink:href="http://www.falkmusic.de/" xlink:type="simple">
+    <title>falkmusic.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/f/dieterfalk.htm" xlink:type="simple">
+    <title>Dieter Falk @ ccmrezis.de</title>
+  </url>
+</artist>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11274">
+  <title>Singen wir heut mit einem Mund</title>
+  <subtitle/>
+  <text># Singen wir heut mit einem Mund
+in Eintracht und aus Herzensgrund
+dir, o Herr aller Heer,
+Christe, Lob und Preis und Ehr;
+der für uns alle Missetat
+an dem Kreuz selbst gebüßet hat.
+Friedefürst, Osterheld,
+du hast nun den Feind gefällt.
+Lob sei dir für und für, Jesus Christ,
+dass du bist sünd’ger Welt Heil und Held,
+der das Feld im Kampf mit Tod und Höll behält.
+
+# Christus hat alle Schrift erfüllt
+und dadurch Todes Trotz gestillt,
+und sein Wort auf dem Berg
+hat zerstört des Teufels Werk.
+Sünd und Schuld bleiben ohne Kraft,
+wenn die Seel am Wort Gottes haft’,
+Christ, dem Herrn, sich ergibt
+und von Herzen glaubt und liebt.
+Lob sei dir für und für, Jesus Christ,
+dass du bist sünd’ger Welt Heil und Held,
+der das Feld im Kampf mit Tod und Höll behält.
+
+# Gib, dass wir, alle Gottes Kind’,
+deiner Wahrheit gehorsam sind,
+dass wir stets bei dir stehn
+und nicht mehr zurücke gehn.
+Leite du, König, uns, und Held,
+dass wir wandeln, wie dir’s gefällt,
+singen auch Lob und Ehr
+mit dem ganzen Himmelsheer.
+Lob sei dir für und für, Jesus Christ,
+dass du bist sünd’ger Welt Heil und Held,
+der das Feld im Kampf mit Tod und Höll behält.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-9002" xlink:type="simple">
+    <part>Text</part>
+    <year>1531</year>
+  </author>
+  <author xlink:href="#artist-4628" xlink:type="simple">
+    <part>Music</part>
+    <year>1531</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

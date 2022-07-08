@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5007">
+  <firstname>Dieter</firstname>
+  <lastname>Trautwein</lastname>
+  <name/>
+  <born>1928</born>
+  <died>2002</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Dieter_Trautwein" xlink:type="simple">
+    <title>Dieter Trautwein @ Wikipedia.de</title>
+  </url>
+</artist>

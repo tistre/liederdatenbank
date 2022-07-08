@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4462">
+  <firstname>Martin</firstname>
+  <lastname>Luther</lastname>
+  <name/>
+  <comment>geb. am 10.11.1483 in Eisleben, Student der Rechte in Erfurt, 1505 Mönch, Priester, seit 1511 Universitätsprofessor in Wittenberg, gest. am 18.02.1546 in seiner Geburtsstadt. Luther ist der Schöpfer des deutschen Gesangbuches (erstes Chorgesangbuch mit Vorwort von Luther: 1524).</comment>
+  <born>1483</born>
+  <died>1546</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Martin_Luther" xlink:type="simple">
+    <title>Wikipedia (deutsch)</title>
+  </url>
+  <url xlink:href="http://en.wikipedia.org/wiki/Martin_Luther" xlink:type="simple">
+    <title>Wikipedia (englisch)</title>
+  </url>
+</artist>

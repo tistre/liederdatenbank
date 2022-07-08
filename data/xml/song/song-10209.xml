@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10209">
+  <title>Wo ist ein Vater, Gott, wie Du</title>
+  <subtitle/>
+  <text># Wo ist ein Vater, Gott, wie Du,
+Der so an uns gedenket,
+Uns liebt und segnet so wie Du,
+Und uns so willig schenket?
+Was fehlt uns doch
+Nun weiter noch,
+Da wir zum Vater haben
+Dich, Geber aller Gaben?
+
+# Du, der so viel an uns gewandt
+Zu unserm Heil und Leben,
+Der Du uns Deinen Sohn gesandt,
+Ihn für uns hingegeben,
+Der so geneigt
+Sich Sündern zeigt –
+Wie solltest Du denn minder
+Versorgen Deine Kinder?
+
+# Stets bleibet uns Dein Vaterherz
+In Jesu Christo offen.
+Dort fliehn wir hin in Not und Schmerz
+Mit kindlich gläub'gem Hoffen.
+Und da, da ruht
+Sich's sanft und gut,
+Da sind wir wohl geborgen
+Und ledig aller Sorgen.
+
+# Du hast uns lieb. Das ist genug,
+Uns Trost hier zu verleihen.
+Du hast uns lieb. Das ist genug,
+Uns ewiglich zu freuen.
+Drum laß uns auch
+Nach Kindesbrauch,
+Durch Deinen Geist getrieben,
+Verehren Dich und lieben.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/011_020.html#13" xlink:type="simple"/>
+</song>

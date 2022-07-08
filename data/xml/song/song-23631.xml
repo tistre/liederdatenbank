@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23631">
+  <title>Der 23. Psalm</title>
+  <subtitle>Der Herr ist mein Hirte, mir wird nichts mangeln.</subtitle>
+  <text>Der Herr ist mein Hirte,
+mir wird nichts mangeln.
+
+Er weidet mich auf einer grünen Aue
+und führet mich zum frischen Wasser.
+
+Er erquicket meine Seele.
+Er führet mich auf rechter Straße um seines Namens willen.
+
+Und ob ich schon wanderte im finstern Tal,
+fürchte ich kein Unglück;
+
+denn du bist bei mir,
+dein Stecken und Stab trösten mich.
+
+Du bereitest vor mir einen Tisch
+im Angesicht meiner Feinde.
+
+Du salbest mein Haupt mit Öl
+und schenkest mir voll ein.
+
+Gutes und Barmherzigkeit werden mir folgen mein Leben lang,
+und ich werde bleiben im Hause des Herrn immerdar.
+
+Ehre sei dem Vater und dem Sohn
+und dem Heiligen Geist,
+
+wie im Anfang, so auch jetzt und allezeit
+und in Ewigkeit. Amen.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>027</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-23" xlink:type="simple">
+    <verse>1-6</verse>
+  </bibleref>
+</song>

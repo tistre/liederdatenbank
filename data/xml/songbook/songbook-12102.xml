@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-12102">
+  <name>Ev. Gesangbuch: BY/TH</name>
+  <comment>Evangelisches Gesangbuch der Evangelischen Kirche in Deutschland (EKD) und iher Gliedkirchen, der Evangelischen Kirche Augsburgischen und Helvetischen Bekenntnisses in Österreich sowie der Kirche Augsburgischer Konfession und der Reformierten Kirche im Elsatz und in Lothringen (Frankreich).
+
+Ausgabe für die Evangelisch-Lutherischen Kirchen in Bayern und Thüringen.
+Evangelischer Presseverband für Bayern e.V., München 1994.
+ISBN 3-583-12100-7 (Standard-Ausgabe, Cryluxe, mit Harmoniebezeichnungen).
+
+Nr. 001 bis 535 - http://www.liederdatenbank.de/songbook/8984
+Nr. 536 bis 669 - Regionalteil für Bayern u. Thüringen
+Nr. 670 bis 802 - Gottesdienstteil
+Nr. 804 bis 908 - Textteil
+Nr. 909 bis 914 - Beigaben
+
+2011 erschien der Ergänzungsband "http://www.liederdatenbank.de/songbook/22196".</comment>
+  <state>1</state>
+  <icon xlink:href="#file-12103" xlink:type="simple"/>
+  <url xlink:href="http://www.amazon.de/dp/3583121007" xlink:type="simple">
+    <title>Evangelisches Gesangbuch (Bayern u. Thüringen) @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.claudius.de/verlag/programm/unterseite.php?isbn=978-3-583-12100-3" xlink:type="simple">
+    <title>Evangelisches Gesangbuch (Bayern u. Thüringen) @ Claudius Verlag</title>
+  </url>
+</songbook>

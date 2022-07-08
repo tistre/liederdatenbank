@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-673">
+  <firstname>Roland</firstname>
+  <lastname>Werner</lastname>
+  <name/>
+  <born>1957</born>
+  <died/>
+  <comment>Leiter des "Christus-Treff" in Marburg</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Roland_Werner" xlink:type="simple"/>
+</artist>

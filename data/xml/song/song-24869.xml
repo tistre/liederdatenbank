@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24869">
+  <title>Schau vor allem auf Jesus</title>
+  <subtitle/>
+  <copyrightyear>2015</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-24800" xlink:type="simple"/>
+  <author xlink:href="#artist-23009" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1922</year>
+  </author>
+  <author xlink:href="#artist-4219" xlink:type="simple">
+    <part>Text</part>
+    <year>2015</year>
+  </author>
+  <songbookref xlink:href="#songbook-24802" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-24803" xlink:type="simple">
+    <cdnum/>
+    <numoncd>9</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10440" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-heb-3" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-heb-12" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-32" xlink:type="simple">
+    <verse>8</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-3" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2co-4" xlink:type="simple">
+    <verse>18</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-col-3" xlink:type="simple">
+    <verse>1ff</verse>
+  </bibleref>
+</song>

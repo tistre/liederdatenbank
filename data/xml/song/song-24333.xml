@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24333">
+  <title>Maker, in whom we live</title>
+  <subtitle>Father, in whom we live</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4262" xlink:type="simple">
+    <part>Text</part>
+    <year>1747</year>
+  </author>
+  <author xlink:href="#artist-4806" xlink:type="simple">
+    <part>Music</part>
+    <year>1868</year>
+  </author>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+</song>

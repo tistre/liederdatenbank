@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1459">
+  <title>Jauchzet, ihr Himmel, frohlocket, ihr Engel in Chören</title>
+  <text># Jauchzet, ihr Himmel, frohlocket, ihr Engel in Chören, 
+singet dem Herren, dem Heiland der Menschen, zu Ehren! 
+Sehet doch da: Gott will so freundlich und nah zu den Verlornen sich kehren.
+
+# Jauchzet, ihr Himmel, frohlocket, ihr Enden der Erden! 
+Gott und der Sünder, die sollen zu Freunden nun werden. 
+Friede und Freud wird uns verkündiget heut; freuet euch, Hirten und Herden!
+
+# Sehet dies Wunder, wie tief sich der Höchste hier beuget; 
+sehet die Liebe, die endlich als Liebe sich zeiget! 
+Gott wird ein Kind, träget und hebet die Sünd; alles anbetet und schweiget.
+
+# Gott ist im Fleische: wer kann dies Geheimnis verstehen? 
+Hier ist die Pforte des Lebens nun offen zu sehen. 
+Gehet hinein, eins mit dem Kinde zu sein, die ihr zum Vater wollt gehen.
+
+# Hast du denn, Höchster, auch meiner noch wollen gedenken? 
+Du willst dich selber, dein Herze der Liebe, mir schenken. 
+Sollt nicht mein Sinn innigst sich freuen darin und sich in Demut versenken?
+
+# König der Ehren, aus Liebe geworden zum Kinde, 
+dem ich auch wieder mein Herze in Liebe verbinde: 
+du sollst es sein, den ich erwähle allein; ewig entsag ich der Sünde.
+
+# Treuer Immanuel, werd auch in mir nun geboren, 
+komm doch, mein Heiland, denn ohne dich bin ich verloren! 
+Wohne in mir, mache ganz eins mich mit dir, der du mich liebend erkoren.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Unterschiedliche Vertonungen. - Gleiche Melodie (http://www.liederdatenbank.de/songbook/10115): "http://www.liederdatenbank.de/song/1504", "http://www.liederdatenbank.de/song/13398", "http://www.liederdatenbank.de/song/314", "http://www.liederdatenbank.de/song/13422", "http://www.liederdatenbank.de/song/13477", "http://www.liederdatenbank.de/song/967", "http://www.liederdatenbank.de/song/14016".</comment>
+  <ccli_number>4345165</ccli_number>
+  <copyrightyear/>
+  <ccli_features>LAN</ccli_features>
+  <author xlink:href="#artist-83" xlink:type="simple">
+    <part>Text</part>
+    <year>1731</year>
+  </author>
+  <author xlink:href="#artist-9900" xlink:type="simple">
+    <part>Music</part>
+    <year>1926</year>
+  </author>
+  <author xlink:href="#artist-25531" xlink:type="simple">
+    <part>Music</part>
+    <year>1926</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>41</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>190</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9501" xlink:type="simple">
+    <numinsongbook>21</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>446</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>33</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>259</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>44</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>177</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

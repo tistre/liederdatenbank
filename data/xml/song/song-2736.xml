@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2736">
+  <title>Unser Gott legt ein neues Lied in unsere Herzen</title>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3574" xlink:type="simple">
+    <part>Music</part>
+    <year>1997</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>143</numinsongbook>
+  </songbookref>
+</song>

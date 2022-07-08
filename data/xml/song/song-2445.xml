@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2445">
+  <title>Jeder Mensch braucht Gott</title>
+  <subtitle>Menschen gehn an mir vorbei</subtitle>
+  <author xlink:href="#artist-67" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3678" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <author xlink:href="#artist-3679" xlink:type="simple">
+    <part>Music</part>
+    <year>1983</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>160</numinsongbook>
+  </songbookref>
+  <right>Universal Songs, Holland</right>
+</song>

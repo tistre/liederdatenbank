@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13173">
+  <title>Herr Jesu Christ, mein Leben</title>
+  <subtitle/>
+  <text># Herr Jesu Christ, mein Leben,
+Du hast Dich selbst gegeben
+Für mich zum Opfer dar.
+Dein Blut hat mich gereinigt,
+Ich bin mit Dir vereinigt,
+Mit Dir, o Herr, auf immerdar.
+
+# Mein Hoffen ist lebendig
+Und bleibet hier beständig
+Auf Dich, o Herr, gericht't.
+Bald werde ich Dich droben
+Mit tausend Freuden loben,
+Wenn ich wird' schaun Dein Angesicht.
+
+# Auch jetzt sei Dir mein Leben
+Und alles hingegeben,
+Was ich hier hab' und bin.
+Du hast mich ganz erworben,
+Da Du für mich gestorben,
+Drum nimm mich ganz zum Opfer hin.
+
+# Ich will an nichts mehr denken,
+Ich will mich auch nicht kränken
+Um das, was künftig ist:
+Ich will von Deinen Händen
+Mich lassen drehn und wenden.
+Genug, daß Du mein Alles bist.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4535" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-12722" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>77</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#77" xlink:type="simple"/>
+</song>

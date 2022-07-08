@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13211">
+  <title>Ich gehe heim!</title>
+  <subtitle/>
+  <text># Ich gehe heim!
+Bin Fremdling nur hienieden,
+Ich find' nicht Heimat hier, noch find' ich Frieden.
+In dieser Welt kann nichts mein Herz erfreun.
+Ich gehe heim!
+
+# Ich gehe heim!
+Von Jesu stets begleitet -
+Auf mühevollem Pfad Er sanft mich leitet,
+Bis ich verklärt in heil'ger Schar Ihn preis.
+Ich gehe heim!
+
+# Ich gehe heim!
+Ermüdend ist die Wüste,
+Doch land' ich bald an jener Himmelsküste,
+Wo Jesus wohnt, wo meine Heimat ist.
+Ich gehe heim!
+
+# Ich gehe heim!
+Bald ist der Preis erstritten.
+Getrost, getrost! die Wüst' ist bald durchschritten.
+Das Heimweh wächst, und der Geliebte naht.
+Ich gehe heim!
+
+# Ich gehe heim!
+Wie süß sind diese Klänge!
+O sel'ge Heimat, wo der Brüder Menge
+Ich find' und nimmer wieder scheiden seh'!
+Ich gehe heim!
+
+# Ich gehe heim!
+Dort in der Heil'gen Mitte
+Seh' ich das Lamm, und folgend Seinem Tritte,
+Verkünd' ich laut, was Er an mir getan.
+Ich gehe heim!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/13161" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10280" xlink:type="simple">
+    <part>Music</part>
+    <year>1847</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>81</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#81" xlink:type="simple"/>
+</song>

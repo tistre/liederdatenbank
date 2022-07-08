@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1135">
+  <title>Welch Glück ist's, erlöst zu sein</title>
+  <subtitle>O preist Seiner Liebe Macht</subtitle>
+  <text># Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut! 
+Ich tauche mich tief hinein in diese Flut. 
+Von Sund' und Unreinigkeit bin ich hier frei 
+und jauchze voll selger Freud: "Jesus ist treu!"
+
+* 1.-4. O preist seiner Liebe Macht! 
+Preist seiner Liebe Macht, 
+preist seiner Liebe Macht, die uns erlöst!
+
+# Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut! 
+Ich leide nicht länger Pein, habe nun Mut: 
+Mir ging ja ein neues Licht gnadenvoll auf, 
+drum zweifle ich ferner nicht in meinem Lauf.
+
+# Welch Glück ist's, erlöst zu sein, Herr, durch dein Blut! 
+Das heilt die Gebrechen fein, macht alles gut. 
+Hier wandelt der Sorgen Heer schnell sich in Lust. 
+Man weinet und klagt nicht mehr an Jesu Brust.
+
+# O Jesu, Gekreuzigter, dir jauchz ich zu! 
+Mein Heiland, mein Gott und Herr, in dir ist Ruh. 
+Mit dir überwind ich weit des Todes Macht. 
+O Wort voller Seligkeit: Es ist vollbracht!</text>
+  <language>de</language>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>In den unterschiedlichen Büchern sind unterschiedliche Angaben zum Komponisten gemacht.
+Original: O bliss of the purified 1869</comment>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-4427" xlink:type="simple">
+    <part>Text</part>
+    <year>1869</year>
+  </author>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1875</year>
+  </author>
+  <author xlink:href="#artist-4553" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-11981" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4530" xlink:type="simple">
+    <part>Music</part>
+    <year>1869</year>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>253</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>368</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>172</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>318</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>156</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>123</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+</song>

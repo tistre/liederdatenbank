@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12874">
+  <title>Herr der Welt, dir huld'gen wir</title>
+  <subtitle/>
+  <text># Herr der Welt, dir huld'gen wir.
+Du bist Gott, Licht ist dein Kleid.
+Heiligkeit ist deine Zier,
+Majestät und Herrlichkeit.
+Droben im Lichtgepränge
+preist dich der Engel Menge,
+nimm auch die Lobgesänge von uns an! 
+
+# Herr der Welt, du schufst aus Staub
+Menschen dir zum Ebenbild.
+Sie, die wurden Satans Raub,
+hast gesucht du gnadenmild.
+Sie, die dich tief betrübet,
+hast du so treu geliebet,
+Gnade vor Recht geübet. Dank sei Dir!
+
+# Herr der Welt, wir beten an,
+neigen uns vor deinem Thron!
+Großes hat dein Arm getan,
+bis du sandtest deinen Sohn.
+Gnade für reu'ge Sünder,
+Heil für versöhnte Kinder,
+Kraft für die Überwinder reichst du dar!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-12873" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4476" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>27</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1088">
+  <title>Nimm mein Leben, Jesu, dir übergeb ich's für und für</title>
+  <text># Nimm mein Leben, Jesu, 
+dir übergeb ichs für und für. 
+Nimm Besitz von meiner Zeit; 
+jede Stund sei dir geweiht.
+
+# Nimm du meine Hände an, 
+zeig mir, wie ich dienen kann; 
+nimm die Füße, mach sie flink, 
+dir zu folgen auf den Wink.
+
+# Nimm die Stimme, lehre mich 
+reden, singen nur für dich; 
+nimm, o Herr, die Lippen mein, 
+lege deine Worte drein.
+
+# Nimm mein Gold und Silber hin, 
+lehr mich tun nach deinem Sinn; 
+nimm die Kräfte, den Verstand 
+ganz in deine Meisterhand.
+
+# Nimm, Herr, meinen Willen du, 
+dass er still in deinem ruh; 
+nimm mein Herz, mach hier es schon 
+dir zum Tempel und zum Thron.
+
+# Nimm du meiner Liebe Füll; 
+Jesus, all mein Sehnen still; 
+nimm mich selbst und lass mich sein 
+ewig, einzig, völlig dein.</text>
+  <language>de</language>
+  <right/>
+  <subtitle/>
+  <copyrightyear/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Satz: Neumünster 1931</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-21383" xlink:type="simple"/>
+  <originalsong xlink:href="#song-1089" xlink:type="simple"/>
+  <author xlink:href="#artist-4388" xlink:type="simple">
+    <part>Text</part>
+    <year>1873</year>
+  </author>
+  <author xlink:href="#artist-4453" xlink:type="simple">
+    <part>Text</part>
+    <year>1887</year>
+  </author>
+  <author xlink:href="#artist-4389" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1735</year>
+  </author>
+  <author xlink:href="#artist-4675" xlink:type="simple">
+    <part>Music</part>
+    <year>und Satz</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>448</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>368</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>253</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>220</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21259" xlink:type="simple">
+    <numinsongbook>122</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>157</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1142</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21030" xlink:type="simple">
+    <numinsongbook>146</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>172</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

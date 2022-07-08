@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12180">
+  <title>Halleluja! Der Heiland lebt</title>
+  <subtitle/>
+  <text># Halleluja! Der Heiland lebt;
+Er ist vom Tod erstanden.
+Die Höllenmacht des Teufels bebt;
+gesprengt sind alle Banden.
+Nun ist die finstre Nacht vorbei,
+der Zutritt zu dem Vater frei.
+Halleluja, der Heiland lebt!
+
+# Halleluja! Der Heiland siegt;
+es glänzet Seine Krone.
+Bis alles Ihm zu Füßen liegt,
+sitzt Er auf Seinem Throne.
+Ihm dient des Himmels ganzes Heer;
+denn Ihm gebührt Lob, Preis und Ehr.
+Halleluja, der Heiland siegt!
+
+# Halleluja! Der Heiland liebt;
+Er liebet Seine Kinder.
+O hört's, wie Er so gern vergibt
+und annimmt arme Sünder!
+Er hat ein Mahl für uns bereit
+und ladet ein zu seiner Zeit.
+Halleluja, der Heiland liebt!
+
+# Halleluja! Der Herr ist da,
+Er weilt im Kreis der Seinen.
+Ist allen bis ans Ende nah,
+den Großen und den Kleinen;
+Er führt sie durch das dunkle Tal
+in seinen schönen Himmelssaal.
+Halleluja, der Herr ist da! </text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1870</year>
+  </author>
+  <author xlink:href="#artist-12179" xlink:type="simple">
+    <part>Music</part>
+    <year>1863</year>
+  </author>
+  <songbookref xlink:href="#songbook-564" xlink:type="simple">
+    <numinsongbook>51</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-25074" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+</song>

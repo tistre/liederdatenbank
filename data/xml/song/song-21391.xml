@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21391">
+  <title>Der neue Morgen stehet auf</title>
+  <subtitle/>
+  <text># Der neue Morgen stehet auf,
+die Sonne nimmt nun ihren Lauf
+über das Rund der Erde,
+die Seele ist vom Schlaf erwacht,
+das Antlitz Jesu sie anlacht,
+zum neuen Tag Er rufet!
+
+# Der Tag gleichwie ein Ackerfeld
+liegt vor der Seel, die ihn bestellt,
+besäet ihn mit Samen.
+Was Liebe säet, gehet auf,
+und eine Ernte kommt zuhauf
+einst von dem neuen Tage.
+
+# O Tag vom Herrn, gegrüßt seist du!
+Du rufst mich auf von meiner Ruh
+zum Wirken, Lieben, Leiden.
+Du kommst und gehst, bist nimmer da,
+doch was in dich geleget war,
+das find ich droben wieder.</text>
+  <copyrightyear/>
+  <right>oekumenische Marienschwesternschaft</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-10144" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>202</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

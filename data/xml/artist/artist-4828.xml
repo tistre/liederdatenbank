@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4828">
+  <lastname>Kirkpatrick</lastname>
+  <firstname>William James</firstname>
+  <name/>
+  <born>1838</born>
+  <died>1921</died>
+  <comment>Geboren in Duncannon (USA), methodistischer Kaufmann, Mitherausgeber zahlreicher Liedersammlungen der Erweckungsbewegung, gestorben in Philadelphia.</comment>
+  <url xlink:href="http://www.cyberhymnal.org/bio/k/i/r/kirkpatrick_wj.htm" xlink:type="simple"/>
+</artist>

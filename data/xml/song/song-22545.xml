@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22545">
+  <title>Wir glauben an Gott, die Kraft, die alles schuf</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-21361" xlink:type="simple"/>
+  <author xlink:href="#artist-22543" xlink:type="simple">
+    <part>Text</part>
+    <year>1997</year>
+  </author>
+  <author xlink:href="#artist-22544" xlink:type="simple">
+    <part>Music</part>
+    <year>2007</year>
+  </author>
+  <songbookref xlink:href="#songbook-22148" xlink:type="simple">
+    <numinsongbook>044</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-gen-2" xlink:type="simple">
+    <verse>7</verse>
+  </bibleref>
+</song>

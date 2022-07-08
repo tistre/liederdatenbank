@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11420">
+  <title>Kommt mit Gaben und Lobgesang</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Text: nach dem englischen "Let us talents and tongues employ" von Fred Kaan 1975. - Melodie: nach einem Volkslied aus Jamaica.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <originalsong xlink:href="#song-26137" xlink:type="simple"/>
+  <author xlink:href="#artist-11326" xlink:type="simple">
+    <part>Text</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-11419" xlink:type="simple">
+    <part>Music</part>
+    <year>1972</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>229</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2766">
+  <title>Your eyes meet mine</title>
+  <subtitle>Accepted</subtitle>
+  <author xlink:href="#artist-4049" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-4050" xlink:type="simple">
+    <part>Text</part>
+    <year>1998</year>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-85" xlink:type="simple">
+    <numinsongbook>170</numinsongbook>
+  </songbookref>
+</song>

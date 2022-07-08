@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3320">
+  <title>Jesus, Gottes Lamm</title>
+  <subtitle>Alles in allem bist Du</subtitle>
+  <language>de</language>
+  <copyrightyear>1990</copyrightyear>
+  <right>D, A, CH: Universal Songs, Holland.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Übersetzung: http://www.liederdatenbank.de/song/4585.</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-20691" xlink:type="simple"/>
+  <originalsong xlink:href="#song-4584" xlink:type="simple"/>
+  <author xlink:href="#artist-4097" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1990</year>
+  </author>
+  <author xlink:href="#artist-2279" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-562" xlink:type="simple">
+    <numinsongbook>137</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10157" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10322" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-rev-5" xlink:type="simple">
+    <verse>12</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mat-13" xlink:type="simple">
+    <verse>44-46</verse>
+  </bibleref>
+</song>

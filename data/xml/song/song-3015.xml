@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3015">
+  <title>Dank sei Gott, durch den wir triumphieren</title>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear>1987</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Thanks Be To God".</comment>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-11269" xlink:type="simple"/>
+  <author xlink:href="#artist-4226" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1987</year>
+  </author>
+  <author xlink:href="#artist-3585" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-90" xlink:type="simple">
+    <numinsongbook>11</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10155" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10321" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-1co-15" xlink:type="simple">
+    <verse>57</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-eph-6" xlink:type="simple">
+    <verse>10-13</verse>
+  </bibleref>
+</song>

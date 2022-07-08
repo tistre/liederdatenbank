@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-22775">
+  <title>I Will Follow</title>
+  <subtitle>All Your ways are good</subtitle>
+  <copyrightyear>2010</copyrightyear>
+  <right>SHOUT! Music Publishing / sixsteps Music / worshiptogether.com songs / Vamos Publishing / Sony/ATV Timber Publishing / West Main Music / Windsor Hill Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5806878</ccli_number>
+  <comment/>
+  <language>en</language>
+  <ccli_features>LANH</ccli_features>
+  <author xlink:href="#artist-9396" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3592" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-22776" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22696" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23187" xlink:type="simple">
+    <numinsongbook>67</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24302" xlink:type="simple">
+    <numinsongbook>126</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <bibleref xlink:href="#biblechapter-mar-2" xlink:type="simple">
+    <verse>13-17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-22" xlink:type="simple">
+    <verse>35</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-6" xlink:type="simple">
+    <verse>67-69</verse>
+  </bibleref>
+</song>

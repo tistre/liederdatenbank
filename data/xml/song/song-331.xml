@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-331">
+  <title>Müde bin ich, geh zur Ruh</title>
+  <text># Müde bin ich, geh zur Ruh,
+schließe meine Augen zu.
+Vater, laß die Augen dein
+über meinem Bette sein.
+
+# Hab ich Unrecht heut getan,
+sieh es, lieber Gott, nicht an.
+Deine Gnad und Jesu Blut
+machen allen Schaden gut.
+
+# Alle, die mir sind verwandt,
+Gott, laß ruhn in deiner Hand;
+alle Menschen, groß und klein,
+sollen dir befohlen sein.
+
+# Kranken Herzen sende Ruh,
+nasse Augen trockne du.
+Laß den Mond am Himmel stehn
+und die stille Welt besehn.</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: Kaiserswerth 1842.</comment>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5210062</ccli_number>
+  <author xlink:href="#artist-11908" xlink:type="simple">
+    <part>Text</part>
+    <year>1817</year>
+  </author>
+  <author xlink:href="#artist-17194" xlink:type="simple">
+    <part>Music</part>
+    <year>1842</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>665</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>484</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19619" xlink:type="simple">
+    <numinsongbook>120</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>280</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-21960" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-93" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <url xlink:href="http://itunes.apple.com/de/album/mude-bin-ich-geh-zur-ruh/id326096062?i=326096084" xlink:type="simple">
+    <title>MP3-Download beim iTunes Music Store</title>
+  </url>
+</song>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1520">
+  <title>Wie schön leuchtet der Morgenstern</title>
+  <text># Wie schön leuchtet der Morgenstern, 
+voll Gnad und Wahrheit von dem Herrn 
+uns herrlich aufgegangen. 
+Du Sohn Davids aus Jakobs Stamm, 
+mein König und mein Bräutigam, 
+du hältst mein Herz gefangen. 
+Lieblich, freundlich, schön und prächtig, 
+groß und mächtig, reich an Gaben, 
+hoch und wunderbar erhaben.
+
+# Du meine Perl, du werte Kron, 
+wahr Gottes und Marien Sohn, 
+ein König hochgeboren! 
+Mein Kleinod du, mein Preis und Ruhm, 
+dein ewig Evangelium, 
+das hab ich mir erkoren. 
+Herr, dich such ich. 
+Hosianna. Himmlisch Manna, 
+das wir essen, 
+deiner kann ich nicht vergessen.
+
+# Gieß sehr tief in mein Herz hinein, 
+du leuchtend Kleinod, edler Stein, 
+die Flamme deiner Liebe 
+und gib, dass ich an deinem Leib, 
+dem auserwählten Weinstock, bleib 
+ein Zweig in frischem Triebe. 
+Nach dir steht mir mein Gemüte, 
+ewge Güte, bis es findet 
+dich, des Liebe mich entzündet.
+
+# Von Gott kommt mir ein Freudenschein, 
+wenn du mich mit den Augen dein 
+gar freundlich tust anblicken. 
+Herr Jesu, du mein trautes Gut, 
+dein Wort, dein Geist, dein Leib und Blut 
+mich innerlich erquicken. 
+Nimm mich freundlich in die Arme 
+und erbarme dich in Gnaden. 
+Auf dein Wort komm ich geladen.
+
+# Herr Gott Vater, mein starker Held, 
+du hast mich ewig vor der Welt 
+in deinem Sohn geliebet. 
+Er hat mich ganz sich angetraut, 
+er ist nun mein, ich seine Braut; 
+drum mich auch nichts betrübet. 
+Einst wird mein Hirt mir auch geben 
+himmlisch Leben bei ihm droben; 
+ewig soll mein Herz ihn loben.
+
+# Stimmt die Saiten der Cythara 
+und lasst die süße Musika 
+ganz freudenreich erschallen, 
+dass ich möge mit Jesus Christ, 
+der meines Herzens Bräutgam ist, 
+in steter Liebe wallen. 
+Singet, springet, jubilieret, 
+triumphieret, dankt dem Herren! 
+Groß ist der König der Ehren.
+
+# Wie bin ich doch so herzlich froh, 
+dass mein Schatz ist das A und O, 
+der Anfang und das Ende. 
+Er wird mich doch zu seinem Preis 
+aufnehmen in das Paradeis; 
+des klopf ich in die Hände. 
+Amen, Amen, komm, du schöne 
+Freudenkrone, säum nicht lange; 
+deiner wart ich mit Verlangen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13252", "http://www.liederdatenbank.de/song/2106", "http://www.liederdatenbank.de/song/13660", "http://www.liederdatenbank.de/song/1394".</comment>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <ccli_number>5212723</ccli_number>
+  <author xlink:href="#artist-4443" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>1599</year>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>262</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>85</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>288</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>70</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>321</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>48</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-24808" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-isa-11" xlink:type="simple">
+    <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-22" xlink:type="simple">
+    <verse>16-17</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-rev-4" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+</song>

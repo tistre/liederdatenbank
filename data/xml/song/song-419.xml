@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-419">
+  <title>Wort des Lebens, lautre Quelle</title>
+  <text># Wort des Lebens, laut're Quelle,
+die vom Himmel sich ergießt,
+Lebenskräfte gibst du jedem,
+der dir Geist und Herz erschließt,
+der sich, wie die welke Blume,
+die der Sonnenbrand gebleicht,
+dürstend von dem dürren Lande
+zu der Quelle niederneigt.
+
+# Ohne dich, was ist die Erde?
+Ein beschränktes, finstres Tal.
+Ohne dich, was ist der Himmel?
+Ein verschloßner Freudensaal.
+Ohne dich, was ist das Leben?
+Ein erneuter, finstrer Tod.
+Ohne dich, was ist das Sterben?
+Nachtgraun ohne Morgenrot.
+
+# Wort des Lebens, du erleuchtest,
+doch erwärmst du auch zugleich;
+eine Hölle offenbarst du,
+aber auch ein Himmelreich.
+Furchtbar schreckest du den Sünder
+aus der dumpfen, trägen Ruh';
+doch mit Liebe deckst du wieder
+jedes Büßers Fehle zu.
+
+# Einen Richter lehrst du fürchten,
+der mit rechter Waage wägt;
+doch auch einen Vater lieben,
+der mit Langmut alle trägt,
+einen Gott, der den geliebten,
+eingen Sohn zum Opfer gibt,
+der an ihm die Sünde richtet
+und in ihm die Sünder liebt.
+
+# Wort des Lebens, wer dich höret,
+dem versprichst du ewges Heil;
+doch nur dem, der dich bewahret,
+wird das Kleinod einst zuteil.
+Nun, so will ich dich bewahren,
+Schwert des Geistes, Gottes Wort;
+hilf mir hier auf Erden streiten
+und die Kron ererben dort!</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment/>
+  <copyrightyear/>
+  <ccli_number/>
+  <ccli_features/>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year>1833</year>
+  </author>
+  <author xlink:href="#artist-692" xlink:type="simple">
+    <part>Music</part>
+    <year>1870</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>181</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9442" xlink:type="simple">
+    <numinsongbook>105</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-99" xlink:type="simple"/>
+</song>

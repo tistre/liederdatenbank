@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1039">
+  <title>Der Heiland ist geboren</title>
+  <subtitle>Freut euch von Herzen</subtitle>
+  <text># Der Heiland ist geboren, 
+freu dich, du Christenheit. 
+Sonst wär'n wir gar verloren 
+in alle Ewigkeit.
+
+* Freut euch von Herzen, ihr Christen all,
+kommt her zum Kindlein in dem Stall! 
+Freut euch von Herzen, ihr Christen all, 
+kommt her zum Kindlein in dem Stall.
+
+# Ein Kindlein auserkoren, 
+freu dich, du Christenheit. 
+Sonst wär'n wir gar verloren 
+in alle Ewigkeit.
+
+# Die Engel lieblich singen,
+freu dich, du Christenheit;
+tun gute Botschaft bringen,
+verkündigen große Freud.
+
+# Den Frieden sie verkünden,
+freu dich, du Christenheit;
+Vergebung aller Sünden
+ist uns im Stall bereit. 
+
+# Der Stall ist allen offen, 
+freu dich, du Christenheit. 
+Wer will, der kann jetzt hoffen 
+Gnad und Barmherzigkeit. 
+
+# Der Gnadenbrunn tut fließen,
+freu dich, du Christenheit.
+Tuet all das Kindlein grüßen!
+Kommt her zu ihm mit Freud.</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Es gibt unterschiedliche Verse.       Satz: http://www.liederdatenbank.de/artist/4479</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-19991" xlink:type="simple">
+    <part>Text</part>
+    <year>19. Jh.</year>
+  </author>
+  <author xlink:href="#artist-19965" xlink:type="simple">
+    <part>Music</part>
+    <year>1881/1883</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>49</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>147</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14365" xlink:type="simple">
+    <numinsongbook>810</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16118" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>126</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>248</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>591</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25503" xlink:type="simple">
+    <numinsongbook>18</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25501" xlink:type="simple">
+    <numinsongbook>13</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <cdref xlink:href="#cd-27042" xlink:type="simple">
+    <cdnum/>
+    <numoncd>5</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

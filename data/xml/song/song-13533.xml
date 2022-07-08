@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13533">
+  <title>Wir stehen, Herr, im Heiligtum</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Text: Dichter unbekannt.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/10189", "http://www.liederdatenbank.de/song/1223", "http://www.liederdatenbank.de/song/13105", "http://www.liederdatenbank.de/song/13169", "http://www.liederdatenbank.de/song/13438", "http://www.liederdatenbank.de/song/1597".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4522" xlink:type="simple">
+    <part>Music</part>
+    <year>1675</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>260</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>

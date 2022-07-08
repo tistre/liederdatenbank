@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-8995">
+  <lastname>Schulz</lastname>
+  <firstname>Johann Abraham Peter</firstname>
+  <name/>
+  <born>1747</born>
+  <died>1800</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Abraham_Peter_Schulz" xlink:type="simple"/>
+</artist>

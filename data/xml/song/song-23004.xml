@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23004">
+  <title>Jeden Tag bis zum Ende der Zeiten</title>
+  <subtitle/>
+  <copyrightyear>2002</copyrightyear>
+  <right>Verwaltet von SCM Hänssler</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number>5293065</ccli_number>
+  <comment/>
+  <language>de</language>
+  <ccli_features>LA</ccli_features>
+  <publisher xlink:href="#publisher-11797" xlink:type="simple"/>
+  <originalsong xlink:href="#song-23003" xlink:type="simple"/>
+  <author xlink:href="#artist-3593" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-2772" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-22417" xlink:type="simple">
+    <numinsongbook>187</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

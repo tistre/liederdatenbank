@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-12915">
+  <name>Lehre uns Herr</name>
+  <comment>Jugend mit einer Mission e.V., Hurlach 1977
+ISBN 3-88076-005-5. - 41 Lieder mit Akkordbezeichnungen.</comment>
+  <state>1</state>
+  <icon xlink:href="#file-12914" xlink:type="simple"/>
+  <url xlink:href="http://www.jmem.de/" xlink:type="simple">
+    <title>Jugend mit einer Mission Deutschland</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/dp/3880760055" xlink:type="simple">
+    <title>Lehre uns Herr @ Amazon.de</title>
+  </url>
+  <url xlink:href="http://www.booklooker.de/app/result.php?titel=Lehre+uns+Herr&amp;infotext=Liederbuch" xlink:type="simple">
+    <title>Lehre uns Herr @ Booklooker.de</title>
+  </url>
+</songbook>

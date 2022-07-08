@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-119">
+  <title>Amazing Grace</title>
+  <text># Amazing grace! How sweet the sound!
+That saved a wretch like me!
+I once was lost, but now am found;
+was blind, but now I see.
+
+# 'Twas grace that taught my heart to fear,
+and grace my fears relieved.
+How precious did that grace appear
+the hour I first believed.
+
+# How sweet the Name of Jesus sounds
+in a believer's ear.
+It soothes his sorrows, heals the wounds,
+and drives away his fear.
+
+# Must Jesus bear the cross alone
+and all the world go free?
+No, there's a cross for ev'ry one 
+and there's a cross for me.
+
+# Through many dangers, toil and snares
+I have already come.
+'Tis grace hath brought me safe thus far,
+and grace will lead me home.
+
+# When we've been there ten thousand years,
+bright, shining as the sun,
+we've no less days to sing God's praise
+than when we first begun.
+
+# Amazing grace! How warm the Sound
+that gave new life to me,
+he willmy Shield and prtion be,
+his word my hope secures.</text>
+  <language>en</language>
+  <subtitle>Amazing grace, how sweet the sound, that saved a wretch like me.</subtitle>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: Southern Folk Melodie. Im Buch Fontäne gibt es 7 Strophen.</comment>
+  <copyrightyear/>
+  <ccli_features>LANH</ccli_features>
+  <ccli_number>4737522</ccli_number>
+  <author xlink:href="#artist-4307" xlink:type="simple">
+    <part>Text</part>
+    <year>1779</year>
+  </author>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>65</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>323</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>28</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>6</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>92</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>101</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>117</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21996" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22084" xlink:type="simple">
+    <numinsongbook>10</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22196" xlink:type="simple">
+    <numinsongbook>047</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22289" xlink:type="simple">
+    <numinsongbook>133</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23422" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-23473" xlink:type="simple">
+    <numinsongbook>61</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9444" xlink:type="simple">
+    <numinsongbook>230</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10318" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-97" xlink:type="simple"/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Amazing_Grace" xlink:type="simple">
+    <title>Wikipedia</title>
+  </url>
+  <url xlink:href="http://www5.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=65978" xlink:type="simple">
+    <title>MP3-Download bei haenssler.de</title>
+  </url>
+</song>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2499">
+  <title>Herr, ich komm vor Deinen Gnadenthron</title>
+  <author xlink:href="#artist-3644" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3645" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3646" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <author xlink:href="#artist-3647" xlink:type="simple">
+    <part>Music</part>
+    <year>1989</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+  </songbookref>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+</song>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2802">
+  <title>As we seek Your face</title>
+  <author xlink:href="#artist-3977" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>17</numinsongbook>
+  </songbookref>
+</song>

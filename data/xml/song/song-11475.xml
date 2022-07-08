@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11475">
+  <title>Mein Gott, ich bin entschieden</title>
+  <subtitle>Es schaut bei Nacht und Tage</subtitle>
+  <text># Es schaut bei Nacht und Tage 
+den holdes Bild mich an
+und legt mir vor die Frage,
+ob ich dich lassen kann.
+
+* 1.-4. Mein Gott, ich bin entschieden,
+auf ewig bin ich dein,
+ich kann ja ohne Frieden
+und ohne dich nicht sein.
+
+# Die Freuden dieser Erden
+sah ich wie Schaum vergehn,
+sie konnten mir nichts werden,
+dein Kreuz nur blieb mir stehn.
+
+# Oft habe ich gejammert,
+wenn Satans List mich schlug;
+jetzt hab ich den umklammert,
+der meine Sünden trug.
+
+# Nun steht bei Nacht und Tage
+dein Bild im Herzen mir,
+dass ich es jedem sage,
+wie gut es ist bei dir.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied kann auch auf die Melodie "http://www.liederdatenbank.de/song/1634" gesungen werden.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4410" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9371" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>464</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>37</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>193</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-2566" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

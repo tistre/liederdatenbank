@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-25986">
+  <title>Ja, Jesus will ich trau'n</title>
+  <subtitle>Gott ist mein Hort</subtitle>
+  <copyrightyear/>
+  <right>Biglow &amp; Main Co, Chicago</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>aus "Evangeliums-Lieder 1 und 2"</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-25984" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-25985" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4392" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>520</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-25252" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+</song>

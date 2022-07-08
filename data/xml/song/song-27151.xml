@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27151">
+  <title>Hört auf das Singen und Schwingen</title>
+  <subtitle/>
+  <copyrightyear>1974</copyrightyear>
+  <right>Latter Rain Music (Word Inc.), D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: "Hear The Bells Ringing". Satz: http://www.liederdatenbank.de/artist/78.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-27150" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-683" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1186</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10368" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-104" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-mat-28" xlink:type="simple">
+    <verse>1-7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-mar-16" xlink:type="simple">
+    <verse>1-7</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-luk-24" xlink:type="simple">
+    <verse>1-6</verse>
+  </bibleref>
+</song>

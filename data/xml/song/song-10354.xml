@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10354">
+  <title>Ich erhebe dich, mein Gott</title>
+  <subtitle/>
+  <right>Scripture in Song Music / Integrity Music</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Andere Übersetzung: http://www.liederdatenbank.de/song/264.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <originalsong xlink:href="#song-977" xlink:type="simple"/>
+  <author xlink:href="#artist-3421" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>und Satz 1977</year>
+  </author>
+  <author xlink:href="#artist-10173" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9367" xlink:type="simple">
+    <numinsongbook>45</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11496">
+  <title>Herr, mit Inbrunst bitten wir</title>
+  <subtitle/>
+  <text># Herr, mit Inbrunst bitten wir
+nicht ein irdisch Gut von dir,
+nichts, womit man eitel prangt,
+nichts, wonach die Welt verlangt.
+
+* 1.-9. Sieh, wir wollen, Herr, du weißt,
+wandeln nur nach deinem Geist,
+nichts soll seinem sanften Wehn
+hemmend mehr im Wege stehn!
+Nimm, o nimm du allein
+bleibend unsre Herzen ein!
+
+# Nicht das Fleisch, der Geist allein
+soll in uns der Herrscher sein,
+und wir wollen lauschen still,
+wenn er mit uns reden will.
+
+# Dass wir ihn so oft betrübt,
+seinen Wink nicht ausgeübt,
+Herr, du wollest es verzeihn,
+künftig soll es besser sein!
+
+# Er allein bestimme nun
+unser Denken, Reden, Tun,
+also dass sich kein Gebiet
+seinem Einfluss mehr entzieht.
+
+# Unter deines Geistes Zucht
+reife still die Geistesfrucht;
+jeder müsse an uns sehn,
+das, was in uns ist geschehn.
+
+# Liebe, Freude, Glaubenstreu
+werden täglich bei uns neu;
+Sanftmut, Freundlichkeit, Geduld
+decke stets des Nächsten Schuld.
+
+# Da sei Friede, Gütigkeit,
+die zum Dienen ist bereit,
+Reinheit, welche von sich weist
+alles das, was schädlich heißt.
+
+# Volle Wahrheit, Mäßigkeit,
+Treue, Fleiß und Nüchternheit
+müsse ohne falschen Schein
+an uns wahrzunehmen sein.
+
+# Welche Gnade liegt darin,
+ganz zu tun nach deinem Sinn,
+als dein Werkzeug dazustehn,
+sich von dir gebraucht zu sehn.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11963" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4420" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-24974" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10084" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>254</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-563" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12086" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-24820" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-12085" xlink:type="simple"/>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10089">
+  <title>Einander lieben</title>
+  <subtitle/>
+  <right>Hänssler Verlag, D-71087 Holzgerlingen
+</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-10088" xlink:type="simple">
+    <part>Text</part>
+    <year>2005</year>
+  </author>
+  <author xlink:href="#artist-3640" xlink:type="simple">
+    <part>Text</part>
+    <year>2005</year>
+  </author>
+  <author xlink:href="#artist-10090" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2005</year>
+  </author>
+  <songbookref xlink:href="#songbook-8844" xlink:type="simple">
+    <numinsongbook>183</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

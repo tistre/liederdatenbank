@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-22016">
+  <name>Here I am to worship</name>
+  <comment/>
+  <state>0</state>
+  <url xlink:href="http://www.amazon.de/gp/product/B002Q1TO4E/ref=dm_sp_alb?ie=UTF8&amp;qid=1270654105&amp;sr=8-9" xlink:type="simple">
+    <title>CD bei Amazon</title>
+  </url>
+  <icon xlink:href="#file-22015" xlink:type="simple"/>
+</cd>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-12031">
+  <title>Geh hin nach Gottes Willen</title>
+  <subtitle/>
+  <text># Geh hin nach Gottes Willen 
+in Demut und Vertraun,
+lern das Gebot erfüllen, 
+sein großes Feld zu baun.
+Frag nach der Ernte nicht,
+du darfst den Lohn nicht messen,
+musst Freud und Lust vergessen,
+nur sehn auf deine Pflicht.
+
+# Willst du nur sein geborgen
+und vor der Welt geehrt,
+so kannst du nicht besorgen,
+was deinem Herrn gehört;
+sieht jemand auf Gewinn
+und trachtet hier auf Erden
+nur glücklicher zu werden,
+der hat den Lohn dahin.
+
+# Doch hast du deine Gaben
+dem Dienst des Herrn geweiht,
+so wirst du Augen haben
+zu sehn, was er gebeut.
+Das tue still und gern;
+du darfst nicht zaudernd wählen,
+nicht rechnen und nicht zählen;
+er ruft, du folgst dem Herrn.
+
+# Nur frisch an allen Enden
+die Arbeit angefasst!
+Mit unverdrossnen Händen 
+sei wirksam ohne Rast!
+Das ist der rechte Mut!
+Streu aus den edlen Samen,
+arbeit in Gottes Namen,
+so keimt und wächst es gut.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: 16. Jh. Satz: http://www.liederdatenbank.de/artist/8981.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-12030" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-19954" xlink:type="simple">
+    <part>Music</part>
+    <year>1598</year>
+  </author>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>722</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10414" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-21388" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-26133" xlink:type="simple"/>
+</song>

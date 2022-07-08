@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4876">
+  <title>Battle lines are drawn</title>
+  <subtitle>Love grenade</subtitle>
+  <author xlink:href="#artist-5045" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>9</numinsongbook>
+  </songbookref>
+  <right>Projektion J. Musikverlag</right>
+</song>

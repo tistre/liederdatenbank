@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2772">
+  <firstname>Arne</firstname>
+  <lastname>Kopfermann</lastname>
+  <name/>
+  <born>1967</born>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.arnekopfermann.de/" xlink:type="simple">
+    <title>arnekopfermann.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/k/kopfermann.htm" xlink:type="simple">
+    <title>Arne Kopfermann @ ccmrezis.de</title>
+  </url>
+  <url xlink:href="http://de.wikipedia.org/wiki/Arne_Kopfermann" xlink:type="simple">
+    <title>Arne Kopfermann @ Wikipedia.de</title>
+  </url>
+</artist>

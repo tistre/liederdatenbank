@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13249">
+  <title>Du, o Herr, bist unser Leben</title>
+  <subtitle/>
+  <text># Du, o Herr, bist unser Leben,
+Unser Heil bist Du allein.
+Dich und Deine Lieb' erheben,
+Kann nur Freude für uns sein.
+Uns zu gut bist Du gestorben,
+Hast uns ganz für Dich erworben.
+Deine Liebe läßt uns nie.
+
+# Wieviel Schmerz hast Du erduldet,
+Wieviel Tränen Du geweint!
+Alles das, was wir verschuldet,
+Lag auf Dir, o Herr, vereint.
+Durch Dein Blut sind wir versöhnet,
+Werden dort mit Dir gekrönet.
+Deine Liebe endet nie.
+
+# Ja, Dein Lieben ohn' Ermüden
+Brachte unsern Seelen Ruh',
+Daß wir jetzt in Deinem Frieden
+Wallen Deiner Wohnung zu.
+Deine Freude ist, zu segnen,
+Freundlich allen zu begegnen.
+Deine Liebe ruhet nie.
+
+# Gehen wir durch Kampf und Leiden,
+Deine Liebe hält uns fest.
+Sehen wir hier alles scheiden,
+Deine Lieb' uns nie verläßt.
+Auch die Trübsal wird verschwinden,
+Jeder Kampf sein Ende finden.
+Deine Liebe schwindet nie.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Das Lied läßt sich auch auf die Melodien der Lieder "http://www.liederdatenbank.de/song/10226", "http://www.liederdatenbank.de/song/13168" oder "http://www.liederdatenbank.de/song/13248" singen.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>97</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/091_100.html#97" xlink:type="simple"/>
+</song>

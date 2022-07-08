@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-24428">
+  <title>Da pacem, Domine, in diebus nostris</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Übersetzung (nicht singbar): Gib Frieden, Herr, in unseren Tagen.
+Text: 9. Jh. "Da pacem, Domine" (lateinisch).
+Kanon für vier Stimmen.</comment>
+  <language>la</language>
+  <ccli_features/>
+  <author xlink:href="#artist-10206" xlink:type="simple">
+    <part>Music</part>
+    <year>1629</year>
+  </author>
+  <songbookref xlink:href="#songbook-24315" xlink:type="simple">
+    <numinsongbook>98</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21311" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+</song>

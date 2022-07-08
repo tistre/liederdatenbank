@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23222">
+  <title>Lord of the Dance</title>
+  <subtitle>I danced in the morning when the world was begun</subtitle>
+  <copyrightyear>1963</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-23220" xlink:type="simple"/>
+  <author xlink:href="#artist-23221" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-21550" xlink:type="simple">
+    <numinsongbook>210</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.youtube.com/watch?v=PEAIJV6CmtA" xlink:type="simple">
+    <title>Lord of the Dance @ Youtube</title>
+  </url>
+  <url xlink:href="http://www.lyricsmode.com/lyrics/s/sydney_carter/lord_of_the_dance.html" xlink:type="simple">
+    <title>Text (engl.)</title>
+  </url>
+</song>

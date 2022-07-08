@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10467">
+  <title>Deep down in my heart</title>
+  <subtitle>Jesus, I love you deep down in my heart</subtitle>
+  <text>#
+Jesus, I love you deep down in my heart,
+Jesus, I love you deep down in my heart.
+(2x)
+
+*
+(Männer) We talk about:
+(Frauen) deep, deep, down, down,
+deep down in my heart.
+(Männer) We talk about:
+(Frauen) deep, deep, down, down,
+deep down in my heart.
+(2x)
+
+#
+Jesus, I need you deep down in my heart,
+Jesus, I love you deep down in my heart.
+(2x)
+
+#
+Jesus, I praise you deep down in my heart,
+Jesus, I love you deep down in my heart.</text>
+  <right>Rechte: unbekannt</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>en</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9325" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

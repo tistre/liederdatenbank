@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-20404">
+  <title>Die Sonntagsschul' ist uns're Lust</title>
+  <subtitle/>
+  <text># Die Sonntagsschul' ist unsre Lust
+und wird es mehr und mehr.
+Sie bringt uns, was wir nicht gewusst,
+in süßen Stunden her:
+Die Wahrheit aus der reinsten Quell
+und Jesu Liebe klar und hell;
+man lehrt uns lieben, aufwärts schaun
+und auf den Herrn vertraun.
+
+* Singet, dass es laut erschallt
+und Erd und Himmel widerhallt:
+Hosianna, Hosianna,
+Hosianna sei dem Gotteslamm.
+
+
+
+
+
+
+
+
+
+
+
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Neuerer Text: http://www.liederdatenbank.de/song/25095.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-541" xlink:type="simple">
+    <part>Text</part>
+    <year>1869</year>
+  </author>
+  <author xlink:href="#artist-20892" xlink:type="simple">
+    <part>Music</part>
+    <year>1869</year>
+  </author>
+  <songbookref xlink:href="#songbook-16432" xlink:type="simple">
+    <numinsongbook>104</numinsongbook>
+    <notes>0</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-21595" xlink:type="simple">
+    <numinsongbook>235</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-436" xlink:type="simple"/>
+</song>

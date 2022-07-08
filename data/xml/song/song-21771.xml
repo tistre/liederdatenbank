@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-21771">
+  <title>Nun bist du fort</title>
+  <subtitle/>
+  <copyrightyear>1978</copyrightyear>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <publisher xlink:href="#publisher-14618" xlink:type="simple"/>
+  <author xlink:href="#artist-55" xlink:type="simple">
+    <part>TextMusic</part>
+    <year/>
+  </author>
+  <cdref xlink:href="#cd-21773" xlink:type="simple">
+    <cdnum/>
+    <numoncd>6</numoncd>
+  </cdref>
+  <keyword xlink:href="#keyword-21312" xlink:type="simple"/>
+  <url xlink:href="http://shop.erf.de/products/00/25216" xlink:type="simple">
+    <title>Nun bist du fort Bildband &amp; CD</title>
+  </url>
+</song>

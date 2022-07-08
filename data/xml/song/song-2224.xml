@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2224">
+  <title>Die güldene Sonne bringt Leben und Wonne</title>
+  <subtitle/>
+  <text># Die güldene Sonne bringt Leben und Wonne,
+die Finsternis weicht.
+Der Morgen sich zeiget, die Röte aufsteiget,
+der Monde verbleicht.
+
+# Nun wollen wir loben den Höchsten dort oben,
+dass er uns die Nacht
+hat wollen behüten vor Schrecken und Wüten
+der höllischen Macht.
+
+# Kommt, lasset uns singen, die Stimmen erschwingen,
+zu danken dem Herrn.
+Ei bittet und flehet, dass er uns beistehet
+und weiche nicht fern.
+
+# Es sei ihm gegeben mein Leben und Streben,
+mein Gehen und Stehn.
+Er gebe mir Gaben zu meinem Vorhaben,
+lass richtig mich gehen.
+
+# In meinem Studieren wird er mich wohl führen
+und bleiben bei mir,
+wird schärfen die Sinnen zu meinem Beginnen
+und öffnen die Tür.</text>
+  <copyrightyear>2001</copyrightyear>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-10865" xlink:type="simple"/>
+  <author xlink:href="#artist-11790" xlink:type="simple">
+    <part>Text</part>
+    <year>1641</year>
+  </author>
+  <author xlink:href="#artist-11791" xlink:type="simple">
+    <part>Music</part>
+    <year>1671</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>628</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>444</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-13183" xlink:type="simple">
+    <numinsongbook>301</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>414</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-16891" xlink:type="simple">
+    <numinsongbook>2</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10156" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-94" xlink:type="simple"/>
+</song>

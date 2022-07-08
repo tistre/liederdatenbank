@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2339">
+  <title>Herr aller Himmel</title>
+  <author xlink:href="#artist-2575" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3726" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <author xlink:href="#artist-3727" xlink:type="simple">
+    <part>Music</part>
+    <year>1998</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-2273" xlink:type="simple">
+    <numinsongbook>52</numinsongbook>
+  </songbookref>
+  <right>CopyCare Deutschland</right>
+</song>

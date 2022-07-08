@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-10195">
+  <title>Ach, wer kann Dich würdig loben</title>
+  <subtitle/>
+  <text># Ach, wer kann Dich würdig loben,
+Großer Gott von Ewigkeit!
+Was auf Erden und was droben,
+Zeugt von Deiner Gütigkeit.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!
+
+# Wer kann Deine Lieb' ergründen,
+Deine Gnade, Deine Huld!
+Gabst den Sohn für unsre Sünden,
+Sprachst uns frei von aller Schuld.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!
+
+# Wer kann Deine Treu' ermessen,
+Deine Langmut, Sorg' und Müh'!
+Mag ein Weib ihr Kind vergessen,
+Du vergißt die Deinen nie.
+Du, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!
+
+# Wer kann Deine Größe nennen
+Und Dein Wundertun verstehn!
+Wer kann, wie Du bist, Dich kennen
+Und in Deine Tiefen sehn!
+Ja, Du bist des Lobes wert;
+Selig, wer Dich preist und ehrt!</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-24976" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10194" xlink:type="simple">
+    <part>Music</part>
+    <year>1816</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>4</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/001_010.html#4" xlink:type="simple"/>
+</song>

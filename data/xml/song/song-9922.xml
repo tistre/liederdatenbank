@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9922">
+  <title>Freut euch, ihr lieben Christen all</title>
+  <subtitle/>
+  <text># Freut euch, ihr lieben Christen all,
+lobsinget Gott mit hellem Schall,
+ja singt und spielt aus Dankbarkeit
+dem Herrn im Herzen allezeit,
+
+# dass er uns seinen liebsten Sohn
+herabgesandt vons Himmels Thron,
+zu helfen uns aus aller Not,
+zu tilgen Teufel, Sünd und Tod.
+
+# Du mein herzliebstes Jesulein
+wollst unser Herz und Sinn allein
+dabei erhalten stet und fest,
+dass du der recht Nothelfer bist;
+
+# wollst uns auch dies angehend Jahr
+vor Leid behüten und Gefahr,
+auch Krankheit, Tod und Kriegesnot
+abwenden als ein gnäd’ger Gott,
+
+# auf dass dein Wort in diesem Land
+zunehm und wachs ohn Widerstand,
+auch Friede, Treu, Gerechtigkeit
+befördert werd zu aller Zeit.
+</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9920" xlink:type="simple">
+    <part>Text</part>
+    <year>1612</year>
+  </author>
+  <author xlink:href="#artist-3995" xlink:type="simple">
+    <part>Music</part>
+    <year>1605</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>60</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-14689" xlink:type="simple">
+    <numinsongbook>40</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-19854" xlink:type="simple">
+    <numinsongbook>59</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-102" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-105" xlink:type="simple"/>
+</song>

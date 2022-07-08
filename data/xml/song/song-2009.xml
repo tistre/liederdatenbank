@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2009">
+  <title>O drückten Jesu Todesmienen</title>
+  <subtitle/>
+  <text># O drückten Jesu Todesmienen 
+sich meiner Seel auf ewig ein.
+O möchte stündlich sein Versühnen 
+in meinem Herzen kräftig sein.
+Denn ach, was hab ich ihm zu danken!
+Für meine Sünden floss sein Blut;
+das heilet mich, den Armen, Kranken
+und kommt mir ewiglich zugut.
+
+# Ein Glaubensblick auf Jesu Leiden
+gibt dem verzagten Herzen Mut;
+die Quelle wahrer Geistesfreuden
+ist sein vergossnes teures Blut,
+wenn seine Kraft das Herz durchfließt,
+sein Lieben unsern Geist durchdringt,
+die Glaubenshand sein Kreuz umschließt
+und uns sein Anblick Frieden bringt.
+
+# Für mich starb Jesus. Meine Sünden
+sind's, die ihn in den Tod versenkt;
+drum lässt er Gnade mir verkünden,
+die mich mit Lebenswasser tränkt.
+O Strom, so lauter, klar und helle,
+mein Herz soll offenstehn für dich;
+du unerschöpfte Friedensquelle,
+ergieße dich doch stets in mich!
+
+# Herr Jesu, nimm zum Lohn der Schmerzen
+mich Armen an, so wie ich bin!
+Ich setze dir in meinem Herzen
+ein Denkmal deiner Liebe hin,
+die dich für mich in Tod getrieben,
+die mich aus meinem Jammer riss.
+Ich will dich herzlich wieder lieben;
+du nimmst es an, ich bin's gewiss.
+
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-4203" xlink:type="simple">
+    <part>Text</part>
+    <year>1755</year>
+  </author>
+  <author xlink:href="#artist-27074" xlink:type="simple">
+    <part>Text</part>
+    <year>1755</year>
+  </author>
+  <author xlink:href="#artist-27075" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1777) 1778</year>
+  </author>
+  <author xlink:href="#artist-27076" xlink:type="simple">
+    <part>Music</part>
+    <year>1855</year>
+  </author>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>96</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+</song>

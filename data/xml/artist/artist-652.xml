@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-652">
+  <firstname>Tobias</firstname>
+  <lastname>Clausnitzer</lastname>
+  <name/>
+  <born>1619</born>
+  <died>1684</died>
+  <comment>Geboren in Thum bei Annaberg, zunächst Feldprediger, dann Pfarrer in Weiden/Oberpfalz.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Tobias_Clausnitzer" xlink:type="simple">
+    <title>Tobias Clausnitzer @ Wikipedia.org</title>
+  </url>
+</artist>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13216">
+  <title>O Vater, reich gesegnet</title>
+  <subtitle/>
+  <text># O Vater, reich gesegnet
+Bin ich hienieden schon,
+Weil Du mir bist begegnet
+In dem geliebten Sohn.
+Er ist die höchste Gabe,
+Nichts Höh'res hattest Du,
+Und weil ich Ihn jetzt habe,
+Hat meine Seele Ruh'.
+
+# Ich weiß, daß Du mich liebest
+Und väterlich mich pflegst,
+Daß Du mir alles gibest,
+Mich stets mit Langmut trägst.
+Wohin ich mich mag wenden,
+Folgt Deine Liebe mir,
+Ich ruh' in guten Händen,
+Es trennt mich nichts von Dir.
+
+# Wie könnt' ich ängstlich sorgen,
+Da Du mein Vater bist!
+Du bist es heut' und morgen,
+Dein Herz mich nie vergißt.
+Du wirst mich nie beschämen,
+Weil Du mich innig liebst,
+Ich werde reichlich nehmen,
+Was gut ist, Du mir gibst.
+
+# Du sorgst für allen Dinge
+So weise, treu und gut,
+Nichts ist Dir zu geringe,
+Drum mein Herz sorglos ruht.
+Es ruht in Deiner Liebe
+So selig und so frei,
+Und wenn mir nichts mehr bliebe,
+Dein Vaterherz bleibt treu.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: "http://www.liederdatenbank.de/song/13162"</comment>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>86</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/081_090.html#86" xlink:type="simple"/>
+</song>

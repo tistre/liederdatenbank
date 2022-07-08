@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4660">
+  <firstname>Johann Andreas</firstname>
+  <lastname>Cramer</lastname>
+  <name/>
+  <born>1723</born>
+  <died>1788</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Johann_Andreas_Cramer" xlink:type="simple">
+    <title>Johann Andreas Cramer @ Wikipedia.org</title>
+  </url>
+</artist>

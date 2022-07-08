@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1239">
+  <title>Im Glauben und Vertrauen</title>
+  <author xlink:href="#artist-4535" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-3634" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>379</numinsongbook>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>416</numinsongbook>
+  </songbookref>
+</song>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-27129">
+  <title>80. Geburtstag</title>
+  <subtitle>Glory, glory, halleluja</subtitle>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>gleiche Melodie: http://www.liederdatenbank.de/song/1226, http://www.liederdatenbank.de/song/1225, http://www.liederdatenbank.de/song/27706, http://www.liederdatenbank.de/song/27127.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-14405" xlink:type="simple"/>
+  <author xlink:href="#artist-55" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-9378" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-25107" xlink:type="simple">
+    <numinsongbook>274</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-21734" xlink:type="simple"/>
+</song>

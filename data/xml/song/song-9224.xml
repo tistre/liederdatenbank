@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-9224">
+  <title>Freut euch in dem Herrn allerwege</title>
+  <subtitle/>
+  <right/>
+  <textcopyright>reserved</textcopyright>
+  <comment>Kanon zu 4 Stimmen.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_number/>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>140</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-96" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-php-4" xlink:type="simple">
+    <verse>4</verse>
+  </bibleref>
+</song>

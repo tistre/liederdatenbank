@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-4875">
+  <title>There's a hunger in this wilderness</title>
+  <subtitle>When You call my name</subtitle>
+  <author xlink:href="#artist-441" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <author xlink:href="#artist-3594" xlink:type="simple">
+    <part>TextMusic</part>
+  </author>
+  <language>en</language>
+  <songbookref xlink:href="#songbook-4862" xlink:type="simple">
+    <numinsongbook>8</numinsongbook>
+  </songbookref>
+  <right>Vineyard Songs</right>
+</song>

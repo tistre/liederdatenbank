@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-672">
+  <name>Immanuel Lobpreiswerkstatt</name>
+  <firstname/>
+  <lastname/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.lobpreiswerkstatt.de/" xlink:type="simple">
+    <title>lobpreiswerkstatt.de</title>
+  </url>
+  <url xlink:href="http://ccmrezis.de/cds/i/ilpws.htm" xlink:type="simple">
+    <title>Immanuel Lobpreiswerkstatt @ ccmrezis.de</title>
+  </url>
+</artist>

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1236">
+  <title>Ich steh in meines Herren Hand</title>
+  <text># Ich steh in meines Herren Hand
+und will drin stehen bleiben;
+nicht Erdennot, nicht Erdentand
+soll mich daraus vertreiben.
+Und wenn zerfällt die ganze Welt,
+wer sich an ihn und wen er hält,
+wird wohlbehalten bleiben.
+
+# Er ist ein Fels, ein sichrer Hort,
+und Wunder sollen schauen,
+die sich auf sein wahrhaftig Wort
+verlassen und ihm trauen.
+Er hat's gesagt, und darauf wagt
+mein Herz es froh und unverzagt
+und läßt sich gar nicht grauen.
+
+# Und was er mit mir machen will,
+ist alles mir gelegen;
+ich halte ihm im Glauben still
+und hoff auf seinen Segen;
+denn was er tut, ist immer gut,
+und wer von ihm behütet ruht,
+ist sicher allerwegen.
+
+# Ja, wenn's am schlimmsten mit mir steht,
+freu ich mich seiner Pflege;
+ich weiß, die Wege, die er geht,
+sind lauter Wunderwege.
+Was böse scheint, ist gut gemeint;
+er ist doch nimmermehr mein Fein
+und gibt nur Liebesschläge.
+
+# Und meines Glaubens Unterpfand
+ist, was er selbst verheißen:
+daß nichts mich seiner starken Hand
+soll je und je entreißen.
+Was er verspricht, das bricht er nicht;
+er bleibet meine Zuversicht.
+Ich will ihn ewig preisen.</text>
+  <language>de</language>
+  <subtitle/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <comment>Melodie: 15. Jh. / Geistlich Wittenberg 1529.</comment>
+  <ccli_number>4945039</ccli_number>
+  <copyrightyear/>
+  <ccli_features>L</ccli_features>
+  <author xlink:href="#artist-691" xlink:type="simple">
+    <part>Text</part>
+    <year>1833</year>
+  </author>
+  <author xlink:href="#artist-8991" xlink:type="simple">
+    <part>Music</part>
+    <year>1529</year>
+  </author>
+  <author xlink:href="#artist-8993" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>374</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-4321" xlink:type="simple">
+    <numinsongbook>399</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>359</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>375</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>473</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>211</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>195</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>215</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10643" xlink:type="simple">
+    <numinsongbook>359</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>93</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9446" xlink:type="simple">
+    <numinsongbook>244</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9083" xlink:type="simple">
+    <numinsongbook>163</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9160" xlink:type="simple">
+    <numinsongbook>548</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-4859" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-10158" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+</song>

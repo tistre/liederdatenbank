@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-2819">
+  <title>Du bist Gott, und wir preisen Dich</title>
+  <author xlink:href="#artist-29" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4139" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-4013" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <author xlink:href="#artist-3424" xlink:type="simple">
+    <part>Music</part>
+    <year>1988</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-91" xlink:type="simple">
+    <numinsongbook>39</numinsongbook>
+  </songbookref>
+</song>

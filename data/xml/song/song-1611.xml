@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1611">
+  <title>Alles sei dir übergeben</title>
+  <subtitle/>
+  <text># Alles sei Dir übergeben,
+Du sollst Rat und Helfer sein.
+Du bist Wahrheit, Weg und Leben,
+Dir vertrau' ich mich allein.
+Geht es gleich durch manche Gedränge,
+Siehst Du doch den Ausgang schon,
+Und Dein Weg trägt in die Länge
+Den erwünschten Sieg davon.
+
+# Deine Wahrheit kann nicht trügen,
+Weil Du selbst die Wahrheit bist,
+Deine Liebe nie versiegen,
+Weil Du selbst die Liebe bist.
+Du wirst alles das erfüllen,
+Was Dein heilig Wort verheißt,
+Und mein Herz vollkommen stillen.
+Diesen Trost mir nichts entreißt.
+
+# Ja, Du wirst mich treu bewahren,
+Leiten mich durch Deinen Geist,
+Und mein Glaube wird erfahren,
+Daß Du Rat und Helfer heißt.
+Ich vertrau' mich Deinen Händen,
+Sehe Deiner Führung zu,
+Und Dein gnädiges Vollenden
+Leitet mich zur ew'gen Ruh'.</text>
+  <right>Melodie: geistlich Bamberg 1732 bzw. W. Brockhaus (unterschiedliche Vertonungen).</right>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13293". - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/13270" gesungen werden.</comment>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-13271" xlink:type="simple">
+    <part>Text</part>
+    <year>1832</year>
+  </author>
+  <author xlink:href="#artist-13076" xlink:type="simple">
+    <part>Text</part>
+    <year>1853</year>
+  </author>
+  <author xlink:href="#artist-4651" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-87" xlink:type="simple">
+    <numinsongbook>383</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>103</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/101_110.html#103" xlink:type="simple"/>
+</song>

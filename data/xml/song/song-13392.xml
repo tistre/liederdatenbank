@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13392">
+  <title>Herr, du hast uns erworben</title>
+  <subtitle/>
+  <text># Herr, Du hast uns erworben,
+Erkauft mit Deinem Blut.
+Du bist für uns gestorben,
+Du machtest alles gut.
+Dein Tod ist unser Leben,
+Du trugst die ganze Schuld,
+Hast selbst Dich uns gegeben.
+Preis Dir für solche Huld!
+
+# Kein Tod kann uns nun schrecken.
+Wer glaubt, der stirbt nicht mehr,
+Du wirst ihn auferwecken
+Bei Deiner Wiederkehr.
+"Ich leb' - und ihr sollt leben",
+So hast Du einst gesagt,
+Wirst uns zu Dir erheben,
+Noch eh' der Morgen tagt.
+
+# Dann wird auch das verschlungen,
+Was sterblich jetzt noch ist.
+Du hast den Sieg errungen,
+Der Du das Leben bist.
+Drum komm, laß Dein Erscheinen
+In einem sel'gen Nu
+Uns allesamt vereinen
+Bei Dir in ew'ger Ruh'!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/1053". - Das Lied kann auch auf die Melodie von "http://www.liederdatenbank.de/song/10212", "http://www.liederdatenbank.de/song/13065", "http://www.liederdatenbank.de/song/13216" oder "http://www.liederdatenbank.de/song/1486" gesungen werden.</comment>
+  <language>de</language>
+  <author xlink:href="#artist-13298" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-5002" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4818" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>142</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/141_147.html#142" xlink:type="simple"/>
+</song>

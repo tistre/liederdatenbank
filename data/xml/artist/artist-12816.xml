@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-12816">
+  <lastname>Croft</lastname>
+  <firstname>William</firstname>
+  <name/>
+  <born>1678</born>
+  <died>1727</died>
+  <comment>Geboren in Ettington (England), Organist und Komponist in Westminster, gestorben in Bath.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/William_Croft" xlink:type="simple"/>
+</artist>

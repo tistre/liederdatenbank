@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13168">
+  <title>Herr, du bist vorangegangen</title>
+  <subtitle/>
+  <text># Herr, Du bist vorangegangen,
+Unsre Stätte ist bereit,
+Kommst zurück, uns zu empfangen,
+Und zu enden alles Leid.
+Eh' noch die Gerichte toben,
+Werden wir zu Dir erhoben,
+Eh' der Tag des Zorns erscheint,
+Hast Du uns mit Dir vereint.
+
+# Stärk uns jetzt auf Deinem Pfade,
+Daß wir treu Dir folgen nach,
+Nicht versäumen Deine Gnade;
+Halt uns nüchtern, halt uns wach!
+Bis zu jenem neuen Morgen,
+Wo die Güter, jetzt verborgen,
+Unsre Herzen stets erfreun,
+Und wir ew'ges Lob Dir weihn.</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-10221" xlink:type="simple">
+    <part>Music</part>
+    <year>1643</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>71</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/071_080.html#71" xlink:type="simple"/>
+</song>

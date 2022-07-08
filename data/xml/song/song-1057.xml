@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1057">
+  <title>Eines wünsch ich mir vor allem andern</title>
+  <subtitle/>
+  <text># Eines wünsch' ich mir vor allem andern,
+eine Speise früh und spät.
+Selig läßt's im Tränental sich wandern,
+wenn dies eine mit uns geht:
+Unverwandt auf einen Mann zu schauen,
+der mit blutig'm Schweißund Todesgrauen
+auf sein Antlitz niedersank
+und den Kelch des Vaters trank.
+
+# Ewig soll er mir vor Augen stehen,
+wie er als ein stilles Lamm
+dort so blutend und so bleich zu sehen,
+hängend an des Kreuzes Stamm,
+wie er dürstend rang um meine Seele,
+daßsie ihm zu seinem Lohn nicht fehle,
+und dann auch an mich gedacht,
+als er rief : Es ist vollbracht!"
+
+# Ja, mein Jesus, laß mich nie vergessen
+meine Schuld und deine Huld!
+Als ich in der Finsternis gesessen,
+ttrugest du mit mir Geduld,
+hattest längst nach deinem Schaf getrachtet,
+eh' es auf des Hirten Ruf geachtet,
+und mit teurem Lösegeld
+mich erkauft von dieser Welt.
+
+# Ich bin dein! Sprich du darauf dein Amen!
+Treuster Jesus, du bist mein!
+Drrücke deinen süßen Jesusnamen
+brennend in mein Herz hinein!
+Mit dir alles tun und alles lassen,
+in dir leben und in dir erblassen,
+das sei bis zur letzten Stund'
+unser Wandel, unser Bund!
+
+# Die wir uns allhier beisammen finden,
+schlagen unsre Hände ein,
+uns auf deine Marter zu verbinden,
+dir auf ewig treu zu sein.
+Und zum Zeichen, dass dies Lobgetöne
+deinem Herzen angenehm und schöne,
+sage Amen und zugleich:
+"Friede, Friede sei mit euch!"</text>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <language>de</language>
+  <copyrightyear/>
+  <ccli_features/>
+  <author xlink:href="#artist-9107" xlink:type="simple">
+    <part>Text</part>
+    <year>(1823) 1829</year>
+  </author>
+  <author xlink:href="#artist-25595" xlink:type="simple">
+    <part>Music</part>
+    <year>um 1740/1755</year>
+  </author>
+  <author xlink:href="#artist-4637" xlink:type="simple">
+    <part>Text</part>
+    <year>(vor 1752) 1755</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>174</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>191</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9174" xlink:type="simple">
+    <numinsongbook>283</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>73</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>554</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-25090" xlink:type="simple">
+    <numinsongbook>546</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9172" xlink:type="simple">
+    <numinsongbook>207</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-9162" xlink:type="simple">
+    <numinsongbook>843</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-10196" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-joh-19" xlink:type="simple">
+    <verse>30</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-20" xlink:type="simple">
+    <verse>19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-joh-20" xlink:type="simple">
+    <verse>21</verse>
+  </bibleref>
+</song>

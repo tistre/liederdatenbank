@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-17154">
+  <name>Wiedenester Jugendlieder 1987</name>
+  <comment>Wiedenester Jugendlieder 1987/88. Mit Hoffnung leben
+zusammengestellt anläßlich der Pfingstjugendkonferenz 1987, 3. Auflage.
+Missionshaus Bibelschule Wiedenest, Olper Str. 10, Bergneustadt, Tel. 02261 / 4092-0</comment>
+  <state>1</state>
+  <icon xlink:href="#file-17153" xlink:type="simple"/>
+  <url xlink:href="http://www.wiedenest.de/" xlink:type="simple">
+    <title>Missionshaus Bibelschule Wiedenest</title>
+  </url>
+</songbook>

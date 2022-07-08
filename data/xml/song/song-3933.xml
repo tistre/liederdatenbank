@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3933">
+  <title>Ich lebe für Dich</title>
+  <subtitle>Du bist die Sonne</subtitle>
+  <author xlink:href="#artist-3951" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>34</numinsongbook>
+  </songbookref>
+</song>

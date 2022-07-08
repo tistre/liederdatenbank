@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-4817">
+  <firstname>Christoph</firstname>
+  <lastname>Fischer</lastname>
+  <name/>
+  <born>1518</born>
+  <died>1597</died>
+  <comment>Geboren in St. Joachimsthal/Böhmen, Pfarrer und Reformator der Grafschaft Henneberg in Schmalkalden, zuletzt Hofprediger und Generalsuperintendent in Celle.</comment>
+  <url xlink:href="http://de.wikipedia.org/wiki/Christoph_Fischer" xlink:type="simple"/>
+</artist>

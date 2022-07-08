@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<songbook xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="songbook-16432">
+  <name>Jede Menge Töne</name>
+  <comment>Kinder- und Jungscharliederbuch
+Gemeindejugendwerk des Bundes Evangelisch-Freikichlicher Gemeinden (Hg.)
+200 schöne und lustige, pfiffige, laute und leise, alberne und nachdenkliche Lieder, alles was in Kindergottesdiensten, Sonntagsschulen, Jungschar- und Pfadfindergruppen gerne gesungen wird.
+180 Seiten, DIN A4, Ringbuch, Bestellnummer: 639516
+Oncken Verlag, ISBN 978-3-87939-516-3</comment>
+  <state>1</state>
+  <icon xlink:href="#file-25152" xlink:type="simple"/>
+  <url xlink:href="http://www.portal-oncken.de/shop/shopindex.php?artikel=23" xlink:type="simple">
+    <title>Jede Menge Töne @ Oncken Verlag</title>
+  </url>
+  <url xlink:href="http://www.amazon.de/dp/3879395160" xlink:type="simple">
+    <title>Jede Menge Töne @ Amazon.de</title>
+  </url>
+</songbook>

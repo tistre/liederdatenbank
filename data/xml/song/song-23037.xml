@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-23037">
+  <title>Du hast vereint in allen Zonen</title>
+  <subtitle/>
+  <copyrightyear/>
+  <right>Beim Autor</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: http://www.liederdatenbank.de/song/1319</comment>
+  <language/>
+  <ccli_features/>
+  <author xlink:href="#artist-23036" xlink:type="simple">
+    <part>Text</part>
+    <year>1823</year>
+  </author>
+  <author xlink:href="#artist-9090" xlink:type="simple">
+    <part>Text</part>
+    <year>1950</year>
+  </author>
+  <author xlink:href="#artist-12516" xlink:type="simple">
+    <part>Music</part>
+    <year>1787</year>
+  </author>
+  <songbookref xlink:href="#songbook-22550" xlink:type="simple">
+    <numinsongbook>609</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-26895">
+  <title>Führ mich zu dem Felsen</title>
+  <subtitle>Hör mein Gebet</subtitle>
+  <copyrightyear>1976</copyrightyear>
+  <right>D/A/CH: Hänssler-Verlag, Neuhausen-Stuttgart.</right>
+  <textcopyright>reserved</textcopyright>
+  <ccli_number/>
+  <comment>Originaltitel: " Lead Me To The Rock". Satz: http://www.liederdatenbank.de/artist/3986.</comment>
+  <language>de</language>
+  <ccli_features/>
+  <publisher xlink:href="#publisher-13854" xlink:type="simple"/>
+  <author xlink:href="#artist-9381" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-3731" xlink:type="simple">
+    <part>Music</part>
+    <year/>
+  </author>
+  <songbookref xlink:href="#songbook-9164" xlink:type="simple">
+    <numinsongbook>1057</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-11804" xlink:type="simple"/>
+  <keyword xlink:href="#keyword-98" xlink:type="simple"/>
+  <bibleref xlink:href="#biblechapter-psa-61" xlink:type="simple">
+    <verse>2-9</verse>
+  </bibleref>
+</song>

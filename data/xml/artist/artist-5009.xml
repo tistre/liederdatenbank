@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-5009">
+  <firstname>Peter</firstname>
+  <lastname>Janssens</lastname>
+  <name/>
+  <born>1934</born>
+  <died>1998</died>
+  <comment/>
+  <url xlink:href="http://de.wikipedia.org/wiki/Peter_Janssens" xlink:type="simple">
+    <title>Peter Janssens @ Wikipedia.de</title>
+  </url>
+</artist>

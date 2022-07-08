@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-83">
+  <firstname>Gerhard</firstname>
+  <lastname>Tersteegen</lastname>
+  <name/>
+  <comment/>
+  <born>1697</born>
+  <died>1769</died>
+  <url xlink:href="http://de.wikipedia.org/wiki/Gerhard_Tersteegen" xlink:type="simple">
+    <title>Gerhard Tersteegen @ Wikipedia</title>
+  </url>
+</artist>

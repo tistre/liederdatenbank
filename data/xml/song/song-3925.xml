@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-3925">
+  <title>Du allein bist, der mich kennt</title>
+  <subtitle>Du nur allein</subtitle>
+  <author xlink:href="#artist-3949" xlink:type="simple">
+    <part>TextMusic</part>
+    <year>2003</year>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-3922" xlink:type="simple">
+    <numinsongbook>12</numinsongbook>
+  </songbookref>
+</song>

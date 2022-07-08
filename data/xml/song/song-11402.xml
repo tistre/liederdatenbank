@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-11402">
+  <title>Gott Vater, höre unsre Bitt</title>
+  <subtitle/>
+  <text># Gott Vater, höre unsre Bitt:
+Teil diesem Kind den Segen mit,
+erzeig ihm deine Gnade,
+lass’s sein dein Kind, nimm weg sein Sünd,
+dass ihm dieselb nicht schade.
+
+# Herr Christe, nimm es gnädig auf
+durch dieses Bad der heilgen Tauf
+zu deinem Glied und Erben,
+damit es dein mög allzeit sein
+im Leben und im Sterben.
+
+# Und du, o werter Heilger Geist,
+samt Vater und dem Sohn gepreist,
+wollst gleichfalls zu uns kommen,
+damit jetzund in deinen Bund
+es werde aufgenommen.
+
+# O Heilige Dreieinigkeit,
+dir sei Lob, Ehr und Dank bereit’
+für diese große Güte.
+Gib, dass dafür wir dienen dir;
+vor Sünden uns behüte.
+</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Melodie: "http://www.liederdatenbank.de/song/11400" (EG 275).</comment>
+  <language>de</language>
+  <ccli_features/>
+  <author xlink:href="#artist-11401" xlink:type="simple">
+    <part>Text</part>
+    <year>1676</year>
+  </author>
+  <songbookref xlink:href="#songbook-8984" xlink:type="simple">
+    <numinsongbook>205</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+</song>

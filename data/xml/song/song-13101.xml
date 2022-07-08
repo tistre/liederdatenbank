@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-13101">
+  <title>Herr, mein Hirt, Brunn aller Freuden</title>
+  <subtitle/>
+  <text># Herr, mein Hirt, Brunn aller Freuden!
+Du bist mein,
+Ich bin Dein –
+Niemand kann uns scheiden.
+Ich bin Dein, weil Du Dein Leben
+Und Dein Blut,
+Mir zu gut,
+Hast dahingegeben.
+
+# Nimmer kann ich mehr erbeben.
+Deine Huld
+Nahm die Schuld,
+Gab mir ew'ges Leben.
+Freudig darf ich aufwärts schauen,
+Hier im Streit,
+Not und Leid,
+Darf auf Dich ich trauen.
+
+# Du kannst mich ja nicht mehr lassen,
+Deine Lieb,
+Die Dich trieb,
+Wird mich stets umfassen.
+Drum sei Dir auch Preis und Ehre,
+Teurer Hort,
+Hier und dort
+In der Heil'gen Chöre!</text>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment>Gleiche Melodie: "http://www.liederdatenbank.de/song/13421", "http://www.liederdatenbank.de/song/1592".</comment>
+  <language>de</language>
+  <author xlink:href="#artist-655" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4650" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4300" xlink:type="simple">
+    <part>Music</part>
+    <year>1666</year>
+  </author>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>55</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <url xlink:href="http://www.bruederbewegung.de/themen/lieder/051_060.html#55" xlink:type="simple"/>
+</song>

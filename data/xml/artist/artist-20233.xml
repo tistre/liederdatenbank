@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-20233">
+  <lastname>Egles</lastname>
+  <firstname>Daniel</firstname>
+  <name/>
+  <born/>
+  <died/>
+  <comment/>
+  <url xlink:href="http://www.daniel-egles.de/" xlink:type="simple">
+    <title>daniel-egles.de</title>
+  </url>
+</artist>

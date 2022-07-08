@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artist xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="artist-2573">
+  <firstname>Peter</firstname>
+  <lastname>Eltermann</lastname>
+  <name/>
+  <born>1962</born>
+  <died/>
+  <comment>Geboren in Hamburg, Realschullehrer in Esslingen.</comment>
+</artist>

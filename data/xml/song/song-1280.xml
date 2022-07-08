@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1280">
+  <title>Heilge Liebe, unaussprechlich</title>
+  <author xlink:href="#artist-4262" xlink:type="simple">
+    <part>Text</part>
+  </author>
+  <author xlink:href="#artist-692" xlink:type="simple">
+    <part>Music</part>
+  </author>
+  <language>de</language>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>429</numinsongbook>
+  </songbookref>
+  <right>Verlag C.N. Fliß</right>
+</song>

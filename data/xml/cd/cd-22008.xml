@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cd xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="cd-22008">
+  <name>When Silence Falls</name>
+  <comment/>
+  <state>0</state>
+  <url xlink:href="http://www.amazon.co.uk/gp/product/B0006SM0KE/sr=8-2/qid=1270653823/ref=olp_product_details?ie=UTF8&amp;me=&amp;qid=1270653823&amp;sr=8-2&amp;seller=" xlink:type="simple">
+    <title>Amazon UK</title>
+  </url>
+  <icon xlink:href="#file-22007" xlink:type="simple"/>
+</cd>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-1290">
+  <title>Gott will's machen, dass die Sachen</title>
+  <text># Gott will's machen, dass die Sachen gehen, wie es heilsam ist; 
+dass die Wellen höher schwellen, wenn du nur bei Jesus bist.
+
+# Wer sich kränket, weil er denket, Jesus liege in dem Schlaf, 
+wird mit Klagen nur sich plagen, dass der Unglaub leide Straf.
+
+# Glaub nur feste, dass das Beste über dich beschlossen sei; 
+wenn dein Wille nur ist stille, wirst du von dem Kummer frei.
+
+# Gottes Hände sind ohn Ende, sein Vermögen hat kein Ziel. 
+Ist's beschwerlich, scheint's gefährlich, deinem Gott ist nichts zu viel.
+
+# Wenn die Stunden sich gefunden, bricht die Hilf mit Macht herein; 
+und dein Grämen zu beschämen, wird es unversehens sein.
+
+# Amen, Amen! In dem Namen meines Jesu halt ich still; 
+es geschehe und ergehe, wie und wann und was er will!</text>
+  <language>de</language>
+  <subtitle/>
+  <copyrightyear/>
+  <right/>
+  <textcopyright>free</textcopyright>
+  <ccli_number/>
+  <comment/>
+  <author xlink:href="#artist-4664" xlink:type="simple">
+    <part>Text</part>
+    <year/>
+  </author>
+  <author xlink:href="#artist-4665" xlink:type="simple">
+    <part>Music</part>
+    <year>1715</year>
+  </author>
+  <songbookref xlink:href="#songbook-89" xlink:type="simple">
+    <numinsongbook>439</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-88" xlink:type="simple">
+    <numinsongbook>468</numinsongbook>
+    <notes>0</notes>
+    <chords>0</chords>
+    <several_voices>0</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-11685" xlink:type="simple">
+    <numinsongbook>333</numinsongbook>
+    <notes>1</notes>
+    <chords>1</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+  <songbookref xlink:href="#songbook-10115" xlink:type="simple">
+    <numinsongbook>382</numinsongbook>
+    <notes>1</notes>
+    <chords>0</chords>
+    <several_voices>1</several_voices>
+  </songbookref>
+</song>
