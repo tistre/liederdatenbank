@@ -2,11 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-327">
   <title>Meine Zeit steht in Deinen Händen</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>31</chapter>
-    <verses>16</verses>
-  </bible>
   <subtitle/>
   <right/>
   <textcopyright>reserved</textcopyright>

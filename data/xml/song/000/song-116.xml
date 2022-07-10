@@ -2,11 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-116">
   <title>Allein deine Gnade genügt</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-571" xlink:type="simple"/>
-    <chapter>12</chapter>
-    <verses>9</verses>
-  </bible>
   <right>Verwaltet von Gerth Medien Musikverlag</right>
   <subtitle/>
   <copyrightyear>1991</copyrightyear>
@@ -120,5 +115,8 @@
   <keyword xlink:href="#keyword-98" xlink:type="simple"/>
   <bibleref xlink:href="#biblechapter-2co-12" xlink:type="simple">
     <verse>9</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-lam-3" xlink:type="simple">
+    <verse>22-23</verse>
   </bibleref>
 </song>

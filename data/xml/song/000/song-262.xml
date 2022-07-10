@@ -2,16 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-262">
   <title>Ich trau auf dich, o Herr</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>16</chapter>
-    <verses>1-2</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>31</chapter>
-    <verses>16</verses>
-  </bible>
   <right>Jugend mit einer Mission.</right>
   <subtitle/>
   <textcopyright>reserved</textcopyright>
@@ -177,6 +167,9 @@
   </bibleref>
   <bibleref xlink:href="#biblechapter-psa-31" xlink:type="simple">
     <verse>22</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-16" xlink:type="simple">
+    <verse>1-2</verse>
   </bibleref>
   <url xlink:href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?i=270965692&amp;id=270965449&amp;s=143443" xlink:type="simple">
     <title>MP3-Download beim iTunes Music Store</title>

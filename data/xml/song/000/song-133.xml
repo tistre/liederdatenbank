@@ -30,26 +30,6 @@ Lobsinget dem Herrn in frohen Chören;
 denn Er vernimmt auch unsern Lobgesang,
 auch unsern Lobgesang, auch unsern Lobgesang.</text>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-1976" xlink:type="simple"/>
-    <chapter>16</chapter>
-    <verses>34</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>103</chapter>
-    <verses>2</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-1975" xlink:type="simple"/>
-    <chapter>3</chapter>
-    <verses>22-23</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-578" xlink:type="simple"/>
-    <chapter>6</chapter>
-    <verses>3</verses>
-  </bible>
   <subtitle/>
   <right/>
   <textcopyright>free</textcopyright>
@@ -162,6 +142,18 @@ auch unsern Lobgesang, auch unsern Lobgesang.</text>
   </bibleref>
   <bibleref xlink:href="#biblechapter-psa-107" xlink:type="simple">
     <verse>1</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-lam-3" xlink:type="simple">
+    <verse>22-23</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-1ch-16" xlink:type="simple">
+    <verse>34</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-103" xlink:type="simple">
+    <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-isa-6" xlink:type="simple">
+    <verse>3</verse>
   </bibleref>
   <url xlink:href="http://www.haenssler.de/show.sxp/shop_downloads_detailansicht.html?workid=64970" xlink:type="simple">
     <title>MP3-Download bei haenssler.de</title>

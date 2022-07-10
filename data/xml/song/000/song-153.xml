@@ -2,11 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-153">
   <title>Die Güte des Herrn hat kein Ende</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-1975" xlink:type="simple"/>
-    <chapter>3</chapter>
-    <verses>22-23</verses>
-  </bible>
   <subtitle>Es ist neu jeden Morgen, neu jeden Morgen...</subtitle>
   <textcopyright>reserved</textcopyright>
   <comment>Originaltitel: "The Steadfast Love Of The Lord".</comment>

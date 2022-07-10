@@ -2,21 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-330">
   <title>Mit meinem Gott kann ich Wälle zerschlagen</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-1973" xlink:type="simple"/>
-    <chapter>22</chapter>
-    <verses>30</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-1973" xlink:type="simple"/>
-    <chapter>22</chapter>
-    <verses>3</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-1973" xlink:type="simple"/>
-    <chapter>22</chapter>
-    <verses>15</verses>
-  </bible>
   <subtitle/>
   <right/>
   <textcopyright>reserved</textcopyright>
@@ -68,5 +53,14 @@
   </bibleref>
   <bibleref xlink:href="#biblechapter-psa-18" xlink:type="simple">
     <verse>14-19</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2sa-22" xlink:type="simple">
+    <verse>30</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2sa-22" xlink:type="simple">
+    <verse>3</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-2sa-22" xlink:type="simple">
+    <verse>15</verse>
   </bibleref>
 </song>

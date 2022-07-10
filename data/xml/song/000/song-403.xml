@@ -2,16 +2,6 @@
 <song xmlns="http://www.strehle.de/xmlns/ldb" xmlns:xlink="http://www.w3.org/1999/xlink" id="song-403">
   <title>Wie ein Hirsch lechzt nach frischem Wasser</title>
   <language>de</language>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>42</chapter>
-    <verses>2</verses>
-  </bible>
-  <bible>
-    <book xlink:href="#biblebook-573" xlink:type="simple"/>
-    <chapter>119</chapter>
-    <verses>72</verses>
-  </bible>
   <right>1983 Restoration Music Ltd.</right>
   <subtitle/>
   <textcopyright>reserved</textcopyright>
@@ -86,5 +76,8 @@
   <keyword xlink:href="#keyword-12485" xlink:type="simple"/>
   <bibleref xlink:href="#biblechapter-psa-42" xlink:type="simple">
     <verse>2</verse>
+  </bibleref>
+  <bibleref xlink:href="#biblechapter-psa-119" xlink:type="simple">
+    <verse>72</verse>
   </bibleref>
 </song>
